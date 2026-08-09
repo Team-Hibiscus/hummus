@@ -1,0 +1,8 @@
+#shield disable delay
+# Default: 80
+# Range: > 1
+shield_disable_delay = 80
+#experimental border changes
+experimental_border_changes = true
+#experimental movement
+experimental_movement = true

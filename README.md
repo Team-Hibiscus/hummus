@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.247**, 100 mods (22 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.247**, 102 mods (20 dependencies)
 
 ## Contents
 
@@ -67,7 +67,9 @@
 - [Mixed Litter](https://modrinth.com/project/mixed-litter) `1.2.2`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.3.3`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [MRU](https://modrinth.com/project/mru) `1.0.31+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `1.0.2`
 - [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.1-1.21.1`
 - [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.2.5-1.21.1`

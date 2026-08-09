@@ -59,3 +59,5 @@ data/surveyor/*
 options.txt
 particular_cache/*
 data/fabricDefaultResourcePacks.dat
+config/connector.json
+config/fml.toml

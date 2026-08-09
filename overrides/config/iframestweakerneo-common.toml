@@ -30,7 +30,5 @@ indirectmagiciframes = 10
 # Default: 10
 # Range: > 0
 fireiframes = 10
-#misc I Frames
-# Default: 10
-# Range: > 0
-misciframes = 10
+#no attack damage I frame reduction
+noattackdamageiframesreduction = true
