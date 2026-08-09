@@ -1,0 +1,78 @@
+[
+  {
+    "mob": "minecraft:zombie_villager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:villager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:wandering_trader",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:allay",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "supplementaries:red_merchant",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:pillager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:evoker",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:ravager",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vindicator",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vex",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "supplementaries:plunderer",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:illusioner",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:trader_llama",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:witch",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:snail",
+    "when": "onjoin",
+    "result": "deny"
+  }
+
+]

@@ -1,0 +1,7 @@
+{
+  "id": "hummus:cabinets",
+  "type": "remi:group",
+  "contents": [
+    "#farmersdelight:cabinets"
+  ]
+}

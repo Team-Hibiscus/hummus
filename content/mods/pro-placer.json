@@ -1,0 +1,23 @@
+{
+  "name": "Pro Placer",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LhK0LkWd",
+      "slug": "pro-placer",
+      "versionId": "gxFLjZrq",
+      "versionNumber": "v21.1.1-1.21.1-NeoForge",
+      "filename": "ProPlacer-v21.1.1-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LhK0LkWd/versions/gxFLjZrq/ProPlacer-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "458337cbff5860133d95794da3a1439e640f9581",
+      "sha512": "73c6b9af5dfbcefc4e882a0d27450e0030edd8f568085282e0c1377b6bfe14f8f3455e5199cddcd7f0ea050b550f2c3bf131928196894a46a80190b9c7f52248",
+      "fileSize": 58759
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

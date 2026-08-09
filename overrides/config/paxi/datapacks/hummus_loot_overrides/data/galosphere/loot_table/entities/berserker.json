@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hummus:enduring_template",
+          "functions": [],
+          "conditions": []
+        }
+      ],
+      "functions": [
+        {
+          "add": false,
+          "count": 2,
+          "function": "minecraft:set_count"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "galosphere:preserved_flesh"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "galosphere:entities/berserker"
+}

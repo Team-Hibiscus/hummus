@@ -1,0 +1,7 @@
+{
+  "id": "hummus:hammocks",
+  "type": "remi:group",
+  "contents": [
+    "#sleep_tight:hammocks"
+  ]
+}

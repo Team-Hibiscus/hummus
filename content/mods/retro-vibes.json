@@ -1,0 +1,23 @@
+{
+  "name": "Retro Vibes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ytpDt6sS",
+      "slug": "retro-vibes",
+      "versionId": "dhzUMFB2",
+      "versionNumber": "1.0.0",
+      "filename": "retrovibes-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ytpDt6sS/versions/dhzUMFB2/retrovibes-1.0.0.jar",
+      "sha1": "b1ef2e74b9f2f1a07290d3be0cb4a8a5f6a29d61",
+      "sha512": "2e2e1ac70a8bea1890cd96dee91ab99c3498ddbbd860e4305ad95ac1ab28dfdcdea77cb947ba4ea723c5943c9e3b91a0fb1a276f83652bbb52d1b779b800d4d6",
+      "fileSize": 9912
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

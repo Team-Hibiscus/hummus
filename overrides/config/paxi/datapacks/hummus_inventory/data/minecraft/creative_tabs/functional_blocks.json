@@ -1,0 +1,7595 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_torch",
+      "count": 1
+    },
+    {
+      "id": "hummus:amethyst_torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_torch",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_soul",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_lever",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_lantern",
+      "count": 1
+    },
+    {
+      "id": "enderscape:bulb_lantern",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:copper_lantern",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:crimson_lantern",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "naturalist:glow_goop",
+      "count": 1
+    },
+    {
+      "id": "galosphere:light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chandelier",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chain",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_chandelier",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_chain",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:redstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:glowstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_rod",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sea_lantern",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:end_stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:amethyst_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wither_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "id": "glow:glowstone_prism",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shroomlight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ochre_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crying_obsidian",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "count": 1
+    },
+    {
+      "id": "spawn:mucus",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magma_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe_sepia",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:hourglass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:clock_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stonecutter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cartography_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fletching_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smithing_table",
+      "count": 1
+    },
+    {
+      "id": "galosphere:combustion_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:grindstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:loom",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smoker",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blast_furnace",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:kiln",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:stove",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cooking_pot",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:skillet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cutting_board",
+      "count": 1
+    },
+    {
+      "id": "minecraft:campfire",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "count": 1
+    },
+    {
+      "id": "minecraft:anvil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chipped_anvil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:damaged_anvil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:composter",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gargoyle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:note_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jukebox",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:speaker_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:enchanting_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_crystal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brewing_stand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cauldron",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bell",
+      "count": 1
+    },
+    {
+      "id": "minecraft:beacon",
+      "count": 1
+    },
+    {
+      "id": "spawn:pigment_shifter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:conduit",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lodestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ladder",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:rope",
+      "count": 1
+    },
+    {
+      "id": "minecraft:scaffolding",
+      "count": 1
+    },
+    {
+      "id": "galosphere:stranded_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:shadow_frame",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:safety_net",
+      "count": 1
+    },
+    {
+      "id": "galosphere:burrow_anchor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_altar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bee_nest",
+      "count": 1
+    },
+    {
+      "id": "spawn:anthill",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log_anthill",
+      "count": 1
+    },
+    {
+      "id": "minecraft:beehive",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_farm",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_mound",
+      "count": 1
+    },
+    {
+      "id": "minecraft:suspicious_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:suspicious_gravel",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:suspicious_gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "spawn:item_in_a_bottle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lightning_rod",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flower_pot",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:planter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:armor_stand",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:item_frame",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_item_frame",
+      "count": 1
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:alban"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:alpha"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:aztec"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:aztec2"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:beta"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:bomb"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:bubbles"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:crusty"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:kebab"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:meditative"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:perennial"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:plant"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:still_life"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:tussie_mussie"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:wasteland"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:wrong_side"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:bliss"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:bouquet_edition"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cat"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "spawn:clown"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:film"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:graham"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:iconography"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:jazz_town"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:prairie_ride"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:redwood"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rising_sun_and_fading_death"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rosemalling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:squid_games"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:vice"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:wanderer"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:blossoms"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:courbet"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:creebet"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "spawn:its_still_life"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:medley"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pool"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:post_mortem"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainforest"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:red_dawn"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:sandy_trees"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:sea"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:sunrise_sparse"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:sunset"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:wildstyle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:farlander"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:fox"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:greatsword"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:luminescent"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:sandstones"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:shapes"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:stalks"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:sunflower"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:boscage"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:eye"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:gears"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:heavens_ladder"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:prickle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:table"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:aquaculture"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:aspen"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:baroque"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "supplementaries:bombs"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:bust"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:generator"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:heartbeat"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:humble"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:lavender"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:macabre"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:macabre_alt"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:macrocosm"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:match"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:operator"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:parrot"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:skull_and_roses"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:stage"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "spawn:the_reptile"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:traveller"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:void"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:wither"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:beachside"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:drippy"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:heirloom"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:mountains"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:an_intruder"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:best_friend"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:distant_peaks"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:harvest_moon"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:moonlight_tower"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:morning_on_the_seine"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:pixel_gobelin"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rana"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:randomtickspeed"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "oreganized:vindicating_bad"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:void_manor"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:yonder"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:ancestor"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cave_game"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:nyctinasty"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:pyramid"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:slime_chunk"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:unwrap"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:we_need_to_go_deeper"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:windmill_field"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:awful_housing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:caricature"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cherry_moon"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:escapeless"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:gulls"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:serpent"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:changing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:fighters"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:finding"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:lowmist"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:never_blooming_wattle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:passage"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:picturesque"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_painting_at_end_of_catalogue"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:anchor"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:bouquet"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:cavebird"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:cotan"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:death"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:endboss"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:endy_warhol"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:fern"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "enderscape:grape_static"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:life_cycle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:mode_creative"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:owlemons"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:sunflowers"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:tides"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:waves"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:backyard"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:john_devouring_his_son"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:oak_door"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pond"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_scream"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:underworld"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:donkey_kong"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:feather_falling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainbows"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainbows_alt"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainbows_trans"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:skeleton"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:statue"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:storm"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_far_lands"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_far_lands_alt"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:virtuosi_pas_de_deux"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:burning_skull"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cloth"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cloud_cuckoo"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:giant"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:journeys_end"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:justice"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:orb"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pigscene"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pointer"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:stair_hall"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:unpacked"
+        }
+      }
+    },
+    {
+      "id": "minecraft:bookshelf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lectern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tinted_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_sign",
+      "count": 1
+    },
+    {
+      "id": "galosphere:weapon_rack",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_sign",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:iron_plaque",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:copper_plaque",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_plaque",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:notice_board",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackboard",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bolt_crate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:barrel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_chest",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wooden_basket",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:bamboo_basket",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:oak_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:spruce_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:birch_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:jungle_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:acacia_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:dark_oak_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:mangrove_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cherry_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:bamboo_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:crimson_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:warped_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:redwood_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:sugi_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:wisteria_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:fir_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:willow_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:aspen_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:maple_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:cypress_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:olive_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:joshua_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:ghaf_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:palo_verde_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:coconut_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:cedar_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:larch_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:mahogany_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:saxaul_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/enderscape/murublight_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/enderscape/celestial_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/darkerdepths/petrified_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/spawn/rotten_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/gardens_of_the_dead/whistlecane_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/architects_palette/twisted_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/gardens_of_the_dead/soulblight_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/enderscape/veiled_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/spawn/date_cabinet",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_white",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_yellow",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_red",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_pink",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sack",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_pink",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:respawn_anchor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_bed",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_white",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_black",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_brown",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_red",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_orange",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_yellow",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_lime",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_green",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_cyan",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_purple",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_magenta",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_pink",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:dreamer_essence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_banner",
+      "count": 1,
+      "components": {
+        "minecraft:banner_patterns": [
+          {
+            "pattern": "minecraft:rhombus",
+            "color": "cyan"
+          },
+          {
+            "pattern": "minecraft:stripe_bottom",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:stripe_center",
+            "color": "gray"
+          },
+          {
+            "pattern": "minecraft:border",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:stripe_middle",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:half_horizontal",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:circle",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:border",
+            "color": "black"
+          }
+        ],
+        "minecraft:hide_additional_tooltip": {},
+        "minecraft:item_name": "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+      }
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "count": 1,
+      "components": {
+        "minecraft:banner_patterns": [
+          {
+            "pattern": "minecraft:small_stripes",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:stripe_top",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:stripe_bottom",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:stripe_middle",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:flower",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:rhombus",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:triangle_bottom",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:triangle_top",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:circle",
+            "color": "black"
+          },
+          {
+            "pattern": "enderscape:crescent",
+            "color": "magenta"
+          }
+        ],
+        "minecraft:hide_additional_tooltip": {},
+        "minecraft:item_name": "{\"translate\":\"block.enderscape.end_city_banner\"}",
+        "minecraft:rarity": "uncommon"
+      }
+    },
+    {
+      "id": "supplementaries:bunting_white",
+      "count": 1
+    },
+    {
+      "id": "naturalist:plush_bear",
+      "count": 1
+    },
+    {
+      "id": "minecraft:skeleton_skull",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wither_skeleton_skull",
+      "count": 1
+    },
+    {
+      "id": "minecraft:player_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombie_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:creeper_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:spider_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piglin_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:enderman_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dragon_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dragon_egg",
+      "count": 1
+    },
+    {
+      "id": "goated:ram_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_portal_frame",
+      "count": 1
+    },
+    {
+      "id": "hummus:end_gateway_frame",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "id": "minecraft:vault",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_vault",
+      "count": 1,
+      "components": {
+        "minecraft:block_entity_data": {
+          "config": {
+            "key_item": {
+              "count": 1,
+              "id": "enderscape:end_city_key"
+            },
+            "loot_table": "enderscape:end_city/vault"
+          },
+          "id": "minecraft:vault"
+        }
+      }
+    },
+    {
+      "id": "minecraft:infested_stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_cobblestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_cracked_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_chiseled_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bamboo_spikes",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_poison"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_poison"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:slowness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_slowness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_slowness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:harming"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_harming"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weakness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_weakness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:wind_charged"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weaving"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:blindness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:long_blindness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:stunning"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:long_stunning"
+        }
+      }
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:copper_lantern",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:crimson_lantern",
+      "count": 1
+    },
+    {
+      "id": "enderscape:bulb_lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chain",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_rod",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chandelier",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sea_lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "id": "glow:glowstone_prism",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shroomlight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ochre_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crying_obsidian",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "count": 1
+    },
+    {
+      "id": "spawn:mucus",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magma_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stonecutter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cartography_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fletching_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smithing_table",
+      "count": 1
+    },
+    {
+      "id": "galosphere:combustion_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:grindstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:loom",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smoker",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blast_furnace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:campfire",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_campfire",
+      "count": 1
+    },
+    {
+      "id": "minecraft:anvil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chipped_anvil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:damaged_anvil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:composter",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gargoyle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:note_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jukebox",
+      "count": 1
+    },
+    {
+      "id": "minecraft:enchanting_table",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_crystal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brewing_stand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cauldron",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bell",
+      "count": 1
+    },
+    {
+      "id": "minecraft:beacon",
+      "count": 1
+    },
+    {
+      "id": "spawn:pigment_shifter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:conduit",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lodestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ladder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:scaffolding",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bee_nest",
+      "count": 1
+    },
+    {
+      "id": "spawn:anthill",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log_anthill",
+      "count": 1
+    },
+    {
+      "id": "minecraft:beehive",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_farm",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_mound",
+      "count": 1
+    },
+    {
+      "id": "minecraft:suspicious_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:suspicious_gravel",
+      "count": 1
+    },
+    {
+      "id": "spawn:item_in_a_bottle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lightning_rod",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flower_pot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:armor_stand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:item_frame",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_item_frame",
+      "count": 1
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:alban"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:alpha"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:aztec"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:aztec2"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:beta"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:bomb"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:bubbles"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:crusty"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:kebab"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:meditative"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:perennial"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:plant"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:still_life"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:tussie_mussie"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:wasteland"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:wrong_side"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:bliss"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:bouquet_edition"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cat"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "spawn:clown"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:film"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:graham"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:iconography"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:jazz_town"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:prairie_ride"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:redwood"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rising_sun_and_fading_death"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rosemalling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:squid_games"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:vice"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:wanderer"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:blossoms"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:courbet"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:creebet"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "spawn:its_still_life"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:medley"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pool"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:post_mortem"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainforest"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:red_dawn"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:sandy_trees"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:sea"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:sunrise_sparse"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:sunset"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:wildstyle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:farlander"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:fox"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:greatsword"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:luminescent"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:sandstones"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:shapes"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:stalks"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:sunflower"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:boscage"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:eye"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:gears"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:heavens_ladder"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:prickle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:table"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:aquaculture"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:aspen"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:baroque"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "supplementaries:bombs"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:bust"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:generator"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:heartbeat"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:humble"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "natures_spirit:lavender"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:macabre"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:macabre_alt"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:macrocosm"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:match"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:operator"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:parrot"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:skull_and_roses"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:stage"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "spawn:the_reptile"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:traveller"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:void"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:wither"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:beachside"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:drippy"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:heirloom"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:mountains"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:an_intruder"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:best_friend"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:distant_peaks"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:harvest_moon"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:moonlight_tower"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:morning_on_the_seine"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:pixel_gobelin"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rana"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:randomtickspeed"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "oreganized:vindicating_bad"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:void_manor"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:yonder"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:ancestor"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cave_game"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:nyctinasty"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:pyramid"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:slime_chunk"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:unwrap"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:we_need_to_go_deeper"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:windmill_field"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:awful_housing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:caricature"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cherry_moon"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:escapeless"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:gulls"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:serpent"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:changing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:fighters"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:finding"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:lowmist"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:never_blooming_wattle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:passage"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:picturesque"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_painting_at_end_of_catalogue"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:anchor"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:bouquet"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:cavebird"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:cotan"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:death"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:endboss"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:endy_warhol"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:fern"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "enderscape:grape_static"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:life_cycle"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:mode_creative"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:owlemons"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:sunflowers"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:tides"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:waves"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:backyard"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:john_devouring_his_son"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:oak_door"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pond"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_scream"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:underworld"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:donkey_kong"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:feather_falling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainbows"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainbows_alt"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:rainbows_trans"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:skeleton"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:statue"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:storm"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_far_lands"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:the_far_lands_alt"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:virtuosi_pas_de_deux"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:burning_skull"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cloth"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:cloud_cuckoo"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:giant"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:journeys_end"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:justice"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:orb"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pigscene"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:pointer"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "portfolio:stair_hall"
+        }
+      }
+    },
+    {
+      "id": "minecraft:painting",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:painting",
+          "variant": "minecraft:unpacked"
+        }
+      }
+    },
+    {
+      "id": "minecraft:bookshelf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lectern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tinted_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_sign",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_sign",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_sign",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:iron_plaque",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:copper_plaque",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_plaque",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bolt_crate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:barrel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_chest",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_white",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_yellow",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_red",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_purple",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:respawn_anchor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_bed",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_white",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_black",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_brown",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_red",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_orange",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_yellow",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_lime",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_green",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_cyan",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_purple",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_magenta",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_pink",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:dreamer_essence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_banner",
+      "count": 1,
+      "components": {
+        "minecraft:banner_patterns": [
+          {
+            "pattern": "minecraft:rhombus",
+            "color": "cyan"
+          },
+          {
+            "pattern": "minecraft:stripe_bottom",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:stripe_center",
+            "color": "gray"
+          },
+          {
+            "pattern": "minecraft:border",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:stripe_middle",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:half_horizontal",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:circle",
+            "color": "light_gray"
+          },
+          {
+            "pattern": "minecraft:border",
+            "color": "black"
+          }
+        ],
+        "minecraft:hide_additional_tooltip": {},
+        "minecraft:item_name": "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+      }
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "count": 1,
+      "components": {
+        "minecraft:banner_patterns": [
+          {
+            "pattern": "minecraft:small_stripes",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:stripe_top",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:stripe_bottom",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:stripe_middle",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:flower",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:rhombus",
+            "color": "magenta"
+          },
+          {
+            "pattern": "minecraft:triangle_bottom",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:triangle_top",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:circle",
+            "color": "black"
+          },
+          {
+            "pattern": "enderscape:crescent",
+            "color": "magenta"
+          }
+        ],
+        "minecraft:hide_additional_tooltip": {},
+        "minecraft:item_name": "{\"translate\":\"block.enderscape.end_city_banner\"}",
+        "minecraft:rarity": "uncommon"
+      }
+    },
+    {
+      "id": "supplementaries:bunting_white",
+      "count": 1
+    },
+    {
+      "id": "minecraft:skeleton_skull",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wither_skeleton_skull",
+      "count": 1
+    },
+    {
+      "id": "minecraft:player_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombie_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:creeper_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piglin_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dragon_head",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dragon_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_portal_frame",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "id": "minecraft:vault",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_vault",
+      "count": 1,
+      "components": {
+        "minecraft:block_entity_data": {
+          "config": {
+            "key_item": {
+              "count": 1,
+              "id": "enderscape:end_city_key"
+            },
+            "loot_table": "enderscape:end_city/vault"
+          },
+          "id": "minecraft:vault"
+        }
+      }
+    },
+    {
+      "id": "minecraft:infested_stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_cobblestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_cracked_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_chiseled_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:infested_deepslate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bamboo_spikes",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_poison"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_poison"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:slowness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_slowness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_slowness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:harming"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_harming"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weakness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_weakness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:wind_charged"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weaving"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:blindness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:long_blindness"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:stunning"
+        }
+      }
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:long_stunning"
+        }
+      }
+    },
+    {
+      "id": "architects_palette:nether_brass_torch",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:redstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:glowstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_lantern",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:kiln",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_pink",
+      "count": 1
+    },
+    {
+      "id": "goated:ram_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_sign",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sack",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_chain",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:amethyst_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wither_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_lamp",
+      "count": 1
+    },
+    {
+      "id": "naturalist:glow_goop",
+      "count": 1
+    },
+    {
+      "id": "naturalist:plush_bear",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:oak_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:spruce_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:birch_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:jungle_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:acacia_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:dark_oak_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:mangrove_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cherry_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:bamboo_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:crimson_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:warped_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:redwood_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:sugi_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:wisteria_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:fir_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:willow_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:aspen_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:maple_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:cypress_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:olive_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:joshua_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:ghaf_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:palo_verde_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:coconut_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:cedar_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:larch_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:mahogany_cabinet",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:saxaul_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/enderscape/murublight_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/enderscape/celestial_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/darkerdepths/petrified_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/spawn/rotten_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/gardens_of_the_dead/whistlecane_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/architects_palette/twisted_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/gardens_of_the_dead/soulblight_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/enderscape/veiled_cabinet",
+      "count": 1
+    },
+    {
+      "id": "everycomp:fd/spawn/date_cabinet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:stove",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cooking_pot",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:skillet",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cutting_board",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wooden_basket",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:bamboo_basket",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:safety_net",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_sign",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_lamp",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_lantern",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_sign",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_hanging_sign",
+      "count": 1
+    },
+    {
+      "id": "galosphere:stranded_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:shadow_frame",
+      "count": 1
+    },
+    {
+      "id": "galosphere:burrow_anchor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_chandelier",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:weapon_rack",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_altar",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:suspicious_gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_soul",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_lever",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:rope",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:enderman_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:spider_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:notice_board",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:speaker_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe_sepia",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:hourglass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:clock_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackboard",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:planter",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:end_stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_pink",
+      "count": 1
+    },
+    {
+      "id": "hummus:end_gateway_frame",
+      "count": 1
+    },
+    {
+      "id": "hummus:amethyst_torch",
+      "count": 1
+    }
+  ]
+}

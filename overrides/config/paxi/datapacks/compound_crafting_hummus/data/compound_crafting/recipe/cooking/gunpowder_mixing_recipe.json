@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 800,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:flowering_rush"
+    },
+    {
+      "item": "natures_spirit:scorched_grass"
+    },
+    {
+      "item": "natures_spirit:ornate_succulent"
+    },
+    {
+      "item": "upgrade_aquatic:white_searocket"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "minecraft:gunpowder"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mob AI Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "egIM2bKK",
+      "slug": "mob-ai-tweaks",
+      "versionId": "GkSAJ4i8",
+      "versionNumber": "1.11.3",
+      "filename": "mob-ai-tweaks-1.11.3-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/egIM2bKK/versions/GkSAJ4i8/mob-ai-tweaks-1.11.3-1.21.1.jar",
+      "sha1": "1ca5aa9962b8b2c9ac7fc2d16e0d82f92e761dba",
+      "sha512": "2382dfd0c44fd9e9c118c3ce8c4daacefb9cb7a9fe297b283721bfbceb05540b20d85cec07e0ff4712402d1a343180858b3ff5df7bcbd5c7ca52f7344968f885",
+      "fileSize": 627606
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

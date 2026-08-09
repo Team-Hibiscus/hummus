@@ -1,0 +1,23 @@
+{
+  "name": "bad packets",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ftdbN0KK",
+      "slug": "badpackets",
+      "versionId": "RNyYl9M3",
+      "versionNumber": "neo-0.8.2",
+      "filename": "badpackets-neo-0.8.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar",
+      "sha1": "6a29963a30afd7fa8993b97e4f870460b3f51323",
+      "sha512": "9f09fbb8fe9d98b3813bee81695f7eb36521deb94bd7804e6e96b130038425c7b2e1ae2072eeb8e8d70bf424a28468b63180dbf4136c0117d7cc607afc9ec421",
+      "fileSize": 54641
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

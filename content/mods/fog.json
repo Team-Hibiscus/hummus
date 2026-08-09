@@ -1,0 +1,23 @@
+{
+  "name": "Fog",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WuGVWUF2",
+      "slug": "fog",
+      "versionId": "c4ytB02Y",
+      "versionNumber": "1.11.0+1.21-neoforge",
+      "filename": "Fog-neoforge-1.11.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WuGVWUF2/versions/c4ytB02Y/Fog-neoforge-1.11.0-1.21.1.jar",
+      "sha1": "106460aa8b09e8ce6051b332d104c787c208d28a",
+      "sha512": "930acf4610db47432ae305ab12ed317c00961e96bbb6c8c41c2f528f5b16a798405297b42f313dc641fbf725cb9d2aae8ab98e83a72739669284843e1df2959d",
+      "fileSize": 300280
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kiss",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "625eK1Si",
+      "slug": "kiss-fabric",
+      "versionId": "oRuX97qb",
+      "versionNumber": "2.0.0-alpha.2+mc1.21.1-neoforge",
+      "filename": "kissmod-2.0.0-alpha.2+mc1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/625eK1Si/versions/oRuX97qb/kissmod-2.0.0-alpha.2%2Bmc1.21.1-neoforge.jar",
+      "sha1": "71b6ccbd6f8345abab7c410cc4bfa063059dc1c0",
+      "sha512": "940500a7b9d8cd35bc902ea8adff277f8da3704385a7eaf50a8d9c3eb8e91f30e7fa3a9040460c50b68668a3823de50f23d337be86bbea62f78d26f0a2de40e0",
+      "fileSize": 41078
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:spruce_sapling",
+    "item:minecraft:moss_block"
+  ],
+  "text": "emi.info.spruce_pine_mega_moss_block"
+}

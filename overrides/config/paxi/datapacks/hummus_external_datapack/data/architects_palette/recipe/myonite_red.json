@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "O": {
+      "item": "minecraft:quartz"
+    },
+    "#": {
+      "item": "natures_spirit:travertine"
+    }
+  },
+  "pattern": [
+    "###",
+    "#O#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "architects_palette:myonite"
+  }
+}

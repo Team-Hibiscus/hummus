@@ -1,0 +1,1144 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:spawner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:trial_spawner",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_trial_spawner",
+      "count": 1
+    },
+    {
+      "id": "spawn:angler_fish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:armadillo_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:axolotl_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:barbed_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:barracuda_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bat_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bee_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blaze_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:blenny_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:bluefish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:booby_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bogged_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:breeze_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:camel_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cat_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cave_spider_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chicken_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:coastal_crab_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cod_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cow_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:creeper_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:dodo_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dolphin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:donkey_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:drifter_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:driftlet_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:drowned_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:elder_guardian_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:enderman_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:endermite_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:flukeshroom_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:firekeeper_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fox_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:frog_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ghast_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_squid_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:goat_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:guardian_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:herring_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:hamster_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hoglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:husk_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:iguana_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_golem_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:llama_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magma_cube_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:marine_iguana_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mooshroom_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mule_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ocelot_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:octopus_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:panda_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:parrot_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:phantom_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pig_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piglin_brute_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:pilot_fish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polar_bear_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pufferfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rabbit_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:rubblemite_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:rustle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:salmon_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_cow_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:seahorse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:seal_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sheep_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sparkle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:spectre_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:specterpillar_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shulker_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:silverfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:skeleton_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:skeleton_horse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:slime_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:snail_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sniffer_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snow_golem_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spider_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:spider_crab_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:squid_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:stickbug_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:stranded_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stray_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:strider_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tadpole_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tropical_fish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:tuna_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:turtle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warden_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:witch_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wither_skeleton_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wolf_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zoglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombie_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombie_horse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombified_piglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "snuffles:snuffle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:bedbug_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "goated:geep_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:alligator_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bass_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bear_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bluejay_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:boar_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:butterfly_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:canary_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:cardinal_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:catfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:caterpillar_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:coral_snake_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:deer_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:dragonfly_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:duck_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:elephant_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:finch_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:firefly_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:giraffe_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:hippo_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:lion_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:lizard_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:rattlesnake_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:rhino_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:robin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:snake_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:sparrow_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:tortoise_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:vulture_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:zebra_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:scorcher_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_monster_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:preserved_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:berserker_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mole_spawn_egg",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:spawner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:trial_spawner",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_trial_spawner",
+      "count": 1
+    },
+    {
+      "id": "spawn:angler_fish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:armadillo_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:axolotl_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:barbed_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:barracuda_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bat_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bee_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blaze_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:blenny_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:bluefish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:booby_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bogged_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:breeze_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:camel_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cat_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cave_spider_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chicken_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:coastal_crab_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cod_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cow_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:creeper_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:dodo_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dolphin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:donkey_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:drifter_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:driftlet_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:drowned_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:elder_guardian_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:enderman_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:endermite_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:flukeshroom_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:firekeeper_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fox_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:frog_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ghast_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_squid_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:goat_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:guardian_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:herring_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:hamster_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hoglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:husk_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:iguana_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_golem_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:llama_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magma_cube_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:marine_iguana_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mooshroom_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mule_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ocelot_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:octopus_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:panda_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:parrot_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:phantom_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pig_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piglin_brute_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:pilot_fish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polar_bear_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pufferfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rabbit_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:rubblemite_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "enderscape:rustle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:salmon_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_cow_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:seahorse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:seal_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sheep_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sparkle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:spectre_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:specterpillar_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shulker_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:silverfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:skeleton_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:skeleton_horse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:slime_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:snail_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sniffer_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snow_golem_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spider_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:spider_crab_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:squid_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:stickbug_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:stranded_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stray_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:strider_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tadpole_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tropical_fish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:tuna_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:turtle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warden_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:witch_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wither_skeleton_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wolf_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zoglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombie_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombie_horse_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:zombified_piglin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "snuffles:snuffle_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:bedbug_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "goated:geep_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:alligator_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bass_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bear_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bluejay_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:boar_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:butterfly_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:canary_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:cardinal_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:catfish_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:caterpillar_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:coral_snake_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:deer_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:dragonfly_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:duck_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:elephant_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:finch_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:firefly_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:giraffe_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:hippo_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:lion_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:lizard_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:rattlesnake_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:rhino_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:robin_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:snake_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:sparrow_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:tortoise_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:vulture_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:zebra_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:scorcher_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_monster_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:preserved_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:berserker_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mole_spawn_egg",
+      "count": 1
+    }
+  ],
+  "order": 9
+}

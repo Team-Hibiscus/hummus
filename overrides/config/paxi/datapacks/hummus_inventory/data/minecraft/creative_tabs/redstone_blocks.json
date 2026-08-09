@@ -1,0 +1,871 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:repeater",
+      "count": 1
+    },
+    {
+      "id": "minecraft:comparator",
+      "count": 1
+    },
+    {
+      "id": "relocate:state_changer",
+      "count": 1
+    },
+    {
+      "id": "minecraft:target",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lever",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_sensor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:calibrated_sculk_sensor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_shrieker",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tripwire_hook",
+      "count": 1
+    },
+    {
+      "id": "minecraft:string",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lectern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:daylight_detector",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lightning_rod",
+      "count": 1
+    },
+    {
+      "id": "enderscape:blinklight",
+      "count": 1
+    },
+    {
+      "id": "enderscape:flanger_berry",
+      "count": 1
+    },
+    {
+      "id": "goated:ram_block",
+      "count": 1
+    },
+    {
+      "id": "relocate:blocks_placer",
+      "count": 1
+    },
+    {
+      "id": "relocate:silent_blocks_placer",
+      "count": 1
+    },
+    {
+      "id": "relocate:blocks_detector",
+      "count": 1
+    },
+    {
+      "id": "relocate:redstone_ticker",
+      "count": 1
+    },
+    {
+      "id": "relocate:redstone_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piston",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sticky_piston",
+      "count": 1
+    },
+    {
+      "id": "minecraft:slime_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:honey_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:mucus_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:ghostly_mucus_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_yellow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dispenser",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dropper",
+      "count": 1
+    },
+    {
+      "id": "spawn:moray_crevice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crafter",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:turn_table",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:cog_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bellows",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:crystal_display",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hopper",
+      "count": 1
+    },
+    {
+      "id": "hoppergadgetry:grated_hopper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "id": "minecraft:barrel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:trapped_chest",
+      "count": 1
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:observer",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:relayer",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gargoyle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:note_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jukebox",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:speaker_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:composter",
+      "count": 1
+    },
+    {
+      "id": "spawn:hamster_wheel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cauldron",
+      "count": 1
+    },
+    {
+      "id": "spawn:octoduct",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:powered_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:detector_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:activator_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hopper_minecart",
+      "count": 1
+    },
+    {
+      "id": "hoppergadgetry:grated_hopper_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt_minecart",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_chest_raft",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_door",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bulb",
+      "count": 1
+    },
+    {
+      "id": "enderscape:blinklamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:redstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:glowstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bell",
+      "count": 1
+    },
+    {
+      "id": "minecraft:big_dripleaf",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "minecraft:armor_stand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_ore",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:repeater",
+      "count": 1
+    },
+    {
+      "id": "minecraft:comparator",
+      "count": 1
+    },
+    {
+      "id": "minecraft:target",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lever",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_sensor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:calibrated_sculk_sensor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_shrieker",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tripwire_hook",
+      "count": 1
+    },
+    {
+      "id": "minecraft:string",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lectern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:daylight_detector",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lightning_rod",
+      "count": 1
+    },
+    {
+      "id": "enderscape:blinklight",
+      "count": 1
+    },
+    {
+      "id": "enderscape:flanger_berry",
+      "count": 1
+    },
+    {
+      "id": "goated:ram_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:piston",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sticky_piston",
+      "count": 1
+    },
+    {
+      "id": "minecraft:slime_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:honey_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:mucus_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:ghostly_mucus_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_yellow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dispenser",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dropper",
+      "count": 1
+    },
+    {
+      "id": "spawn:moray_crevice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crafter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hopper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "id": "minecraft:barrel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_bookshelf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:trapped_chest",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jukebox",
+      "count": 1
+    },
+    {
+      "id": "minecraft:decorated_pot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:observer",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gargoyle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:note_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:composter",
+      "count": 1
+    },
+    {
+      "id": "spawn:hamster_wheel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cauldron",
+      "count": 1
+    },
+    {
+      "id": "spawn:octoduct",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:powered_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:detector_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:activator_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hopper_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt_minecart",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_chest_raft",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_door",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bulb",
+      "count": 1
+    },
+    {
+      "id": "enderscape:blinklamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bell",
+      "count": 1
+    },
+    {
+      "id": "minecraft:big_dripleaf",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "minecraft:armor_stand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "relocate:blocks_placer",
+      "count": 1
+    },
+    {
+      "id": "relocate:silent_blocks_placer",
+      "count": 1
+    },
+    {
+      "id": "relocate:blocks_detector",
+      "count": 1
+    },
+    {
+      "id": "relocate:redstone_ticker",
+      "count": 1
+    },
+    {
+      "id": "relocate:state_changer",
+      "count": 1
+    },
+    {
+      "id": "relocate:redstone_bulb",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:redstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:glowstone_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_cage_lantern",
+      "count": 1
+    },
+    {
+      "id": "hoppergadgetry:grated_hopper",
+      "count": 1
+    },
+    {
+      "id": "hoppergadgetry:grated_hopper_minecart",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:turn_table",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:cog_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bellows",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:crystal_display",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:relayer",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:speaker_block",
+      "count": 1
+    }
+  ]
+}

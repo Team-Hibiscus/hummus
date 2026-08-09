@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "gardens_of_the_dead:whistlecane_slab"
+    }
+  },
+  "pattern": [
+    "# ",
+    "##",
+    "# "
+  ],
+  "result": {
+    "count": 4,
+    "id": "gardens_of_the_dead:whistlecane_mosaic"
+  }
+}

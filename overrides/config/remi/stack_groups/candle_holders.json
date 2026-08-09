@@ -1,0 +1,7 @@
+{
+  "id": "hummus:candle_holders",
+  "type": "remi:group",
+  "contents": [
+    "#supplementaries:candle_holders"
+  ]
+}

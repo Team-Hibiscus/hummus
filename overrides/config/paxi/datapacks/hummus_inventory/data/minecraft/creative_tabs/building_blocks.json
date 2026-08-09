@@ -1,0 +1,7067 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_birch_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_jungle_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_acacia_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_planks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:blank_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:grinning_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:placid_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:shocked_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:acacia_totem_wing",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_mangrove_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_cherry_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_button",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:stripped_date_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_planks",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_fence",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_door",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_bamboo_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_mosaic",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_button",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:stripped_rotten_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_planks",
+      "count": 1
+    },
+    {
+      "id": "spawn:cracked_rotten_planks",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_fence",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_door",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_redwood_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_sugi_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_wisteria_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_fir_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_willow_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_aspen_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_maple_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_cypress_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_olive_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_bundle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_joshua_bundle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_joshua_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_ghaf_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_palo_verde_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_coconut_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_cedar_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_larch_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_mahogany_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_saxaul_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_button",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:porous_petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:stripped_petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_planks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_fence",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_door",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_button",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_log",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:stripped_twisted_log",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_planks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_fence",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_door",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_crimson_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_warped_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_button",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_stem",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:stripped_soulblight_stem",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_planks",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fence",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_door",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_button",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_block",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_planks",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_mosaic",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_fence",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_door",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_log",
+      "count": 1
+    },
+    {
+      "id": "enderscape:stripped_veiled_log",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_planks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_fence",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_door",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:stripped_celestial_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_planks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_fence",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_door",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:stripped_murublight_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_planks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_fence",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_door",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_button",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobblestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mossy_cobblestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_cracked_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:granite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diorite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_diorite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:andesite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_andesite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nebulite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:polished_nebulite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:myonite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:myonite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:mushy_myonite_bricks",
+      "count": 1
+    },
+    {
+      "id": "naturalist:shellstone",
+      "count": 1
+    },
+    {
+      "id": "naturalist:smooth_shellstone",
+      "count": 1
+    },
+    {
+      "id": "naturalist:shellstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "naturalist:cut_shellstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:olivestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_olivestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:olivestone_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_olivestone_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:olivestone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_olivestone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:illuminated_olivestone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cobbled_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mossy_cobbled_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chiseled_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:polished_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mossy_travertine_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_travertine_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_travertine_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chiseled_chert",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:polished_chert",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_chert_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_chert_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_dripstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_dripstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:calcite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_calcite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_calcite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:craterstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale_flagstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_moonshale_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:bordered_moonshale",
+      "count": 1
+    },
+    {
+      "id": "oreganized:glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:chiseled_glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:polished_glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:glance_bricks",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_spotted_glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:spotted_glance",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobbled_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_deepslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_deepslate_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:reinforced_deepslate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tuff_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_tuff_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_aridrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_aridrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_aridrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock_pillar",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:skull_wall",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_duskrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_duskrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_duskrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock_pillar",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:arid_deepslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_darkslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_darkslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_darkslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate_pillar",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:geyser",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:mossy_grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_grimestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_grimestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone_pillar",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_log",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:packed_mud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mud_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:tan_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:tan_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:orange_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:orange_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:brick_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:brown_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:brown_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:cream_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:cream_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:blue_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:blue_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cut_sandstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:gilded_sandstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:gilded_sandstone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_gilded_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cut_red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chiseled_pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:smooth_pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cut_pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:chiseled_blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:smooth_blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:cut_blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "oreganized:grooved_ice",
+      "count": 1
+    },
+    {
+      "id": "oreganized:grooved_packed_ice",
+      "count": 1
+    },
+    {
+      "id": "oreganized:grooved_blue_ice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:polished_packed_ice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_packed_ice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:prismarine",
+      "count": 1
+    },
+    {
+      "id": "minecraft:prismarine_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_prismarine",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sea_lantern",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_abyssaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_plating",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_hadaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_plating",
+      "count": 1
+    },
+    {
+      "id": "spawn:reefstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:algal_reefstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:reefstone_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:overgrown_algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherrack",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:molten_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_brick_fence",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_basalt",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:basalt_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_basalt_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_basalt_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gilded_blackstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:weeping_blackstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisting_blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_polished_blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_polished_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:weeping_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisting_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:warpstone",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:checker_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "id": "glow:glowstone_prism",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:polished_glowstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:runic_glowstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_end_stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_cracked_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:choral_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:end_stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_end_stone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_end_stone_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_veradite_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_veradite_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_mirestone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_mirestone_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_kurodite_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_kurodite_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:etched_alluring_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:etched_repulsive_magnia",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_raw_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purpur_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_purpur",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_burnt_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "enderscape:dusk_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_dusk_purpur",
+      "count": 1
+    },
+    {
+      "id": "enderscape:dusk_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_raw_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_light_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_burnt_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "enderscape:purpur_tiles",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_wardstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:charcoal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:tread_plate",
+      "count": 1
+    },
+    {
+      "id": "hummus:dawn_gold_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:emerald_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:lapis_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:silver_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_block",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:unobtanium_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:nebulite_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:flint_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:flint_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:flint_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:flint_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:cut_lead",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bricks",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_pillar",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bars",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_door",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sheet_metal_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_bars",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chain",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:plating_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:pipe",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_panel",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_tiles",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_lattice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cut_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:smooth_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_chain",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunmetal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_sunmetal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunmetal_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunmetal_bars",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ancient_plating",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ancient_plating_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gold_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:gilded_beads",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_block",
+      "count": 1
+    },
+    {
+      "id": "hummus:cut_rose_gold",
+      "count": 1
+    },
+    {
+      "id": "hummus:chiseled_rose_gold",
+      "count": 1
+    },
+    {
+      "id": "enderscape:shadoline_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:cut_shadoline",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_shadoline",
+      "count": 1
+    },
+    {
+      "id": "enderscape:shadoline_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entwine_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entwine_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_entwine",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entwine_bars",
+      "count": 1
+    },
+    {
+      "id": "minecraft:quartz_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_quartz_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:quartz_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:quartz_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_quartz",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_amethyst",
+      "count": 1
+    },
+    {
+      "id": "galosphere:amethyst_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:smooth_amethyst",
+      "count": 1
+    },
+    {
+      "id": "galosphere:amethyst_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_allurite",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:smooth_allurite",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_lumiere",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:smooth_lumiere",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dark_oracle_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:framed_oracle_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cerebral_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cerebral_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cerebral_tiles",
+      "count": 1
+    },
+    {
+      "id": "spawn:big_snail_shell",
+      "count": 1
+    },
+    {
+      "id": "spawn:snail_shell_tiles",
+      "count": 1
+    },
+    {
+      "id": "snuffles:snuffle_fluff",
+      "count": 1
+    },
+    {
+      "id": "snuffles:frosty_fluff",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:evergreen_thatch",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:xeric_thatch",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_thatch",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tatami",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:full_tatami_mat",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:half_tatami_mat",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:canvas_rug",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_panel",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_panel",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_panel",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bone_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:osseous_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:osseous_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:lit_osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_bone_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_osseous_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_osseous_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:lit_withered_osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wither_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:spool",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hazard_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hazard_sign",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_birch_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_jungle_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_acacia_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_dark_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_mangrove_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_cherry_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_button",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:stripped_date_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_planks",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_fence",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_door",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_bamboo_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_mosaic",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_button",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:stripped_rotten_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_planks",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_fence",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_door",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_button",
+      "count": 1
+    },
+    {
+      "id": "spawn:cracked_rotten_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_redwood_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_sugi_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_wisteria_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_fir_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_willow_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_aspen_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_maple_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_cypress_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_olive_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_bundle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_joshua_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_joshua_bundle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_ghaf_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_palo_verde_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_coconut_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_cedar_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_larch_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_mahogany_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_mosaic",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_button",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_saxaul_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_planks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_fence",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_crimson_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stripped_warped_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_planks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_log",
+      "count": 1
+    },
+    {
+      "id": "enderscape:stripped_veiled_log",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_planks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_fence",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_door",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:stripped_celestial_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_planks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_fence",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_door",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:stripped_murublight_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_planks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_fence",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_door",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobblestone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mossy_cobblestone",
+      "count": 1
+    },
+    {
+      "id": "spawn:reefstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:algal_reefstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:reefstone_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:granite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_granite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diorite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_diorite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:andesite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_andesite",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cobbled_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mossy_cobbled_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chiseled_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:polished_travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mossy_travertine_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chiseled_chert",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:polished_chert",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_chert_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_chert_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_travertine_tiles",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cracked_travertine_bricks",
+      "count": 1
+    },
+    {
+      "id": "oreganized:glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:chiseled_glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:polished_glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:glance_bricks",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_spotted_glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:spotted_glance",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobbled_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_deepslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_deepslate_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:reinforced_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tuff_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_tuff_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:packed_mud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mud_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cut_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cut_red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:chiseled_blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:smooth_blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:cut_blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "oreganized:grooved_ice",
+      "count": 1
+    },
+    {
+      "id": "oreganized:grooved_packed_ice",
+      "count": 1
+    },
+    {
+      "id": "oreganized:grooved_blue_ice",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chiseled_pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:smooth_pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cut_pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sea_lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:prismarine",
+      "count": 1
+    },
+    {
+      "id": "minecraft:prismarine_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_prismarine",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherrack",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_brick_fence",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gilded_blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_polished_blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:polished_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cracked_polished_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_end_stone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_end_stone_button",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_veradite_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_veradite_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_mirestone_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_mirestone_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_kurodite_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "enderscape:polished_kurodite_button",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:etched_alluring_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:etched_repulsive_magnia",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purpur_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:dusk_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_dusk_purpur",
+      "count": 1
+    },
+    {
+      "id": "enderscape:dusk_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "enderscape:purpur_tiles",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_bricks",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_purpur",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coal_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_bars",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bars",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_door",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:heavy_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chain",
+      "count": 1
+    },
+    {
+      "id": "oreganized:silver_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gold_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_weighted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:emerald_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lapis_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:nebulite_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:quartz_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_quartz_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:quartz_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:quartz_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_quartz",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_amethyst",
+      "count": 1
+    },
+    {
+      "id": "galosphere:amethyst_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:smooth_amethyst",
+      "count": 1
+    },
+    {
+      "id": "galosphere:amethyst_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_allurite",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:smooth_allurite",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_lumiere",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:smooth_lumiere",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_exposed_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_weathered_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_chiseled_copper",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_grate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_cut_copper",
+      "count": 1
+    },
+    {
+      "id": "spawn:big_snail_shell",
+      "count": 1
+    },
+    {
+      "id": "spawn:snail_shell_tiles",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:cut_lead",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_bricks",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_pillar",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:waxed_oxidized_copper_bulb",
+      "count": 1
+    },
+    {
+      "id": "enderscape:shadoline_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:cut_shadoline",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chiseled_shadoline",
+      "count": 1
+    },
+    {
+      "id": "enderscape:shadoline_pillar",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_panel",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_tiles",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_lattice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:charcoal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_abyssaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline_plating",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_hadaline_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline_plating",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:plating_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:pipe",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:spool",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:myonite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:myonite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:mushy_myonite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:olivestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:olivestone_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:olivestone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_olivestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_olivestone_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_olivestone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:illuminated_olivestone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:overgrown_algal_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:algal_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:flint_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:flint_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:flint_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:polished_packed_ice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_packed_ice",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:packed_ice_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunmetal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_sunmetal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunmetal_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunmetal_bars",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:osseous_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:osseous_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:lit_osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_bone_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_osseous_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_osseous_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:lit_withered_osseous_skull",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wither_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entwine_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entwine_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_entwine",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entwine_bars",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_mossy_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_cracked_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:polished_glowstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:runic_glowstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:gilded_sandstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:gilded_sandstone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_gilded_sandstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:weeping_blackstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisting_blackstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:weeping_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisting_blackstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:choral_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:warpstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_planks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:stripped_twisted_log",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_log",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_fence",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_door",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_button",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:basalt_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_basalt_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_basalt_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:molten_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_cracked_end_stone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:acacia_totem_wing",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:grinning_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:placid_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:shocked_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:blank_acacia_totem",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_dripstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_dripstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dripstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_calcite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heavy_calcite_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:calcite_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:unobtanium_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cut_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:smooth_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nether_brass_chain",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_wardstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:wardstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ancient_plating",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ancient_plating_fence",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hazard_sign",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:tread_plate",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hazard_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sheet_metal_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_lamp",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:dark_oracle_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:oracle_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:framed_oracle_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cerebral_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cerebral_pillar",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cerebral_tiles",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:chiseled_moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:cracked_moonshale_bricks",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale_flagstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:bordered_moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:craterstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nebulite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:polished_nebulite",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:blue_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:brown_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:cream_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:orange_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:tan_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:blue_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:brown_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:cream_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:orange_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:tan_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:brick_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_nether_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:charred_soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_nether_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:burnt_soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:light_soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:raw_soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_purpur_block",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_purpur_pillar",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_burnt_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_burnt_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_light_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_raw_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_raw_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:chiseled_soul_purpur",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_soul_ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:white_soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:gray_soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "brick_and_mortar:black_soul_ash_tiles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "id": "glow:glowstone_prism",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:calcite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_panel",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_panel",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_panel",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_door",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:framed_paper_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blooming_paper_door",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bone_block",
+      "count": 1
+    },
+    {
+      "id": "naturalist:shellstone",
+      "count": 1
+    },
+    {
+      "id": "naturalist:shellstone_bricks",
+      "count": 1
+    },
+    {
+      "id": "naturalist:cut_shellstone",
+      "count": 1
+    },
+    {
+      "id": "naturalist:smooth_shellstone",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tatami",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:full_tatami_mat",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:half_tatami_mat",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:canvas_rug",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:stripped_petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_planks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_fence",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_door",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_button",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:porous_petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_aridrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_aridrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_aridrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock_pillar",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:skull_wall",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_duskrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_duskrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_duskrock_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock_pillar",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:arid_deepslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_darkslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_darkslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_darkslate_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate_pillar",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:geyser",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:mossy_grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:polished_grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:chiseled_grimestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:cracked_grimestone_bricks",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone_pillar",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_stem",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:stripped_soulblight_stem",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_planks",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fence",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_door",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_button",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_block",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_planks",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_mosaic",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_fence",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_fence_gate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_door",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_pressure_plate",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane_button",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_log",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:gilded_beads",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:flint_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:lapis_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:checker_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:end_stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_block",
+      "count": 1
+    },
+    {
+      "id": "hummus:cut_rose_gold",
+      "count": 1
+    },
+    {
+      "id": "hummus:chiseled_rose_gold",
+      "count": 1
+    },
+    {
+      "id": "hummus:dawn_gold_block",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_block",
+      "count": 1
+    }
+  ]
+}

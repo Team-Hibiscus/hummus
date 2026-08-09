@@ -1,0 +1,29 @@
+{
+
+  "type": "immersiveenchanting:ancient_book_loot_modifier",
+
+  "mode": "random_enchantment_from_list",
+
+  "enchantments": [
+
+    "minecraft:efficiency"
+
+  ],
+
+  "min_rolls": 1,
+
+  "max_rolls": 1,
+
+  "conditions": [
+
+    {
+
+      "condition": "neoforge:loot_table_id",
+
+      "loot_table_id": "minecraft:chests/this_loot_table_does_not_exist"
+
+    }
+
+  ]
+
+}

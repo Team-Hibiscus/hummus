@@ -1,0 +1,430 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "supplementaries:sconce",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_soul",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_lever",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:rope",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:end_stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackboard",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:notice_board",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:clock_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:speaker_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe_sepia",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:hourglass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:planter",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:enderman_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:spider_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:barnacles",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:flint_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:suspicious_gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:turn_table",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:cog_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bellows",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:crystal_display",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:relayer",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:altimeter",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:raked_gravel",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:pancake",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash_brick",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:antique_ink",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:dragon_banner_pattern",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:wrench",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:key",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bubble_blower",
+      "count": 1,
+      "components": {
+        "supplementaries:charges": 200
+      }
+    },
+    {
+      "id": "supplementaries:flute",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:lapis_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:checker_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap_block",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "supplementaries:sconce",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_soul",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_nether_brass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sconce_lever",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:rope",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:end_stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:deepslate_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_lamp",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackboard",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:notice_board",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:clock_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:speaker_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe_sepia",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:globe",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:hourglass",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:planter",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:enderman_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:spider_head",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:barnacles",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:flint_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:suspicious_gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:turn_table",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:cog_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bellows",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:crystal_display",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:relayer",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_door",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:netherite_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:altimeter",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:raked_gravel",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:pancake",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash_brick",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:antique_ink",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:ash_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:gravel_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:dragon_banner_pattern",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:wrench",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:key",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bubble_blower",
+      "count": 1,
+      "components": {
+        "supplementaries:charges": 200
+      }
+    },
+    {
+      "id": "supplementaries:flute",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:stone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:blackstone_tile",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:lapis_bricks",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:checker_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:iron_gate",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap_block",
+      "count": 1
+    }
+  ],
+  "hidden": true
+}

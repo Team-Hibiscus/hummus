@@ -1,0 +1,47 @@
+{
+  "enableCreativeModeTabs": false,
+  "syncSelectedCreativeModeTab": false,
+  "showCreativeTabNameInSearchbar": false,
+  "maxSidebarTabs": 0,
+  "disabledCreativeModeTabs": [
+    "minecraft:op_blocks"
+  ],
+  "enableStackGroups": true,
+  "enableCreateStackGroupButton": true,
+  "disabledStackGroups": [
+    "minecraft:stairs",
+    "minecraft:slabs",
+    "minecraft:walls"
+  ],
+  "stackGroupItemOrder": {
+    "c:nuggets": [
+      "minecraft:iron_nugget",
+      "oreganized:lead_nugget",
+      "minecraft:gold_nugget",
+      "oreganized:silver_nugget",
+      "oreganized:electrum_nugget",
+      "galosphere:palladium_nugget",
+      "oreganized:netherite_nugget"
+    ]
+  },
+  "emiOnlyInRecipeBook": false,
+  "emiOnlyInRecipeBookState": false,
+  "dragCheatToInventory": true,
+  "enableCategorizedTagPages": true,
+  "enableEntityTags": true,
+  "enableTagSearchEnhancements": true,
+  "disablePaginationWrapping": false,
+  "scrollInsteadOfPagination": false,
+  "showTitleInsteadOfPageNumbers": true,
+  "hidePageButtonWhenOnePage": false,
+  "incrementalScrollbarFill": false,
+  "searchWidgetAlignWithPanel": true,
+  "searchWidgetWidth": 0,
+  "searchWidgetLeftOffset": 0,
+  "searchWidgetTopOffset": 0,
+  "searchWidgetHorizontalPadding": 4,
+  "searchWidgetVerticalPadding": 2,
+  "searchWidgetSuggestionTextColor": -8355712,
+  "searchWidgetTextColor": -1,
+  "searchWidgetUseVanillaTexture": false
+}

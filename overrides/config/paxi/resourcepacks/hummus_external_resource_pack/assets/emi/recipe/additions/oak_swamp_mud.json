@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:oak_sapling",
+    "item:minecraft:mud"
+  ],
+  "text": "emi.info.oak_swamp_mud"
+}

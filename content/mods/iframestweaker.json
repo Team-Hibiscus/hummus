@@ -1,0 +1,23 @@
+{
+  "name": "IFramesTweaker",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zC8aonSk",
+      "slug": "iframestweaker",
+      "versionId": "RNqGzo9h",
+      "versionNumber": "1.0.3",
+      "filename": "iframestweakerneo-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zC8aonSk/versions/RNqGzo9h/iframestweakerneo-1.0.3.jar",
+      "sha1": "7596602945510fa2f9f74f0bc9d8a3d33e44d0be",
+      "sha512": "4eec9dd77329ce822a8a3d638777f8a36f2b3a372a00eeb220883c1bc2cefd697d9e7a9ff132db1ca84bd5c48acf541be390b902d562c107b16be92c9b3538ee",
+      "fileSize": 9735
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

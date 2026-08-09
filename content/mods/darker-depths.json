@@ -1,0 +1,23 @@
+{
+  "name": "Darker Depths",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wCbFXJKH",
+      "slug": "darker-depths",
+      "versionId": "qBM95sYV",
+      "versionNumber": "2.1.4",
+      "filename": "darkerdepths-2.1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wCbFXJKH/versions/qBM95sYV/darkerdepths-2.1.4.jar",
+      "sha1": "d745f44aa58ba7c88c7c4310a5fae9deb53193b9",
+      "sha512": "d24db3b08d21c5950f5f5a37c53585823dde1b9af5f67d827f7eaabc4a0f5a04e98dd23b0cfc6cd548df5a0f78acb73ab16605aed3d38a0e7863af66294d0ed3",
+      "fileSize": 2112799
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

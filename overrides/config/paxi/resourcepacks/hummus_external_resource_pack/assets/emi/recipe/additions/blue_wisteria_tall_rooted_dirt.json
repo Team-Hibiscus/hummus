@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:natures_spirit:blue_wisteria_sapling",
+    "item:minecraft:rooted_dirt"
+  ],
+  "text": "emi.info.blue_wisteria_tall_rooted_dirt"
+}

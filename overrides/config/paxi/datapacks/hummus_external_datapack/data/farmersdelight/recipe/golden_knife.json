@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "hummus:dawn_gold_ingot"
+  },
+  "base": {
+    "item": "farmersdelight:iron_knife"
+  },
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:golden_knife"
+  },
+  "template": {
+    "item": "hummus:dawn_gold_smithing_template"
+  }
+}

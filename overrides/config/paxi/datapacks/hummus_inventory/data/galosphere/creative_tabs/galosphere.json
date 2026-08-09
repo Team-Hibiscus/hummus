@@ -1,0 +1,440 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "galosphere:preserved_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:berserker_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:preserved_template",
+      "count": 1
+    },
+    {
+      "id": "galosphere:saltbound_tablet",
+      "count": 1
+    },
+    {
+      "id": "galosphere:faith_armor_trim_smithing_template",
+      "count": 1
+    },
+    {
+      "id": "galosphere:preserved_flesh",
+      "count": 1
+    },
+    {
+      "id": "galosphere:salted_jerky",
+      "count": 1
+    },
+    {
+      "id": "galosphere:silverfish",
+      "count": 1
+    },
+    {
+      "id": "galosphere:thirst_pottery_sherd",
+      "count": 1
+    },
+    {
+      "id": "galosphere:wave_pottery_sherd",
+      "count": 1
+    },
+    {
+      "id": "galosphere:tuff_dirt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mole_burrow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mining_pouch",
+      "count": 1
+    },
+    {
+      "id": "galosphere:broken_echo_bell",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_bell",
+      "count": 1
+    },
+    {
+      "id": "galosphere:bottle_of_spectre",
+      "count": 1
+    },
+    {
+      "id": "galosphere:cured_membrane",
+      "count": 1
+    },
+    {
+      "id": "galosphere:cured_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:stranded_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:gilded_beads",
+      "count": 1
+    },
+    {
+      "id": "galosphere:monstrometer",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rope_dart",
+      "count": 1
+    },
+    {
+      "id": "galosphere:burrow_anchor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:shadow_frame",
+      "count": 1
+    },
+    {
+      "id": "galosphere:light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_chandelier",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:weapon_rack",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_dust",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_straw",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_shard",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_log",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_leaves",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_sapling",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_flakes",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_altar",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "galosphere:preserved_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:berserker_spawn_egg",
+      "count": 1
+    },
+    {
+      "id": "galosphere:preserved_template",
+      "count": 1
+    },
+    {
+      "id": "galosphere:saltbound_tablet",
+      "count": 1
+    },
+    {
+      "id": "galosphere:faith_armor_trim_smithing_template",
+      "count": 1
+    },
+    {
+      "id": "galosphere:preserved_flesh",
+      "count": 1
+    },
+    {
+      "id": "galosphere:salted_jerky",
+      "count": 1
+    },
+    {
+      "id": "galosphere:silverfish",
+      "count": 1
+    },
+    {
+      "id": "galosphere:thirst_pottery_sherd",
+      "count": 1
+    },
+    {
+      "id": "galosphere:wave_pottery_sherd",
+      "count": 1
+    },
+    {
+      "id": "galosphere:tuff_dirt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mole_burrow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mining_pouch",
+      "count": 1
+    },
+    {
+      "id": "galosphere:broken_echo_bell",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_bell",
+      "count": 1
+    },
+    {
+      "id": "galosphere:bottle_of_spectre",
+      "count": 1
+    },
+    {
+      "id": "galosphere:cured_membrane",
+      "count": 1
+    },
+    {
+      "id": "galosphere:cured_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:stranded_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:gilded_beads",
+      "count": 1
+    },
+    {
+      "id": "galosphere:monstrometer",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rope_dart",
+      "count": 1
+    },
+    {
+      "id": "galosphere:burrow_anchor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:shadow_frame",
+      "count": 1
+    },
+    {
+      "id": "galosphere:light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_chandelier",
+      "count": 1
+    },
+    {
+      "id": "galosphere:soul_light_stand",
+      "count": 1
+    },
+    {
+      "id": "galosphere:weapon_rack",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_dust",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:polished_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_straw",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_shard",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_lamp",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_log",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_leaves",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:chiseled_opal_bricks",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_sapling",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_flakes",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_altar",
+      "count": 1
+    }
+  ],
+  "hidden": true
+}

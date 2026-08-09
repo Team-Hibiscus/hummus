@@ -1,0 +1,23 @@
+{
+  "name": "Crops Love Rain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cRci7UZp",
+      "slug": "crops-love-rain",
+      "versionId": "bmqftD2D",
+      "versionNumber": "3.2.1+1.21.5-neoforge",
+      "filename": "cropsloverain-3.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cRci7UZp/versions/bmqftD2D/cropsloverain-3.2.1.jar",
+      "sha1": "43c8ac81b90089d1b7825d7ab9465d440996fc95",
+      "sha512": "df4e11530157bd758649c839b767eaa773aa9fc241244ca9d3920b943e217149203e4296f6b5cd4d0953457ee73cead4c5f8a6f4ac0344d4f0baf77b5bb63292",
+      "fileSize": 35365
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

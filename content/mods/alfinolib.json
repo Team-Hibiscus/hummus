@@ -1,0 +1,22 @@
+{
+  "name": "AlfinoLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1554698",
+      "slug": "alfinolib",
+      "versionId": "8596074",
+      "versionNumber": "alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "filename": "alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8596/74/alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "sha1": "534ec2d4319f7aed36809e60430b501f7451ac39",
+      "fileSize": 273188
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

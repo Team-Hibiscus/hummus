@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:natures_spirit:willow_sapling",
+    "item:minecraft:rooted_dirt"
+  ],
+  "text": "emi.info.willow_large_rooted_dirt"
+}

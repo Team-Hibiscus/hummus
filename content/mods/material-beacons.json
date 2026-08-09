@@ -1,0 +1,23 @@
+{
+  "name": "Material Beacons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QLLz3XcD",
+      "slug": "material-beacons",
+      "versionId": "YGahXQ5U",
+      "versionNumber": "1.0.1+1.21.1",
+      "filename": "material-beacons-1.0.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QLLz3XcD/versions/YGahXQ5U/material-beacons-1.0.1%2B1.21.1.jar",
+      "sha1": "e2e819de87eaee8e4cdaf155e7d7a8ea178e8142",
+      "sha512": "b960e4d16c1c96067d68898a9ee79e0301f9bdc54558f77f52a7f616b107ce7a30a28fa4c7aa3436fa5518f8c800191d9e9d42618deed0998923863a7e0fe28b",
+      "fileSize": 86600
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

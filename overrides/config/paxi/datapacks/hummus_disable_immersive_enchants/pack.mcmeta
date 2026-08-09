@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": [
+            {
+                "text": "Disable Enchantments with Immersive Enchanting",
+                "color":"gold"
+            },
+            {
+                "text": "for Hummus modpack",
+                "color":"yellow"
+            }
+        ]
+    }
+}

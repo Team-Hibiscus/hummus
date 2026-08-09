@@ -1,0 +1,147 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "minecraft:zombie_villager_spawn_egg",
+    "minecraft:villager_spawn_egg",
+    "minecraft:allay_spawn_egg",
+    "minecraft:evoker_spawn_egg",
+    "minecraft:pillager_spawn_egg",
+    "minecraft:ravager_spawn_egg",
+    "minecraft:vex_spawn_egg",
+    "minecraft:trader_llama_spawn_egg",
+    "minecraft:wandering_trader_spawn_egg",
+    "minecraft:vindicator_spawn_egg",
+    "minecraft:stone_pickaxe",
+    "minecraft:stone_sword",
+    "minecraft:stone_hoe",
+    "minecraft:stone_shovel",
+    "minecraft:stone_axe",
+    "swordish:stone_dualblade",
+    "swordish:stone_halberd",
+    "swordish:stone_glaive",
+    "darkerdepths:forsaken_bronze_scrap",
+    "darkerdepths:forsaken_bronze_ingot",
+    "darkerdepths:forsaken_bronze_block",
+    "darkerdepths:forsaken_bronze_scrap",
+    "darkerdepths:stiletto",
+    "darkerdepths:tomb",
+    "darkerdepths:void_soul_torch",
+    "darkerdepths:void_soul_requiem",
+    "darkerdepths:void_soul_jar",
+    "darkerdepths:paranoia_altar",
+    "darkerdepths:void_soul_spawn_egg",
+    "darkerdepths:void_soul_knight_spawn_egg",
+    "darkerdepths:body_snatcher_spawn_egg",
+    "supplementaries:fodder",
+    "supplementaries:feather_block",
+    "oreganized:bush_hammer",
+    "oreganized:electrum_shield",
+    "oreganized:electrum_machete",
+    "oreganized:unknown_device",
+    "farmersdelight:rope",
+    "darkerdepths:rope",
+    "goated:thatch",
+    "goated:thatch_slab",
+    "goated:thatch_stairs",
+    "oreganized:silver_mirror",
+    "relocate:advanced_blocks_mover",
+    "relocate:blocks_mover",
+    "relocate:blocks_filter",
+    "relocate:blocks_destroyer",
+    "relocate:redstone_generator",
+    "relocate:notifier",
+    "relocate:silent_advanced_blocks_mover",
+    "relocate:silent_blocks_mover",
+    "relocate:silent_blocks_filter",
+    "relocate:silent_blocks_destroyer",
+    "relocate:silent_universal_blocks_mover",
+    "relocate:universal_blocks_mover",
+    "hoppergadgetry:chute",
+    "hoppergadgetry:chute_minecart",
+    "hoppergadgetry:duct",
+    "darkerdepths:death_anchor",
+    "!architects_palette:.*_ore_bricks",
+    "!architects_palette:.*_nub",
+    "!architects_palette:.*_board_slab",
+    "!architects_palette:.*_board_stairs",
+    "!architects_palette:.*_board_vertical_slab",
+    "!architects_palette:.*_board_wall",
+    "!architects_palette:.*_boards",
+    "!architects_palette:.*_railing",
+    "!architects_palette:tuff_.*",
+    "!architects_palette:.*_tuff",
+    "!architects_palette:.*_tuff_.*",
+    "architects_palette:salmon_log",
+    "architects_palette:cod_log",
+    "architects_palette:salmon_scales",
+    "architects_palette:cod_scales",
+    "architects_palette:scute_block",
+    "!everycomp:.*_board_slab$",
+    "!everycomp:.*_board_stairs$",
+    "!everycomp:.*_board_vertical_slab$",
+    "!everycomp:.*_board_wall$",
+    "!everycomp:.*_boards$",
+    "!everycomp:.*_railing$",
+    "brick_and_mortar:purpur_brick_wall",
+    "!brick_and_mortar:.*purpur_bricks$",
+    "!brick_and_mortar:.*purpur_brick_slab$",
+    "!brick_and_mortar:.*purpur_brick_stairs$",
+    "!brick_and_mortar:.*light_purpur.*",
+    "farmersdelight:rope_fence",
+    "farmersdelight:rope_fence_gate",
+    "naturalist:snail_shell",
+    "naturalist:snail_spawn_egg",
+    "naturalist:snail_eggs",
+    "naturalist:snail_bucket",
+    "!.*vertical_slab$"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nature's Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "18s8zHvJ",
+      "slug": "natures-delight",
+      "versionId": "AoQsFwaX",
+      "versionNumber": "1.13.1-1.21.1",
+      "filename": "natures_delight-1.13.1-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/18s8zHvJ/versions/AoQsFwaX/natures_delight-1.13.1-1.21.1.jar",
+      "sha1": "7fba521c2974aa6a03d50d6d35b8ef3dc7040956",
+      "sha512": "fddcc328d27a05f2976d6fded611aa9b12fc2e56b14403d3cd19d6152aff9076da3f1ab3a59900fba474d9d4704403f10ade4d161411f5ed9668882c8316723f",
+      "fileSize": 226364
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

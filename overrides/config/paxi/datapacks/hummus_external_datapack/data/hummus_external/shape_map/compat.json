@@ -1,0 +1,53 @@
+{
+  "priority": 502,
+  "add": {
+    "brick_and_mortar:raw_purpur_block": [
+      "brick_and_mortar:raw_purpur_brick_wall"
+    ],
+    "brick_and_mortar:burnt_purpur_block": [
+      "brick_and_mortar:burnt_purpur_brick_wall"
+    ],
+    "brick_and_mortar:raw_soul_purpur_block": [
+      "brick_and_mortar:raw_soul_purpur_brick_wall"
+    ],
+    "brick_and_mortar:burnt_soul_purpur_block": [
+      "brick_and_mortar:burnt_soul_purpur_brick_wall"
+    ],
+    "brick_and_mortar:soul_purpur_block": [
+      "brick_and_mortar:soul_purpur_brick_wall"
+    ],
+    "brick_and_mortar:light_soul_purpur_block": [
+      "brick_and_mortar:light_soul_purpur_brick_wall"
+    ],
+    "/(?<ns>[^:]+):(?<stem>.+?)/": {
+      "shapes": [
+        "${ns}:${stem}_carpet"
+      ],
+      "conditions": {
+        "is_blockitem": true
+      }
+    },
+    "/(?<ns>[^:]+):(?<stem>.+?)_block/": {
+      "shapes": [
+        "${ns}:${stem}_carpet"
+      ],
+      "conditions": {
+        "is_blockitem": true
+      }
+    },
+    "/(?<ns>[^:]+):(?<stem>.+?)_wool/": {
+      "shapes": [
+        "${ns}:${stem}_carpet"
+      ],
+      "conditions": {
+        "is_blockitem": true
+      }
+    }
+  },
+  "remove": {
+    "/(?<ns>[^:]+):(?<stem>.+?)_block/": ["/(?<ns>[^:]+):(?<stem>.+?)_vertical_slab/"],
+    "/(?<ns>[^:]+):(?<stem>.+?)(?<end>s|)/": ["/(?<ns>[^:]+):(?<stem>.+?)(?<end>s|)_vertical_slab/"],
+    "/(?<ns>[^:]+):(?<stem>.+?)_brick/": ["/(?<ns>[^:]+):(?<stem>.+?)_brick_vertical_slab/"],
+    "/(?<ns>[^:]+):(?<stem>.+?)_planks/": ["/(?<ns>[^:]+):(?<stem>.+?)_vertical_slab/"]
+  }
+}

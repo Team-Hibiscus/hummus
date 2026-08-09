@@ -1,0 +1,23 @@
+{
+  "name": "The Beyond - Isleweaver Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "erNCpdqn",
+      "slug": "isleweaver",
+      "versionId": "3zWH6HPD",
+      "versionNumber": "0.0.1-InDev",
+      "filename": "isleweaver-0.0.1-InDev.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/erNCpdqn/versions/3zWH6HPD/isleweaver-0.0.1-InDev.jar",
+      "sha1": "4a94b56846315fcae5e926c6a55b436963794830",
+      "sha512": "8e7ac6bc37f2adc7879e4b1eabd18edeb111cb5aedaf2c8011f88da8558596e754edecdde339480126d20eee69d5d94f99eee530cbb9fa922d7289334980e4a0",
+      "fileSize": 177534
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

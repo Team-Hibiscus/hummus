@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 300,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:mulberry"
+    },
+    {
+      "item": "natures_spirit:alluaudia"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "darkerdepths:mossy_sprouts"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "minecraft:glowstone_dust"
+  }
+}

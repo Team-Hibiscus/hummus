@@ -1,0 +1,3487 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_terracotta",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_chalk",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_white_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_light_gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_black_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_brown_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_red_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_orange_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_yellow_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_lime_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_green_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_cyan_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_light_blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_purple_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_magenta_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_pink_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tinted_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:white_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_gray_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gray_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:black_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:brown_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:red_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:orange_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:yellow_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lime_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:green_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:cyan_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_blue_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:blue_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:purple_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:magenta_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:pink_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:white_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_gray_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gray_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:black_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:brown_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:red_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:orange_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:yellow_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lime_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:green_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:cyan_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_blue_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:blue_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:purple_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:magenta_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:pink_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_white",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_yellow",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_red",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_pink",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sack",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_pink",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_bed",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_white",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_black",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_brown",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_red",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_orange",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_yellow",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_lime",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_green",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_cyan",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_purple",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_magenta",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_pink",
+      "count": 1
+    },
+    {
+      "id": "minecraft:candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_banner",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_pink",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_hanging_canvas_sign",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_terracotta",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_kaolin",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_kaolin_bricks",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_chalk",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_chalk",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_concrete",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_white_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_orange_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_magenta_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_light_blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_yellow_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_lime_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_pink_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_light_gray_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_cyan_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_purple_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_blue_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_brown_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_green_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_red_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "oreganized:waxed_black_concrete_powder",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_glazed_terracotta",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tinted_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_stained_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:white_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:orange_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:magenta_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_blue_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:yellow_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lime_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:pink_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gray_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_gray_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:cyan_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:purple_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:blue_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:brown_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:green_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:red_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "oreganized:black_crystal_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_stained_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_white",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_yellow",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_red",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam_case_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:sack",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:sack_pink",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shulker_box",
+      "count": 1
+    },
+    {
+      "id": "oreganized:black_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:red_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:green_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:brown_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:blue_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:purple_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:cyan_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_gray_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:gray_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:pink_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lime_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:yellow_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:light_blue_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:magenta_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:orange_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "oreganized:white_crystal_glass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_shulker_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_bed",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_bed",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_white",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_gray",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_black",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_brown",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_red",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_orange",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_yellow",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_lime",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_green",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_cyan",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_light_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_blue",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_purple",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_magenta",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:hammock_pink",
+      "count": 1
+    },
+    {
+      "id": "minecraft:candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_candle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_candle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_gray_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:brown_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lime_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cyan_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:light_blue_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:magenta_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gray_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:black_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:yellow_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lime_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:green_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:light_blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:purple_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magenta_banner",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_banner",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bunting_pink",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:paper_lantern",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:white_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:gray_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:black_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:orange_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:yellow_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:lime_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:green_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cyan_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:light_blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:blue_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:purple_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:magenta_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:pink_hanging_canvas_sign",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_white",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_gray",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_black",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_brown",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_red",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_orange",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_yellow",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_lime",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_green",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_cyan",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_light_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_blue",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_purple",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_magenta",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:gold_candle_holder_pink",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_white",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_gray",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_black",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_brown",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_red",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_orange",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_yellow",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_lime",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_green",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_cyan",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_light_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_blue",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_purple",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_magenta",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:present_pink",
+      "count": 1
+    }
+  ]
+}

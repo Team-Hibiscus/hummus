@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "hummus:dawn_gold_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_chestplate"
+  },
+  "template": {
+    "item": "hummus:dawn_gold_smithing_template"
+  }
+}

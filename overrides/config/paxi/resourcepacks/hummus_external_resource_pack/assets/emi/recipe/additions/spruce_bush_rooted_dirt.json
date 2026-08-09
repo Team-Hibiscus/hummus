@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:spruce_sapling",
+    "item:minecraft:rooted_dirt"
+  ],
+  "text": "emi.info.spruce_bush_rooted_dirt"
+}

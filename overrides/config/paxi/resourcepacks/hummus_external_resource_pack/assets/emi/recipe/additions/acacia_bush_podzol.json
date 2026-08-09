@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:acacia_sapling",
+    "item:minecraft:podzol"
+  ],
+  "text": "emi.info.acacia_bush_podzol"
+}

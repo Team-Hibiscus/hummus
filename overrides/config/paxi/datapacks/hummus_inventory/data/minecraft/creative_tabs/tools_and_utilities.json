@@ -1,0 +1,2129 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:wooden_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_shovel",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_hoe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_shovel",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_hoe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_shovel",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_hoe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_shovel",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_axe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_hoe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_knife",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:water_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cod_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:angler_fish_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:salmon_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:bluefish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:herring_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:blenny_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:pilot_fish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:baby_sunfish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:tuna_egg_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tropical_fish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:seahorse_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pufferfish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:coastal_crab_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:axolotl_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tadpole_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:baby_sea_cow_bucket",
+      "count": 1,
+      "components": {
+        "minecraft:bucket_entity_data": {
+          "Age": -24000
+        }
+      }
+    },
+    {
+      "id": "spawn:baby_flukeshroom_bucket",
+      "count": 1,
+      "components": {
+        "minecraft:bucket_entity_data": {
+          "Age": -24000
+        }
+      }
+    },
+    {
+      "id": "spawn:baby_seal_bucket",
+      "count": 1,
+      "components": {
+        "minecraft:bucket_entity_data": {
+          "Age": -24000,
+          "id": "spawn:seal"
+        }
+      }
+    },
+    {
+      "id": "enderscape:rustle_bucket",
+      "count": 1
+    },
+    {
+      "id": "naturalist:catfish_bucket",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bass_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lava_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:powder_snow_bucket",
+      "count": 1
+    },
+    {
+      "id": "oreganized:molten_lead_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:milk_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:captured_octopus",
+      "count": 1
+    },
+    {
+      "id": "naturalist:caterpillar",
+      "count": 1
+    },
+    {
+      "id": "naturalist:butterfly",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam",
+      "count": 1
+    },
+    {
+      "id": "spawn:suspicious_stick",
+      "count": 1
+    },
+    {
+      "id": "spawn:fly_bottle",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_pupa",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fishing_rod",
+      "count": 1
+    },
+    {
+      "id": "spawn:casting_net",
+      "count": 1
+    },
+    {
+      "id": "spawn:coastal_crab_claw",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flint_and_steel",
+      "count": 1
+    },
+    {
+      "id": "oreganized:flint_and_pewter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bone_meal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shears",
+      "count": 1
+    },
+    {
+      "id": "oreganized:scribe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brush",
+      "count": 1
+    },
+    {
+      "id": "galosphere:broken_echo_bell",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_bell",
+      "count": 1
+    },
+    {
+      "id": "naturalist:capture_net",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:wrench",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bubble_blower",
+      "count": 1,
+      "components": {
+        "supplementaries:charges": 200
+      }
+    },
+    {
+      "id": "supplementaries:flute",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mining_pouch",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:crystal_melon",
+      "count": 1
+    },
+    {
+      "id": "minecraft:name_tag",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lead",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:key",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:heavy_key",
+      "count": 1,
+      "components": {
+        "suppsquared:heavy_key_uuid": [
+          2097767341,
+          1687440787,
+          -1321406255,
+          -661130050
+        ]
+      }
+    },
+    {
+      "id": "enderscape:magnia_attractor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:white_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:light_gray_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:gray_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:black_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:brown_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:red_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:orange_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:yellow_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:lime_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:green_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:cyan_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:light_blue_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:blue_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:purple_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:magenta_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:pink_bundle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:compass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:recovery_compass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:clock",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:altimeter",
+      "count": 1
+    },
+    {
+      "id": "galosphere:monstrometer",
+      "count": 1
+    },
+    {
+      "id": "oreganized:speedometer",
+      "count": 1
+    },
+    {
+      "id": "oreganized:thermometer",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spyglass",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:night_bag",
+      "count": 1
+    },
+    {
+      "id": "minecraft:map",
+      "count": 1
+    },
+    {
+      "id": "aa4-atlas:antique_atlas",
+      "count": 1
+    },
+    {
+      "id": "minecraft:writable_book",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wind_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_pearl",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "id": "minecraft:elytra",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirror",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 2
+        }
+      }
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 3
+        }
+      }
+    },
+    {
+      "id": "galosphere:spectre_flare",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glow_flare",
+      "count": 1
+    },
+    {
+      "id": "minecraft:saddle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:carrot_on_a_stick",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_raft",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_chest_raft",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_raft",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_chest_raft",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_boat",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_boat",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:powered_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:detector_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:activator_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hopper_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt_minecart",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:ponder_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:sing_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:seek_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:feel_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:admire_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:call_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:yearn_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:dream_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:music_disc_13",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_cat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_blocks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_chirp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_far",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_mall",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_mellohi",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_stal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_strad",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_ward",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_11",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_creator_music_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_wait",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_rain",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_creator",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_precipice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_otherside",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_rot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_relic",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_water_horse",
+      "count": 1
+    },
+    {
+      "id": "oreganized:music_disc_structure",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_5",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_barbaric",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_jammed",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_dally",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_pigstep",
+      "count": 1
+    },
+    {
+      "id": "enderscape:music_disc_glare",
+      "count": 1
+    },
+    {
+      "id": "enderscape:music_disc_decay",
+      "count": 1
+    },
+    {
+      "id": "enderscape:music_disc_bliss",
+      "count": 1
+    },
+    {
+      "id": "immersiveenchanting:music_disc_arcane_memories",
+      "count": 1
+    },
+    {
+      "id": "immersiveenchanting:music_disc_biblioclasm",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:wooden_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_shovel",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_hoe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_shovel",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_hoe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_shovel",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_hoe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_shovel",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_axe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_hoe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_knife",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_shovel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_hoe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:water_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cod_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:angler_fish_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:salmon_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:bluefish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:herring_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:blenny_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:pilot_fish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:baby_sunfish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:tuna_egg_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tropical_fish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:seahorse_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pufferfish_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:coastal_crab_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:axolotl_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tadpole_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:baby_sea_cow_bucket",
+      "count": 1,
+      "components": {
+        "minecraft:bucket_entity_data": {
+          "Age": -24000
+        }
+      }
+    },
+    {
+      "id": "spawn:baby_flukeshroom_bucket",
+      "count": 1,
+      "components": {
+        "minecraft:bucket_entity_data": {
+          "Age": -24000
+        }
+      }
+    },
+    {
+      "id": "spawn:baby_seal_bucket",
+      "count": 1,
+      "components": {
+        "minecraft:bucket_entity_data": {
+          "Age": -24000,
+          "id": "spawn:seal"
+        }
+      }
+    },
+    {
+      "id": "enderscape:rustle_bucket",
+      "count": 1
+    },
+    {
+      "id": "naturalist:catfish_bucket",
+      "count": 1
+    },
+    {
+      "id": "naturalist:bass_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lava_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:powder_snow_bucket",
+      "count": 1
+    },
+    {
+      "id": "oreganized:molten_lead_bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:milk_bucket",
+      "count": 1
+    },
+    {
+      "id": "spawn:captured_octopus",
+      "count": 1
+    },
+    {
+      "id": "naturalist:caterpillar",
+      "count": 1
+    },
+    {
+      "id": "naturalist:butterfly",
+      "count": 1
+    },
+    {
+      "id": "spawn:clam",
+      "count": 1
+    },
+    {
+      "id": "spawn:suspicious_stick",
+      "count": 1
+    },
+    {
+      "id": "spawn:fly_bottle",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_pupa",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fishing_rod",
+      "count": 1
+    },
+    {
+      "id": "spawn:casting_net",
+      "count": 1
+    },
+    {
+      "id": "spawn:coastal_crab_claw",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flint_and_steel",
+      "count": 1
+    },
+    {
+      "id": "oreganized:flint_and_pewter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bone_meal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shears",
+      "count": 1
+    },
+    {
+      "id": "oreganized:scribe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brush",
+      "count": 1
+    },
+    {
+      "id": "galosphere:broken_echo_bell",
+      "count": 1
+    },
+    {
+      "id": "galosphere:echo_bell",
+      "count": 1
+    },
+    {
+      "id": "naturalist:capture_net",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:wrench",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:soap",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:bubble_blower",
+      "count": 1,
+      "components": {
+        "supplementaries:charges": 200
+      }
+    },
+    {
+      "id": "supplementaries:flute",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mining_pouch",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:crystal_melon",
+      "count": 1
+    },
+    {
+      "id": "minecraft:name_tag",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lead",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:key",
+      "count": 1
+    },
+    {
+      "id": "suppsquared:heavy_key",
+      "count": 1,
+      "components": {
+        "suppsquared:heavy_key_uuid": [
+          2097767341,
+          1687440787,
+          -1321406255,
+          -661130050
+        ]
+      }
+    },
+    {
+      "id": "enderscape:magnia_attractor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:white_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:light_gray_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:gray_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:black_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:brown_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:red_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:orange_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:yellow_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:lime_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:green_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:cyan_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:light_blue_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:blue_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:purple_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:magenta_bundle",
+      "count": 1
+    },
+    {
+      "id": "bundle-backportish:pink_bundle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:compass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:recovery_compass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:clock",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:altimeter",
+      "count": 1
+    },
+    {
+      "id": "galosphere:monstrometer",
+      "count": 1
+    },
+    {
+      "id": "oreganized:speedometer",
+      "count": 1
+    },
+    {
+      "id": "oreganized:thermometer",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spyglass",
+      "count": 1
+    },
+    {
+      "id": "sleep_tight:night_bag",
+      "count": 1
+    },
+    {
+      "id": "minecraft:map",
+      "count": 1
+    },
+    {
+      "id": "aa4-atlas:antique_atlas",
+      "count": 1
+    },
+    {
+      "id": "minecraft:writable_book",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wind_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_pearl",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ender_eye",
+      "count": 1
+    },
+    {
+      "id": "minecraft:elytra",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirror",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 2
+        }
+      }
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 3
+        }
+      }
+    },
+    {
+      "id": "galosphere:spectre_flare",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glow_flare",
+      "count": 1
+    },
+    {
+      "id": "minecraft:saddle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:carrot_on_a_stick",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_raft",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_chest_raft",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_raft",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo_chest_raft",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_boat",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_boat",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_boat",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_chest_boat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:powered_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:detector_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:activator_rail",
+      "count": 1
+    },
+    {
+      "id": "minecraft:minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hopper_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chest_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:furnace_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt_minecart",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb_minecart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:ponder_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:sing_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:seek_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:feel_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:admire_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:call_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:yearn_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:goat_horn",
+      "count": 1,
+      "components": {
+        "minecraft:instrument": "minecraft:dream_goat_horn"
+      }
+    },
+    {
+      "id": "minecraft:music_disc_13",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_cat",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_blocks",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_chirp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_far",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_mall",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_mellohi",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_stal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_strad",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_ward",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_11",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_creator_music_box",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_wait",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_rain",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_creator",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_precipice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_otherside",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_rot",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_relic",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_water_horse",
+      "count": 1
+    },
+    {
+      "id": "oreganized:music_disc_structure",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_5",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_barbaric",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_jammed",
+      "count": 1
+    },
+    {
+      "id": "spawn:music_disc_dally",
+      "count": 1
+    },
+    {
+      "id": "minecraft:music_disc_pigstep",
+      "count": 1
+    },
+    {
+      "id": "enderscape:music_disc_glare",
+      "count": 1
+    },
+    {
+      "id": "enderscape:music_disc_decay",
+      "count": 1
+    },
+    {
+      "id": "enderscape:music_disc_bliss",
+      "count": 1
+    },
+    {
+      "id": "immersiveenchanting:music_disc_arcane_memories",
+      "count": 1
+    },
+    {
+      "id": "immersiveenchanting:music_disc_biblioclasm",
+      "count": 1
+    }
+  ]
+}

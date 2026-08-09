@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 20000,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "natures_spirit:shiitake_mushroom"
+    },
+    {
+      "item": "natures_spirit:gray_polypore"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "natures_spirit:white_heather"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "minecraft:gold_nugget"
+  }
+}

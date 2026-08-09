@@ -1,0 +1,23 @@
+{
+  "name": "FancyMenu",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Wq5SjeWM",
+      "slug": "fancymenu",
+      "versionId": "stsDh7vg",
+      "versionNumber": "3.9.9-1.21.1-neoforge",
+      "filename": "fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/stsDh7vg/fancymenu_neoforge_3.9.9_MC_1.21.1.jar",
+      "sha1": "a1a2f34a7020b440355501f80c0b1c0f44710891",
+      "sha512": "f6a999d66facb1ec80d4903919d75cf12d7a18947c62f0082b56e3387af298a5e6264879166d9dbb7fad50b1dd15dd4afb9a6d4d0194717cb3f539050e61104d",
+      "fileSize": 25905174
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:natures_spirit:yellow_maple_sapling",
+    "item:minecraft:rooted_dirt"
+  ],
+  "text": "emi.info.yellow_maple_large_rooted_dirt"
+}

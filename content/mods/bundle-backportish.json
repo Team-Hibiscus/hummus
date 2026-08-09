@@ -1,0 +1,23 @@
+{
+  "name": "Bundle Backport-ish",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "91hOfmS6",
+      "slug": "bundle-backportish",
+      "versionId": "2iBt19LI",
+      "versionNumber": "1.1.4+mc1.21.1",
+      "filename": "bundle-backportish-1.1.4+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/91hOfmS6/versions/2iBt19LI/bundle-backportish-1.1.4%2Bmc1.21.1.jar",
+      "sha1": "e3d189a23f22b4ebfad3a84090661780b98c2f8a",
+      "sha512": "1a319a36ed3585ffe3c91a14da16cc618158df45c0a83f87b3939fafa25f39f6b48722fc712c32856b1acc37412df3edd21430bf4dc688b66754bf7323e462fc",
+      "fileSize": 82893
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

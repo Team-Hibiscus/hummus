@@ -1,0 +1,23 @@
+{
+  "name": "Better F1 Reborn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2JIeCmxb",
+      "slug": "better-f1-reborn",
+      "versionId": "PwZNo317",
+      "versionNumber": "1.1",
+      "filename": "betterf1-NeoForge-1.1-1.21.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2JIeCmxb/versions/PwZNo317/betterf1-NeoForge-1.1-1.21.5.jar",
+      "sha1": "43169a55c38ad29f611f08145d41250abd1cc302",
+      "sha512": "7b3ae9901c5470b0ed015754e0598dd9223b96ba8c8efd372954f5483afdbcdcbdf47b611aaeb0ac4461745dfb2c9ad8d53f6e75751d5d5e2927523ed689db00",
+      "fileSize": 6411
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

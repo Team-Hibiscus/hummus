@@ -1,0 +1,23 @@
+{
+  "name": "Emojiful",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "72GXx2MO",
+      "slug": "emojiful",
+      "versionId": "rY17Eh56",
+      "versionNumber": "1.21-5.2.4",
+      "filename": "Emojiful-Neoforge-1.21-5.2.4-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/72GXx2MO/versions/rY17Eh56/Emojiful-Neoforge-1.21-5.2.4-all.jar",
+      "sha1": "b5b72bf9a052e7c47f3be7081eec56447e9d2136",
+      "sha512": "eae8c72cab42e423299c12ddcb2eca9c4a523779627af91e45361c54111bc68fd32c5043e182d2a67ce74342b196ebbb3c34d190c5c98270b23d67704be3437c",
+      "fileSize": 259509
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

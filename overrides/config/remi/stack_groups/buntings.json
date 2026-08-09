@@ -1,0 +1,7 @@
+{
+  "id": "hummus:buntings",
+  "type": "remi:group",
+  "contents": [
+    "#supplementaries:buntings"
+  ]
+}

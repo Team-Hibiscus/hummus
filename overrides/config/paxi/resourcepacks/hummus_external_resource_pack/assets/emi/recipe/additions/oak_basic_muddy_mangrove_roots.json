@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:oak_sapling",
+    "item:minecraft:muddy_mangrove_roots"
+  ],
+  "text": "emi.info.oak_basic_muddy_mangrove_roots"
+}

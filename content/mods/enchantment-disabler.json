@@ -1,0 +1,23 @@
+{
+  "name": "Enchantment Disabler",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Kd03i2oU",
+      "slug": "enchantment-disabler",
+      "versionId": "ynDd2uXi",
+      "versionNumber": "3.4.3+1.21.1-neoforge",
+      "filename": "enchantmentdisabler-3.4.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Kd03i2oU/versions/ynDd2uXi/enchantmentdisabler-3.4.3%2B1.21.1-neoforge.jar",
+      "sha1": "97291aa42908428801a4ad41069f2a3201c22af1",
+      "sha512": "ccfbd10c4d94b52960f732dcee5c2cb98988caaa17bffea4d8c7ce682205d38b97ce14c3632b0338c7307c529c02a5bdde27ccb8d58d8894cdec31cbfba56da3",
+      "fileSize": 135113
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

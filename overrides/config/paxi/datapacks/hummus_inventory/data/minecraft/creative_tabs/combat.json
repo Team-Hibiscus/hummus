@@ -1,0 +1,2277 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:wooden_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "count": 1
+    },
+    {
+      "id": "swordish:wooden_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:wooden_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:wooden_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_sword",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_halberd",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_axe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "count": 1
+    },
+    {
+      "id": "swordish:iron_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:iron_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:iron_halberd",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_axe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "count": 1
+    },
+    {
+      "id": "swordish:golden_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:golden_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:golden_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_sword",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_halberd",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_axe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "count": 1
+    },
+    {
+      "id": "swordish:diamond_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:diamond_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:diamond_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_sword",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_halberd",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_sword",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_axe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_knife",
+      "count": 1
+    },
+    {
+      "id": "hummus:electrum_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:electrum_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:electrum_halberd",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "count": 1
+    },
+    {
+      "id": "swordish:netherite_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:netherite_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:netherite_halberd",
+      "count": 1
+    },
+    {
+      "id": "minecraft:trident",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_stone_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_boots",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_boots",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_helmet",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_chestplate",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_leggings",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_boots",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_boots",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_boots",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_helmet",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_chestplate",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_leggings",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:turtle_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:turtle_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:turtle_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:turtle_boots",
+      "count": 1
+    },
+    {
+      "id": "goated:barbaric_helmet",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_cap",
+      "count": 1
+    },
+    {
+      "id": "spawn:blue_footed_boots",
+      "count": 1
+    },
+    {
+      "id": "enderscape:drift_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wolf_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_bomb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_crystal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_charge",
+      "count": 1
+    },
+    {
+      "id": "amendments:dragon_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snowball",
+      "count": 1
+    },
+    {
+      "id": "minecraft:egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:booby_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:duck_egg",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rotten_tomato",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wind_charge",
+      "count": 1
+    },
+    {
+      "id": "hummus:knockback_stick",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crossbow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:saltbound_tablet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 2
+        }
+      }
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 3
+        }
+      }
+    },
+    {
+      "id": "oreganized:lead_bolt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:arrow",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_arrow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spectral_arrow",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cheese_arrow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rope_dart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:mundane"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:thick"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:awkward"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:night_vision"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_night_vision"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:invisibility"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_invisibility"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:leaping"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_leaping"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_leaping"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:fire_resistance"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_fire_resistance"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:swiftness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_swiftness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_swiftness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:slowness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_slowness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_slowness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:turtle_master"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_turtle_master"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_turtle_master"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water_breathing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_water_breathing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:healing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_healing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:harming"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_harming"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:poison"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_poison"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_poison"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:regeneration"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_regeneration"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_regeneration"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strength"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_strength"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_strength"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weakness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_weakness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:luck"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:slow_falling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_slow_falling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:wind_charged"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weaving"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:oozing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:infested"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:blindness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:long_blindness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:astral"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:long_astral"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:haste"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:long_haste"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "naturalist:forest_dasher"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "naturalist:long_forest_dasher"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "naturalist:strong_forest_dasher"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "enderscape:low_gravity"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "enderscape:long_low_gravity"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "enderscape:strong_low_gravity"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "hummus:strong_invisibility"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:stunning"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:long_stunning"
+        }
+      }
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:wooden_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_sword",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_sword",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_axe",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_axe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:trident",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mace",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "enderscape:end_stone_rubble_shield",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chainmail_boots",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_helmet",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_chestplate",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_leggings",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_boots",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_helmet",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_chestplate",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_leggings",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_helmet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_chestplate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherite_boots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:turtle_helmet",
+      "count": 1
+    },
+    {
+      "id": "goated:barbaric_helmet",
+      "count": 1
+    },
+    {
+      "id": "spawn:blue_footed_boots",
+      "count": 1
+    },
+    {
+      "id": "enderscape:drift_leggings",
+      "count": 1
+    },
+    {
+      "id": "minecraft:leather_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "galosphere:sterling_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:golden_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wolf_armor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:totem_of_undying",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tnt",
+      "count": 1
+    },
+    {
+      "id": "oreganized:shrapnel_bomb",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_bomb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_crystal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_charge",
+      "count": 1
+    },
+    {
+      "id": "amendments:dragon_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snowball",
+      "count": 1
+    },
+    {
+      "id": "minecraft:egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:booby_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wind_charge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crossbow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 2
+        }
+      }
+    },
+    {
+      "id": "minecraft:firework_rocket",
+      "count": 1,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 3
+        }
+      }
+    },
+    {
+      "id": "oreganized:lead_bolt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:arrow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spectral_arrow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:mundane"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:thick"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:awkward"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:night_vision"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_night_vision"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:invisibility"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_invisibility"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:leaping"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_leaping"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_leaping"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:fire_resistance"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_fire_resistance"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:swiftness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_swiftness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_swiftness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:slowness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_slowness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_slowness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:turtle_master"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_turtle_master"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_turtle_master"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:water_breathing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_water_breathing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:healing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_healing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:harming"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_harming"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:poison"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_poison"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_poison"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:regeneration"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_regeneration"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_regeneration"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strength"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_strength"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:strong_strength"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weakness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_weakness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:luck"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:slow_falling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:long_slow_falling"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:wind_charged"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:weaving"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:oozing"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "minecraft:infested"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:blindness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "mob-ai-tweaks:long_blindness"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:astral"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:long_astral"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:haste"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "galosphere:long_haste"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "naturalist:forest_dasher"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "naturalist:long_forest_dasher"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "naturalist:strong_forest_dasher"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "enderscape:low_gravity"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "enderscape:long_low_gravity"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "enderscape:strong_low_gravity"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "hummus:strong_invisibility"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:stunning"
+        }
+      }
+    },
+    {
+      "id": "minecraft:tipped_arrow",
+      "count": 1,
+      "components": {
+        "minecraft:potion_contents": {
+          "potion": "oreganized:long_stunning"
+        }
+      }
+    },
+    {
+      "id": "natures_spirit:cheese_arrow",
+      "count": 1
+    },
+    {
+      "id": "swordish:iron_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:iron_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:iron_halberd",
+      "count": 1
+    },
+    {
+      "id": "swordish:golden_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:golden_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:golden_halberd",
+      "count": 1
+    },
+    {
+      "id": "swordish:wooden_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:wooden_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:wooden_halberd",
+      "count": 1
+    },
+    {
+      "id": "swordish:netherite_dualblade",
+      "count": 1
+    },
+    {
+      "id": "swordish:netherite_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:netherite_halberd",
+      "count": 1
+    },
+    {
+      "id": "swordish:diamond_halberd",
+      "count": 1
+    },
+    {
+      "id": "swordish:diamond_glaive",
+      "count": 1
+    },
+    {
+      "id": "swordish:diamond_dualblade",
+      "count": 1
+    },
+    {
+      "id": "naturalist:duck_egg",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:flint_knife",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:iron_knife",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:golden_knife",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:diamond_knife",
+      "count": 1
+    },
+    {
+      "id": "oreganized:electrum_knife",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:netherite_knife",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rotten_tomato",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_cap",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_sword",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_boots",
+      "count": 1
+    },
+    {
+      "id": "galosphere:saltbound_tablet",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rope_dart",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_sword",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_boots",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:rose_gold_horse_armor",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_sword",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_axe",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_helmet",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_boots",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:galena_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:electrum_dualblade",
+      "count": 1
+    },
+    {
+      "id": "hummus:electrum_glaive",
+      "count": 1
+    },
+    {
+      "id": "hummus:electrum_halberd",
+      "count": 1
+    },
+    {
+      "id": "hummus:knockback_stick",
+      "count": 1
+    },
+    {
+      "id": "hummus:copper_arrow",
+      "count": 1
+    },
+    {
+      "id": "hummus:turtle_chestplate",
+      "count": 1
+    },
+    {
+      "id": "hummus:turtle_leggings",
+      "count": 1
+    },
+    {
+      "id": "hummus:turtle_boots",
+      "count": 1
+    }
+  ]
+}

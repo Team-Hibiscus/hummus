@@ -1,0 +1,23 @@
+{
+  "name": "Galosphere Trimming",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Pzuy21SU",
+      "slug": "galosphere-trimming",
+      "versionId": "LSQERL7M",
+      "versionNumber": "1.21.1-1.0-neoforge",
+      "filename": "galosphere_trimming-1.21.1-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Pzuy21SU/versions/LSQERL7M/galosphere_trimming-1.21.1-1.0.jar",
+      "sha1": "a99423f584070812c3cd810bc01bde67909cf6e2",
+      "sha512": "e9d2932bffea0378f6185a84287c37e82904bb41c4f37fa9aa368766290fb4141a91d35bd378c8247a73e48344cd5882f3bb1dd1158bd0831d77393e3fffbb68",
+      "fileSize": 141927
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

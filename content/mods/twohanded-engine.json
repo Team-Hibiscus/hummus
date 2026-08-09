@@ -1,0 +1,23 @@
+{
+  "name": "Twohanded Engine",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LMRVHxZu",
+      "slug": "twohanded-engine",
+      "versionId": "IZP73VkJ",
+      "versionNumber": "1.0.2",
+      "filename": "twohandedengine-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LMRVHxZu/versions/IZP73VkJ/twohandedengine-1.0.2.jar",
+      "sha1": "54f9a710782480b04fb1926029afcc907d2997ce",
+      "sha512": "4fbbec3e46f5e1cc5a25df26e0efd5eee3b6e454f9af0f1b19c76e8b7c57dbb513f0a14f88cbe25eca60a9c841c50e37471c79e277bd6bcf9ac96d0b3d7500fb",
+      "fileSize": 14796
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

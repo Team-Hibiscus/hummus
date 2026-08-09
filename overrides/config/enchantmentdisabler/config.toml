@@ -1,0 +1,104 @@
+# Don't change this! Version used to track needed updates.
+version = 2
+
+[disabler]
+disabledEnchantmentsV2 = [
+    [ "minecraft:respiration", { table = false, loot = false, trade = false } ],
+    [ "minecraft:aqua_affinity", { table = false, loot = false, trade = false } ],
+    [ "allurement:alleviating", { table = false, loot = false, trade = false } ],
+    [ "minecraft:protection", { table = false, loot = false, trade = false } ],
+    [ "minecraft:blast_protection", { table = false, loot = false, trade = false } ],
+    [ "minecraft:fire_protection", { table = false, loot = false, trade = false } ],
+    [ "minecraft:projectile_protection", { table = false, loot = false, trade = false } ],
+    [ "minecraft:feather_falling", { table = false, loot = false, trade = false } ],
+    [ "minecraft:thorns", { table = false, loot = false, trade = false } ],
+    [ "minecraft:looting", { table = false, loot = false, trade = false } ],
+    [ "minecraft:unbreaking", { table = false, loot = false, trade = false } ],
+    [ "minecraft:impaling", { table = false, loot = false, trade = false } ],
+    [ "minecraft:flame", { table = false, loot = false, trade = false } ],
+    [ "minecraft:fortune", { table = false, loot = false, trade = false } ],
+    [ "minecraft:knockback", { table = false, loot = false, trade = false } ],
+    [ "minecraft:lure", { table = false, loot = false, trade = false } ],
+    [ "minecraft:luck_of_the_sea", { table = false, loot = false, trade = false } ],
+    [ "minecraft:bane_of_arthropods", { table = false, loot = false, trade = false } ],
+    [ "minecraft:frost_walker", { table = false, loot = false, trade = false } ],
+    [ "minecraft:efficiency", { table = false, loot = false, trade = false } ],
+    [ "minecraft:sweeping_edge", { table = false, loot = false, trade = false } ],
+    [ "minecraft:smite", { table = false, loot = false, trade = false } ],
+    [ "minecraft:mending", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:power", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:piercing", { table = false, loot = false, trade = false } ],
+    [ "minecraft:silk_touch", { table = false, loot = false, trade = false } ],
+    [ "minecraft:fire_aspect", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:multishot", { table = false, loot = false, trade = false } ],
+    [ "allurement:reeling", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:photosynthesis", { table = false, loot = false, trade = false } ],
+    [ "allurement:reforming", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:illagers_bane", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:wax_wings", { table = false, loot = false, trade = false } ],
+    [ "galosphere:sustain", { table = false, loot = false, trade = false } ],
+    [ "galosphere:enfeeble", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:antidote", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:ghasted", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:wither_coated", { table = false, loot = false, trade = false } ],
+    [ "galosphere:sifting", { table = false, loot = false, trade = false } ],
+    [ "darkerdepths:swift_strike", { table = false, loot = false, trade = false } ],
+    [ "darkerdepths:quick_dash", { table = false, loot = false, trade = false } ],
+    [ "allurement:launch", { table = false, loot = false, trade = false } ],
+    [ "minecraft:punch", { table = false, loot = false, trade = false } ],
+    [ "minecraft:sharpness", { table = false, loot = false, trade = false } ],
+    [ "minecraft:power", { table = false, loot = false, trade = false } ],
+    [ "allurement:ascension_curse", { table = false, loot = false, trade = false } ],
+    [ "minecraft:depth_strider", { table = false, loot = false, trade = false } ],
+    [ "minecraft:piercing", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:conductivity_curse", { table = false, loot = false, trade = false } ],
+    [ "farmersdelight:backstabbing", { table = false, loot = false, trade = false } ],
+    [ "galosphere:rupture", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:after_burner", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:auto_loading_holster", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:blasting_impression", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:descent", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:despise", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:featherweight_munitions", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:full_auto_retrofit", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:grappling_bobber", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:kick_back", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:perfect_parry", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:recall", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:vorpal_weapon", { table = false, loot = false, trade = false } ],
+    [ "mob-ai-tweaks:withering_munitions", { table = false, loot = false, trade = false } ],
+    [ "nova_structures:outreach", { table = false, loot = false, trade = false } ],
+    [ "minecraft:infinity", { table = false, loot = false, trade = false } ],
+    [ "minecraft:multishot", { table = false, loot = false, trade = false } ],
+    [ "minecraft:quick_charge", { table = false, loot = false, trade = false } ]
+]
+disabledEnchantments = [  ]
+
+[maxLevel]
+maxLevels = [  ]
+globalMaxLevel = 0
+limitObtainableEnchantmentLevel = false
+obtainableEnchantmentLevels = [  ]
+
+[trades]
+limitBookTradeLevel = false
+bookTradeLevelLimit = 5
+modifyEnchantedBookTradeUses = false
+maxEnchantedBookTradeUses = 12
+modifyEnchantedItemTradeUses = false
+maxEnchantedItemTradeUses = 3
+enchantedBookTradeRestockEnabled = true
+enchantedItemTradeRestockEnabled = true
+
+[enchantingTable]
+enchantingTableEnabled = true
+modifyMaxTablePower = false
+maxTablePower = 15
+modifyLapisCost = false
+lapisCostFormula = "i+1"
+modifyXpCost = false
+xpCostFormula = "i+1"
+
+[loot]
+modifyEnchantWithLevelsMaxPower = false
+enchantWithLevelsMaxPower = 50

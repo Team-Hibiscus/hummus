@@ -1,0 +1,5097 @@
+{
+  "format": 1,
+  "items": [
+    {
+      "id": "minecraft:grass_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:podzol",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mycelium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dirt_path",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dirt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coarse_dirt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rooted_dirt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:farmland",
+      "count": 1
+    },
+    {
+      "id": "galosphere:tuff_dirt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mole_burrow",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rich_soil",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rich_soil_farmland",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:organic_compost",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sandy_soil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:clay",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gravel",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:raked_gravel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sand",
+      "count": 1
+    },
+    {
+      "id": "spawn:algal_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:blasted_sand",
+      "count": 1
+    },
+    {
+      "id": "spawn:blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_sand",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:packed_ice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_ice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snow_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:coarse_snow",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lichen_moss",
+      "count": 1
+    },
+    {
+      "id": "minecraft:moss_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_moss_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:red_algae_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:hazy_algae_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "id": "oreganized:glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:spotted_glance",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:arid_deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:granite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diorite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:andesite",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:travertine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert",
+      "count": 1
+    },
+    {
+      "id": "minecraft:calcite",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:calcite_cluster",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:large_calcite_bud",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:small_calcite_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pointed_dripstone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nebulite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:myonite",
+      "count": 1
+    },
+    {
+      "id": "spawn:reefstone",
+      "count": 1
+    },
+    {
+      "id": "naturalist:shellstone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:geyser",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:magma_pad",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:stone_melon",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:dead_living_crystal",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:living_crystal",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:crystal_melon",
+      "count": 1
+    },
+    {
+      "id": "minecraft:prismarine",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_of_the_sun",
+      "count": 1
+    },
+    {
+      "id": "spawn:heliostone",
+      "count": 1
+    },
+    {
+      "id": "spawn:unstable_heliostone",
+      "count": 1
+    },
+    {
+      "id": "spawn:magmatic_splatter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magma_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crying_obsidian",
+      "count": 1
+    },
+    {
+      "id": "hummus:obsidian_glass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherrack",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_nylium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_nylium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bone_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_bone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_overgrowth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_path_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:corrupt_overgrowth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:corrupt_path_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "enderscape:void_shale",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coal_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_coal_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_coal_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_iron_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_iron_ore",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_ore",
+      "count": 1
+    },
+    {
+      "id": "galosphere:deepslate_palladium_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_copper_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_copper_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:deepslate_lead_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gold_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_gold_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_gold_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:silver_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:deepslate_silver_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:emerald_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_emerald_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_emerald_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lapis_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_lapis_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_lapis_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_diamond_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_diamond_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_gold_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_quartz_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ancient_debris",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_shadoline_ore",
+      "count": 1
+    },
+    {
+      "id": "enderscape:shadoline_ore",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_nebulite_ore",
+      "count": 1
+    },
+    {
+      "id": "enderscape:nebulite_ore",
+      "count": 1
+    },
+    {
+      "id": "hummus:lumiglass",
+      "count": 1
+    },
+    {
+      "id": "hummus:lumistone_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:raw_copper_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:raw_iron_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:raw_lead_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:raw_palladium_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:raw_gold_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:raw_shadoline_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:raw_silver_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "id": "glow:glowstone_prism",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:moonstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:budding_amethyst",
+      "count": 1
+    },
+    {
+      "id": "minecraft:small_amethyst_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:medium_amethyst_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:large_amethyst_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glinted_amethyst_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glinted_allurite_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glinted_lumiere_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_straw",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_cluster",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:amber_block",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:amber_cluster",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heliodor_rod",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ekanite_rod",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:monazite_rod",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:muddy_mangrove_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:maple_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_log",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_log",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_log",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mushroom_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_stem",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_stem",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_heart",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_stem",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_leaves",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_leaves",
+      "count": 1
+    },
+    {
+      "id": "spawn:dangling_date_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:frosty_redwood_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_purple_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_white_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_blue_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_pink_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:frosty_fir_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_aspen_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_maple_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_maple_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_maple_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:azalea_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flowering_azalea_leaves",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_leaves",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_vines",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_leaf_pile",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_mushroom_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_mushroom_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:shiitake_mushroom_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_polypore_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_wart_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_wart_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shroomlight",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:desert_turnip_root_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:desert_turnip_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_cap",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_cap",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_block",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:blightwart_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_sapling",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_seed",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_maple_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_maple_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_maple_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_sprout",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_sapling",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_sapling",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:azalea",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flowering_azalea",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_mushroom",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_mushroom_colony",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_mushroom",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_mushroom_colony",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:shiitake_mushroom",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:shiitake_mushroom_colony",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_polypore",
+      "count": 1
+    },
+    {
+      "id": "galosphere:bowl_lichen",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_fungus",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fungus",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_shelf",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_chanterelle",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_chanterelle",
+      "count": 1
+    },
+    {
+      "id": "spawn:red_algae",
+      "count": 1
+    },
+    {
+      "id": "minecraft:short_grass",
+      "count": 1
+    },
+    {
+      "id": "spawn:short_windswept_grass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:beach_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:scorched_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sedge_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:flaxen_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:oat_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lush_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:melic_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:frigid_grass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bush",
+      "count": 1
+    },
+    {
+      "id": "spawn:fallen_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dandelion",
+      "count": 1
+    },
+    {
+      "id": "minecraft:poppy",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_orchid",
+      "count": 1
+    },
+    {
+      "id": "minecraft:allium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cornflower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "count": 1
+    },
+    {
+      "id": "oreganized:purple_datura",
+      "count": 1
+    },
+    {
+      "id": "oreganized:datura",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:marigold",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:bluebell",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tiger_lily",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wildflower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_wildflower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_heather",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_heather",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_heather",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:anemone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:dwarf_blossoms",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:protea",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:hibiscus",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_iris",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_iris",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ruby_blossoms",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:silverbush",
+      "count": 1
+    },
+    {
+      "id": "minecraft:torchflower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wither_rose",
+      "count": 1
+    },
+    {
+      "id": "spawn:zombified_flower",
+      "count": 1
+    },
+    {
+      "id": "spawn:tropical_wildflowers",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_petals",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spore_blossom",
+      "count": 1
+    },
+    {
+      "id": "hummus:charged_spore_blossom",
+      "count": 1
+    },
+    {
+      "id": "spawn:spring_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:summer_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:fall_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:winter_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_branch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sugar_cane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cactus",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_bunch",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:alluaudia",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:alluaudia_bundle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia_bundle",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lichen_shelf",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lichen_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_sprouts",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weeping_vines",
+      "count": 1
+    },
+    {
+      "id": "minecraft:twisting_vines",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soul_spore",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:glowing_soul_spore",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_sprouts",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:blistercrown",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:tall_blistercrown",
+      "count": 1
+    },
+    {
+      "id": "enderscape:blinklight",
+      "count": 1
+    },
+    {
+      "id": "enderscape:corrupt_growth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:bulb_flower",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_growth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:wisp_flower",
+      "count": 1
+    },
+    {
+      "id": "enderscape:wisp_growth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:wisp_sprouts",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chorus_sprouts",
+      "count": 1
+    },
+    {
+      "id": "enderscape:dry_end_growth",
+      "count": 1
+    },
+    {
+      "id": "minecraft:vine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tall_grass",
+      "count": 1
+    },
+    {
+      "id": "spawn:tall_windswept_grass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:large_fern",
+      "count": 1
+    },
+    {
+      "id": "spawn:broad_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cattail",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_frigid_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_scorched_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_beach_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_sedge_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:large_flaxen_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_oat_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:large_lush_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_melic_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_bearberries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_bearberries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_bearberries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_bitter_sprouts",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_bitter_sprouts",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_bitter_sprouts",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:sandy_shrub",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_cabbages",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_onions",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_tomatoes",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_carrots",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_potatoes",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_beetroots",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_rice",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunflower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lilac",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rose_bush",
+      "count": 1
+    },
+    {
+      "id": "minecraft:peony",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lavender",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:bleeding_heart",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_bulbs",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:carnation",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gardenia",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:snapdragon",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:foxglove",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:begonia",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pitcher_plant",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ornate_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:drowsy_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aureate_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sage_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:foamy_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:imperial_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:regal_succulent",
+      "count": 1
+    },
+    {
+      "id": "minecraft:big_dripleaf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:small_dripleaf",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowspurs",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:mossy_sprouts",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glimmering_vines",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chorus_plant",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chorus_flower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:barnacles",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hanging_roots",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_roots",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:dry_sprouts",
+      "count": 1
+    },
+    {
+      "id": "minecraft:frogspawn",
+      "count": 1
+    },
+    {
+      "id": "spawn:snail_eggs",
+      "count": 1
+    },
+    {
+      "id": "minecraft:turtle_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:alligator_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:tortoise_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:iguana_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:marine_iguana_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sniffer_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:dried_hamster",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "spawn:hamster"
+        }
+      }
+    },
+    {
+      "id": "minecraft:wheat_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cocoa_beans",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pumpkin_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:melon_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:beetroot_seeds",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rice",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cabbage_seeds",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunflower_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:torchflower_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pitcher_pod",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_berries",
+      "count": 1
+    },
+    {
+      "id": "naturalist:glow_goop",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sweet_berries",
+      "count": 1
+    },
+    {
+      "id": "spawn:potted_sweet_berries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_wart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:helvola_pad",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:helvola_flower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lotus_flower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lotus_stem",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:azolla",
+      "count": 1
+    },
+    {
+      "id": "minecraft:seagrass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sea_pickle",
+      "count": 1
+    },
+    {
+      "id": "spawn:big_sea_pickle",
+      "count": 1
+    },
+    {
+      "id": "spawn:barnacle_cluster",
+      "count": 1
+    },
+    {
+      "id": "spawn:barnacle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:kelp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dried_kelp_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_urchin",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_star",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_bunny",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_sea_urchin",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_sea_star",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tube_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brain_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bubble_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:wax_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:thorn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:spike_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:reed_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_tube_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_brain_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_fire_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_horn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_wax_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_thorn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_spike_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_heart_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_reed_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tube_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brain_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bubble_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horn_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:wax_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:thorn_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:spike_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:reed_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_tube_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_brain_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bubble_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_fire_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_horn_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_horn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_wax_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_thorn_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_spike_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_heart_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_reed_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tube_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brain_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bubble_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:wax_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:thorn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:spike_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:reed_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_tube_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_brain_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_fire_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_wax_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_thorn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_spike_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_heart_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_reed_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sponge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wet_sponge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:melon",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pumpkin",
+      "count": 1
+    },
+    {
+      "id": "minecraft:carved_pumpkin",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jack_o_lantern",
+      "count": 1
+    },
+    {
+      "id": "enderscape:flanger_berry_flower",
+      "count": 1
+    },
+    {
+      "id": "enderscape:unripe_flanger_berry_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:ripe_flanger_berry_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hay_block",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rice_bale",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:straw_bale",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:carrot_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:potato_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:beetroot_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cabbage_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tomato_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:onion_crate",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:desert_turnip_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rice_bag",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:bread_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:crustless_bread_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bee_nest",
+      "count": 1
+    },
+    {
+      "id": "minecraft:honeycomb_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:anthill",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log_anthill",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_mound",
+      "count": 1
+    },
+    {
+      "id": "spawn:moray_crevice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:slime_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:honey_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:mucus_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:big_snail_shell",
+      "count": 1
+    },
+    {
+      "id": "enderscape:drift_jelly_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ochre_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "count": 1
+    },
+    {
+      "id": "naturalist:crimson_froglass",
+      "count": 1
+    },
+    {
+      "id": "naturalist:crimson_froglass_pane",
+      "count": 1
+    },
+    {
+      "id": "naturalist:verdant_froglass",
+      "count": 1
+    },
+    {
+      "id": "naturalist:verdant_froglass_pane",
+      "count": 1
+    },
+    {
+      "id": "naturalist:azure_froglass",
+      "count": 1
+    },
+    {
+      "id": "naturalist:azure_froglass_pane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_vein",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_catalyst",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_shrieker",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_sensor",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ender_pearl_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nub_of_ender",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:scorched_remains_block",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:scorched_remains",
+      "count": 1
+    },
+    {
+      "id": "galosphere:cured_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entrails",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:rotten_flesh_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobweb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bedrock",
+      "count": 1
+    }
+  ],
+  "search_items": [
+    {
+      "id": "minecraft:grass_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:podzol",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mycelium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dirt_path",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dirt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coarse_dirt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rooted_dirt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:farmland",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sandy_soil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:clay",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gravel",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sand",
+      "count": 1
+    },
+    {
+      "id": "spawn:algal_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sandstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_sandstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:blasted_sand",
+      "count": 1
+    },
+    {
+      "id": "spawn:blasted_sandstone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:packed_ice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_ice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snow_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:snow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lichen_moss",
+      "count": 1
+    },
+    {
+      "id": "minecraft:moss_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:red_algae_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:hazy_algae_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_moss_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "id": "oreganized:glance",
+      "count": 1
+    },
+    {
+      "id": "oreganized:spotted_glance",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate",
+      "count": 1
+    },
+    {
+      "id": "minecraft:granite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diorite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:andesite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:calcite",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tuff",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dripstone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pointed_dripstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:prismarine",
+      "count": 1
+    },
+    {
+      "id": "minecraft:magma_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crying_obsidian",
+      "count": 1
+    },
+    {
+      "id": "minecraft:netherrack",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_nylium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_nylium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_sand",
+      "count": 1
+    },
+    {
+      "id": "minecraft:soul_soil",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bone_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blackstone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:smooth_basalt",
+      "count": 1
+    },
+    {
+      "id": "minecraft:end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_end_stone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_overgrowth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_path_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone",
+      "count": 1
+    },
+    {
+      "id": "enderscape:corrupt_overgrowth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:corrupt_path_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veradite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:kurodite",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:alluring_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia",
+      "count": 1
+    },
+    {
+      "id": "enderscape:repulsive_magnia_sprout",
+      "count": 1
+    },
+    {
+      "id": "enderscape:void_shale",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coal_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_coal_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_coal_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_iron_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_iron_ore",
+      "count": 1
+    },
+    {
+      "id": "galosphere:palladium_ore",
+      "count": 1
+    },
+    {
+      "id": "galosphere:deepslate_palladium_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:copper_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_copper_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_copper_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:lead_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:deepslate_lead_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:gold_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_gold_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_gold_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:silver_ore",
+      "count": 1
+    },
+    {
+      "id": "oreganized:deepslate_silver_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_redstone_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:emerald_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_emerald_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_emerald_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lapis_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_lapis_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_lapis_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_ore",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:chert_diamond_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:deepslate_diamond_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_gold_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_quartz_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ancient_debris",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_shadoline_ore",
+      "count": 1
+    },
+    {
+      "id": "enderscape:shadoline_ore",
+      "count": 1
+    },
+    {
+      "id": "enderscape:mirestone_nebulite_ore",
+      "count": 1
+    },
+    {
+      "id": "enderscape:nebulite_ore",
+      "count": 1
+    },
+    {
+      "id": "minecraft:raw_iron_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:raw_copper_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:raw_lead_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:raw_gold_block",
+      "count": 1
+    },
+    {
+      "id": "oreganized:raw_silver_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:raw_palladium_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:raw_shadoline_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glowstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunstone",
+      "count": 1
+    },
+    {
+      "id": "spawn:moonstone",
+      "count": 1
+    },
+    {
+      "id": "glow:glowstone_prism",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:budding_amethyst",
+      "count": 1
+    },
+    {
+      "id": "minecraft:small_amethyst_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:medium_amethyst_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:large_amethyst_bud",
+      "count": 1
+    },
+    {
+      "id": "minecraft:amethyst_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glinted_amethyst_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:allurite_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glinted_allurite_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lumiere_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:glinted_lumiere_cluster",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:muddy_mangrove_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_log",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mushroom_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_stem",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_stem",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_leaves",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_leaves",
+      "count": 1
+    },
+    {
+      "id": "spawn:dangling_date_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:frosty_redwood_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_purple_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_white_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_blue_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:part_pink_wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:frosty_fir_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_aspen_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_maple_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_maple_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_maple_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:azalea_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flowering_azalea_leaves",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_vines",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_leaf_pile",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_mushroom_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_mushroom_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:shiitake_mushroom_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_polypore_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_wart_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_wart_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:shroomlight",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:desert_turnip_root_block",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:desert_turnip_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_cap",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_cap",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:birch_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jungle_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:acacia_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dark_oak_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:mangrove_propagule",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cherry_sapling",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_seed",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:redwood_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sugi_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_wisteria_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:fir_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aspen_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_maple_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:orange_maple_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_maple_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cypress_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:joshua_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ghaf_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:palo_verde_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cedar_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:larch_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:mahogany_sapling",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:saxaul_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:azalea",
+      "count": 1
+    },
+    {
+      "id": "minecraft:flowering_azalea",
+      "count": 1
+    },
+    {
+      "id": "enderscape:veiled_sapling",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brown_mushroom",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_mushroom",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:shiitake_mushroom",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gray_polypore",
+      "count": 1
+    },
+    {
+      "id": "galosphere:bowl_lichen",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_fungus",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_fungus",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_shelf",
+      "count": 1
+    },
+    {
+      "id": "enderscape:murublight_chanterelle",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_chanterelle",
+      "count": 1
+    },
+    {
+      "id": "spawn:red_algae",
+      "count": 1
+    },
+    {
+      "id": "minecraft:short_grass",
+      "count": 1
+    },
+    {
+      "id": "spawn:short_windswept_grass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:beach_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:scorched_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sedge_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:flaxen_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:oat_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lush_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:melic_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:frigid_grass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bush",
+      "count": 1
+    },
+    {
+      "id": "spawn:fallen_leaves",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dandelion",
+      "count": 1
+    },
+    {
+      "id": "minecraft:poppy",
+      "count": 1
+    },
+    {
+      "id": "minecraft:blue_orchid",
+      "count": 1
+    },
+    {
+      "id": "minecraft:allium",
+      "count": 1
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "count": 1
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cornflower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "count": 1
+    },
+    {
+      "id": "oreganized:purple_datura",
+      "count": 1
+    },
+    {
+      "id": "oreganized:datura",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:marigold",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:bluebell",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tiger_lily",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wildflower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:yellow_wildflower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_heather",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_heather",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_heather",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:anemone",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:dwarf_blossoms",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:protea",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:hibiscus",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_iris",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:black_iris",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ruby_blossoms",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:silverbush",
+      "count": 1
+    },
+    {
+      "id": "minecraft:torchflower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wither_rose",
+      "count": 1
+    },
+    {
+      "id": "spawn:zombified_flower",
+      "count": 1
+    },
+    {
+      "id": "spawn:tropical_wildflowers",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pink_petals",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spore_blossom",
+      "count": 1
+    },
+    {
+      "id": "spawn:spring_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:summer_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:fall_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:winter_dragon_reeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bamboo",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:olive_branch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sugar_cane",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cactus",
+      "count": 1
+    },
+    {
+      "id": "spawn:date_bunch",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:alluaudia",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:alluaudia_bundle",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:stripped_alluaudia_bundle",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lichen_shelf",
+      "count": 1
+    },
+    {
+      "id": "galosphere:lichen_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:crimson_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:warped_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_sprouts",
+      "count": 1
+    },
+    {
+      "id": "minecraft:weeping_vines",
+      "count": 1
+    },
+    {
+      "id": "minecraft:twisting_vines",
+      "count": 1
+    },
+    {
+      "id": "enderscape:blinklight",
+      "count": 1
+    },
+    {
+      "id": "enderscape:corrupt_growth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:bulb_flower",
+      "count": 1
+    },
+    {
+      "id": "enderscape:celestial_growth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:wisp_flower",
+      "count": 1
+    },
+    {
+      "id": "enderscape:wisp_growth",
+      "count": 1
+    },
+    {
+      "id": "enderscape:wisp_sprouts",
+      "count": 1
+    },
+    {
+      "id": "enderscape:chorus_sprouts",
+      "count": 1
+    },
+    {
+      "id": "enderscape:dry_end_growth",
+      "count": 1
+    },
+    {
+      "id": "minecraft:vine",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:willow_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:white_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:pink_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_wisteria_vines",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tall_grass",
+      "count": 1
+    },
+    {
+      "id": "spawn:tall_windswept_grass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:large_fern",
+      "count": 1
+    },
+    {
+      "id": "spawn:broad_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:cattail",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_frigid_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_scorched_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_beach_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_sedge_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:large_flaxen_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_oat_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:large_lush_fern",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:tall_melic_grass",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_bearberries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_bearberries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_bearberries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:green_bitter_sprouts",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:red_bitter_sprouts",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:purple_bitter_sprouts",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunflower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lilac",
+      "count": 1
+    },
+    {
+      "id": "minecraft:rose_bush",
+      "count": 1
+    },
+    {
+      "id": "minecraft:peony",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lavender",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:bleeding_heart",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:blue_bulbs",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:carnation",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:gardenia",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:snapdragon",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:foxglove",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:begonia",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pitcher_plant",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:ornate_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:drowsy_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:aureate_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:sage_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:foamy_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:imperial_succulent",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:regal_succulent",
+      "count": 1
+    },
+    {
+      "id": "minecraft:big_dripleaf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:small_dripleaf",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chorus_plant",
+      "count": 1
+    },
+    {
+      "id": "minecraft:chorus_flower",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hanging_roots",
+      "count": 1
+    },
+    {
+      "id": "minecraft:frogspawn",
+      "count": 1
+    },
+    {
+      "id": "spawn:snail_eggs",
+      "count": 1
+    },
+    {
+      "id": "minecraft:turtle_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:iguana_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:marine_iguana_egg",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sniffer_egg",
+      "count": 1
+    },
+    {
+      "id": "spawn:dried_hamster",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "spawn:hamster"
+        }
+      }
+    },
+    {
+      "id": "minecraft:wheat_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cocoa_beans",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pumpkin_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:melon_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:beetroot_seeds",
+      "count": 1
+    },
+    {
+      "id": "spawn:sunflower_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:torchflower_seeds",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pitcher_pod",
+      "count": 1
+    },
+    {
+      "id": "minecraft:glow_berries",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sweet_berries",
+      "count": 1
+    },
+    {
+      "id": "spawn:potted_sweet_berries",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut",
+      "count": 1
+    },
+    {
+      "id": "minecraft:nether_wart",
+      "count": 1
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:helvola_pad",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:helvola_flower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lotus_flower",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:lotus_stem",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:azolla",
+      "count": 1
+    },
+    {
+      "id": "minecraft:seagrass",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sea_pickle",
+      "count": 1
+    },
+    {
+      "id": "spawn:big_sea_pickle",
+      "count": 1
+    },
+    {
+      "id": "spawn:barnacle_cluster",
+      "count": 1
+    },
+    {
+      "id": "spawn:barnacle",
+      "count": 1
+    },
+    {
+      "id": "minecraft:kelp",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dried_kelp_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_urchin",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_star",
+      "count": 1
+    },
+    {
+      "id": "spawn:sea_bunny",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_sea_urchin",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_sea_star",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tube_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brain_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bubble_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_tube_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_brain_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_fire_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_horn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tube_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brain_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bubble_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horn_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_tube_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_brain_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bubble_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_fire_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_horn_coral",
+      "count": 1
+    },
+    {
+      "id": "minecraft:tube_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:brain_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bubble_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:fire_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:horn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_tube_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_brain_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_bubble_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_fire_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:dead_horn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:wax_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:thorn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:spike_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:reed_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_wax_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_thorn_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_spike_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_heart_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_reed_coral_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:wax_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:thorn_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:spike_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:reed_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_wax_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_thorn_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_spike_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_heart_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_reed_coral",
+      "count": 1
+    },
+    {
+      "id": "spawn:wax_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:thorn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:spike_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:reed_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_wax_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_thorn_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_spike_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_heart_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "spawn:dead_reed_coral_fan",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sponge",
+      "count": 1
+    },
+    {
+      "id": "minecraft:wet_sponge",
+      "count": 1
+    },
+    {
+      "id": "spawn:heart_of_the_sun",
+      "count": 1
+    },
+    {
+      "id": "spawn:heliostone",
+      "count": 1
+    },
+    {
+      "id": "spawn:unstable_heliostone",
+      "count": 1
+    },
+    {
+      "id": "spawn:magmatic_splatter",
+      "count": 1
+    },
+    {
+      "id": "minecraft:melon",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pumpkin",
+      "count": 1
+    },
+    {
+      "id": "minecraft:carved_pumpkin",
+      "count": 1
+    },
+    {
+      "id": "minecraft:jack_o_lantern",
+      "count": 1
+    },
+    {
+      "id": "enderscape:flanger_berry_flower",
+      "count": 1
+    },
+    {
+      "id": "enderscape:unripe_flanger_berry_block",
+      "count": 1
+    },
+    {
+      "id": "enderscape:ripe_flanger_berry_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:hay_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bee_nest",
+      "count": 1
+    },
+    {
+      "id": "minecraft:honeycomb_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:anthill",
+      "count": 1
+    },
+    {
+      "id": "spawn:rotten_log_anthill",
+      "count": 1
+    },
+    {
+      "id": "spawn:ant_mound",
+      "count": 1
+    },
+    {
+      "id": "spawn:moray_crevice",
+      "count": 1
+    },
+    {
+      "id": "minecraft:slime_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:honey_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:mucus_block",
+      "count": 1
+    },
+    {
+      "id": "spawn:big_snail_shell",
+      "count": 1
+    },
+    {
+      "id": "enderscape:drift_jelly_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ochre_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:verdant_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:pearlescent_froglight",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_vein",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_catalyst",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_shrieker",
+      "count": 1
+    },
+    {
+      "id": "minecraft:sculk_sensor",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobweb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bedrock",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_sapling",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_leaves",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:wisteria_leaves",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:coarse_snow",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:withered_bone_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nub_of_ender",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ender_pearl_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:entrails",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:calcite_cluster",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:large_calcite_bud",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:small_calcite_bud",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:onyx",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:nebulite",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:hadaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:abyssaline",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:esoterrack",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:bread_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:crustless_bread_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:twisted_log",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonshale",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:myonite",
+      "count": 1
+    },
+    {
+      "id": "spawn:reefstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:sunstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:moonstone",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:rotten_flesh_block",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:heliodor_rod",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:ekanite_rod",
+      "count": 1
+    },
+    {
+      "id": "architects_palette:monazite_rod",
+      "count": 1
+    },
+    {
+      "id": "natures_spirit:coconut_sprout",
+      "count": 1
+    },
+    {
+      "id": "naturalist:alligator_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:tortoise_egg",
+      "count": 1
+    },
+    {
+      "id": "naturalist:glow_goop",
+      "count": 1
+    },
+    {
+      "id": "naturalist:azure_froglass",
+      "count": 1
+    },
+    {
+      "id": "naturalist:verdant_froglass",
+      "count": 1
+    },
+    {
+      "id": "naturalist:crimson_froglass",
+      "count": 1
+    },
+    {
+      "id": "naturalist:azure_froglass_pane",
+      "count": 1
+    },
+    {
+      "id": "naturalist:verdant_froglass_pane",
+      "count": 1
+    },
+    {
+      "id": "naturalist:crimson_froglass_pane",
+      "count": 1
+    },
+    {
+      "id": "naturalist:shellstone",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rice_bale",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:straw_bale",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:carrot_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:potato_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:beetroot_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cabbage_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tomato_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:onion_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rice_bag",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:organic_compost",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rich_soil",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rich_soil_farmland",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:desert_turnip_crate",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:sandy_shrub",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_cabbages",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_onions",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_tomatoes",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_carrots",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_potatoes",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_beetroots",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:wild_rice",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:brown_mushroom_colony",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:red_mushroom_colony",
+      "count": 1
+    },
+    {
+      "id": "natures_delight:shiitake_mushroom_colony",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:rice",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:cabbage_seeds",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tomato_seeds",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:aridrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:duskrock",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:arid_deepslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_roots",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:dry_sprouts",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:amber_block",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:amber_cluster",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:darkslate",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:geyser",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:magma_pad",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:scorched_remains",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:scorched_remains_block",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:stone_melon",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:dead_living_crystal",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:living_crystal",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:crystal_melon",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:grimestone",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:petrified_log",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_block",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_stem",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom_heart",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowshroom",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glowspurs",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:mossy_sprouts",
+      "count": 1
+    },
+    {
+      "id": "darkerdepths:glimmering_vines",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soul_spore",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:glowing_soul_spore",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_fungus",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_sprouts",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:blistercrown",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:tall_blistercrown",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:whistlecane",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:soulblight_stem",
+      "count": 1
+    },
+    {
+      "id": "gardens_of_the_dead:blightwart_block",
+      "count": 1
+    },
+    {
+      "id": "galosphere:tuff_dirt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:mole_burrow",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:rose_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pastel_pink_salt",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_straw",
+      "count": 1
+    },
+    {
+      "id": "galosphere:pink_salt_cluster",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_log",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_leaves",
+      "count": 1
+    },
+    {
+      "id": "galosphere:opal_sapling",
+      "count": 1
+    },
+    {
+      "id": "galosphere:cured_membrane_block",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:raked_gravel",
+      "count": 1
+    },
+    {
+      "id": "supplementaries:barnacles",
+      "count": 1
+    },
+    {
+      "id": "hummus:lumiglass",
+      "count": 1
+    },
+    {
+      "id": "hummus:lumistone_ore",
+      "count": 1
+    },
+    {
+      "id": "hummus:obsidian_glass",
+      "count": 1
+    },
+    {
+      "id": "hummus:charged_spore_blossom",
+      "count": 1
+    }
+  ]
+}

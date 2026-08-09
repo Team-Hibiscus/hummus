@@ -1,0 +1,23 @@
+{
+  "name": "Re-Locate",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7wwdCOX8",
+      "slug": "relocate",
+      "versionId": "zFmaAqfk",
+      "versionNumber": "1.2.0",
+      "filename": "relocate-1.2.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7wwdCOX8/versions/zFmaAqfk/relocate-1.2.0-neoforge-1.21.1.jar",
+      "sha1": "893cbb884ffa0365c887310c6244c9404140e176",
+      "sha512": "b319429b65e6e3d29b8dbcc5038d8a26ca8242d2f2eb3cf6954ae27e9dacc476c66a45f371187a5fa041a7b50fe4d566f9404974461e553c703999ace412d1ae",
+      "fileSize": 1005498
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

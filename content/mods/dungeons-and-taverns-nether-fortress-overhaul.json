@@ -1,0 +1,23 @@
+{
+  "name": "Dungeons and Taverns Nether Fortress Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8Dbnvm77",
+      "slug": "dungeons-and-taverns-nether-fortress-overhaul",
+      "versionId": "gFOIlzcw",
+      "versionNumber": "v2.4+mod",
+      "filename": "dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8Dbnvm77/versions/gFOIlzcw/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar",
+      "sha1": "d67696f0b02512243387b8bba9d7d1376eaa8150",
+      "sha512": "f4a391c76f29b4bb4f10c18882ff085ce518bc936fbd01c7ca406267788bc70591c0b1ed53f26b3b77dbf746b17a45b6eccf3092d9eb2024b0a8de0b463c9bfc",
+      "fileSize": 1774665
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

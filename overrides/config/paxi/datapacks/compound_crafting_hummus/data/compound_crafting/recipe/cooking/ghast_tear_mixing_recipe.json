@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 1000,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:pickerelweed"
+    },
+    {
+      "item": "natures_spirit:melic_grass"
+    },
+    {
+      "item": "natures_spirit:tiger_lily"
+    },
+    {
+      "item": "natures_spirit:regal_succulent"
+    },
+    {
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "item": "natures_spirit:desert_turnip"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "minecraft:ghast_tear"
+  }
+}

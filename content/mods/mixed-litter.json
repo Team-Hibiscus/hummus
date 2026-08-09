@@ -1,0 +1,23 @@
+{
+  "name": "Mixed Litter",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cU1kDASI",
+      "slug": "mixed-litter",
+      "versionId": "79yyzlTc",
+      "versionNumber": "1.2.2",
+      "filename": "mixed_litter-1.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cU1kDASI/versions/79yyzlTc/mixed_litter-1.2.2.jar",
+      "sha1": "8565909bc8045ebbca0068615d6756523bcafe83",
+      "sha512": "59492b84340939f06aa34db4ad3181785a4d69e7461cc02b30e19853d17e15036338e6fb3cd90ae731bd6f0a858c072888420e18230c26e9a309a97f8ef7005c",
+      "fileSize": 180414
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

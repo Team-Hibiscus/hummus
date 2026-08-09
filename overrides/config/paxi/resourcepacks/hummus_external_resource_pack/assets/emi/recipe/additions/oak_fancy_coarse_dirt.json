@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:oak_sapling",
+    "item:minecraft:coarse_dirt"
+  ],
+  "text": "emi.info.oak_fancy_coarse_dirt"
+}
