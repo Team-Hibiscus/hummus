@@ -96,7 +96,7 @@
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.7`
 - [Spyglass Improvements](https://modrinth.com/project/spyglass-improvements) `1.5.7+mc1.21+neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.30+mc1.21.1`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.6.8`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.8`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [TerraBlenderFix](https://modrinth.com/project/terrablenderfix) `0.0.1`
 - [The Beyond](https://modrinth.com/project/the-beyond) `0.0.5-InDev`

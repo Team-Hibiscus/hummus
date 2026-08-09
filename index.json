@@ -318,7 +318,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "7b5622222435b6c00c6a21c2dc94fbece4c57e0a"
+      "sha1": "cff4d8ef27d4d9f153e61bf915faf3300bf6c245"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -438,7 +438,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "66b17d933f81219cd96fe359742eacf8bc3a8589"
+      "sha1": "cda1a7a80e957d3be01a4fabe0f424fa7d35f229"
     },
     {
       "path": "content/mods/surveyor.json",
@@ -533,6 +533,10 @@
       "sha1": "d003ac52fc607af8172090d11a4facc137b2bf74"
     },
     {
+      "path": "overrides/config/bettertridents-server.toml",
+      "sha1": "9e4c7c798b05a275ab002b02ffeaa2c2163eaa77"
+    },
+    {
       "path": "overrides/config/blueprint-client.toml",
       "sha1": "8ada558f854741f542cfaf319bd3b3d17b57424f"
     },
@@ -567,6 +571,10 @@
     {
       "path": "overrides/config/combatnouveau-server.toml",
       "sha1": "47b2f7a912ddcfae8606cfa4593ed89ff66bb778"
+    },
+    {
+      "path": "overrides/config/cropsloverain.toml",
+      "sha1": "20751e26d0ddbb069e53da0e888c6ae71513501a"
     },
     {
       "path": "overrides/config/ctm.toml",
@@ -629,8 +637,12 @@
       "sha1": "517dbe6b2c3d7a013cc9ab4c193afbaf9d39d7d7"
     },
     {
+      "path": "overrides/config/exmi/enable_config.json",
+      "sha1": "bdf5872b733ae7cd759db2c520b31c38b19b49b9"
+    },
+    {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "76e09fbfa8bab3ff2af90a03794839fe696443a9"
+      "sha1": "d9475d690863e085730133108b3916e81868076b"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -646,19 +658,19 @@
     },
     {
       "path": "overrides/config/fancymenu/customization/options_screen_layout.txt",
-      "sha1": "84425f168a261495daf349bc132090ce5c5d64b1"
+      "sha1": "0fb83478a349388e881ec6debe785ac490b72eec"
     },
     {
       "path": "overrides/config/fancymenu/customization/pause_screen_layout.txt",
-      "sha1": "07aa2700f36f639f6e574d6075573b1b9d1818da"
+      "sha1": "dde95bb3dd38db2b81a732220487e26b33a704ee"
     },
     {
       "path": "overrides/config/fancymenu/customization/skin_customization_screen_layout.txt",
-      "sha1": "5e937cebafa76844035c8e130975da7c777356e7"
+      "sha1": "f0b4ca23bb004e71c025c29d5c9f63d486188e8c"
     },
     {
       "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "7d90f82b6edf5c54df17e5980e52a075c582ca72"
+      "sha1": "5cea08eaf271784399a87bc531ce1f87bb5b3f9e"
     },
     {
       "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -737,6 +749,10 @@
       "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1"
     },
     {
+      "path": "overrides/config/galena_hats.json",
+      "sha1": "812a1b5b12d79b7397d09c4722904a772ef0ec42"
+    },
+    {
       "path": "overrides/config/gallery-client.toml",
       "sha1": "545385b138c3d2b4a9e0a58b343112563e3f0251"
     },
@@ -773,8 +789,56 @@
       "sha1": "9657b20f2bfb8bab7fe7a90b6d2155b225b5b9d0"
     },
     {
+      "path": "overrides/config/incontrol-server.toml",
+      "sha1": "80cc4529f42bb77cbff21fef86a7838297366260"
+    },
+    {
+      "path": "overrides/config/incontrol/areas.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/breakevents.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/effects.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/events.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/experience.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/leftclicks.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/loot.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/phases.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/placeevents.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "overrides/config/incontrol/rightclicks.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
       "path": "overrides/config/incontrol/spawn.json",
       "sha1": "2793a507a4ac451b7371efdada8df4e4dbe43d6d"
+    },
+    {
+      "path": "overrides/config/incontrol/spawner.json",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c"
     },
     {
       "path": "overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
@@ -790,7 +854,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "d7283dffcb5804fb979d1e242b11bb4a67c08f15"
+      "sha1": "e754baef7541fbcfe350755c9bb42f2d4eea12ce"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -817,8 +881,12 @@
       "sha1": "8b217e7850934824b3923190596f421643ac3551"
     },
     {
+      "path": "overrides/config/kissmod-server.toml",
+      "sha1": "3a3989df8299c39d230d4e8d1a7ef486dd3c6e5f"
+    },
+    {
       "path": "overrides/config/kiwi-client.yaml",
-      "sha1": "31ebff7d8610cfafe48f19050dcc344467a203f3"
+      "sha1": "684ba740243ffbd1137dbb2f7df17da128a87642"
     },
     {
       "path": "overrides/config/kiwi-common.yaml",
@@ -927,6 +995,10 @@
     {
       "path": "overrides/config/neoforge-common.toml",
       "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "536538f1f29efb49318318113530bd4fd74c235b"
     },
     {
       "path": "overrides/config/oreganized-client.toml",
@@ -4822,11 +4894,11 @@
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "ef8378ec06a50984e0ed338e60deaefee663513a"
+      "sha1": "ed7cabf30beb6ff2b32c3c081f10561675435bdb"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "6b2e65135903b9b7dbdfe6905a9f026b15763177"
+      "sha1": "11dc5845ee2928480b1a1bc1b8f40b7926bb3ec4"
     },
     {
       "path": "overrides/config/suppsquared-common.toml",
