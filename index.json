@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/connector.json",
-      "sha1": "47b035598f8a49dd27567fe5a84014e74e753f3f"
+      "sha1": "6704c17bb8616ae64278520ecd7e42d1f3dd787c"
     },
     {
       "path": "content/mods/coroutil.json",
@@ -98,7 +98,7 @@
     },
     {
       "path": "content/mods/darker-depths.json",
-      "sha1": "f3a4a725ae50ee7d8d198414d2cc1301f21b671a"
+      "sha1": "6d682bf8b7911b2328c685996c999b457a3a2541"
     },
     {
       "path": "content/mods/door-knocking.json",
@@ -138,7 +138,7 @@
     },
     {
       "path": "content/mods/emi-plus-backport.json",
-      "sha1": "0ff6f9e698dfccbe4952457165482c42da79cebf"
+      "sha1": "a6f7dfe2ddfe4ae261316f1e3969167652340690"
     },
     {
       "path": "content/mods/emi.json",
@@ -162,7 +162,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "1a9a73f375dd1c1d2b85300a46b16ffc904182d2"
+      "sha1": "b6a757ab92935a7ca3af67af7aa64fa5c8e14fd0"
     },
     {
       "path": "content/mods/extra-mod-integrations.json",
@@ -186,7 +186,7 @@
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
-      "sha1": "508c2875c092556a290fe79aa905e874538a0770"
+      "sha1": "a9d6db9cbe6ebb12d32d4ba291957f70b2b7415b"
     },
     {
       "path": "content/mods/fzzy-config.json",
@@ -314,7 +314,7 @@
     },
     {
       "path": "content/mods/modernfix.json",
-      "sha1": "c2a9df10f0a6435971d95a563ef82ecd39be0ffc"
+      "sha1": "80011e74d2ffa9bd94b487c555d5445416e1f5af"
     },
     {
       "path": "content/mods/moonlight.json",

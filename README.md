@@ -23,7 +23,7 @@
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.1+1.21.5-neoforge`
 - [Custom Portal API Reforged](https://modrinth.com/project/custom-portal-api-reforged) `1.2.2`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
-- [Darker Depths](https://modrinth.com/project/darker-depths) `2.1.4`
+- [Darker Depths](https://modrinth.com/project/darker-depths) `2.1.5-1.21.1`
 - [Door Knocking](https://modrinth.com/project/door-knocking) `1.0.1+1.21-neoforge`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/project/dungeons-and-taverns-ancient-city-overhaul) `v2+mod`
@@ -39,12 +39,12 @@
 - [Enchantment Disabler](https://modrinth.com/project/enchantment-disabler) `3.4.3+1.21.1-neoforge`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
-- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.46`
+- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.48`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.9-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.2`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Fog](https://modrinth.com/project/fog) `1.11.0+1.21-neoforge`
-- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.7+2.2.4+1.21.1`
+- [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.1+1.21.1`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Galosphere](https://modrinth.com/project/galosphere) `1.21.1-1.5.5`
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`
@@ -66,7 +66,7 @@
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
 - [Mixed Litter](https://modrinth.com/project/mixed-litter) `1.2.2`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
-- [ModernFix](https://modrinth.com/project/modernfix) `5.27.14+mc1.21.1`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.20+mc1.21.1`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `1.0.2`
 - [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.1-1.21.1`
@@ -81,10 +81,10 @@
 - [Pro Placer](https://modrinth.com/project/pro-placer) `v21.1.1-1.21.1-NeoForge`
 - [Re-Locate](https://modrinth.com/project/relocate) `1.2.0`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `4.1.2-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/emi-plus-backport) `4.1.0-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/emi-plus-backport) `4.1.1-1.21.1-neoforge`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.6+1.21.1`
-- [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.14+1.21.1`
+- [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.16+1.21.1`
 - [Sleep Tight](https://modrinth.com/project/sleep-tight) `1.21-1.5.2`
 - [Snow Under Trees](https://modrinth.com/project/snow-under-trees) `v1.5.1`
 - [Snow! Real Magic! ⛄](https://modrinth.com/project/snow-real-magic) `12.2.2+neoforge`
