@@ -490,7 +490,7 @@
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
-      "sha1": "1233bc5e9b76ae23493ad31db26e92b7da397270"
+      "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -498,43 +498,43 @@
     },
     {
       "path": "overrides/config/aileron.json",
-      "sha1": "275fee805df63096a8ac4d3f08bee3d8b38df51f"
+      "sha1": "11887f8eda95beee1448182fc638e26fe455a85e"
     },
     {
       "path": "overrides/config/allurement-client.toml",
-      "sha1": "60ddf3151a37d5c8bcae875ef9211756cde2d1ca"
+      "sha1": "5ed29071ef1d83050ae6c6828c29506bc3ec4a4f"
     },
     {
       "path": "overrides/config/allurement-common.toml",
-      "sha1": "b9413a3c9896beff2885b050a7c0013d25596555"
+      "sha1": "e4a36b2355b35f2c04180ec13012005b07da543d"
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "6d1b8ceed8593e58deba2707a2e94d8eab645beb"
+      "sha1": "b66668010d850d53adfe4ffa6cec4a3410fdeca0"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "7d7e7f5b35de6851b089188bd4d4d9670442fdce"
+      "sha1": "30a460b08408775633bdbd033faec49738fee299"
     },
     {
       "path": "overrides/config/antique-atlas.toml",
-      "sha1": "ad59294ecc44c33dd10b1e778e5c5361e0089385"
+      "sha1": "a83e276c60fa6037c0cb46e371a414a28204183b"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
-      "sha1": "8f167f14bbd81163f78c5e3459dcffdb50225117"
+      "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
       "path": "overrides/config/architects_palette-common.toml",
-      "sha1": "61c13ebd4d790235a5088770def6bb7b6822104a"
+      "sha1": "c8d6835135091d1d0c645319e36b2e2173e7a0a6"
     },
     {
       "path": "overrides/config/bettertridents-common.toml",
-      "sha1": "d003ac52fc607af8172090d11a4facc137b2bf74"
+      "sha1": "c13602bbc49ee55b610d967c38cd611cbcbd103c"
     },
     {
       "path": "overrides/config/bettertridents-server.toml",
-      "sha1": "9e4c7c798b05a275ab002b02ffeaa2c2163eaa77"
+      "sha1": "440630bad597e32a173b2bc6df9c2c19c81a74e8"
     },
     {
       "path": "overrides/config/blueprint-client.toml",
@@ -542,7 +542,7 @@
     },
     {
       "path": "overrides/config/blueprint-common.toml",
-      "sha1": "6d459bb8363766cb774dadd4062057123b56b04e"
+      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
     },
     {
       "path": "overrides/config/brick_and_mortar.json",
@@ -550,47 +550,47 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "0de8c94a6cff52d2dcedb3f5b2e75b7ac02de687"
+      "sha1": "47f590e0d36ec4f208f9b9081d12149e56d2a9bc"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
-      "sha1": "510ac88b546703df25f4619aa38099e207a635fb"
+      "sha1": "58b29b464324f8e8f8d951062f984d29067de122"
     },
     {
       "path": "overrides/config/clutternomore/startup.toml",
-      "sha1": "eff1e1173ef4a77a8c95f3d0e1e48814eb2788b4"
+      "sha1": "ac45779b4a3e51fa8ea3d37c8ef15182f8126249"
     },
     {
       "path": "overrides/config/combatnouveau-client.toml",
-      "sha1": "30e48963b25aaffd5afdb70750a9059cbfef91ab"
+      "sha1": "e00fca027d708a1ba8e3470da70142b91cc0e081"
     },
     {
       "path": "overrides/config/combatnouveau-common.toml",
-      "sha1": "02d2f8844b134442d32bd9ce7ec6ce12b2141707"
+      "sha1": "ea40cf9bf052b68c0de924673a352d557dde38fc"
     },
     {
       "path": "overrides/config/combatnouveau-server.toml",
-      "sha1": "47b2f7a912ddcfae8606cfa4593ed89ff66bb778"
+      "sha1": "8b499bdb82b27eb4df766728c1acdeaaaf6276dc"
     },
     {
       "path": "overrides/config/cropsloverain.toml",
-      "sha1": "20751e26d0ddbb069e53da0e888c6ae71513501a"
+      "sha1": "1ea843b71b190b9159ed0c459c99c11553bd9e01"
     },
     {
       "path": "overrides/config/ctm.toml",
-      "sha1": "133fb0ee46f2697532cdcc4a477b688f67980057"
+      "sha1": "61b621f2c8c99bcc3d43fe73a4d05828217e31a9"
     },
     {
       "path": "overrides/config/customrepairrecipes-common.toml",
-      "sha1": "7844da919af88d3c3fa6a88e41fb0933bc692c21"
+      "sha1": "17dbf053c0c73096d3933e4fd0ffb8a2ca54b770"
     },
     {
       "path": "overrides/config/cutthrough-client.toml",
-      "sha1": "5ac8a3e80bfdc00f50ec9d988086affc70827d2f"
+      "sha1": "315338cdbdb723a4a8602ffb59b40f4491379d96"
     },
     {
       "path": "overrides/config/darkerdepths-common.toml",
-      "sha1": "0e0e978390bd4bda8fa050470a0975d36abb9a2a"
+      "sha1": "f2f7800074de6fe86df1274d4ed7de8512847736"
     },
     {
       "path": "overrides/config/door_knocking/main.json",
@@ -606,7 +606,7 @@
     },
     {
       "path": "overrides/config/emojiful-client.toml",
-      "sha1": "2a7e3ef2c74f8f2e28ed9aac9d838d1167b17092"
+      "sha1": "87d3143bd0bd6f313636dcacf03e27db5b74cebe"
     },
     {
       "path": "overrides/config/enchantmentdisabler/config.toml",
@@ -622,19 +622,19 @@
     },
     {
       "path": "overrides/config/everycomp-client.toml",
-      "sha1": "0a85066c730274e77f1e213c9d1020da72a0ee33"
+      "sha1": "b4213127eb73e48e6ce62586ba3df70850ddb619"
     },
     {
       "path": "overrides/config/everycomp-common.toml",
-      "sha1": "cc504e93488062299beffd874c9332c132b57592"
+      "sha1": "3f7685686cf5bffa12458902aa222f5d05156ad2"
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "cab5e8157c2abdbfb89e0f54e011e8a99cb81a4c"
+      "sha1": "f61b9570ef05b529390d4aab657deda98b48208e"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
-      "sha1": "517dbe6b2c3d7a013cc9ab4c193afbaf9d39d7d7"
+      "sha1": "76a953d0d2c61a5dea3cb7f499b9f8da257c2ae9"
     },
     {
       "path": "overrides/config/exmi/enable_config.json",
@@ -642,7 +642,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "d9475d690863e085730133108b3916e81868076b"
+      "sha1": "28a4c4d2f40dbf51bd160acba5d45c7c1651468d"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -683,10 +683,6 @@
     {
       "path": "overrides/config/fancymenu/normalized_scroll_screens.json",
       "sha1": "ea713a82fa4cc2533b5dfa6bc29ecf6a528c1317"
-    },
-    {
-      "path": "overrides/config/fancymenu/options.txt",
-      "sha1": "c48482fe91ba2a887c6a98e9fd436c6fb3b635fc"
     },
     {
       "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
@@ -730,15 +726,15 @@
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
-      "sha1": "649ffb20a99fa6a43ce25a5207c5461fee9f135d"
+      "sha1": "376d9f84ec76953b4cd907387f4fc55069350250"
     },
     {
       "path": "overrides/config/farmersdelight-common.toml",
-      "sha1": "e3f348238b4fc6c098704728dbf29ee56870b33e"
+      "sha1": "c3d0df12587648fdc77eb68147e8d43a7685fd2f"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
-      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea"
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -754,23 +750,23 @@
     },
     {
       "path": "overrides/config/gallery-client.toml",
-      "sha1": "545385b138c3d2b4a9e0a58b343112563e3f0251"
+      "sha1": "c71e0d12989ca5afde76958f9108779756224b4c"
     },
     {
       "path": "overrides/config/gallery-common.toml",
-      "sha1": "e12f234ca5c3bf3b9ef763c747d437fd048ace0c"
+      "sha1": "86919b712a5632ba90d078f8a0c196846dfc7423"
     },
     {
       "path": "overrides/config/galosphere-common.toml",
-      "sha1": "30105f7a7c2a15f6b0ffb50c24b59839f8fb56e5"
+      "sha1": "1dcba04cf87bfe49b7575d2b5dabec5e1b3a5e2b"
     },
     {
       "path": "overrides/config/hummus-common.toml",
-      "sha1": "c67c3c9f1dc200d83d1af969ef4024aee8afae85"
+      "sha1": "ef63dc984dd09fd40f14b44657060087b08f18ab"
     },
     {
       "path": "overrides/config/iframestweakerneo-common.toml",
-      "sha1": "416d18ece94fbcac3f9c5cdbd624fa2b85800bf8"
+      "sha1": "086e896cf89d3d2a54dd3e4147316e1a51a5bc7a"
     },
     {
       "path": "overrides/config/immediatelyfast.json",
@@ -778,11 +774,11 @@
     },
     {
       "path": "overrides/config/immersiveenchanting-client.toml",
-      "sha1": "3c760efc2355a28fcec2ba643b1f1763eb8dc173"
+      "sha1": "54da848a6ecce1763bcef67143e239e07419c951"
     },
     {
       "path": "overrides/config/immersiveenchanting-server.toml",
-      "sha1": "9fff33161281ee8790986e471dd3aff7f659073f"
+      "sha1": "7c9773879f86c9497a2d19a5ad2066f329d66453"
     },
     {
       "path": "overrides/config/immersiveoverlays.json",
@@ -790,7 +786,7 @@
     },
     {
       "path": "overrides/config/incontrol-server.toml",
-      "sha1": "80cc4529f42bb77cbff21fef86a7838297366260"
+      "sha1": "8b424aadec574670d6b97f100b87e41de7a3453f"
     },
     {
       "path": "overrides/config/incontrol/areas.json",
@@ -834,7 +830,7 @@
     },
     {
       "path": "overrides/config/incontrol/spawn.json",
-      "sha1": "2793a507a4ac451b7371efdada8df4e4dbe43d6d"
+      "sha1": "0759899ebf7d6b41b5910f6c2b3a4cf3734bb57f"
     },
     {
       "path": "overrides/config/incontrol/spawner.json",
@@ -854,7 +850,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "e754baef7541fbcfe350755c9bb42f2d4eea12ce"
+      "sha1": "7861ffaecde0f71fb15f120e17891f5357033060"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -882,7 +878,7 @@
     },
     {
       "path": "overrides/config/kissmod-server.toml",
-      "sha1": "3a3989df8299c39d230d4e8d1a7ef486dd3c6e5f"
+      "sha1": "9f3105c9d48e8eece20f302d986a73f91d7a1e90"
     },
     {
       "path": "overrides/config/kiwi-client.yaml",
@@ -918,7 +914,7 @@
     },
     {
       "path": "overrides/config/mcqoy.toml",
-      "sha1": "3b10f656c1b34506cd76f1726a79ce7934be72d0"
+      "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
     },
     {
       "path": "overrides/config/midnightlib.json",
@@ -926,7 +922,7 @@
     },
     {
       "path": "overrides/config/mixed_litter-startup.toml",
-      "sha1": "a55e4a2081e48f33566084ed4abcc66fe8fdd2ab"
+      "sha1": "c50169f79757d41c249a426c56e581b8a25791a2"
     },
     {
       "path": "overrides/config/mob-ai-tweaks/blacklists/allay_weapons.txt",
@@ -942,7 +938,7 @@
     },
     {
       "path": "overrides/config/mob-ai-tweaks/general_config.txt",
-      "sha1": "12d8e7cf3c9abc683dfc44cc0d164a941b9efd37"
+      "sha1": "cf84bfde453f5df584c3c05c6c66a88fa8960842"
     },
     {
       "path": "overrides/config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt",
@@ -962,7 +958,7 @@
     },
     {
       "path": "overrides/config/modernfix-common.toml",
-      "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e"
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
     },
     {
       "path": "overrides/config/modernfix-mixins.properties",
@@ -970,19 +966,19 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "7fdda9094dda6ea770e3e9cb0ef1ec3ce24167be"
+      "sha1": "c9d45288928690ec27ffd80e06c440ff5353ce6e"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
-      "sha1": "1f62002e06c865342690eea17511a19503da3d5d"
+      "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2"
     },
     {
       "path": "overrides/config/naturalist-server.toml",
-      "sha1": "50c23e48758a02eed73e980ef14d0d6db6bdc15c"
+      "sha1": "062fadb424b9d21f874c947cdc371bb10893684b"
     },
     {
       "path": "overrides/config/natures_spirit-common.toml",
-      "sha1": "b9baaed9a58589e14f55f5e8d305984f72a16159"
+      "sha1": "816a01a1fd2392a0a636298c3ecf0f3c1da48bea"
     },
     {
       "path": "overrides/config/necronomicon.json5",
@@ -990,31 +986,31 @@
     },
     {
       "path": "overrides/config/neoforge-client.toml",
-      "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed"
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
     },
     {
       "path": "overrides/config/neoforge-common.toml",
-      "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
+      "sha1": "2912b55694531e5ab90981a12f1844439d969e04"
     },
     {
       "path": "overrides/config/neoforge-server.toml",
-      "sha1": "536538f1f29efb49318318113530bd4fd74c235b"
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
     },
     {
       "path": "overrides/config/oreganized-client.toml",
-      "sha1": "6dd94bab5068f0092b924b6120e2bbeeb44bcfba"
+      "sha1": "97885df2217ecce6cba94d198377fb0208d854ec"
     },
     {
       "path": "overrides/config/oreganized-common.toml",
-      "sha1": "2dc93931c5534e314975a037bbcd71f26a8980f5"
+      "sha1": "7f65932682f17c4e480e27d28c333ab46a0f5e4c"
     },
     {
       "path": "overrides/config/particular-common.toml",
-      "sha1": "acc3ea3512acff37c3f750beeee9f26cca49ac33"
+      "sha1": "7d200ad2acc0deaae303299fc43d05e9c60753c4"
     },
     {
       "path": "overrides/config/paxi-neoforge-1_21.toml",
-      "sha1": "695bbb083f731edb93c38c547b1771cc531f20ec"
+      "sha1": "da0b8958a88a601a7ded957dda627f0977625713"
     },
     {
       "path": "overrides/config/paxi/datapack_load_order.json",
@@ -1238,7 +1234,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/overworld.json",
-      "sha1": "d66be061f783cecd8520f0bc7498e079c0c91e65"
+      "sha1": "cd30ef13d1bb9f22c5330b0da1e4e5544e3aa609"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/pack.mcmeta",
@@ -1250,347 +1246,347 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/ghast_tear_mixing_recipe.json",
-      "sha1": "8dcc08a809af39602c4c3f016138aa41e0fbbb06"
+      "sha1": "81982600e21abd7b99755861734e999f8be1ef69"
     },
     {
       "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/glowstone_mixing_recipe.json",
-      "sha1": "b045a8752e8398ec3655166b5b6eef1a40bb32e2"
+      "sha1": "2075229e4118b41b5a0927b45403b53f36432d69"
     },
     {
       "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/gold_nugget_mixing_recipe.json",
-      "sha1": "88cd9236b0202b6d5aa73b434c377b04aaab1e9c"
+      "sha1": "d8f3a2b210fa28e5bd793147f34feca07ce477fd"
     },
     {
       "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/gunpowder_mixing_recipe.json",
-      "sha1": "29f05d9ce2589524e63b0f2a47c9de24a4733660"
+      "sha1": "50337fcad68baf3b2ab64ac99af8ddb3165caad5"
     },
     {
       "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/pack.mcmeta",
-      "sha1": "f2d95b8834e800d830f95a923937199bac40eaa8"
+      "sha1": "ede1bad0ad7805257e1f1fa07cc11a7a133b0355"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/biome/forest.json",
-      "sha1": "36bf9642d85091d37334268838f02f3c5f2abd07"
+      "sha1": "07557b8a83e938cd09d1db0b80c61992ed313643"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/configured_feature/fancy_oak_bees_0002.json",
-      "sha1": "0ad1ba767042d00531cf8cd49e0fa90977476e46"
+      "sha1": "247e4bcd8afc5eec0175e585ac257847f35ec1cf"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/configured_feature/patch_ferns_forest.json",
-      "sha1": "c28c9fcaa6f0201dbcb95a15b169311c597dbc73"
+      "sha1": "580fd2334e2f95661ef0ab21e302417c5820b978"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/configured_feature/trees_birch_and_oak.json",
-      "sha1": "e76dd34ca60d0045599be59a47f19f85fb9d7f6e"
+      "sha1": "0e53593a8d3c79a7e46ab4934b27c217c8d6fa69"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/placed_feature/patch_forest_ferns.json",
-      "sha1": "02c3d5217812fcf430eaa0c7cd0322e47d55e6ff"
+      "sha1": "134aff39c753a341d45eaa3fb4cd08ba56f0fef0"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/placed_feature/patch_grass_forest.json",
-      "sha1": "fca94b8a5abf42aa0b582ac98ccaf2492cfbc3f8"
+      "sha1": "afe144a30fd639a3db0567da4aba854de22131a2"
     },
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/pack.mcmeta",
-      "sha1": "9ebe96a477099ecca2b538ceacbbf3a57a55a19c"
+      "sha1": "d855b8ea091e58b5c3dc5f67fc75175783d269c2"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/alleviating.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/ascension_curse.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/launch.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/reeling.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/reforming.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/darker_depths/quick_dash.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/darker_depths/swift_strike.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/farmersdelight/backstabbing.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/enfeeble.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/rupture.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/sifting.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/sustain.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/aqua_affinity.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/bane_of_arthopods.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/blast_protection.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/depth_strider.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/efficency.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/feather_falling.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/fire_aspect.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/fire_protection.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/flame.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/fortune.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/frost_walker.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/impaling.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/infinity.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/knockback.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/looting.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/luck_of_the_sea.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/lure.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/mending.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/multishot.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/piercing.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/power.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/projectile_protection.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/protection.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/punch.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/quick_charge.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/respiration.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/sharpness.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/silk_touch.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/smite.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/sweeping_edge.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/thorns.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/unbreaking.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/after_burner.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/auto_loading_holster.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/blasting_impression.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/descent.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/despise.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/featherweight_munitions.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/full_auto_retrofit.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/grappling_bobber.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/kick_back.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/perfect_parry.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/recall.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/vorpal_weapon.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/withering_munitions.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/antidote.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/conductivity_curse.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/ghasted.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/illagers_bane.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/multishot.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/outreach.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/photosynthesis.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/piercing.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/power.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/wax_wings.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/wither_coated.json",
-      "sha1": "f2da78640e022880b39b3232f01e59dcc3494937"
+      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/pack.mcmeta",
-      "sha1": "4114ac4d80b1323c43e2d76ea0583e92f3c6141b"
+      "sha1": "6fcb518f11c5f36616be2446519a8fa107490901"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/architects_palette/recipe/dark_oracle_bricks.json",
-      "sha1": "30b7b09879387566a40a390792036e7cfa1bf3e1"
+      "sha1": "6a15455f47c89e3af8124504a5a13889487ed145"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/architects_palette/recipe/flint_block.json",
-      "sha1": "3f8f391d8a469b47c98aabd68b651ca933612d61"
+      "sha1": "e4435ea1564b07e221883e11658696bc0bef8aed"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/architects_palette/recipe/myonite_red.json",
-      "sha1": "ad4c2437005c54317efa033c5eaedfc9d2663014"
+      "sha1": "697f67232bc8d812cf633ab8c04815662ea26e84"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/architects_palette/recipe/olivestone_bricks.json",
-      "sha1": "1c4c14f39a715cd5ef569dfddc357f666cfc4fef"
+      "sha1": "7ded67b05c672fc03cf76562b782583f276fe86f"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/architects_palette/recipe/wardstone_blend.json",
-      "sha1": "59ce59e09d2420cf8ba85dac17f270e7d0ac7f31"
+      "sha1": "23242ac62a07ebe78d856e714b0079931387be6e"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_purpur_block.json",
@@ -1682,11 +1678,11 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/farmersdelight/recipe/cooking_pot.json",
-      "sha1": "0c39ff7eb4e466116299f1e0df33a874720057d7"
+      "sha1": "59793fc02a7c20a2d37e1140675325803c8852be"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/farmersdelight/recipe/golden_knife.json",
-      "sha1": "12bf79324b96002e3fd27a5e2abb917aa73c7c77"
+      "sha1": "0a0d008617546540cc2d2b4109cbf7653bc39883"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/gardens_of_the_dead/recipe/whistlecane_mosaic.json",
@@ -1702,91 +1698,91 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/abandoned_mineshaft_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/all_tables_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/ancient_city_ancient_books.json",
-      "sha1": "be2305960b3ea5ef989ab6f8d8584ad2967712f9"
+      "sha1": "38f0d531fd57a548ec70502554e650f1695f98df"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/bastion_bridge_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/bastion_other_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/bastion_treasure_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/buried_treasure_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/desert_pyramid_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/end_city_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/igloo_chest_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/jungle_temple_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/nether_bridge_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/pillager_outpost_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/ruined_portal_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/shipwreck_treasure_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/simple_dungeon_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/stronghold_corridor_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/stronghold_library_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/trial_chambers_reward_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/underwater_ruin_big_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/underwater_ruin_small_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/woodland_mansion_ancient_books.json",
-      "sha1": "007415b7bca9612cd31a7d3290b720aee9c1d04a"
+      "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/blocks/deepslate_diamond_ore.json",
@@ -1802,7 +1798,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/chests/ruined_portal.json",
-      "sha1": "6f6e997adaa6b3c8c0c027921a7a833569409217"
+      "sha1": "a0f7adc339ed6a9da5d7afd77907d99756beb2d3"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/chests/shipwreck_treasure.json",
@@ -1810,7 +1806,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/bamboo_mosaic.json",
-      "sha1": "3dd4c9424d0f7ca66f4fd9ade2885e6afb82b134"
+      "sha1": "8ebdb98d10be5ab3569fa26c3cf1affb8e0f6cc5"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/black_bed.json",
@@ -1830,7 +1826,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/chain.json",
-      "sha1": "5f24e5d39c1dc44e642fdc9b961eb47f3c51726d"
+      "sha1": "26affb00c9cd3190f66d79e0fc1aaae3c92dc6ca"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/cyan_bed.json",
@@ -1838,47 +1834,47 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/dark_prismarine.json",
-      "sha1": "27d6f340aa9dad990383b4f9068185b5857673bc"
+      "sha1": "966580d2f32fbf8be51bdaebf7ff993764dce2ef"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_axe.json",
-      "sha1": "606193f1e325f77f64fbc3ea415504bcaf9c6a72"
+      "sha1": "16d93cf3ec1b05589753cde576b4142949a9b04c"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_boots.json",
-      "sha1": "6f26b7dbedcb13fbde5fe3f1907322c03580c2a8"
+      "sha1": "5d425031f84833d397ed8a741dae8abc424a407c"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_chestplate.json",
-      "sha1": "74aeb6a205ee6353dc5e76bf788b48d35dd72211"
+      "sha1": "5da25c024a48a814d3f0b0337a372ef6c09b0c40"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_helmet.json",
-      "sha1": "ed84482a79e37add2be2cf8fc0302a62bf1071cb"
+      "sha1": "1bdf8d5332a97c9930f5c858662db0248a19a5d6"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_hoe.json",
-      "sha1": "f0e48f9c61445861c87ca70fe07809206b7294c8"
+      "sha1": "a054d323765f5fa32939543949585ee6542bc32f"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_horse_armor.json",
-      "sha1": "657d51b6b1bda32101937c8f290cbc0798504882"
+      "sha1": "de522e9f6bd185675a24536e3baa980ba7544a82"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_leggings.json",
-      "sha1": "1eba51324b5ad390c2dd66c412e011f3725c8ff9"
+      "sha1": "de112efe495d45ecc9d3fcf37660da24588e6309"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_pickaxe.json",
-      "sha1": "85ca6d3e0332993c60d479ace94b94cb30d4c482"
+      "sha1": "ab29d9566acefadb3bcb4eb4d9855997aa0904b4"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_shovel.json",
-      "sha1": "e5daf7001f184f1bfd877c5d75daec13d8e9ddeb"
+      "sha1": "c2891ae7a71f89860cc6c6d107e683a4c525111e"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/golden_sword.json",
-      "sha1": "2a59592f0653afaccb81961cc548bc8b6cbcee1b"
+      "sha1": "9534a0504af2def0ad73136b3efcb10914e2e0f8"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/gray_bed.json",
@@ -1894,7 +1890,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/iron_ingot_from_smelting_raw_iron.json",
-      "sha1": "fe5dd22bbbc364935a8e6016ebfe64898e6cc483"
+      "sha1": "a5c3590c9fcb5025c4062f60a9626e34c777b4af"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/light_blue_bed.json",
@@ -1914,7 +1910,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/nether_bricks.json",
-      "sha1": "6060a83c2e9aa15051c8573608582a26a16e9fc4"
+      "sha1": "e6e46814518f74827c7bd4865368a78c357b0089"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/orange_bed.json",
@@ -1930,7 +1926,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/prismarine.json",
-      "sha1": "e38fe717057913d73be32994cddfaed9efc77902"
+      "sha1": "1ba7b57d02e353bd91e12a24b8d0968c4ed271ca"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/purple_bed.json",
@@ -1958,15 +1954,15 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/tags/block/animals_spawnable_on.json",
-      "sha1": "844977a56df4f43b3f3fbf9733bc055078b7293a"
+      "sha1": "91db675bb3ba521a13f96bbf2821cceaca77da45"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/tags/block/dirt.json",
-      "sha1": "844977a56df4f43b3f3fbf9733bc055078b7293a"
+      "sha1": "91db675bb3ba521a13f96bbf2821cceaca77da45"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/naturalist/recipe/shellstone.json",
-      "sha1": "216057565e9114e55e7fc54d91e585d8dea8b152"
+      "sha1": "867631eca81fa8098f63d70a05f317a618c45293"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/natures_spirit/recipe/coconut_mosaic.json",
@@ -1994,19 +1990,19 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/swordish/recipe/golden_dualblade.json",
-      "sha1": "bcb1610b5d66d3efe6bf398e7db217a1b59907e2"
+      "sha1": "c2b1f2c33e9908a62354b90d50efb111d2b8cb35"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/swordish/recipe/golden_glaive.json",
-      "sha1": "8da85557e4cbd1d9278b0cee0a034e024a7a6369"
+      "sha1": "b62674e6fa4b3e623a9bfe528517ee3889351788"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/swordish/recipe/golden_halberd.json",
-      "sha1": "203d662c6ca94c9736b7d53c0c1e1af230bba24b"
+      "sha1": "5f83aa2020381978f9f5b5a03fb1209abe145ec3"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/pack.mcmeta",
-      "sha1": "0850072290a56ec73b595db990d4511122f74627"
+      "sha1": "111d09f2c7e0f93c97345bb3310c8a5169b6d9a0"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_inventory/data/architects_palette/creative_tabs/architects_palette.json",
@@ -2118,239 +2114,239 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/enderscape/loot_table/end_city/chest.json",
-      "sha1": "7dd0ec2285d59fdf485fa787688adddf400df7cb"
+      "sha1": "0e053694e0948a85330265ba38bd4e865376ea3f"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/enderscape/loot_table/end_city/elytra_vault.json",
-      "sha1": "5f7d25af87c4e6eb9b1ea63b4398096a3e9aba20"
+      "sha1": "36da02d2354f48fbc3635f16f25a90e921aa2242"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/enderscape/loot_table/end_city/vault.json",
-      "sha1": "5e59949bfa695853ef521671b34abd43cca5957e"
+      "sha1": "7ae871e85f0078dd666b6c140aff947bd13cd5e1"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/galosphere/loot_table/entities/berserker.json",
-      "sha1": "cbb49719d73575bb0665e7775c4c729115a94584"
+      "sha1": "25f7998955093878611ffdf0d3db0b0881324fdb"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/ancient_city_center.json",
-      "sha1": "443b5ce042bf256b14a2e569486abc0fce69ff6e"
+      "sha1": "4cf7e4f425898bf124783b5203ae0a1e6908f3e9"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/bastion_bridge.json",
-      "sha1": "d8893c7c36da439d99f45114d50f5d00d48265e7"
+      "sha1": "b5093247caad922f60b30fdeba277e5636319bf2"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/bastion_hoglin_stable.json",
-      "sha1": "1fa8f4a2c9a1cdc0538385e53846c00a27940410"
+      "sha1": "612738f137a1d44ab1b3cf15c98759d865432aac"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/bastion_other.json",
-      "sha1": "247491d75e7eea120d712f0c60daf7aecdbf3d36"
+      "sha1": "c171131f601952736a1d4dae97578a13c47ff7f3"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/bastion_treasure.json",
-      "sha1": "ff727efeb273d66175a9afe9c4f36e1ae1485697"
+      "sha1": "3ab98387de8156c8118ed2e713e352ce94d17df5"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/nether_bridge.json",
-      "sha1": "2f08551d12162d5019a1239b70a49cbfcfa39c8d"
+      "sha1": "0a884f0d4194ca66be0d389a98988f0e6252edb9"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/nether_fortress/fort_inside.json",
-      "sha1": "db86f136860b4370c394caff1e588f171951febd"
+      "sha1": "f292741c5f241baad46cc1f4d4b2f18a211d2cb8"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/nether_fortress/fort_inside_generic.json",
-      "sha1": "99416f268da163a53d69ffdea0a839d21a2f1cc2"
+      "sha1": "96d89f04d957c6764d4915f69a0635fc33df7f67"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/stronghold/nether_portal.json",
-      "sha1": "307b44a656e161b6a214a58f18f1ad0bb4ea2ce2"
+      "sha1": "fadb6a159258114d2403a946926d2791df9d1966"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/ancient_city.json",
-      "sha1": "64fb502fe868f4b4007ea05a5b83a3810dea8d78"
+      "sha1": "294220136061e765d2fd0a6285c09f722c6ecd96"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/ancient_city_ice_box.json",
-      "sha1": "4dcd8f7db7df95b95e979e2c09561a1562d457b9"
+      "sha1": "8d83c7577bc972d96dd3a5117339f2550dc2b8bd"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/conduit_ruin/conduit_ruin_big.json",
-      "sha1": "1ee6840de4cc1363ad0951cd61e51dd1611beda4"
+      "sha1": "faa03a017befd0b0af0fc1507b2359efbf3d73aa"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/creeping_crypt/vault_creeping.json",
-      "sha1": "d5cda6867592ccddf6ff636b2384696708627396"
+      "sha1": "e77606e4f03d4aaaa87fdf51a44b698edb11dcca"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/desert_ruins/desert_ruin_grave.json",
-      "sha1": "10d6c3291ececdaddb8a18d57543c61d34d29694"
+      "sha1": "f236e50535905b892a515cac8e696447090f2ce6"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/desert_ruins/desert_ruin_main_temple.json",
-      "sha1": "e67b5033a1f00c86472ac074ff181145a5014b8c"
+      "sha1": "b35b9ac32c0a9a94bb19acd23ed3538dcb0526f6"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/greater_loot.json",
-      "sha1": "9a8735b8157e2e70e3b892225af9466811472444"
+      "sha1": "79f5d42885bf1dc5d5c54b84d0dd77ac436c2d1a"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/lesser_loot.json",
-      "sha1": "8dcad0cd7067567578c9b61d157ae94e56e621f2"
+      "sha1": "dedd1ebab9284c49fcd2d6ccf41cd3e7906fcb71"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/rocket_barrel.json",
-      "sha1": "2531e3aa929d872912b501b8bf428bfeafdb4a43"
+      "sha1": "9c327ac390c13ffac6753f3462579d4020dcb8c9"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/supply.json",
-      "sha1": "5700218393450ab35e3064d63ee667eeb6d8c806"
+      "sha1": "651917df62b7e1a9eb677fc14d2a130b7e0bc4f2"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/treasure_lighthouse.json",
-      "sha1": "b656478ef124b45283e260a3b765b2799e6da395"
+      "sha1": "0f29026bac6baea2ff388d76675761282cf77b2a"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json",
-      "sha1": "397cad7e52364bfb06e1e37dc9b30455ee2211ed"
+      "sha1": "b8c5af8c1815c2c45bc4f645753584dacc342ca2"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/vault_galleon.json",
-      "sha1": "2b45130d92234e579a0718f9d51e7685a6e64fcd"
+      "sha1": "f2a619103da820cabbf9af2d0370ec6a4fd414d7"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/vault_slope.json",
-      "sha1": "a26a236c3501361b4879d7a8f86dd6d2dc57339e"
+      "sha1": "2dad460c5ecd84f3c6665ec0c5ffc29d5a51e6c6"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_lighthouse/vault_lighthouse.json",
-      "sha1": "642cf48935e7e7d7f293c62b748f020953ef7817"
+      "sha1": "0446ae3b65ba4da0c2fb30085346456e22b16c6d"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/food_supply.json",
-      "sha1": "168dfc9d1184d218a6eecb5e5510cdccaeebbf00"
+      "sha1": "da81f391650a7014e9229522cb31a6bc4b17b9b6"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/hamlet/hamlet.json",
-      "sha1": "e984394051ebf29d6e0815816f70fe6dc118fb57"
+      "sha1": "964232d16ec6ac475c45a43415e646871ba3ca22"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/hamlet/hamlet_tresure.json",
-      "sha1": "acd5e8e752d0df2bfe453d0eaa5e2304324fcbc3"
+      "sha1": "f35a2e2cc4a70b47d825bee20278ace24d6aac08"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/jungle_ruins/jungle_ruins_main_temple.json",
-      "sha1": "bcda9f77a5d28e2bd3d6ffee44322b32b55f13db"
+      "sha1": "13c3a7d4091712cb4a66ae0712271a696ddc04e3"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/jungle_ruins/jungle_ruins_main_temple_wild.json",
-      "sha1": "fa0e95ffbfbfec4e5124100a8ea5b3b751bdc44f"
+      "sha1": "ea5273024201efb4560f7f89986261ae308fb022"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/nether_keep/vault_keep.json",
-      "sha1": "8aee13263933eb584693fa7fe31e7d353fcdcdd7"
+      "sha1": "b8a94905b4934df4730bc680ca85bd6a1125f3d4"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/nether_keep/vault_keep_generic.json",
-      "sha1": "f62a4dc822c70814f41b8bb73e3c230fd06c47e5"
+      "sha1": "8968926da5e0eceec40b5c1b29d8cc292e784b27"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/nether_port/nether_port_chest.json",
-      "sha1": "30892a5729af3898d34b07717da3a7434bd9b2cc"
+      "sha1": "1c92a2a51f71f614fb5c57a6bde1fdb7928ec594"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/nether_skeleton_tower/skeleton_tower_camp.json",
-      "sha1": "df4993511c852050d7ac3af904dd6bcf6789fc87"
+      "sha1": "73d072106a323142196b724a52b822d6cacb1aee"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/nether_skeleton_tower/skeleton_tower_chest.json",
-      "sha1": "2aa6ac5b6dc0bddde55afd501669c609b7717be9"
+      "sha1": "b071e71ac8be30d80e64a6bca6d8158ae91a16ba"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/piglin_donjon/vault_piglin_donjon.json",
-      "sha1": "e96883d70df9bae7c329355db1efda6e09478f73"
+      "sha1": "8dfb82f096e78ef50be681347930a96d3dcde459"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/piglin_outstation/outstation_tower.json",
-      "sha1": "a1884c01afb439d7485b7fe5b322aa4162e22067"
+      "sha1": "40ad270ee387e983e80c0ba8bb0b6b9ce5bbbbd7"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/piglin_outstation/outstation_treasure.json",
-      "sha1": "713d43d88649ea77fdd2c91a5605122ff3e9ceaa"
+      "sha1": "d42bd0c47fd113d279b1180eaec859995ac1b6d2"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/piglin_outstation/vault_piglin_outstation.json",
-      "sha1": "a258dbbf6e6535b32cbfcb5e940c5a56127c5822"
+      "sha1": "a5ee954574ee2c4461243a1d20d423a2599450f0"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/spawners/piglin_donjon/spawner_piglin_donjon.json",
-      "sha1": "9f58c3398e0f22780efd6d79d550bded84c6c8cb"
+      "sha1": "465b5a95b4591e3910a0253a8951f53c6e297818"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/spawners/piglin_donjon/spawner_piglin_donjon_ominous.json",
-      "sha1": "73cc98ce6da8c3a27742cbcd580b523cc7bb21d4"
+      "sha1": "54e37bafe68bd7027641ee297b4dd38c724ad835"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/pack.mcmeta",
-      "sha1": "9c61e1a2be69057ee18462c8603098b06c84dea1"
+      "sha1": "6f87005dd405cc2f0cec7bf0b7102e993edf2528"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/fir_placer.json",
-      "sha1": "41d76aae203e188f3c66659216a267ab1dc9b8b5"
+      "sha1": "e1a86c85e73c9e9e9de6559eb08193d51e2a615d"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/larch_placer.json",
-      "sha1": "a4c5ce7952202f7f3617416519961dde5f54d236"
+      "sha1": "e41811af5c69982c5e40be3417c7327050238a1f"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/large_redwood_placer.json",
-      "sha1": "4c056dd6b5a25420abfd5a7ac4d71e9c14ed21e9"
+      "sha1": "e969aca9e3ec58cbcd5b388478ddb8e690d142fa"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/redwood_placer.json",
-      "sha1": "a4ced6ae9bec2164f1c8215a6a07118176ff1a98"
+      "sha1": "b4bd6cc6498d2f6fb275d1002282b341a47c8bef"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/biome/old_growth_pine_taiga.json",
-      "sha1": "0e5382ca70ae6982bfca6d93a2b0fb48a52acbdd"
+      "sha1": "1e27d5623ade81ba328527c829fbb4b0dc4ba7b0"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/biome/old_growth_spruce_taiga.json",
-      "sha1": "88d9bd955cf6f40225ef767987bc9e0cff32f46f"
+      "sha1": "29a0fd4dada1b45154a80ebd67ff1ed0d837f42d"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/biome/taiga.json",
-      "sha1": "205d5baac49d2398bae5ebc7145d8f9dd75c3a58"
+      "sha1": "2f3bc5a8c1b7ef5f470206dda5d45f7c7bb64aa5"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/configured_feature/trees_old_growth_pine_taiga.json",
-      "sha1": "a5ef59d9a2dd665e4f3af0c2b77d76588e74b249"
+      "sha1": "e2745c9b292e6934fd7d9303e36c14d28f1095b7"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/configured_feature/trees_old_growth_spruce_taiga.json",
-      "sha1": "d81f4168b9d79b261e2a0765f6d5c5e0a5d907de"
+      "sha1": "9aa41a0ca5f5243cd1d242c263cafffc2e14b8fb"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/configured_feature/trees_taiga.json",
-      "sha1": "0768759a22feb788b61b71892ecdba12be813355"
+      "sha1": "cdfe17f84044f600f5dfe30b519bdbd97c82c41b"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/placed_feature/trees_old_growth_pine_taiga.json",
-      "sha1": "6f83f52228740b1ee9ee215db933cf5546419b67"
+      "sha1": "5fdc8e1011cb272561c9fce49e8ed5171a279190"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/placed_feature/trees_old_growth_spruce_taiga.json",
-      "sha1": "8d09334bf086d8cf43de6a5bcb304db2957b56db"
+      "sha1": "aad9b589245ef9669e60974b33010e854fe984e2"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/placed_feature/trees_taiga.json",
-      "sha1": "8dadbb481d2e60c303403603710d23876e790076"
+      "sha1": "673b8f368fb89d6010bf1b15271e9d4617ad7fa2"
     },
     {
       "path": "overrides/config/paxi/datapacks/taiga_redux_pack/pack.mcmeta",
-      "sha1": "3087e4b52c4b9a2b153cf1e21a7e254cd01ab177"
+      "sha1": "64ee9ff85e292897b2c5ff7e3aab8dc312f0f852"
     },
     {
       "path": "overrides/config/paxi/resourcepack_load_order.json",
@@ -4426,11 +4422,11 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/credits.txt",
-      "sha1": "5cb36fbdd80e12050c9b107e7749778b097ba07a"
+      "sha1": "12cda1f960682c29b220ae799f4efcb4f0085d61"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/pack.mcmeta",
-      "sha1": "be2513a2f55c60317f0b974b8f940732ea628829"
+      "sha1": "2679433d457865e5ddd99123691ef58e4e5dcb01"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/pack.png",
@@ -4442,11 +4438,11 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/architects_palette/lang/en_us.json",
-      "sha1": "016b07d07b27b7adeb9037a5d527056604b80873"
+      "sha1": "1e914d684ee131de892f8e3541c29a2af20d1e13"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/brick_and_mortar/lang/en_us.json",
-      "sha1": "0b7e012449065d3ee42a050f1652434ab5121b9c"
+      "sha1": "b643426cfd5d389be4178db1925832fabd886bcd"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/brick_and_mortar/models/block/burnt_purpur_brick_wall_inventory_inventory.json",
@@ -4594,103 +4590,103 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/acacia_bush_podzol.json",
-      "sha1": "3aaefd14e1d9cc34b8d3992bad04aa9052699e43"
+      "sha1": "3fa25aa21c8d6cf11db91818d78d74cde79f2360"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/aspen_bush_podzol.json",
-      "sha1": "04ba9cc767f72021894bf187fc9ff3c233ab31a2"
+      "sha1": "4799243bb7099680d3c2f17d10a342436ba70193"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/birch_regular_coarse_dirt.json",
-      "sha1": "7e32254a3efd5c7aad569d900647826a02f9b6a6"
+      "sha1": "c1ad8c9c8e0ade66260fbcbd644f8aa555edd96c"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/blue_wisteria_tall_rooted_dirt.json",
-      "sha1": "80136366dc85655b46d19d20e8d8871ab74a5abf"
+      "sha1": "abaf3b46f1df581af2f96ea7031f680352bb6f03"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/dark_oak_large_rooted_dirt.json",
-      "sha1": "914d535a8cd8b2c6423008285707d3bf6f8700f7"
+      "sha1": "9d082cc3d8c73dc1f43eeb1ea36501fcd793cfaf"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/dark_oak_tall_coarse_dirt.json",
-      "sha1": "02c5ef32647ea190861a956250e60740075ba394"
+      "sha1": "e8811bcbf16e59b5da6a08ce555751305bfa423c"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/jungle_fancy_rooted_dirt.json",
-      "sha1": "465b63da55e024a87f040a14996179ef8c0bc269"
+      "sha1": "a9f37ee86415ff898730cb640f394c807f456f8e"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/mahogany_large_rooted_dirt.json",
-      "sha1": "94460abe80ffec42296d9beb83538dddee64699e"
+      "sha1": "9570f70d5a404d174f592e663df29bf8fc8cc72b"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/oak_basic_muddy_mangrove_roots.json",
-      "sha1": "92284e87909eb623114a64f1a8fef5cd8c64cf64"
+      "sha1": "9252a9c2cd4efa0f483c13fa66f4e82a91d0929c"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/oak_bush_podzol.json",
-      "sha1": "b4adbc19be3b3be20e1d59d852a73e05e8cfb275"
+      "sha1": "825b73e9876a111eb5479241b97a97069839cbba"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/oak_fancy_coarse_dirt.json",
-      "sha1": "035c98db201157fc6720c317fa4b6983b676f117"
+      "sha1": "375c1c98a15a21c342d3e3f5a0113cf0bb005a55"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/oak_fancy_large_rooted_dirt.json",
-      "sha1": "a47c2bcc6630017902ebb1311cc8945f003eb8e2"
+      "sha1": "522857d801c5325eb803ed7abec213e4691259fe"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/oak_swamp_mud.json",
-      "sha1": "2efab92b610941975e8046aabcdf2f4b7de38a33"
+      "sha1": "73483173c0cc4a1b3ef9b0978f6cfb9dd8207f7f"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/orange_maple_large_rooted_dirt.json",
-      "sha1": "cf422ce9071e65eed3f21a45c17d002b5f14c3bd"
+      "sha1": "0a1514f266cddff1d90245f8dd8761634d938e90"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/pink_wisteria_tall_rooted_dirt.json",
-      "sha1": "c2182da8d788e2bf4d009c7c60596c9aefad5e6a"
+      "sha1": "6d005caa162dccbf031f84ceac1d75ce13d616e6"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/purple_wisteria_tall_rooted_dirt.json",
-      "sha1": "eb7228cb274b74528ecde8eaeb5a73c59d9c4dde"
+      "sha1": "27203b90823a5202d86aabc4c37b86ff055a8342"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/red_maple_large_rooted_dirt.json",
-      "sha1": "9b13e685e0531ecc814825a49cad5181aaad3f61"
+      "sha1": "d68043ac060d0a5bffa564c9bb7d8b2edd536eab"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/spruce_bush_rooted_dirt.json",
-      "sha1": "cf775319636c95398daf8cab1a099e86f8a9d034"
+      "sha1": "1ddc0f67592a0dda34a7b990ada675b423b85647"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/spruce_mega_rooted_dirt2.json",
-      "sha1": "a5d68ae00cca302a546a10eca275ecf6fa9c3881"
+      "sha1": "74e517bd169347d1f841839aae9c51d17d084d90"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/spruce_pine_mega_moss_block.json",
-      "sha1": "a6e3ffb403c1b4b64377e1059d7d2af534a1ccb0"
+      "sha1": "c7378bd4bfca33e235d8c3ef2fb691c70ab01826"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/sugi_large_rooted_dirt.json",
-      "sha1": "a21b23060445c6df4ecceac5619a95f3f6348e17"
+      "sha1": "9a173e10f3d66defa7e54023aa39c01f0ae098c2"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/white_wisteria_tall_rooted_dirt.json",
-      "sha1": "b67e307773b5de13ac870e75693c67cb8d14a57f"
+      "sha1": "23776205a4e87fee51304cee7833097c54aa9e73"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/willow_large_rooted_dirt.json",
-      "sha1": "ab8b800f1a420e3e066da12272c9db0f7d84863e"
+      "sha1": "a4360d4868b11ef58208010117129d2b19cc2e7f"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/yellow_maple_large_rooted_dirt.json",
-      "sha1": "6b53b2972f965a23b572f9f1bddaac50e71986e0"
+      "sha1": "a3fd9890fb65fef5b5f0d3f792bd4245c6ef887f"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/enderscape/lang/en_us.json",
-      "sha1": "2042cdc466b92ebe985c90405fd83d8fda7fe656"
+      "sha1": "3f9a5984334ea81c1ff1fefc86e97b1412c96b07"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/enderscape/textures/block/celestial_door_bottom.png",
@@ -4746,7 +4742,7 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/lang/en_us.json",
-      "sha1": "c9772a633550aa7565360ca61866ab72044bfa9a"
+      "sha1": "bf9b623d0b861b0475a18ec085f8563b2545630a"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/golden_knife.png",
@@ -4754,7 +4750,7 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/hummus_external/lang/en_us.json",
-      "sha1": "353e1f08a3b53c21aec93c4c4a3efe97701bff60"
+      "sha1": "12145d3837b3979ae9b06656d07bb3e90d5038e5"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_0.png",
@@ -4786,11 +4782,11 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/pack.mcmeta",
-      "sha1": "1f96a762984e04616405ee544a875977db7b31c6"
+      "sha1": "5edb9a455fbc4515737173feb15da910451c702c"
     },
     {
       "path": "overrides/config/proplacer-client.toml",
-      "sha1": "a0a9e84262b61ec704b5823f72be4d932d87288d"
+      "sha1": "9ead960e2e3a75665bd723f6b5c87da0cd0baa3c"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
@@ -4806,51 +4802,51 @@
     },
     {
       "path": "overrides/config/remi/stack_groups/bamboo_spikes.json",
-      "sha1": "5e1aa1059b178af1af9c36c5f3262b84a61cd5a2"
+      "sha1": "bd857ebfeb0b69beceb0f542488de361fb4dab9b"
     },
     {
       "path": "overrides/config/remi/stack_groups/buntings.json",
-      "sha1": "6673d3619ae5416e578c2068c7711be5fbe3aed8"
+      "sha1": "467d2ff1d1c694e4e14ad8f6580fe2dc551220ae"
     },
     {
       "path": "overrides/config/remi/stack_groups/cabinets.json",
-      "sha1": "3e06a2f4cc34c3c7247bf962b7b470fd163c6f4d"
+      "sha1": "2db38c24c14ffd8d8b5ca4e0e0089af06534b129"
     },
     {
       "path": "overrides/config/remi/stack_groups/candle_holders.json",
-      "sha1": "56bed764b1082626baac73a682dfab8bad181ca2"
+      "sha1": "c7c78a5991d6acbba2bd92f49b630359dd6ec13f"
     },
     {
       "path": "overrides/config/remi/stack_groups/chalk.json",
-      "sha1": "a13e3aeb5198dd19c62e738be92b8d8eec0ad7b8"
+      "sha1": "e7a1bba2d57f755e9ef944056962d0fef24158f5"
     },
     {
       "path": "overrides/config/remi/stack_groups/hammocks.json",
-      "sha1": "1d17e9362d761463d6ef54ed846cffa69253e36d"
+      "sha1": "cc875cba4ca98298644ab0e40372a2b39bc6460e"
     },
     {
       "path": "overrides/config/remi/stack_groups/kaolin.json",
-      "sha1": "eae4edc78342bb5565b2bfb62efe74205e237edc"
+      "sha1": "aaf8eb2d0d016f870645fe23e9a16106c37bad47"
     },
     {
       "path": "overrides/config/remi/stack_groups/kaolin_bricks.json",
-      "sha1": "c2828a35e4c73b8c7ab67fcf9b3ed3174ffa596f"
+      "sha1": "03d116f5edda29f6e12f30e1b9afbadddd0e65c7"
     },
     {
       "path": "overrides/config/remi/stack_groups/presents.json",
-      "sha1": "a1f4c81e8f6b1a614fae9a74544db077a7e83821"
+      "sha1": "a56fdcfb68c7695f0cf9f60fc2c0fe71f544887a"
     },
     {
       "path": "overrides/config/remi/stack_groups/sacks.json",
-      "sha1": "c1cde78b27d40399d5218e31e77b77fd54125c60"
+      "sha1": "852773e5b432777d1419370a03856e2362470a63"
     },
     {
       "path": "overrides/config/sleep_tight-client.toml",
-      "sha1": "dde2b46cbd60fb3a35a04e1ed7bbabf43928c4ed"
+      "sha1": "30a615fb34104b8ca24d54617f25fb5e61704fb4"
     },
     {
       "path": "overrides/config/sleep_tight-common.toml",
-      "sha1": "576b39b527946ae50471e54eab264a3c001fbc17"
+      "sha1": "cab00d284616747e4c7b12338c587bae74b6f040"
     },
     {
       "path": "overrides/config/snowrealmagic-client.yaml",
@@ -4862,7 +4858,7 @@
     },
     {
       "path": "overrides/config/snowundertrees-common.toml",
-      "sha1": "4d0b6af886ed902214f54816818f65f1c6dbbe29"
+      "sha1": "01c47c75f96e46c743e2c852ddac61512de666b0"
     },
     {
       "path": "overrides/config/sodium-mixins.properties",
@@ -4878,11 +4874,11 @@
     },
     {
       "path": "overrides/config/spawn-client.toml",
-      "sha1": "56b48d28c3b92ee4d3bea6046aad8494725bb17f"
+      "sha1": "54232eca019e04958d83165c63380b7b8bd80a36"
     },
     {
       "path": "overrides/config/spawn-server.toml",
-      "sha1": "1a7125be9adcb14d4a5ff94fe1f9858627b73507"
+      "sha1": "45d1a60f44098bf63d23b039e4ef40bac733baec"
     },
     {
       "path": "overrides/config/spyglass-improvements/settings.json",
@@ -4894,35 +4890,35 @@
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "ed7cabf30beb6ff2b32c3c081f10561675435bdb"
+      "sha1": "3f29991add9a44effee095575b290fdfb9861eec"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "11dc5845ee2928480b1a1bc1b8f40b7926bb3ec4"
+      "sha1": "9a38a0fe3886d324df62c9180f9c8fe8a0e560da"
     },
     {
       "path": "overrides/config/suppsquared-common.toml",
-      "sha1": "959761668723bcaeb47cc51cf85e68c8da9efe33"
+      "sha1": "88e449325509c8d2c8b79e869a03ef72634b5b59"
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "159333d430ff2f5b29a7387301573406e53fc717"
+      "sha1": "5aada439f8d0ed90d1960a6c2f855812b83341f1"
     },
     {
       "path": "overrides/config/teallib-client.toml",
-      "sha1": "bb026b78d495735f20511332ed49dc4bf654c6a9"
+      "sha1": "24ac37f66212acfc19fe966fd1e5d75940560307"
     },
     {
       "path": "overrides/config/terrablender.toml",
-      "sha1": "b5975259ce2a804ddb1cdce20f3b474cc535e7bb"
+      "sha1": "f120ec661c7a5c57f049631d1ea4b58802e8d235"
     },
     {
       "path": "overrides/config/the_beyond-client.toml",
-      "sha1": "68e6409eb124dd5ccbbf01ee2f7f18f7819228e5"
+      "sha1": "0f4d1bde75e2a6e8cf02c0e18363d8115f4bc1d6"
     },
     {
       "path": "overrides/config/the_beyond-common.toml",
-      "sha1": "fb38d732aeea63874ca096027ba4dbd915a40582"
+      "sha1": "bb39b2d9229a7aa07ec353f8812ef4b1584e69bf"
     },
     {
       "path": "overrides/config/transition.json",
@@ -4934,31 +4930,31 @@
     },
     {
       "path": "overrides/config/twohandedengine-common.toml",
-      "sha1": "ba6fc8deaa4deb6f5c00789858d8be7adc20f34f"
+      "sha1": "0a0f3d0e8c35e4158458cd9a5f50473fa7ea782c"
     },
     {
       "path": "overrides/config/usefulspyglass-client.toml",
-      "sha1": "07fdd9f716591e54df958f4140d8b295cfa165d9"
+      "sha1": "1621edf1f2a766fabe0ffca4823213ef6135fdde"
     },
     {
       "path": "overrides/config/usefulspyglass-common.toml",
-      "sha1": "a45429de14d26e8ab3f50fc28325507adff22d39"
+      "sha1": "56f14e8d7bab96d7bdf8a141feca36d32d58572f"
     },
     {
       "path": "overrides/config/watut-client.toml",
-      "sha1": "1239e7eff97a736c9e29fe57d8034b64bb766389"
+      "sha1": "af24b03bb2482372ddea6d81878d8975098dd25d"
     },
     {
       "path": "overrides/config/watut-common.toml",
-      "sha1": "c858cf73b5760b42d42d0fe06981471b4f1debd4"
+      "sha1": "55781f5d0dc1d7975db99c09c5353ae1959594cb"
     },
     {
       "path": "overrides/config/watut-item-arm-adjustments.json",
-      "sha1": "2cfa88c57c35df26af1391acb7f2f8eb8abd53ab"
+      "sha1": "f998d4ccaf263904f7f8dbe35b0364f59722e7ac"
     },
     {
       "path": "overrides/config/watut-server.toml",
-      "sha1": "676f01f869328fa288c5ed25ac86459aa6249b04"
+      "sha1": "f4bbad38e8c2253eab33bdd38a0a135c022b1786"
     },
     {
       "path": "overrides/config/yacl.json5",
@@ -4986,79 +4982,79 @@
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",
-      "sha1": "69f171cd0f11605f62ae5dad3a8183bcc405f1b0"
+      "sha1": "e03566ba66f62af9c2745a304f691502e345dcd7"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/block.properties",
-      "sha1": "38b3fe3a7a696a9381d38a51e5c2d2c3b5a7ee00"
+      "sha1": "dbd88eee711749d104808c849396ee27d5f1b983"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/blockReflectivity.glsl",
-      "sha1": "783c7b95bd8ac3bbb68733bab492e283cf45e24b"
+      "sha1": "118aad3b76eb790321c9436a1a9c80a0b3f311d0"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getAmbientColor.vsh",
-      "sha1": "7857a2f298f65761b05556521ee45a921fe19c51"
+      "sha1": "2dfa91d0281e6444adc936400f2eeaf3937ecdeb"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getDiffuse.vsh",
-      "sha1": "263153594c8715a5751fa8e833952fdfba4f4871"
+      "sha1": "b1beb1aa21b49a02db70a956527f18b42d582289"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getFogColor.vsh",
-      "sha1": "6384599bedc950b5134a550e078829c7542dc7b2"
+      "sha1": "76941856ac19b7284289e2c7ad02c7d5aea36bae"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getFogMix.vsh",
-      "sha1": "8d94f16b3ea7301ddd86776d145dde626353e0d9"
+      "sha1": "9c2e7f97db9dfd02fb6964614c5acaadd6c8832f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getLightColor.vsh",
-      "sha1": "6a8ca31a84664e036ad10c0af81a1b4838e9a212"
+      "sha1": "ef5b35f34ecb27236bd03c252b0ba43e2d2e5900"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getLightStrength.fsh",
-      "sha1": "792fb8a6ce408701e972851eac1bb5785238ea2a"
+      "sha1": "28f8626875db499d2bd6ebdc358711a07e894fca"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getReflectionColor.fsh",
-      "sha1": "8c7d68c0306543796bfd30241c464bf7075149a5"
+      "sha1": "654d1463d5433889389ffe188bf05ba22ce988eb"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getShadowDistortion.glsl",
-      "sha1": "e81f82461f05c08d1f86465d454dc018324cf27b"
+      "sha1": "eae845cba4392fb6af7afdf7d7e94cbe51c3fac9"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getTorchColor.fsh",
-      "sha1": "f1dadfe33ef4ee37f923c73ca90e1c1f83dd7e3e"
+      "sha1": "b692596f543d68163a08c7b6ad974074fd398607"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getTorchStrength.vsh",
-      "sha1": "645996c0e58cf308a2a3e0205eb05598650cd2ff"
+      "sha1": "ab320d2747a13a4fb38f3bcc76d4f0417c3a316f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getViewPosition.vsh",
-      "sha1": "b3d48ecff46d72c56bc828708e1d25c3725b006d"
+      "sha1": "c6fa7969fe6d2967d508dd28ab9b314316c632ea"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getWaterTextureStrength.vsh",
-      "sha1": "618006be7cd574444c35303924a0e63e48ade27f"
+      "sha1": "d4ffc8f4403d8edb5c28fc3d44a966c08b6a683d"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/getWaterWave.vsh",
-      "sha1": "154a334f4bf8cc57b07491097d5a3f4af392b1be"
+      "sha1": "34bcd0bd813c6fd6184fe9b758342190e1dc70ae"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/math.glsl",
-      "sha1": "e723422b97c29d000af26b11262a6881b67b6c29"
+      "sha1": "91b979c85a87f6a933d5fac084ba556491554d1a"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/common/transformations.glsl",
-      "sha1": "cc8ed1913978c0cc4ed5fcf11c283fad85f60af2"
+      "sha1": "4a61840c23dd24674ca80a13a72875f3a7132cb8"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/dimension.properties",
-      "sha1": "0e4a7963de8fece3e7ac7754858a4c6636a1ef0b"
+      "sha1": "c653171361346754b878d39d62a9b1d9fd01daca"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/entity.properties",
@@ -5070,287 +5066,287 @@
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/lang/en_US.lang",
-      "sha1": "88f1cc30b780ff9106b78996e15a15d8c4758fda"
+      "sha1": "db6240aa6796e5da9b9f83fcb84f9e56e945ecb2"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/final.fsh",
-      "sha1": "e512b16086d3236ca58f068c00ed0cd60ef24ca0"
+      "sha1": "d8be6c626bf926b7ef9edde39d69e004322fab90"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/final.vsh",
-      "sha1": "304ea946efe35a82d787b4655859d7ae4ad1f5ae"
+      "sha1": "2c67c5ce0b2d3f1787f7a13a6f7ec667afb92c7c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_basic.fsh",
-      "sha1": "c69cb56d06a40eb2f3c1d36053400b06deb1eb18"
+      "sha1": "28bf7f62dd01ab6150c31f6b66d5572333103ca9"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_basic.vsh",
-      "sha1": "166912c98d83903f2c9f9c3c4773b8797d90a3bc"
+      "sha1": "5af73d3f90416e6a30b5efa4061b14296eddf24c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_clouds.fsh",
-      "sha1": "ce6e016b03c3ec9fe5454d4deac3ee3ef97812d4"
+      "sha1": "b5469c3084d29e8a57ac06844360e1f519879b42"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_clouds.vsh",
-      "sha1": "4bf2e79ffabec0760c576cfb64654cb13316a802"
+      "sha1": "9fed93105eb702be20ea39d9bfff862df7fa0fad"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_skybasic.fsh",
-      "sha1": "33b1287b26c793a52053cfe30bcd23ae754476f4"
+      "sha1": "02c4644bd9f9be0ef34e8a5aaae33dd1d0bd4629"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_skybasic.vsh",
-      "sha1": "91123e4c97434d1415001d5c857689bd0f11ed5c"
+      "sha1": "06047609f40d8c43323fb47ce4de4183fad9c9e8"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_water.fsh",
-      "sha1": "816dc24290823f0c5effbe2b2d4f16f2d25c1745"
+      "sha1": "d8af861b643f1138f7923c3e451ea01a92afaafa"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_water.vsh",
-      "sha1": "22377d71c3afed568816faeb9421b043bea08a10"
+      "sha1": "d226771001aec229cba6cce1839609f038a6c2b0"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_weather.fsh",
-      "sha1": "b0429810851e82b96e1f4a1f134e450642ab01bf"
+      "sha1": "70dbed95a700314ed7e5918ace84e1c55259114b"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/gbuffers_weather.vsh",
-      "sha1": "6da750fe3428d2998b14b1bf1eb707bbc51eb832"
+      "sha1": "db6a0ce2feba1454d7be1d0a5f2466b74218ef76"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/shadow.fsh",
-      "sha1": "4df1730908eb5b4fad34cf2a65527c0ad4b47c7b"
+      "sha1": "03bb164859279c218e8539160098bfa55365b85c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/shadow.vsh",
-      "sha1": "4474c34eb639d4d32e9bbace4595229daeb3bdb3"
+      "sha1": "be15fd95595c7e1ced26990e95c20ff166518683"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/textured_lit.fsh",
-      "sha1": "77fe6bf64e00476a26d5b6ad69c05316d811da1d"
+      "sha1": "814bec4838969cd0dd90e3bbccc34fa6460a524f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/program/textured_lit.vsh",
-      "sha1": "85a5bcb5e91d61bf72a34057acb106d7c75ee6a6"
+      "sha1": "053e4d37a501ebfe29e0695aa9d181962483de37"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/shader.h",
-      "sha1": "0c94fa5eee5e87f5d09ff3da62165343220c0913"
+      "sha1": "ee2fd1e57095c5f16ad0af09da8c7908b39c02e6"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/shaders.properties",
-      "sha1": "ea611366e51ec465c8374964cccfc90ef861622a"
+      "sha1": "65fdea3f7aef8387f307242392f9302e942bf75f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/final.fsh",
-      "sha1": "eb2c789b143f79c5f12c7cd4c014f8adbd1befef"
+      "sha1": "daf878c553c3e3cb34a52f2fa649c0e62fca0173"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/final.vsh",
-      "sha1": "c1285ce94d088683694a4cfb0dd7496c3aae6940"
+      "sha1": "67824d1528f01ac177fd611c4aeb16e9a9585756"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_armor_glint.fsh",
-      "sha1": "d03bdf13d95e6913d6aa7ca5145bacb7d2a0752b"
+      "sha1": "eb0bf63ad1ff545ea528fe1fba5cb964cd3bd4d7"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_armor_glint.vsh",
-      "sha1": "1390b1dd50ede19167fad38118ecb880e4dd0925"
+      "sha1": "ea54e9c9c1f13ebaa4a9c339d50c07fabd43425f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_entities.fsh",
-      "sha1": "3feed41f8622412be694790946761800b5adaa54"
+      "sha1": "c0c2fe4ec617e9fd870a61ca9d43bffe494e89a3"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_entities.vsh",
-      "sha1": "f386af3e707f2ae8c6dec1c7394b48a2fb8dd912"
+      "sha1": "b66294bb596c84c36d22432acd3b1dff33b6bb0b"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_hand.fsh",
-      "sha1": "dfd9eb82903be5029a136ad0966951acdfc20481"
+      "sha1": "210f054fd256eaa0575dd1291d96296f85ee023e"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_hand.vsh",
-      "sha1": "d387f216ca7cdfcef818c912c1174a31725b4e43"
+      "sha1": "7273052ee1c1691a1c0c6bec37acc485f563d6d8"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_spidereyes.fsh",
-      "sha1": "d03bdf13d95e6913d6aa7ca5145bacb7d2a0752b"
+      "sha1": "eb0bf63ad1ff545ea528fe1fba5cb964cd3bd4d7"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_spidereyes.vsh",
-      "sha1": "1390b1dd50ede19167fad38118ecb880e4dd0925"
+      "sha1": "ea54e9c9c1f13ebaa4a9c339d50c07fabd43425f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_terrain.fsh",
-      "sha1": "1530b3780a0e46713c12651c3e5f2f59e4ed4704"
+      "sha1": "5d1c2d8f9248b9b3c0be1c1070d432a01b74ae9c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_terrain.vsh",
-      "sha1": "86d605e79da1b34e9f50d3d451296190b6579afd"
+      "sha1": "c08622153669c1ea2a253ba152671794d3b2a3b6"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_water.fsh",
-      "sha1": "95c4e4590afbcd6a77de15abb59ebd07bcf6626f"
+      "sha1": "d68d0f772b789158fff1f011d5c220aa21179bcf"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world-1/gbuffers_water.vsh",
-      "sha1": "428bc74dd605bc23171cef0dcad7de19b1060406"
+      "sha1": "7d454e7756be69bc284e4a7f5f29185c46fcb1c7"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/final.fsh",
-      "sha1": "3da9c512583955ddc6a312e3647ab8a29fa0a02a"
+      "sha1": "78c1ff745f1d38d0b3051332a7421d2137460382"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/final.vsh",
-      "sha1": "e9e7a7022149af01b12ccbca5c93cfccc287df84"
+      "sha1": "cb16864ca120e7fbf01b81cb234787ebab82d0f6"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_armor_glint.fsh",
-      "sha1": "3da9a3603e4950f28e1ddcd6c22f42adcaea995f"
+      "sha1": "907ea7ea7c7da3d899a79706db3de3e5cc7ff9c7"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_armor_glint.vsh",
-      "sha1": "72d238e2320c83a29662d16cfcca35c96d5d1fbf"
+      "sha1": "d53f02087b4670204d17d712f808b542f385d0d4"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_clouds.fsh",
-      "sha1": "2cffc72013b25d87f8eb81194f270278b0f9d9cf"
+      "sha1": "b7c2382e2aa6eb61bf4f7e57f31d18aaf472144b"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_clouds.vsh",
-      "sha1": "44aa402383c9a8ecabeea1956db387455c07fa79"
+      "sha1": "ab06c18c66c7b46a3bcfe1f8a2491807f1397338"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_entities.fsh",
-      "sha1": "0760a803c57944c31f99b905b00334c4911f90d0"
+      "sha1": "5f53f79b07b37761e36cbf420692f9f805e88392"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_entities.vsh",
-      "sha1": "bbe04381ceab008f58a4063d89d0c42f1b36fe45"
+      "sha1": "83f009cc2db73543a136ab4e1b70fc132ebad1d1"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_hand.fsh",
-      "sha1": "63e838af97a550c816ddefcffb4905f111e91f94"
+      "sha1": "df23c2c993748cc7654f47ec184a57f0458c117c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_hand.vsh",
-      "sha1": "225f1d06d09574da00cb30e1eea63e9bf1ba482c"
+      "sha1": "c95ea72e9c5e4284290a7a273f3ead1de4180bda"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_skybasic.fsh",
-      "sha1": "d5529670e27303c1e74a5e7c697f61965d204341"
+      "sha1": "d28e70c174da25296e9d44fc81027cd41bcfede4"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_skybasic.vsh",
-      "sha1": "fbce09410235c912fdd4e84c9b95039bcb16e9df"
+      "sha1": "3604d1b624bf4cb430fc5c7fe5013e6a319f118d"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_spidereyes.fsh",
-      "sha1": "3da9a3603e4950f28e1ddcd6c22f42adcaea995f"
+      "sha1": "907ea7ea7c7da3d899a79706db3de3e5cc7ff9c7"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_spidereyes.vsh",
-      "sha1": "72d238e2320c83a29662d16cfcca35c96d5d1fbf"
+      "sha1": "d53f02087b4670204d17d712f808b542f385d0d4"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_terrain.fsh",
-      "sha1": "4fa2e9db0d67008ff853dd74f275b9a96db65e0f"
+      "sha1": "a00f7d2514d4fc755bef45348656a2f088bc2c92"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_terrain.vsh",
-      "sha1": "f5be206b5e8a89abb42477ce4085d895881e0a7b"
+      "sha1": "702ba26c8107788f106126f45816619fe263dae8"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_water.fsh",
-      "sha1": "c3effeedcbe682908ef2b2c763968f448654cd74"
+      "sha1": "1ddd886c75597d2292b40a5df03c5e176f0d99cc"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_water.vsh",
-      "sha1": "7985ead95f3ffcfbd5c25737c475388a7824779e"
+      "sha1": "a5367309ffd64fed1084999f1dde2613b3a9fd5e"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_weather.fsh",
-      "sha1": "b8935b4923ddba8f0a65cdc307521f084412306c"
+      "sha1": "2a8f88de093b484f2e1d27c79307b9b99f0f7b30"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/gbuffers_weather.vsh",
-      "sha1": "dd3f4536cbcfa8e71b8b561e95541d9bbe23a4d3"
+      "sha1": "fe727219d116c3b99bd1a064f4e23a20a56cb746"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/shadow.fsh",
-      "sha1": "cf94f2de9f5813d9689808a9f1ff5bc57840effa"
+      "sha1": "e62a7bab36077ea6fb5fb31a3aeaeafc0fb98fa3"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world0/shadow.vsh",
-      "sha1": "59bfdf8d15c6bc4371928d1b797873e853745bc1"
+      "sha1": "701b9dac425ceb4d92041df7612d9d29a88d6e1f"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/final.fsh",
-      "sha1": "b94c79b4ab9633296ae91296b0314ec6af408a95"
+      "sha1": "39263bf469eaa83aa5e749cd789e90f985c5413e"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/final.vsh",
-      "sha1": "ef536cc509ba7e1336f93356fbaa93e4f373fcdc"
+      "sha1": "a3348cedc70ace33d21bf7e4d332557b632c0e7d"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_armor_glint.fsh",
-      "sha1": "2a9aa60a920488fbbd44d27524ae584b2fdacb3c"
+      "sha1": "f182245f91309944be13881041cd00c5b350db5a"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_armor_glint.vsh",
-      "sha1": "d0e405e03e661dcfb0551c4b6f9147e20c522275"
+      "sha1": "19a10d24251d7e7232895985d78281f73cb92203"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_entities.fsh",
-      "sha1": "1c0eb2b7b44182a70b2319a030a024f1bf9e8381"
+      "sha1": "3106443e416c4d0f74cdd3edafbc142165d955cb"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_entities.vsh",
-      "sha1": "63439520819aab7fb9c3858ee4d96167605753c6"
+      "sha1": "0e0dab6df23318dfaff90d86dd73bc4d9c48a198"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_hand.fsh",
-      "sha1": "30feb78b6b6df1e4aa5c57fe67c2f12a501a359d"
+      "sha1": "44ec1c3f0cc38e4d7dca90c1dee2e896c1496cdb"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_hand.vsh",
-      "sha1": "f411d781a643bb42096e334667c0a03be4b4f099"
+      "sha1": "5a2212f512f6f8113e99a672c6691192ba5553fb"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_skytextured.fsh",
-      "sha1": "155a4c1ef393ce051572ca36ba4e2d8d417557f7"
+      "sha1": "b587b35b808d160548a9669213c077390f0e6a76"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_skytextured.vsh",
-      "sha1": "40883f0c1155f8c8d5a36df076dccbc2e3f9f83e"
+      "sha1": "acf28825752249c0c162109c433a42a5b6f85ddf"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_spidereyes.fsh",
-      "sha1": "2a9aa60a920488fbbd44d27524ae584b2fdacb3c"
+      "sha1": "f182245f91309944be13881041cd00c5b350db5a"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_spidereyes.vsh",
-      "sha1": "d0e405e03e661dcfb0551c4b6f9147e20c522275"
+      "sha1": "19a10d24251d7e7232895985d78281f73cb92203"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_terrain.fsh",
-      "sha1": "e1a2d04866392ddde9f931008f0d84bb6f18a725"
+      "sha1": "4c24a26849bc8a6ec1b1085bb54e6e2e77356724"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_terrain.vsh",
-      "sha1": "21927c61e9b49f1573745ba8bcfc37da44d02545"
+      "sha1": "49a2040d237d466fa5277333a50a3ce1f0d75daa"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_water.fsh",
-      "sha1": "666f5ccdf6a23fa6dbbba767d1b93a120b598bf6"
+      "sha1": "5dfca5a463be3698699d0d4279b8238bae5a073c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5/shaders/world1/gbuffers_water.vsh",
-      "sha1": "13ef745e034db0afebb6295170eb0001a3f689a4"
+      "sha1": "6a459cadc7c1c1424baf0519acfdba07af51d1ce"
     }
   ]
 }
