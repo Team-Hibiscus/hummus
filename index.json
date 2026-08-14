@@ -605,6 +605,10 @@
       "sha1": "f7a492fd3bdcb9a7abe0b48e4be6586ce2c49a09"
     },
     {
+      "path": "overrides/config/emi.css",
+      "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
+    },
+    {
       "path": "overrides/config/emojiful-client.toml",
       "sha1": "87d3143bd0bd6f313636dcacf03e27db5b74cebe"
     },
@@ -642,7 +646,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "28a4c4d2f40dbf51bd160acba5d45c7c1651468d"
+      "sha1": "2c43b4aba45f487ad4861800139bd02e56e01b35"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -850,7 +854,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "7861ffaecde0f71fb15f120e17891f5357033060"
+      "sha1": "d3ff1c548ed533234fae44128534d216350d1cd2"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -4973,8 +4977,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.1.jar",
-      "sha1": "200380124cfd4a06dbc3346241700c37887b72f5"
+      "path": "overrides/mods/hummus-0.8.2.jar",
+      "sha1": "d987b442263bc4c21a30513e3e1d3a9fabe7b6f5"
     },
     {
       "path": "overrides/mods/swordish-1.0.3.jar",
