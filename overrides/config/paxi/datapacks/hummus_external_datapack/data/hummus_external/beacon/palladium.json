@@ -1,0 +1,15 @@
+{
+  "bases": [
+    "galosphere:palladium_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:invisibility",
+        "duration": 16,
+        "amplifier": 1,
+        "range": 50
+      }
+    ]
+  ]
+}

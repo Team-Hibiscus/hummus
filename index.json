@@ -550,7 +550,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "47f590e0d36ec4f208f9b9081d12149e56d2a9bc"
+      "sha1": "94a4f327f8ac1ca479d850aa3668cb8033d11af6"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -646,7 +646,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "2c43b4aba45f487ad4861800139bd02e56e01b35"
+      "sha1": "1554ba60dd52812dc76671e220805bae1c35e3f2"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -854,7 +854,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "d3ff1c548ed533234fae44128534d216350d1cd2"
+      "sha1": "a8ee17e91790e8fbaf0ee881628cf3f92df67ad5"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -1693,6 +1693,58 @@
       "sha1": "c695707de67c529adb83c47866c86acd32e82120"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/bone_block.json",
+      "sha1": "59cfc15adc1c24c4c8f2ab5b3296006dace679d1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/dawn_gold.json",
+      "sha1": "5282c796920de1bd93cfc73e1a405f91c301158a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/driftium.json",
+      "sha1": "80c00469e7faac948da99101341be896781c37b1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/electrum.json",
+      "sha1": "8cd7f4b2cd67f760369b80b2836c8b261ae53688"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/galena.json",
+      "sha1": "d0b5f3ccbba8f4330f872b05d0e10e048604b999"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/lapis.json",
+      "sha1": "f54fce5c2b2d4ab7b0bec366a6f58a5a9fb41283"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/lead.json",
+      "sha1": "072f665f73f427cec0fab1beb02debc16786f860"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/palladium.json",
+      "sha1": "540fb86c506648fd522e9d69c61bbc0c3bed913a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/prismarine.json",
+      "sha1": "ebe8c890ab7451d4599379f14c19b45c81ef2d2f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/rose_gold.json",
+      "sha1": "b2d0249d06025e7ffd39d793314d8a251ea2364b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/sculk.json",
+      "sha1": "a5786d8caa4c3ff2941e99ebafac4154e80f4aa4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/silver.json",
+      "sha1": "d4e0ccf58b973278032077096cd65bb73c7f9047"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/sunmetal.json",
+      "sha1": "023b6b8cd18a01977fb5904c239e1f5961ac0b91"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/shape_map/compat.json",
       "sha1": "05d6ffbdea37c32f146213ded53654ef8016b64a"
     },
@@ -1787,6 +1839,54 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/immersiveenchanting/loot_modifiers/woodland_mansion_ancient_books.json",
       "sha1": "e8a2fe65839607c945efcc669fa924f391dc5e22"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/diamond.json",
+      "sha1": "5032fcb9acccf68c51078bb61f70d275e11b6c14"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/emerald.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/glass.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/glowstone.json",
+      "sha1": "2511201e10e3e3a79ddb20ec117bc09b0244b297"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/gold.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/honey.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/honeycomb.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/iron.json",
+      "sha1": "53940485546e6fb3f9876c6948a0d406d3034bb6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/netherite.json",
+      "sha1": "9fc40c170b4cc6b7b12987fd0161715ec66d6947"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/purpur.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/redstone.json",
+      "sha1": "53a0706b78cbd546620f670a7c3608a06a7c8e0b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/slime.json",
+      "sha1": "47fd877a9622bc5c7b0c2eb099509693bb761375"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/blocks/deepslate_diamond_ore.json",
@@ -4966,7 +5066,7 @@
     },
     {
       "path": "overrides/emi.json",
-      "sha1": "c3d495c87ebda3070737e918cd1c3eec51078c25"
+      "sha1": "f5064a810daf86d7dd7dd3b35d42d05ad6248088"
     },
     {
       "path": "overrides/mods/alfinolib-1.2.0-neoforge-1.21.1.jar",
@@ -4978,7 +5078,7 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.2.jar",
-      "sha1": "d987b442263bc4c21a30513e3e1d3a9fabe7b6f5"
+      "sha1": "f79604c306ecdd3706765edfc113f734e9ea77ca"
     },
     {
       "path": "overrides/mods/swordish-1.0.3.jar",

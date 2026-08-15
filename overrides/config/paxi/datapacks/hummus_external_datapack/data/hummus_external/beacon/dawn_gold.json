@@ -1,0 +1,23 @@
+{
+  "bases": [
+    "hummus:dawn_gold_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 3,
+        "amplifier": 2,
+        "range": 3
+      }
+    ]
+  ]
+}

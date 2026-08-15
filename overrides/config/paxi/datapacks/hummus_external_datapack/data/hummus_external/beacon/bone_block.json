@@ -1,0 +1,45 @@
+{
+  "bases": [
+    "minecraft:bone_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:hunger",
+        "duration": 14,
+        "amplifier": 7,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 14,
+        "amplifier": 2,
+        "range": 50
+      }
+    ]
+  ]
+}

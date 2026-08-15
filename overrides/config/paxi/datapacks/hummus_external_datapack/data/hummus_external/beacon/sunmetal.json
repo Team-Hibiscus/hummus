@@ -1,0 +1,21 @@
+{
+  "bases": [
+    "architects_palette:sunmetal_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "hummus:weak_legs",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 70
+      },
+      {
+        "effect": "minecraft:saturation",
+        "duration": 14,
+        "amplifier": 1,
+        "range": 70
+      }
+    ]
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "bases": [
+    "minecraft:glowstone"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:glowing",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:blindness",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:speed",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      }
+    ]
+  ]
+}

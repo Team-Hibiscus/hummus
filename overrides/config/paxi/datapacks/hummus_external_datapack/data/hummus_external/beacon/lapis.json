@@ -1,0 +1,21 @@
+{
+  "bases": [
+    "minecraft:lapis_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "farmersdelight:nourishment",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:weakness",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      }
+    ]
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "bases": [
+    "oreganized:electrum_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 14,
+        "amplifier": 2,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:hunger",
+        "duration": 14,
+        "amplifier": 2,
+        "range": 50
+      }
+    ]
+  ]
+}

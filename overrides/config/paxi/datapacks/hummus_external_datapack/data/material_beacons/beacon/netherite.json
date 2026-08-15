@@ -1,0 +1,21 @@
+{
+  "bases": [
+    "minecraft:netherite_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:speed",
+        "duration": 16,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:fire_resistance",
+        "duration": 16,
+        "amplifier": 0,
+        "range": 50
+      }
+    ]
+  ]
+}

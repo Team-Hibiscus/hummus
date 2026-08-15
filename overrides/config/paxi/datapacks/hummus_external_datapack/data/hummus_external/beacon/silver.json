@@ -1,0 +1,29 @@
+{
+  "bases": [
+    "oreganized:silver_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:speed",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      }
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "bases": [
+    "minecraft:sculk"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 30
+      },
+      {
+        "effect": "minecraft:darkness",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 30
+      }
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "bases": [
+    "minecraft:slime_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ]
+  ]
+}

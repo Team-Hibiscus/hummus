@@ -1,0 +1,43 @@
+{
+  "bases": [
+    "minecraft:redstone_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:strength",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:slowness",
+        "duration": 14,
+        "amplifier": 1,
+        "range": 50
+      }
+    ]
+  ]
+}

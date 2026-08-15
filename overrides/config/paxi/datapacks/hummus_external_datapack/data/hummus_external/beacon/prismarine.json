@@ -1,0 +1,15 @@
+{
+  "bases": [
+    "minecraft:prismarine"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:mining_fatigue",
+        "duration": 14,
+        "amplifier": 1,
+        "range": 50
+      }
+    ]
+  ]
+}

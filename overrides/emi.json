@@ -21,6 +21,13 @@
     }
   ],
   "lookup_history": [
+    {
+      "type": "item",
+      "id": "enderscape:drift_jelly_bottle",
+      "remainder": "item:minecraft:glass_bottle"
+    },
+    "item:enderscape:drift_jelly_block",
+    "item:minecraft:glass_bottle",
     "item:minecraft:totem_of_undying",
     "item:the_beyond:abyssal_shroud",
     "item:the_beyond:lantern_shed",
@@ -218,7 +225,7 @@
     "item:farmersdelight:straw",
     "item:farmersdelight:canvas",
     "item:supplementaries:sack",
-    "#item:supplementaries:overencumbering",
+    "#item:supplementaries:sacks",
     "item:suppsquared:sack_green",
     "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"usefulspyglass:spotter\":1}}}",
     "item:immersiveenchanting:ancient_book{\"minecraft:stored_enchantments\":{levels:{\"usefulspyglass:spotter\":1}}}",

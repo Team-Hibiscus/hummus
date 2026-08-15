@@ -1,0 +1,23 @@
+{
+  "bases": [
+    "hummus:galena_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "hummus:keep_inventory_effect",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      }
+    ]
+  ]
+}

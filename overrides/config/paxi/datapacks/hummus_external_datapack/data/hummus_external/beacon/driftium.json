@@ -1,0 +1,37 @@
+{
+  "bases": [
+    "enderscape:drift_jelly_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:resistance",
+        "duration": 0,
+        "amplifier": 0,
+        "range": 0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:slow_falling",
+        "duration": 14,
+        "amplifier": 0,
+        "range": 50
+      },
+      {
+        "effect": "minecraft:jump_boost",
+        "duration": 14,
+        "amplifier": 2,
+        "range": 50
+      }
+    ]
+  ]
+}

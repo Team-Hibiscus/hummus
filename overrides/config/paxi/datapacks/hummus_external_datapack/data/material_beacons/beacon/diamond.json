@@ -1,0 +1,15 @@
+{
+  "bases": [
+    "minecraft:diamond_block"
+  ],
+  "powers": [
+    [
+      {
+        "effect": "minecraft:night_vision",
+        "duration": 18,
+        "amplifier": 0,
+        "range": 70
+      }
+    ]
+  ]
+}
