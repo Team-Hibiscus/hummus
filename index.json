@@ -137,10 +137,6 @@
       "sha1": "e868d097c234581cda2f1515735e97e240c33409"
     },
     {
-      "path": "content/mods/emi-plus-backport.json",
-      "sha1": "a6f7dfe2ddfe4ae261316f1e3969167652340690"
-    },
-    {
       "path": "content/mods/emi.json",
       "sha1": "035bd125cccd1a8526d1f006805131b01e0cb0ca"
     },
@@ -385,6 +381,10 @@
       "sha1": "feb54dc5d005f22a352deedd1b004717db649f07"
     },
     {
+      "path": "content/mods/reliable-emi.json",
+      "sha1": "04aacf9a8cb0f35e2f88e750b7ae281fbb2be9ad"
+    },
+    {
       "path": "content/mods/relocate.json",
       "sha1": "01744df1597c5d9aba0166bbee03d2fe94edc46d"
     },
@@ -445,6 +445,10 @@
       "sha1": "f538145e47f359807b05ec22908d5bf1a3849701"
     },
     {
+      "path": "content/mods/swordish_weapons.json",
+      "sha1": "4f8223635a98f9a96ed8c3df984bcaf34f16e5ce"
+    },
+    {
       "path": "content/mods/teallib.json",
       "sha1": "f851f560d067fb5ce4cf43bfe0e77b5aa5f4c499"
     },
@@ -466,7 +470,7 @@
     },
     {
       "path": "content/mods/twohanded-engine.json",
-      "sha1": "07825e06760e8ddeef2f163db0b1c148a0e47734"
+      "sha1": "16960562071aeb72a7a004dfc8f679a8fe517bd8"
     },
     {
       "path": "content/mods/useful-spyglass.json",
@@ -646,7 +650,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "1554ba60dd52812dc76671e220805bae1c35e3f2"
+      "sha1": "c5e050fa591ee1694c26174d19912f0ccc1a8819"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -854,7 +858,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "a8ee17e91790e8fbaf0ee881628cf3f92df67ad5"
+      "sha1": "bfbeb2a26ca073c63b58b51d17d04b50c9aa9b5c"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -5077,12 +5081,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.2.jar",
-      "sha1": "f79604c306ecdd3706765edfc113f734e9ea77ca"
-    },
-    {
-      "path": "overrides/mods/swordish-1.0.3.jar",
-      "sha1": "452087ef7937d7895eaee540e33571cbd08c4ead"
+      "path": "overrides/mods/hummus-0.8.3.jar",
+      "sha1": "d2c7ad526ec7bfde0ebe88e71299cb2e805c4a57"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

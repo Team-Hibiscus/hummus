@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.247**, 102 mods (20 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.247**, 103 mods (20 dependencies)
 
 ## Contents
 
@@ -83,7 +83,7 @@
 - [Pro Placer](https://modrinth.com/project/pro-placer) `v21.1.1-1.21.1-NeoForge`
 - [Re-Locate](https://modrinth.com/project/relocate) `1.2.0`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `4.1.2-1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/emi-plus-backport) `4.1.1-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.1.1-1.21.1-neoforge`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.6+1.21.1`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.16+1.21.1`
@@ -98,6 +98,7 @@
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.30+mc1.21.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.8.8`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
+- [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.6`
 - [TerraBlenderFix](https://modrinth.com/project/terrablenderfix) `0.0.1`
 - [The Beyond](https://modrinth.com/project/the-beyond) `0.0.5-InDev`
 - [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.1-InDev`

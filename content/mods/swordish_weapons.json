@@ -1,0 +1,23 @@
+{
+  "name": "Swordish",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "w0fv1VuK",
+      "slug": "swordish_weapons",
+      "versionId": "P4Shbm2I",
+      "versionNumber": "1.0.6",
+      "filename": "swordish-1.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/w0fv1VuK/versions/P4Shbm2I/swordish-1.0.6.jar",
+      "sha1": "b460df9c85ade9303613ca21ca3a4749c6712e57",
+      "sha512": "5ddb0d3af96be4deb082f3ac6ca70b3fbf6c24982bcb5c235742c54ba3c7791a03f0a3997a42ec96ca92db8c1cdd4e5b79c46617093d3e8df8ca5e3d6db26060",
+      "fileSize": 80534
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
