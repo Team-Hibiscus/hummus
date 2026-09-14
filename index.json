@@ -650,7 +650,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "c5e050fa591ee1694c26174d19912f0ccc1a8819"
+      "sha1": "87d864d7a90b5b4b9f8c8e38bb7f8771a628f3b9"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -858,7 +858,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "bfbeb2a26ca073c63b58b51d17d04b50c9aa9b5c"
+      "sha1": "c88f470587e531df22bb6b4b662db7d6b82083dc"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -4974,7 +4974,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
     },
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",
@@ -5070,7 +5070,7 @@
     },
     {
       "path": "overrides/emi.json",
-      "sha1": "f5064a810daf86d7dd7dd3b35d42d05ad6248088"
+      "sha1": "c2d292bd04e21b1c7aae502b3546ace7ed4b46f5"
     },
     {
       "path": "overrides/mods/alfinolib-1.2.0-neoforge-1.21.1.jar",
@@ -5081,8 +5081,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.3.jar",
-      "sha1": "d2c7ad526ec7bfde0ebe88e71299cb2e805c4a57"
+      "path": "overrides/mods/hummus-0.8.4.jar",
+      "sha1": "0b4cbb9d547c0027cfd5328e2226dd7442cbc781"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",
