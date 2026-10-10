@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "iJNje1E8",
       "slug": "snow-real-magic",
-      "versionId": "CplQCHcl",
-      "versionNumber": "12.2.2+neoforge",
-      "filename": "SnowRealMagic-1.21.1-NeoForge-12.2.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/iJNje1E8/versions/CplQCHcl/SnowRealMagic-1.21.1-NeoForge-12.2.2.jar",
-      "sha1": "ba3283e57dae543d69f5017eb5f9a11a30072cc4",
-      "sha512": "d68a1761b96878d902ec1496ed97cab75f1fd5dad9375d73ad6bf336f2c39f7a64bbce40e66113f680f1a3e7762fe52b3b6fce309dc49ee5217e339c2b367c63",
-      "fileSize": 3895550
+      "versionId": "XXjs6tNa",
+      "versionNumber": "12.2.3+neoforge",
+      "filename": "SnowRealMagic-1.21.1-NeoForge-12.2.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iJNje1E8/versions/XXjs6tNa/SnowRealMagic-1.21.1-NeoForge-12.2.3.jar",
+      "sha1": "5fe839e9c77b3f623c6997c73f5ede0d740d2020",
+      "sha512": "3091d34ff887f70b13f4aafe575b27970225a155ba96375b134d35f2418b77acf93e87b9601c2b7d26b7a1e7a38fc4b55729b6eac007281678a79df00158d7f4",
+      "fileSize": 3907234
     }
   },
   "dependents": [],

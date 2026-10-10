@@ -1,22 +1,25 @@
 {
   "name": "AlfinoLib",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
-  "preferred": "curseforge",
+  "preferred": "modrinth",
   "sources": {
-    "curseforge": {
-      "id": "1554698",
+    "modrinth": {
+      "id": "I7x1hGed",
       "slug": "alfinolib",
-      "versionId": "8596074",
-      "versionNumber": "alfinolib-1.2.0-neoforge-1.21.1.jar",
-      "filename": "alfinolib-1.2.0-neoforge-1.21.1.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/8596/74/alfinolib-1.2.0-neoforge-1.21.1.jar",
-      "sha1": "534ec2d4319f7aed36809e60430b501f7451ac39",
-      "fileSize": 273188
+      "versionId": "2rFnmATQ",
+      "versionNumber": "1.2.0",
+      "filename": "alfinolib-1.2.0-neoforge-26.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/I7x1hGed/versions/2rFnmATQ/alfinolib-1.2.0-neoforge-26.1.jar",
+      "sha1": "d19df525127ff6800211e7f5531017dbc1d04443",
+      "sha512": "73374d872f1f0498ad82eef0537e40bfa42c8119f7362abeaf5206de48198abfc5e7c86aca537b0d69afbc618af59c8a9a1624b6a4108e586b80df590e8a1067",
+      "fileSize": 273347
     }
   },
-  "dependents": [],
+  "dependents": [
+    "DfWQAvS4"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

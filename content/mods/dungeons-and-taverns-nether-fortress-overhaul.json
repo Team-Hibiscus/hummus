@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "8Dbnvm77",
       "slug": "dungeons-and-taverns-nether-fortress-overhaul",
-      "versionId": "gFOIlzcw",
-      "versionNumber": "v2.4+mod",
-      "filename": "dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/8Dbnvm77/versions/gFOIlzcw/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar",
-      "sha1": "d67696f0b02512243387b8bba9d7d1376eaa8150",
-      "sha512": "f4a391c76f29b4bb4f10c18882ff085ce518bc936fbd01c7ca406267788bc70591c0b1ed53f26b3b77dbf746b17a45b6eccf3092d9eb2024b0a8de0b463c9bfc",
-      "fileSize": 1774665
+      "versionId": "wPHfM23W",
+      "versionNumber": "2.5.1+mod",
+      "filename": "dungeons-and-taverns-nether-fortress-overhaul-2.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8Dbnvm77/versions/wPHfM23W/dungeons-and-taverns-nether-fortress-overhaul-2.5.1.jar",
+      "sha1": "b329f7044c38a6234e295ef6a087de4fdc5fbb73",
+      "sha512": "6107a88c0087ccf3a48c08a0748f708e2ff65b497e00d378f73c85a805f23e5598d07717cdc928e3dc06567a4e69796c31ad178eb022a78640a711b972018d46",
+      "fileSize": 1781533
     }
   },
   "dependents": [],

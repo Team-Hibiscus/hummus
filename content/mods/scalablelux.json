@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Ps1zyz6x",
       "slug": "scalablelux",
-      "versionId": "w2yQbU01",
-      "versionNumber": "0.3.0-alpha.0.6+1.21.1",
-      "filename": "ScalableLux-neoforge-0.3.0-alpha.0.6-all.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/w2yQbU01/ScalableLux-neoforge-0.3.0-alpha.0.6-all.jar",
-      "sha1": "b824b107489d7b64faf7ed812dcd1a1873c5c1cf",
-      "sha512": "6ae3a81bdebe9821682f193caa5e82fdd2fba9b94f72aafabc9ce47398bc9e0b09008c7e13338ff438405a5db79e80f3e4d87cf0b5a975669f64e0317d9414e3",
-      "fileSize": 196969
+      "versionId": "9KuFoPhC",
+      "versionNumber": "0.3.0-alpha.0.8+1.21.1",
+      "filename": "ScalableLux-neoforge-0.3.0-alpha.0.8-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/9KuFoPhC/ScalableLux-neoforge-0.3.0-alpha.0.8-all.jar",
+      "sha1": "27d602b2aa6b371ceeb6af9b967f95bafb7d51a9",
+      "sha512": "fa7bb3ee6641cf94b957b4c30635711e7f9d2b5e66b544899ce4ac039d8a59814ca7f7d97c0f66b3a80261d59a3ec3d328ad0d9dcdfc13d77af580f702094a94",
+      "fileSize": 197423
     }
   },
   "dependents": [],
