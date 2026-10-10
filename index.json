@@ -377,6 +377,10 @@
       "sha1": "c7957a61d8989282170a1ca1a00a4ced2865a19f"
     },
     {
+      "path": "content/mods/quark.json",
+      "sha1": "e0b6cecf20e88667b54d8cf79f52d706c3db329e"
+    },
+    {
       "path": "content/mods/reliable-advancements.json",
       "sha1": "feb54dc5d005f22a352deedd1b004717db649f07"
     },
@@ -493,6 +497,14 @@
       "sha1": "91f50a5ebad3eae2ef04c7ee21913820235d9e07"
     },
     {
+      "path": "content/mods/zeta.json",
+      "sha1": "5ffd17f08b8e3756cb88582aafcc8f00baa09eec"
+    },
+    {
+      "path": "overrides/.qmenu_opened.marker",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
       "path": "overrides/config/CoroUtil/General.toml",
       "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
@@ -554,7 +566,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "94a4f327f8ac1ca479d850aa3668cb8033d11af6"
+      "sha1": "327a711c78b44dfedef5ee3e432b6548ec3550b8"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -638,7 +650,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "f61b9570ef05b529390d4aab657deda98b48208e"
+      "sha1": "acc470c3aca6b7d4cee3cd56f2df88d03ab8a284"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -650,7 +662,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "87d864d7a90b5b4b9f8c8e38bb7f8771a628f3b9"
+      "sha1": "4eadbc3f4e094eacfa6ba19c74018c496f6f0f95"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -746,7 +758,7 @@
     },
     {
       "path": "overrides/config/fog/config.json",
-      "sha1": "60646ca59582f3415130f99f9eafb84ffaa1d903"
+      "sha1": "9bc46f5989956e7f57d7b62304abd6bdb5c52f4a"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",
@@ -858,7 +870,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "c88f470587e531df22bb6b4b662db7d6b82083dc"
+      "sha1": "d66c162cb16be5ad3c46a20dc8379f42e55f4607"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -878,11 +890,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "1c867d7f5aede9d9874babbf81509941bf0f2318"
+      "sha1": "710afb5161cc23ba90e00587beb33e61306dc258"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "8b217e7850934824b3923190596f421643ac3551"
+      "sha1": "120b315194f593b25c756f201caaf19b2a003a94"
     },
     {
       "path": "overrides/config/kissmod-server.toml",
@@ -4897,6 +4909,10 @@
       "sha1": "9ead960e2e3a75665bd723f6b5c87da0cd0baa3c"
     },
     {
+      "path": "overrides/config/quark-common.toml",
+      "sha1": "5e0a418edebd255b885e6c8b8bdce240504ad750"
+    },
+    {
       "path": "overrides/config/reliable_advancements.json",
       "sha1": "b56bd7f7efb28ead77202c147cf86ca4282b72b0"
     },
@@ -5067,6 +5083,14 @@
     {
       "path": "overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    {
+      "path": "overrides/config/zeta-common.toml",
+      "sha1": "eb1942c061fa7ce8208d207125357041bf429ca1"
+    },
+    {
+      "path": "overrides/defaultconfigs/biolith/general.json",
+      "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
     },
     {
       "path": "overrides/emi.json",

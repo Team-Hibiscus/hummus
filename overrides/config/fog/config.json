@@ -1,5 +1,5 @@
 {
-	"enableMod": true,
+	"enableMod": false,
 	"disabledBiomes": [
 		"the_beyond:the_paths",
 		"the_beyond:true_void",
