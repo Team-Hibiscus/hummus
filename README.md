@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.249**, 105 mods (21 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.249**, 106 mods (21 dependencies)
 
 ## Contents
 
@@ -35,6 +35,7 @@
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
+- [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [Emojiful](https://modrinth.com/project/emojiful) `1.21-5.2.4`
 - [Enchantment Disabler](https://modrinth.com/project/enchantment-disabler) `3.4.9+1.21.1`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`

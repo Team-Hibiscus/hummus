@@ -66,3 +66,7 @@ config/rimlight.json
 config/shine.json
 config/shine_masks.json
 config/shine_shading.json
+resourcepacks/§b§lSpectator Xray §7v1.2.1.zip
+config/visual_loot_edit-common.toml
+config/visual_loot_edit/blacklists.json
+config/visual_loot_edit/pack.mcmeta

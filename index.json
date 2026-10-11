@@ -141,8 +141,12 @@
       "sha1": "e868d097c234581cda2f1515735e97e240c33409"
     },
     {
+      "path": "content/mods/emi-loot.json",
+      "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
+    },
+    {
       "path": "content/mods/emi.json",
-      "sha1": "035bd125cccd1a8526d1f006805131b01e0cb0ca"
+      "sha1": "66d1ee763270be697d697903f465766540fc1850"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -190,7 +194,7 @@
     },
     {
       "path": "content/mods/fzzy-config.json",
-      "sha1": "6d278580d1da65dbee5311144133ada69c905669"
+      "sha1": "9e9e8c9199d651ae605315a9232af9cff5cf634d"
     },
     {
       "path": "content/mods/gallery.json",
@@ -5066,7 +5070,7 @@
     },
     {
       "path": "overrides/emi.json",
-      "sha1": "c2d292bd04e21b1c7aae502b3546ace7ed4b46f5"
+      "sha1": "592845ae5d23845ed9edb83744e5e3d7dcb50f35"
     },
     {
       "path": "overrides/mods/customrepairrecipes-1.0.0.jar",
