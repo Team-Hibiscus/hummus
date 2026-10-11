@@ -4910,7 +4910,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "0af691a33c939530da63d44b3e1dc09545e8bc24"
+      "sha1": "ab741ae7abe17e92d2e78b5ee62110ef0c927406"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
