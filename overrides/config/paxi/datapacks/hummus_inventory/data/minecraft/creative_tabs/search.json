@@ -17122,7 +17122,7 @@
       "count": 1
     },
     {
-      "id": "naturalist:bluejay_spawn_egg",
+      "id": "naturalist:bird_spawn_egg",
       "count": 1
     },
     {
@@ -17134,14 +17134,6 @@
       "count": 1
     },
     {
-      "id": "naturalist:canary_spawn_egg",
-      "count": 1
-    },
-    {
-      "id": "naturalist:cardinal_spawn_egg",
-      "count": 1
-    },
-    {
       "id": "naturalist:catfish_spawn_egg",
       "count": 1
     },
@@ -17150,7 +17142,7 @@
       "count": 1
     },
     {
-      "id": "naturalist:coral_snake_spawn_egg",
+      "id": "naturalist:snake_spawn_egg",
       "count": 1
     },
     {
@@ -17167,10 +17159,6 @@
     },
     {
       "id": "naturalist:elephant_spawn_egg",
-      "count": 1
-    },
-    {
-      "id": "naturalist:finch_spawn_egg",
       "count": 1
     },
     {
@@ -17194,23 +17182,11 @@
       "count": 1
     },
     {
-      "id": "naturalist:rattlesnake_spawn_egg",
-      "count": 1
-    },
-    {
       "id": "naturalist:rhino_spawn_egg",
       "count": 1
     },
     {
-      "id": "naturalist:robin_spawn_egg",
-      "count": 1
-    },
-    {
       "id": "naturalist:snake_spawn_egg",
-      "count": 1
-    },
-    {
-      "id": "naturalist:sparrow_spawn_egg",
       "count": 1
     },
     {

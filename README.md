@@ -1,24 +1,25 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.247**, 102 mods (22 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.249**, 105 mods (21 dependencies)
 
 ## Contents
 
 - [AA4 Atlas](https://modrinth.com/project/aa4-atlas) `1.1.2`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
+- [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
 - [Allurement](https://modrinth.com/project/allurement!) `5.0.2`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.7`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
 - [Better F1 Reborn](https://modrinth.com/project/better-f1-reborn) `1.1`
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
-- [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.2.1-1.21.1-neoforge`
+- [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.2.2-1.21.1-neoforge`
 - [Bundle Backport-ish](https://modrinth.com/project/bundle-backportish) `1.1.4+mc1.21.1`
 - [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
-- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.116+1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.1+1.21.5-neoforge`
 - [Custom Portal API Reforged](https://modrinth.com/project/custom-portal-api-reforged) `1.2.2`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
@@ -39,6 +40,7 @@
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.53`
+- [Fabric API](https://modrinth.com/project/fabric-api) `0.115.6+1.21.1`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
@@ -59,21 +61,22 @@
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Item Obliterator](https://modrinth.com/project/item-obliterator) `2.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Jaden's Nether Expansion](https://modrinth.com/project/jadens-nether-expansion) `2.4.1`
 - [kiss](https://modrinth.com/project/kiss-fabric) `2.0.0-alpha.3+mc1.21.1-neoforge`
+- [Kiwi 🥝](https://modrinth.com/project/kiwi) `15.8.7+neoforge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.7.13-neoforge-21.1`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
-- [Mixed Litter](https://modrinth.com/project/mixed-litter) `1.2.2`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.3.3`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.5+1.21.1-neoforge`
 - [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.1-1.21.1`
 - [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.2.5-1.21.1`
 - [no f3](https://modrinth.com/project/no-f3) `4+mod`
-- [Oreganized](https://modrinth.com/project/oreganized) `5.1.2`
+- [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Platform](https://modrinth.com/project/platform) `1.3.3`
