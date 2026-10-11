@@ -47,7 +47,7 @@
 [automation]
 	"Chains Connect Blocks" = true
 	Chute = true
-	"Dispensers Place Blocks" = true
+	"Dispensers Place Blocks" = false
 	"Ender Watcher" = true
 	"Feeding Trough" = true
 	Gravisand = true
@@ -95,23 +95,23 @@
 
 [building]
 	"Celebratory Lamps" = false
-	"Compressed Blocks" = true
+	"Compressed Blocks" = false
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
 	"Glass Item Frame" = true
 	"Gold Bars" = true
 	Grate = true
 	Hedges = true
-	"Hollow Logs" = true
+	"Hollow Logs" = false
 	"Industrial Palette" = true
-	"Japanese Palette" = true
+	"Japanese Palette" = false
 	"Leaf Carpet" = true
-	Midori = true
-	"More Brick Types" = true
+	Midori = false
+	"More Brick Types" = false
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
-	"Rainbow Lamps" = true
+	"Rainbow Lamps" = false
 	"Raw Metal Bricks" = true
 	Rope = true
 	"Shear Vines" = true
@@ -119,7 +119,7 @@
 	"Soul Sandstone" = true
 	Stools = true
 	"Sturdy Stone" = true
-	Thatch = true
+	Thatch = false
 	"Variant Bookshelves" = false
 	"Variant Chests" = false
 	"Variant Furnaces" = false
@@ -127,7 +127,7 @@
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
 	"Wooden Posts" = false
-	"More Stone Variants" = true
+	"More Stone Variants" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -541,8 +541,8 @@
 	"Snow Golem Player Heads" = true
 	"Utility Recipes" = true
 	"Vexes Die With Their Masters" = true
-	"Villagers Follow Emeralds" = true
-	"Zombie Villagers On Normal" = true
+	"Villagers Follow Emeralds" = false
+	"Zombie Villagers On Normal" = false
 
 	[tweaks.automatic_recipe_unlock]
 		#A list of recipe names that should NOT be added in by default
@@ -1188,10 +1188,10 @@
 			Dimensions = ["minecraft:the_nether"]
 
 	[world.new_stone_types]
-		"Enable Limestone" = true
+		"Enable Limestone" = false
 		"Enable Jasper" = true
 		"Enable Shale" = true
-		"Enable Myalite" = true
+		"Enable Myalite" = false
 		"Add New Stones To Mason Trades" = true
 
 			[world.new_stone_types.limestone.dimensions]
@@ -1349,13 +1349,13 @@
 				"Is Blacklist" = false
 
 [mobs]
-	Crabs = true
+	Crabs = false
 	Forgotten = true
 	Foxhound = true
 	Shiba = true
 	Stonelings = false
-	Toretoise = true
-	Wraith = true
+	Toretoise = false
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
@@ -1550,7 +1550,7 @@
 	"Improved Tooltips" = false
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = false
-	"Soul Candles" = true
+	"Soul Candles" = false
 	"Usage Ticker" = true
 	"Uses For Curses" = true
 	"Variant Animal Textures" = true
