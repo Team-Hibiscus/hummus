@@ -10,11 +10,11 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/allurement-.json",
-      "sha1": "769517c47134db3afea28b611acb9b27bc420180"
+      "sha1": "7e7f42563146f15f9c06414532c9d0cebe7f81f1"
     },
     {
       "path": "content/mods/amendments.json",
@@ -30,7 +30,7 @@
     },
     {
       "path": "content/mods/architects-palette.json",
-      "sha1": "32f967e3d931bae73256e544502d1d16529d1e01"
+      "sha1": "a5e83adca055fca6dcb4e31361d108db0eb7cf06"
     },
     {
       "path": "content/mods/architectury-api.json",
@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "d1e65d3e98b5377c3ea44977fa2ab60b76d35b87"
+      "sha1": "baba89c2f4ee5e55d60919d355d9c9b10a557b53"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/connector.json",
-      "sha1": "6704c17bb8616ae64278520ecd7e42d1f3dd787c"
+      "sha1": "c5ba8d9f41e28149e6f5759a6733ebfe6ca0076f"
     },
     {
       "path": "content/mods/coroutil.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "3ed5355fa01686b6a8c9fa3d523da67ac32c351e"
+      "sha1": "9eb8aaa1e2a6d81b719e228dacb0476d337477ab"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -254,7 +254,7 @@
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
+      "sha1": "5067ec173971a63ebe3668df3300318d39acb667"
     },
     {
       "path": "content/mods/isleweaver.json",
@@ -390,7 +390,7 @@
     },
     {
       "path": "content/mods/quark.json",
-      "sha1": "e0b6cecf20e88667b54d8cf79f52d706c3db329e"
+      "sha1": "80e857c83b4caaca8491f78cb2635bbdc960d486"
     },
     {
       "path": "content/mods/reliable-advancements.json",
@@ -438,7 +438,7 @@
     },
     {
       "path": "content/mods/spawn-mod.json",
-      "sha1": "db291c96ca3bafedc32e20244f2a82f78a8a26a2"
+      "sha1": "3ec4d3e65f7c9536f904c39cc32be5257a306714"
     },
     {
       "path": "content/mods/spyglass-improvements.json",
@@ -470,7 +470,7 @@
     },
     {
       "path": "content/mods/terrablender.json",
-      "sha1": "7ef84d6db52554b70274e76892c40ea49be98906"
+      "sha1": "819072d2c78601337524b09c18d104caada042bf"
     },
     {
       "path": "content/mods/terrablenderfix.json",
@@ -502,7 +502,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "60094b7ab287f47ec198f6520151fd97ce72aa5b"
+      "sha1": "d24f5f5495ed2936cd07ff677854fc0eb611e260"
     },
     {
       "path": "content/mods/yungs-api.json",
