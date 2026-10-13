@@ -7,7 +7,7 @@
 - [AA4 Atlas](https://modrinth.com/project/aa4-atlas) `1.1.2`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
-- [Allurement](https://modrinth.com/project/allurement!) `5.0.2`
+- [Allurement](https://modrinth.com/project/allurement) `5.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`

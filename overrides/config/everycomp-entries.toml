@@ -41,6 +41,9 @@
 			ancient = true
 			blossom = true
 
+		[types.wood_type.netherexp]
+			claret = true
+
 		[types.cake.natures_spirit]
 			cheese_block = true
 
@@ -76,6 +79,9 @@
 			copper_lantern = true
 			brass_lantern = true
 			crimson_lantern = true
+
+		[types.lantern.netherexp]
+			treacherous_lantern = true
 
 		[types.leaves_type.architects_palette]
 			twisted = true

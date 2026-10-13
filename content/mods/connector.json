@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "egIM2bKK"
+  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }
