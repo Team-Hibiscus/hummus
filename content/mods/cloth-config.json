@@ -20,14 +20,6 @@
   "dependents": [
     "xVwaUG1g"
   ],
-  "optionalDependents": [
-    "LQ3K71Q1",
-    "PKoLkD98",
-    "SNVQ2c0g",
-    "iJNje1E8",
-    "ntRJD9NS",
-    "ufdDoWPd"
-  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }
