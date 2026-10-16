@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "erNCpdqn",
       "slug": "isleweaver",
-      "versionId": "3zWH6HPD",
-      "versionNumber": "0.0.1-InDev",
-      "filename": "isleweaver-0.0.1-InDev.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/erNCpdqn/versions/3zWH6HPD/isleweaver-0.0.1-InDev.jar",
-      "sha1": "4a94b56846315fcae5e926c6a55b436963794830",
-      "sha512": "8e7ac6bc37f2adc7879e4b1eabd18edeb111cb5aedaf2c8011f88da8558596e754edecdde339480126d20eee69d5d94f99eee530cbb9fa922d7289334980e4a0",
-      "fileSize": 177534
+      "versionId": "Ocjgnu7N",
+      "versionNumber": "0.0.2-InDev",
+      "filename": "isleweaver-0.0.2-InDev.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/erNCpdqn/versions/Ocjgnu7N/isleweaver-0.0.2-InDev.jar",
+      "sha1": "41f5ba9c2c2c4083966917103dc2a98ba7baaa03",
+      "sha512": "054968db3b660d751353e3fa83caa553a518e51a3f1df680c21a940f8e9cc5fab1ddcfc15a7eb152c700635b53359961ab737b8108d226e6a507e5afa7aaf4e3",
+      "fileSize": 154615
     }
   },
   "dependents": [],

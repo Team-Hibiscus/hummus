@@ -1,0 +1,23 @@
+{
+  "name": "Selas",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BOfOpxXX",
+      "slug": "selas",
+      "versionId": "3wBDv8C5",
+      "versionNumber": "0.1.3",
+      "filename": "selas-0.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BOfOpxXX/versions/3wBDv8C5/selas-0.1.3.jar",
+      "sha1": "e6c63a77e465ea88c6e4937db47db73216026cf6",
+      "sha512": "bda4a03d78ef97a907fdca23f2c3c222d8a58c3a73b36b39706f548e7b913801397a396f43ded57307d639f6736eb0eef43b1e4d03d2f09d8c40fbaaa35ee6e3",
+      "fileSize": 303363
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

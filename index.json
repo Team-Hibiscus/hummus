@@ -13,8 +13,8 @@
       "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
-      "path": "content/mods/allurement-.json",
-      "sha1": "769517c47134db3afea28b611acb9b27bc420180"
+      "path": "content/mods/allurement.json",
+      "sha1": "7e7f42563146f15f9c06414532c9d0cebe7f81f1"
     },
     {
       "path": "content/mods/amendments.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "3ed5355fa01686b6a8c9fa3d523da67ac32c351e"
+      "sha1": "fc3cc6eff3b28d82175d3ca8392658502e9a7db2"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -253,12 +253,16 @@
       "sha1": "1d3338d59407387a64a2d81c77aebaf3d532e452"
     },
     {
+      "path": "content/mods/inventory-storages.json",
+      "sha1": "dcb8d4493e3742ba3ef21c34a57c8687baf58b5c"
+    },
+    {
       "path": "content/mods/iris.json",
       "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
     },
     {
       "path": "content/mods/isleweaver.json",
-      "sha1": "7319dd45c1e7176367ddd2aa8e6daca0278228a3"
+      "sha1": "16009192e51c1a3ce712607361316f66ffa26339"
     },
     {
       "path": "content/mods/item-obliterator.json",
@@ -269,8 +273,12 @@
       "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
     },
     {
+      "path": "content/mods/jadens-nether-expansion-delight.json",
+      "sha1": "b6ba1d295ecd2dcc2bc92d0f833adf6e8781554d"
+    },
+    {
       "path": "content/mods/jadens-nether-expansion.json",
-      "sha1": "8db0d13ab68824ce3a4115db96f239d601d8c047"
+      "sha1": "f1e0cf5738954feea8bf38229b409b2a7923c33e"
     },
     {
       "path": "content/mods/kiss-fabric.json",
@@ -298,7 +306,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "f7b24da0dd213fbdacbc04850618b390243185eb"
+      "sha1": "efcb89598b76844930399eb11537d67c0662dd82"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -342,11 +350,11 @@
     },
     {
       "path": "content/mods/natures-delight.json",
-      "sha1": "82af8f6e0bc96732ffb0e5fd1a7d1890f5c04651"
+      "sha1": "0d566c0afa43f618a18eaa0fbf80bc89b4f7a0a4"
     },
     {
       "path": "content/mods/natures-spirit.json",
-      "sha1": "64404c73e09f17b8fb39a3e15220755a326720ea"
+      "sha1": "a7c05979ecda00dabfb3e01e5ae0274a3c787f51"
     },
     {
       "path": "content/mods/necronomicon.json",
@@ -413,6 +421,10 @@
       "sha1": "6bbe45de8f6ca53d775aa4aa60b1059e4339af8c"
     },
     {
+      "path": "content/mods/selas.json",
+      "sha1": "281bada9529f842532eda2a79d597a0f3a9c6456"
+    },
+    {
       "path": "content/mods/sleep-tight.json",
       "sha1": "5432ea2298f48ec786b193414abedd368178ec41"
     },
@@ -469,16 +481,8 @@
       "sha1": "f851f560d067fb5ce4cf43bfe0e77b5aa5f4c499"
     },
     {
-      "path": "content/mods/terrablender.json",
-      "sha1": "7ef84d6db52554b70274e76892c40ea49be98906"
-    },
-    {
-      "path": "content/mods/terrablenderfix.json",
-      "sha1": "f930be66a7ae7370a87f3d17e72ca5cf3e0a1c2a"
-    },
-    {
       "path": "content/mods/the-beyond.json",
-      "sha1": "b05587ab5c0d6e3b58997935aacb0557b5b13ab8"
+      "sha1": "6618f95cfc72f41b97e449862df31aa3eae1e301"
     },
     {
       "path": "content/mods/trimmed.json",
@@ -578,7 +582,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "f7ad7efe0218fc2118e8f4724300fe72e28bcf99"
+      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -629,12 +633,20 @@
       "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
     },
     {
+      "path": "overrides/config/elysium_api-common.toml",
+      "sha1": "66e8c0c7a2226070fb7ae3a41266103d11915434"
+    },
+    {
       "path": "overrides/config/elytra-trims.json",
       "sha1": "f7a492fd3bdcb9a7abe0b48e4be6586ce2c49a09"
     },
     {
       "path": "overrides/config/emi.css",
       "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
+    },
+    {
+      "path": "overrides/config/emi_loot_config.toml",
+      "sha1": "83c6402d23d916c585937e4d57dd3ffe5d03081a"
     },
     {
       "path": "overrides/config/emojiful-client.toml",
@@ -770,7 +782,7 @@
     },
     {
       "path": "overrides/config/fog/config.json",
-      "sha1": "9bc46f5989956e7f57d7b62304abd6bdb5c52f4a"
+      "sha1": "a63856817b9095ab56c36f5bb027b50ff4001503"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",
@@ -994,7 +1006,7 @@
     },
     {
       "path": "overrides/config/naturalist-server.toml",
-      "sha1": "062fadb424b9d21f874c947cdc371bb10893684b"
+      "sha1": "edc29ccc339dc279b79c576de4d0fa43f496a14b"
     },
     {
       "path": "overrides/config/natures_spirit-common.toml",
@@ -1015,6 +1027,14 @@
     {
       "path": "overrides/config/neoforge-server.toml",
       "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+    },
+    {
+      "path": "overrides/config/netherexp-common.toml",
+      "sha1": "5a5044186d74a91766157a475299325dcedbe163"
+    },
+    {
+      "path": "overrides/config/netherexp-startup.toml",
+      "sha1": "833b0a28cb284a6cc991582c6f4e10a7c05829e8"
     },
     {
       "path": "overrides/config/oreganized-client.toml",
@@ -2493,6 +2513,10 @@
       "sha1": "e0e4272a7707df55e2a0d11ea70c3ee54e670f29"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/dandelion.png",
+      "sha1": "7d5b48b2c1635bb625e9d577a5020efa92af80ac"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/dirt.png",
       "sha1": "07a3f8d230760ffc680edbbadca9de5c33db7eb8"
     },
@@ -2585,8 +2609,64 @@
       "sha1": "ffeeb3e2fd7e419ae3f7ba1178ea8c39078255dc"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/tnt_bottom.png",
+      "sha1": "b5df2ac1790e6828577c9402d55830f16f90c371"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/tnt_side.png",
+      "sha1": "bb4f401c216940a4f4fbc6aa9d5363127c99ee6d"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/tnt_top.png",
+      "sha1": "d39b21425329d37b60e5b902ca220e44193c26a2"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/christmas.png",
+      "sha1": "11a9a3b45fa4b6b3d49aecfe2b05dcc0de5bd75e"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/christmas_left.png",
+      "sha1": "6fd5a21d6d9b80327bba32b44a8b7ce49b5c53ae"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/christmas_right.png",
+      "sha1": "9114b05bb1bce557951993406e8b84b0750863a6"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/normal.png",
+      "sha1": "252bd04f8fc173adc088f8b20eab68f96767f677"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/normal_left.png",
+      "sha1": "5dfc5bf5aaca9c48bf8da87d00d8994cfaee86fb"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/normal_right.png",
+      "sha1": "48850daf678d2c1837f4912ede53c7c00a368bb0"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/trapped.png",
+      "sha1": "bef305c6c88da02c4d2c7ca258985823381d73c5"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/trapped_left.png",
+      "sha1": "174fb76ae231b0b6f8646d1b672a8cd3a6cb0a26"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/chest/trapped_right.png",
+      "sha1": "29389e3dbb9e65fb754f17afc5be8d348ad329a2"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/entity/creeper/creeper.png",
       "sha1": "72bed0646dbe9dab9d4c624c562a216f13a67754"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/environment/moon_phases.png",
+      "sha1": "b1d95f4efa25f8c97f7cc5fe4392a663059379cb"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/environment/sun.png",
+      "sha1": "27dcd4f5600c775c739b5bb2c3f65aeca3c0234d"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/gui/advancements/backgrounds/husbandry.png",
@@ -4965,6 +5045,10 @@
       "sha1": "852773e5b432777d1419370a03856e2362470a63"
     },
     {
+      "path": "overrides/config/selas-client.toml",
+      "sha1": "1b0412f63c37132a07541ee7f3a2f93f0a8728ff"
+    },
+    {
       "path": "overrides/config/sleep_tight-client.toml",
       "sha1": "30a615fb34104b8ca24d54617f25fb5e61704fb4"
     },
@@ -5038,11 +5122,11 @@
     },
     {
       "path": "overrides/config/the_beyond-client.toml",
-      "sha1": "0f4d1bde75e2a6e8cf02c0e18363d8115f4bc1d6"
+      "sha1": "575b003c5035da1dc9ebdad633f92b5beb483aa9"
     },
     {
       "path": "overrides/config/the_beyond-common.toml",
-      "sha1": "bb39b2d9229a7aa07ec353f8812ef4b1584e69bf"
+      "sha1": "fc259c3997cc675de6bf84d9b408ed45df602b54"
     },
     {
       "path": "overrides/config/transition.json",
@@ -5094,7 +5178,7 @@
     },
     {
       "path": "overrides/emi.json",
-      "sha1": "592845ae5d23845ed9edb83744e5e3d7dcb50f35"
+      "sha1": "c24bf508900c8b3fb35c1b12ad14610ca8a3b577"
     },
     {
       "path": "overrides/mods/customrepairrecipes-1.0.0.jar",
@@ -5102,7 +5186,7 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.4.jar",
-      "sha1": "0b4cbb9d547c0027cfd5328e2226dd7442cbc781"
+      "sha1": "695dc8940663a1e5433604f5106e0ff3b2f25074"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

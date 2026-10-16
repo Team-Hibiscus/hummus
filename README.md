@@ -1,13 +1,13 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 108 mods (21 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 110 mods (20 dependencies)
 
 ## Contents
 
 - [AA4 Atlas](https://modrinth.com/project/aa4-atlas) `1.1.2`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
-- [Allurement](https://modrinth.com/project/allurement!) `5.0.2`
+- [Allurement](https://modrinth.com/project/allurement) `5.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
@@ -59,10 +59,12 @@
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.5+1.21.1-neoforge`
 - [In Control!](https://modrinth.com/project/in-control) `1.21-10.3.0`
 - [Inventory Profiles Next](https://modrinth.com/project/inventory-profiles-next) `neoforge-1.21.1-2.2.5`
+- [Inventory Storages](https://modrinth.com/project/inventory-storages) `1.0.0`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Item Obliterator](https://modrinth.com/project/item-obliterator) `2.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jaden's Nether Expansion](https://modrinth.com/project/jadens-nether-expansion) `2.4.1`
+- [Jaden's Nether Expansion Delight](https://modrinth.com/project/jadens-nether-expansion-delight) `1.21.1-1.0.4a-neoforge`
 - [kiss](https://modrinth.com/project/kiss-fabric) `2.0.0-alpha.3+mc1.21.1-neoforge`
 - [Kiwi 🥝](https://modrinth.com/project/kiwi) `15.8.7+neoforge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
@@ -74,8 +76,8 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.5+1.21.1-neoforge`
-- [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.1-1.21.1`
-- [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.2.5-1.21.1`
+- [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.2-1.21.1`
+- [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.2.6-1.21.1`
 - [no f3](https://modrinth.com/project/no-f3) `4+mod`
 - [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
@@ -90,6 +92,7 @@
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.1.1-1.21.1-neoforge`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
+- [Selas](https://modrinth.com/project/selas) `0.1.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.16+1.21.1`
 - [Sleep Tight](https://modrinth.com/project/sleep-tight) `1.21-1.5.2`
 - [Snow Under Trees](https://modrinth.com/project/snow-under-trees) `v1.5.1`
@@ -103,9 +106,8 @@
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.6`
-- [TerraBlenderFix](https://modrinth.com/project/terrablenderfix) `0.0.1`
-- [The Beyond](https://modrinth.com/project/the-beyond) `0.0.5-InDev`
-- [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.1-InDev`
+- [The Beyond](https://modrinth.com/project/the-beyond) `1.0.0`
+- [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.2-InDev`
 - [Twohanded Engine](https://modrinth.com/project/twohanded-engine) `1.0.2`
 - [Useful Spyglass](https://modrinth.com/project/useful-spyglass) `1.0.2`
 - [Visual Creative Tab Editor](https://modrinth.com/project/visual-creative-tab-editor) `2.0.1-hotfix1`

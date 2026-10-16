@@ -1,0 +1,23 @@
+{
+  "name": "Inventory Storages",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hiaKnuWP",
+      "slug": "inventory-storages",
+      "versionId": "J8hgvLaF",
+      "versionNumber": "1.0.0",
+      "filename": "inventorystorages-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hiaKnuWP/versions/J8hgvLaF/inventorystorages-1.0.0.jar",
+      "sha1": "68315cfbc9d0669912d65edb1b9826611b49d5ca",
+      "sha512": "898f22d9d70f354d86f33a4187891ffce7e39e1dfd6169226c10b217c1df97022f4fcc3e00dea76183a3dac8927c2471fdcd5d13e95b54abd20b96ad7d492721",
+      "fileSize": 131157
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

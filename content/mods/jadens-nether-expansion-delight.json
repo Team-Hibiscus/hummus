@@ -1,0 +1,23 @@
+{
+  "name": "Jaden's Nether Expansion Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pYHupcoN",
+      "slug": "jadens-nether-expansion-delight",
+      "versionId": "dfcTqkZF",
+      "versionNumber": "1.21.1-1.0.4a-neoforge",
+      "filename": "jadensnetherexpansiondelight-1.21.1-1.0.4a-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pYHupcoN/versions/dfcTqkZF/jadensnetherexpansiondelight-1.21.1-1.0.4a-neoforge.jar",
+      "sha1": "31bc2714fb5c3f19e1201c551755979eff1bf6ed",
+      "sha512": "c0c72bd3ea059008f9807e8f1be42450c34eb48de5cb85bbec9e4a334cba068e97f5b272314274c1b8e51cc5e9f5b8fb47c1e5da5bc5d7d6153738e043d1973f",
+      "fileSize": 151312
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

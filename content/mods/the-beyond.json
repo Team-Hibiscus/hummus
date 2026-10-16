@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "QFR0NFEH",
       "slug": "the-beyond",
-      "versionId": "AxM8UD5v",
-      "versionNumber": "0.0.5-InDev",
-      "filename": "the_beyond-0.0.5-InDev.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/QFR0NFEH/versions/AxM8UD5v/the_beyond-0.0.5-InDev.jar",
-      "sha1": "d58653094fa0f1868e2ec82c590fa51868e5b0ff",
-      "sha512": "2b2ad3324a7bf5a9f48c4e031f314e8bd96de9f1c8fa74eaa4048be0e6d6a2a44668a02311dd85e03dbfda30172271e40415126eb43735302b5594e1bf7a777c",
-      "fileSize": 9039273
+      "versionId": "RwrA0IJe",
+      "versionNumber": "1.0.0",
+      "filename": "the_beyond-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QFR0NFEH/versions/RwrA0IJe/the_beyond-1.0.0.jar",
+      "sha1": "c24eaf1be9d8c80f2a5d9beebb5a67af579305ea",
+      "sha512": "709f2a8b94e92c20c505277756e563c3193618106e0c751da07eaa8d0e24f5ce7679b901ee1bdf91472cbaff6cfb5ba8704260c184b00f50d88d90cd48002416",
+      "fileSize": 13738483
     }
   },
   "dependents": [
