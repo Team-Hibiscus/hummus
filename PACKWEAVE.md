@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 108 mods (21 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 109 mods (21 dependencies)
 
 ## Contents
 
@@ -68,6 +68,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.7.13-neoforge-21.1`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
+- [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.1+neoforge-1211`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`

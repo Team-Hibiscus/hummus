@@ -317,6 +317,10 @@
       "sha1": "f2e94c7ecc8fd43fe8016b05b98ad76e162111c8"
     },
     {
+      "path": "content/mods/mixin-helper.json",
+      "sha1": "ac34d463ffede69ceb55b2b53024c3452b7dbf16"
+    },
+    {
       "path": "content/mods/mob-ai-tweaks.json",
       "sha1": "9b81d4f66c50c4e61b72556c1ff506f3fc143792"
     },
@@ -682,7 +686,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "9ebd0b01e37a344b68d3767c4a53d2b28e70de5a"
+      "sha1": "48c51ef1a5280876c7c02058da512c914ff4cb07"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -894,7 +898,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "3c6ab0ce9c32ffa3d99855b3435cc46a0dd59430"
+      "sha1": "0a38e8d16f3cc43c25535002e469b4811a8e5fc6"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -971,6 +975,14 @@
     {
       "path": "overrides/config/mixed_litter-startup.toml",
       "sha1": "c50169f79757d41c249a426c56e581b8a25791a2"
+    },
+    {
+      "path": "overrides/config/mixinhelper-report.json",
+      "sha1": "c0834ac243fa5bd75485ce6cf8413f200fe355c2"
+    },
+    {
+      "path": "overrides/config/mixinhelper.json",
+      "sha1": "a4eef0dbb881d23ee33dba9694ca717cef0cc51e"
     },
     {
       "path": "overrides/config/mob-ai-tweaks/blacklists/allay_weapons.txt",
@@ -5034,7 +5046,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
     },
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",
@@ -5070,7 +5082,7 @@
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "56a5fca380ec4cfcc1769526fe6664ac25d3767e"
+      "sha1": "5aada439f8d0ed90d1960a6c2f855812b83341f1"
     },
     {
       "path": "overrides/config/teallib-client.toml",
@@ -5145,8 +5157,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.4.jar",
-      "sha1": "0b4cbb9d547c0027cfd5328e2226dd7442cbc781"
+      "path": "overrides/mods/hummus-0.8.5.jar",
+      "sha1": "f32b05c5ce1e034d0f75ebed85b85f6dcdf7a638"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",
