@@ -21,6 +21,9 @@
     "18s8zHvJ",
     "pYHupcoN"
   ],
+  "optionalDependents": [
+    "eiktJyw1"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }
