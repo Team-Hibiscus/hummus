@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "wyfx33ZJ",
       "slug": "visual-creative-tab-editor",
-      "versionId": "tjlZYukH",
-      "versionNumber": "2.0.1-hotfix1",
-      "filename": "visual_creative_tab_editor-neoforge-1.21.1-2.0.1-hotfix1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/wyfx33ZJ/versions/tjlZYukH/visual_creative_tab_editor-neoforge-1.21.1-2.0.1-hotfix1.jar",
-      "sha1": "effabbade32564c0a5bf9d45bce66a18bb979151",
-      "sha512": "9e1ca50a635caf5fc2e35db87f6d84e43799c72278b2a5dc7fa8e137c6b13766b9051419f624d73e251357151a823c80fa1e8997241c929874fb31af48a4d9ec",
-      "fileSize": 267489
+      "versionId": "JNvGcyvE",
+      "versionNumber": "2.2.0+mc1.21.1-neoforge",
+      "filename": "visual_creative_tab_editor-neoforge-1.21.1-2.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wyfx33ZJ/versions/JNvGcyvE/visual_creative_tab_editor-neoforge-1.21.1-2.2.0.jar",
+      "sha1": "f98bbb589760ba1a379f26cf9c6b33fa5120ac6a",
+      "sha512": "a9c6b0472e47d39fc2747bc9fb34c15c57b90eeb9ba1bce986b62c1a7196dfe1146f781b5df6a2ad337cab94f38a80a4f90bfe1474da9082c6d354bf746f03d2",
+      "fileSize": 1577985
     }
   },
   "dependents": [],

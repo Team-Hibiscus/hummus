@@ -262,7 +262,7 @@
     },
     {
       "path": "content/mods/isleweaver.json",
-      "sha1": "16009192e51c1a3ce712607361316f66ffa26339"
+      "sha1": "3a1d680d0cf876edc5ade9cc6a10c1cbe9b917eb"
     },
     {
       "path": "content/mods/item-obliterator.json",
@@ -502,7 +502,7 @@
     },
     {
       "path": "content/mods/visual-creative-tab-editor.json",
-      "sha1": "1fb6120db07ecdd799f90a3ffa9b9b07d13b6359"
+      "sha1": "e64e6ccc5a2357187a86f6028babd712e210e9cd"
     },
     {
       "path": "content/mods/what-are-they-up-to.json",
@@ -2179,114 +2179,6 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/pack.mcmeta",
       "sha1": "111d09f2c7e0f93c97345bb3310c8a5169b6d9a0"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/architects_palette/creative_tabs/architects_palette.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/darkerdepths/creative_tabs/darkerdepths.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/enderscape/creative_tabs/enderscape.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/farmersdelight/creative_tabs/farmersdelight.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/galosphere/creative_tabs/galosphere.json",
-      "sha1": "a532b0313bd616c7e93a76aa5e6b19138db81aa8"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/gardens_of_the_dead/creative_tabs/main.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/hoppergadgetry/creative_tabs/main.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/hummus/creative_tabs/hummus_core_tab.json",
-      "sha1": "de66a6d4ef7f34ce943787a16785f6ea2ba6cafa"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/immersiveenchanting/creative_tabs/enchanting.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/building_blocks.json",
-      "sha1": "fe10c36d401c857871e201e925e96ec29b7d6d8a"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/colored_blocks.json",
-      "sha1": "4922cae6bf1ef1dd704659dc3456d46f487c1741"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/combat.json",
-      "sha1": "9274a4380bd69a265d81b3ad206fbe383265a3c0"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/food_and_drinks.json",
-      "sha1": "84a4ecdddbc785a1e06be6c65f877ddc80216d31"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/functional_blocks.json",
-      "sha1": "be3654134f156884aad2d54d26a02340cc82e5c4"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/ingredients.json",
-      "sha1": "ca302c74c00f00ff2f02102cce9613246b7ba848"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/natural_blocks.json",
-      "sha1": "8e3fdd824dcc791cc7a252815280f8744150ef50"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/redstone_blocks.json",
-      "sha1": "b9d0403175ea1f076739debffdee713a65406c67"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/search.json",
-      "sha1": "79990cabcebf1bc21092166f577a3504c9bb9cb3"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/spawn_eggs.json",
-      "sha1": "843d547e46ba3892f90fcd0156583279a24dfc8f"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/minecraft/creative_tabs/tools_and_utilities.json",
-      "sha1": "8dd72d2b2eedf957eea533feba54ae4f5b336cf5"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/naturalist/creative_tabs/item_group.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/natures_spirit/creative_tabs/ns_item_group.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/relocate/creative_tabs/relocate_tab.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/spawn/creative_tabs/item_group.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/supplementaries/creative_tabs/supplementaries.json",
-      "sha1": "7b03fd345ab1bf19dae27128caafadc57f47a4b7"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/data/swordish/creative_tabs/swordish_tab.json",
-      "sha1": "6dadb9d7fd3fec8a4b13240d6043d213a1759427"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_inventory/pack.mcmeta",
-      "sha1": "2ae485bcc38e05f235f89a4638564b7939db0eda"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/enderscape/loot_table/end_city/chest.json",
@@ -5169,8 +5061,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.5.jar",
-      "sha1": "695dc8940663a1e5433604f5106e0ff3b2f25074"
+      "path": "overrides/mods/hummus-0.8.6.jar",
+      "sha1": "c77a922d54babffaf1de5817aa924ac309d1714a"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

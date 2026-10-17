@@ -108,10 +108,10 @@
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.6`
 - [The Beyond](https://modrinth.com/project/the-beyond) `1.0.0`
-- [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.2-InDev`
+- [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.3-InDev`
 - [Twohanded Engine](https://modrinth.com/project/twohanded-engine) `1.0.2`
 - [Useful Spyglass](https://modrinth.com/project/useful-spyglass) `1.0.2`
-- [Visual Creative Tab Editor](https://modrinth.com/project/visual-creative-tab-editor) `2.0.1-hotfix1`
+- [Visual Creative Tab Editor](https://modrinth.com/project/visual-creative-tab-editor) `2.2.0+mc1.21.1-neoforge`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [You've Goat to be Kidding Me](https://modrinth.com/project/goated) `neoforge_1.21-1.4.3`
 - [Zeta](https://modrinth.com/project/zeta) `1.1-40`
