@@ -1,0 +1,23 @@
+{
+  "name": "Enchancement",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6hN1V6wJ",
+      "slug": "enchancement",
+      "versionId": "YeiApIhe",
+      "versionNumber": "1.21-r14",
+      "filename": "enchancement-1.21-r14.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6hN1V6wJ/versions/YeiApIhe/enchancement-1.21-r14.jar",
+      "sha1": "4897e03b725d3391a70e990099f116d72e5d544d",
+      "sha512": "146dc5609117a5ccca14ea619808637a7c46d9268857d3df46ed5d446e9bedfd0338f292f1f9e805a8f94b93d1b23ccc7f7911d99b2264dfd465d94c64a0c3da",
+      "fileSize": 1769700
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

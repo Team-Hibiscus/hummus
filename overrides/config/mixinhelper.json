@@ -2,7 +2,20 @@
   "_WARNING": "USE AT YOUR OWN RISK. Incorrect use can cause crashes, broken mods, and world corruption. Back up your worlds. Do NOT report bugs to mod authors if you have modified their mixins with this tool.",
   "enabled": true,
   "blacklist": {
-    "mixins": ["galena.oreganized.argentum.mixin.LivingEntityMixin"],
+    "mixins": [
+      "galena.oreganized.argentum.mixin.LivingEntityMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.EnchantmentHelperMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.EnchantRandomlyLootFunctionMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.ItemEnchantmentsComponentBuilderMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.SingleEnchantmentProviderMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ItemGroupsMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryReferenceArgumentTypeMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryReferenceMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ResourceFinderMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.SimpleRegistryMixin",
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.TagGroupLoaderMixin"
+  ],
     "mixinConfigs": [],
     "targetClasses": []
   },

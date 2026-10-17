@@ -1,6 +1,3 @@
-		[types.wood_type.architects_palette]
-			twisted = true
-
 		[types.wood_type.darkerdepths]
 			petrified = true
 
@@ -44,46 +41,7 @@
 		[types.wood_type.netherexp]
 			claret = true
 
-		[types.cake.natures_spirit]
-			cheese_block = true
-
-		[types.lantern.architects_palette]
-			nether_brass_lantern = true
-
-		[types.lantern.darkerdepths]
-			glowshroom_lantern = true
-
-		[types.lantern.enderscape]
-			bulb_lantern = true
-
-		[types.lantern.natures_spirit]
-			paper_lantern = true
-			white_paper_lantern = true
-			light_gray_paper_lantern = true
-			gray_paper_lantern = true
-			black_paper_lantern = true
-			brown_paper_lantern = true
-			red_paper_lantern = true
-			orange_paper_lantern = true
-			yellow_paper_lantern = true
-			lime_paper_lantern = true
-			green_paper_lantern = true
-			blue_paper_lantern = true
-			light_blue_paper_lantern = true
-			cyan_paper_lantern = true
-			purple_paper_lantern = true
-			magenta_paper_lantern = true
-			pink_paper_lantern = true
-
-		[types.lantern.suppsquared]
-			copper_lantern = true
-			brass_lantern = true
-			crimson_lantern = true
-
-		[types.lantern.netherexp]
-			treacherous_lantern = true
-
-		[types.leaves_type.architects_palette]
+		[types.wood_type.architects_palette]
 			twisted = true
 
 		[types.leaves_type.galosphere]
@@ -132,12 +90,47 @@
 			yellow_blossom = true
 			red_blossom = true
 
-		[entries.wood_type.architects_palette]
-			railing = true
-			board_wall = true
-			boards = true
-			board_stairs = true
-			board_slab = true
+		[types.leaves_type.architects_palette]
+			twisted = true
+
+		[types.cake.natures_spirit]
+			cheese_block = true
+
+		[types.lantern.architects_palette]
+			nether_brass_lantern = true
+
+		[types.lantern.darkerdepths]
+			glowshroom_lantern = true
+
+		[types.lantern.enderscape]
+			bulb_lantern = true
+
+		[types.lantern.natures_spirit]
+			paper_lantern = true
+			white_paper_lantern = true
+			light_gray_paper_lantern = true
+			gray_paper_lantern = true
+			black_paper_lantern = true
+			brown_paper_lantern = true
+			red_paper_lantern = true
+			orange_paper_lantern = true
+			yellow_paper_lantern = true
+			lime_paper_lantern = true
+			green_paper_lantern = true
+			blue_paper_lantern = true
+			light_blue_paper_lantern = true
+			cyan_paper_lantern = true
+			purple_paper_lantern = true
+			magenta_paper_lantern = true
+			pink_paper_lantern = true
+
+		[types.lantern.netherexp]
+			treacherous_lantern = true
+
+		[types.lantern.suppsquared]
+			copper_lantern = true
+			brass_lantern = true
+			crimson_lantern = true
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
@@ -152,6 +145,13 @@
 			ladder = true
 			hollow_log = true
 			vertical_slab = true
+
+		[entries.wood_type.architects_palette]
+			boards = true
+			board_stairs = true
+			railing = true
+			board_wall = true
+			board_slab = true
 
 		[entries.leaves_type.quark]
 			hedge = true

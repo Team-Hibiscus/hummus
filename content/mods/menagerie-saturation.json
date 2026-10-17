@@ -1,0 +1,23 @@
+{
+  "name": "Menagerie Saturation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AjJ7Q7ff",
+      "slug": "menagerie-saturation",
+      "versionId": "QLjnhIiZ",
+      "versionNumber": "1.0",
+      "filename": "menageriesaturation-1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AjJ7Q7ff/versions/QLjnhIiZ/menageriesaturation-1.0.jar",
+      "sha1": "ee0408fe634626be1a0b61b419b02cc07dcdd967",
+      "sha512": "c059ac454710fd4ec39995bc0bac9c5fc8d629d9a7ab088c9b15bb44fc1f674e7773dedc7c65c6ea811ea1e8595b68e312b875f21c855e0c55c013e70ee0ffe0",
+      "fileSize": 47766
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

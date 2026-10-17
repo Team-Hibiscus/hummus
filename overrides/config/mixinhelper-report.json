@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-16T03:03:22.440084700Z",
-  "totalMixinConfigs": 235,
-  "totalMixins": 2754,
-  "blacklistedCount": 1,
+  "generatedAt": "2026-10-17T04:17:47.696609Z",
+  "totalMixinConfigs": 240,
+  "totalMixins": 2972,
+  "blacklistedCount": 12,
   "mixinConfigs": [
     {
       "name": "scalablelux.mixins.json",
@@ -2132,38 +2132,14 @@
       ]
     },
     {
-      "name": "convergence_api_stellarity.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.stellarity",
+      "name": "mixins.cardinal_components_base.json",
+      "packageName": "org.ladysnake.cca.mixin.base",
       "priority": 1000,
       "mixins": [
         {
-          "className": "com.thebeyond.isleweaver.mixin.stellarity.EndPodiumFeatureMixin",
+          "className": "org.ladysnake.cca.mixin.base.ComponentMixin",
           "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.stellarity.EndSpikeHeightFixMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.stellarity.SpikeFeaturePlacementStellarityMixin",
-          "annotations": [
-            "@Redirect"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.stellarity.SpikeFeatureStellarityCompatMixin",
-          "annotations": [
-            "@Inject"
+            "@Overwrite"
           ],
           "side": "common",
           "blacklisted": false
@@ -2354,6 +2330,14 @@
       "pluginClass": "com.thebeyond.mixin.client.ClientMixinConfigPlugin",
       "mixins": [
         {
+          "className": "com.thebeyond.mixin.client.CameraAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.thebeyond.mixin.client.CreativeModeInventoryScreenMixin",
           "annotations": [
             "@Inject"
@@ -2380,7 +2364,8 @@
         {
           "className": "com.thebeyond.mixin.client.FogRendererMixin",
           "annotations": [
-            "@Inject"
+            "@Inject",
+            "@WrapOperation"
           ],
           "side": "common",
           "blacklisted": false
@@ -2389,6 +2374,62 @@
           "className": "com.thebeyond.mixin.client.ItemRendererMixin",
           "annotations": [
             "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.LevelRendererPhotoHideMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.LevelRendererFabulousDepthMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.MinecraftMainTargetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.ResourceOrTagArgumentMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.ResourceOrTagArgumentParseMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.ResourceOrTagKeyArgumentParseMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.CommandSuggestionsMixin",
+          "annotations": [
+            "@WrapOperation"
           ],
           "side": "common",
           "blacklisted": false
@@ -2509,6 +2550,29 @@
           "className": "net.fabricmc.fabric.mixin.transfer.SimpleInventoryMixin",
           "annotations": [
             "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "isleweaver_unusualend.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.unusualend",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.unusualend.BiomeFilterMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.unusualend.HeightRangePlacementVoronoiMixin",
+          "annotations": [
+            "@Inject"
           ],
           "side": "common",
           "blacklisted": false
@@ -5561,6 +5625,29 @@
       ]
     },
     {
+      "name": "isleweaver_quark.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.quark",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.quark.SpiralSpireGeneratorMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.quark.ZetaGeneratorGetBiomeMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "c2me-base.mixins.json",
       "packageName": "com.ishland.c2me.base.mixin",
       "priority": 1000,
@@ -6372,6 +6459,13 @@
           "blacklisted": false
         }
       ]
+    },
+    {
+      "name": "isleweaver_astrological.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.astrological",
+      "priority": 1000,
+      "pluginClass": "com.thebeyond.isleweaver.mixin.astrological.AstrologicalMixinDisabler",
+      "mixins": []
     },
     {
       "name": "puzzleslib.common.mixins.json",
@@ -7297,6 +7391,29 @@
       ]
     },
     {
+      "name": "isleweaver_dimensional_tears.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.dimensional_tears",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.dimensional_tears.DimensionalTearsOceanFeatureMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.dimensional_tears.TeleportHelperMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "c2me-server-utils.mixins.json",
       "packageName": "com.ishland.c2me.server.utils.mixin",
       "priority": 1000,
@@ -7344,6 +7461,22 @@
           "className": "net.fabricmc.fabric.mixin.event.interaction.ServerPlayerInteractionManagerMixin",
           "annotations": [
             "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "isleweaver_mes.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.mes",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.mes.GenericJigsawStructureMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation"
           ],
           "side": "common",
           "blacklisted": false
@@ -8371,21 +8504,6 @@
       ]
     },
     {
-      "name": "convergence_api_blueprint.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.blueprint",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.blueprint.ModdedBiomeSlicesManagerMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
       "name": "particular.neoforge.mixins.json",
       "packageName": "com.leclowndu93150.particular.mixin",
       "priority": 1000,
@@ -8491,44 +8609,6 @@
           "blacklisted": false
         }
       ]
-    },
-    {
-      "name": "convergence_api_enderscape.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.enderscape",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.enderscape.HeightRangePlacementAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.enderscape.PlacedFeatureAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.enderscape.UniformHeightAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "convergence_api_astrological.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.astrological",
-      "priority": 1000,
-      "pluginClass": "com.thebeyond.isleweaver.mixin.astrological.AstrologicalMixinDisabler",
-      "mixins": []
     },
     {
       "name": "entityculling.mixins.json",
@@ -9125,12 +9205,12 @@
       ]
     },
     {
-      "name": "allurement.mixins.json",
-      "packageName": "com.teamabnormals.allurement.core.mixin",
+      "name": "isleweaver_stellarity.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.stellarity",
       "priority": 1000,
       "mixins": [
         {
-          "className": "com.teamabnormals.allurement.core.mixin.AbstractArrowMixin",
+          "className": "com.thebeyond.isleweaver.mixin.stellarity.EndPodiumFeatureMixin",
           "annotations": [
             "@Inject"
           ],
@@ -9138,7 +9218,7 @@
           "blacklisted": false
         },
         {
-          "className": "com.teamabnormals.allurement.core.mixin.AbstractHorseMixin",
+          "className": "com.thebeyond.isleweaver.mixin.stellarity.EndSpikeHeightFixMixin",
           "annotations": [
             "@Inject"
           ],
@@ -9146,128 +9226,19 @@
           "blacklisted": false
         },
         {
-          "className": "com.teamabnormals.allurement.core.mixin.AnimalArmorItemMixin",
+          "className": "com.thebeyond.isleweaver.mixin.stellarity.SpikeFeaturePlacementStellarityMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.stellarity.SpikeFeatureStellarityCompatMixin",
           "annotations": [
             "@Inject"
           ],
           "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.AnvilMenuMixin",
-          "annotations": [
-            "@ModifyConstant",
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.ChiseledBookShelfBlockMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.DamageSourceMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.EnchantmentTableBlockMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.EntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.ExperienceOrbMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.ItemEntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.ItemStackMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.PlayerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.ProjectileWeaponItemMixin",
-          "annotations": [
-            "@ModifyVariable"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.RandomStrollGoalMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.client.AnvilScreenMixin",
-          "annotations": [
-            "@ModifyConstant"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.client.ArrowRendererMixin",
-          "annotations": [
-            "@ModifyVariable"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.client.HorseArmorLayerMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.allurement.core.mixin.client.WolfArmorLayerMixin",
-          "annotations": [
-            "@ModifyVariable"
-          ],
-          "side": "client",
           "blacklisted": false
         }
       ]
@@ -9300,6 +9271,29 @@
             "@Inject"
           ],
           "side": "client",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "isleweaver_blueprint.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.blueprint",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.blueprint.ModdedBiomeSlicesManagerMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.blueprint.ScopedDensityFunctionContextMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
           "blacklisted": false
         }
       ]
@@ -9571,6 +9565,7 @@
         {
           "className": "net.hibiscus.hummus.mixin.BeyondEndChunkGeneratorMixin",
           "annotations": [
+            "@ModifyConstant",
             "@Overwrite"
           ],
           "side": "common",
@@ -10134,49 +10129,16 @@
       ]
     },
     {
-      "name": "terrablenderfix-common.mixins.json",
-      "packageName": "raccoonman.terrablenderfix.mixin",
+      "name": "the_beyond_betterfog_compat.mixins.json",
+      "packageName": "com.thebeyond.mixin.compat.betterfog",
       "priority": 1000,
       "mixins": [
         {
-          "className": "raccoonman.terrablenderfix.mixin.MixinContext",
+          "className": "com.thebeyond.mixin.compat.betterfog.BetterFogNightVisionMixin",
           "annotations": [
-            "@Inject"
+            "@WrapOperation"
           ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "raccoonman.terrablenderfix.mixin.MixinSequenceRuleSource",
-          "annotations": [
-            "@Redirect"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "raccoonman.terrablenderfix.mixin.MixinBiomeConditionSource",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "raccoonman.terrablenderfix.mixin.MixinNoiseBasedChunkGenerator",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "raccoonman.terrablenderfix.mixin.MixinSurfaceRuleManager",
-          "annotations": [
-            "@Overwrite",
-            "@Inject"
-          ],
-          "side": "common",
+          "side": "client",
           "blacklisted": false
         }
       ]
@@ -10466,21 +10428,6 @@
             "@Inject"
           ],
           "side": "client",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "convergence_api_bclib.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.bclib",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.bclib.TemplateStructureMixin",
-          "annotations": [
-            "@ModifyExpressionValue"
-          ],
-          "side": "common",
           "blacklisted": false
         }
       ]
@@ -10844,6 +10791,12 @@
           "blacklisted": false
         }
       ]
+    },
+    {
+      "name": "inventorystorages.mixins.json",
+      "packageName": "com.nottouchedgrass.inventorystorages.mixin",
+      "priority": 1000,
+      "mixins": []
     },
     {
       "name": "elysium_api.mixins.json",
@@ -11631,6 +11584,22 @@
           ],
           "side": "common",
           "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.compat.simulated.EndVoidFloorMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.compat.simulated.SimContraptionFloorMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
         }
       ]
     },
@@ -11677,6 +11646,1519 @@
             "@Accessor"
           ],
           "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "enchancement.mixins.json",
+      "packageName": "moriyashiine.enchancement.mixin",
+      "priority": 1000,
+      "pluginClass": "moriyashiine.enchancement.common.ModMixinPlugin",
+      "mixins": [
+        {
+          "className": "moriyashiine.enchancement.mixin.api.event.LivingEntityMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.TranslatableTextContentMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.EnchantmentHelperMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyVariable",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.EnchantRandomlyLootFunctionMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.ItemEnchantmentsComponentBuilderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.SingleEnchantmentProviderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.BaseMapCodecMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ItemGroupsMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryElementCodecMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryLookupMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryReferenceArgumentTypeMixin",
+          "annotations": [
+            "@ModifyReturnValue",
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryReferenceMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryFixedCodecMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryMixin",
+          "annotations": [
+            "@ModifyExpressionValue",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ResourceFinderMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.SimpleRegistryMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.TagGroupLoaderMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledurability.AnvilScreenHandlerMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledurability.ItemStackMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disabledurability.SetDamageLootFunctionMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.disablevelocitychecks.ServerPlayNetworkHandlerMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.enchantmentlimit.EnchantCommandMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.enchantmentlimit.EnchantmentHelperMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@ModifyVariable",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.enhancemobs.DrownedEntityMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.enhancemobs.MobEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.enhancemobs.PillagerEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.enhancemobs.VindicatorEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.freeenchantedbookmerging.AnvilScreenHandlerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.overhaulenchantingtable.EnchantingTableBlockMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceconsumables.EnderPearlEntityMixin",
+          "annotations": [
+            "@WrapWithCondition"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceconsumables.ItemMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceconsumables.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapWithCondition"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceenchantments.EnchantmentHelperMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceenchantments.IgniteEnchantmentEffectMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceenchantments.LightningEntityMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceenchantments.MovementPredicateMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceenchantments.SummonEntityEnchantmentEffectMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.ArmorMaterialsMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.FishingBobberEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.MaceItemMixin",
+          "annotations": [
+            "@ModifyArg",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.PlayerEntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.ServerAdvancementLoaderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.ToolMaterialsMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.TridentEntityMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceprojectiles.InstantHealthOrDamageStatusEffectMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceprojectiles.LivingEntityMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@ModifyExpressionValue",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceprojectiles.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceprojectiles.ProjectileUtilMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceprojectiles.RangedWeaponItemMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalancestatuseffects.InstantHealthOrDamageStatusEffectMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalancestatuseffects.StatusEffectMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalancestatuseffects.WitherSkullEntityMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.singlelevelmode.EnchantmentHelperMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@ModifyVariable",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.singlelevelmode.EnchantmentLevelEntryMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.singlelevelmode.EnchantmentMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.singlelevelmode.ItemStackMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.toggleablepassives.EnchantmentHelperMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.toggleablepassives.GrindstoneScreenHandlerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.toggleablepassives.ItemStackMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.toggleablepassives.PlayerEntityMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.toggleablepassives.TridentEntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.weaponenchantmentcooldownrequirement.EnchantmentHelperMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.weaponenchantmentcooldownrequirement.PlayerEntityMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantment.bouncy.client.TranslatableTextContentMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.airjump.LivingEntityMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.allowcrossbowcooldownreloading.ServerPlayerInteractionManagerMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.allowloadingprojectile.CrossbowMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.allowloadingprojectile.PlayerEntityMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@ModifyExpressionValue",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.allowloadingprojectile.RangedWeaponItemMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.applyrandomstatuseffect.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.applyrandomstatuseffect.RangedWeaponItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.applyrandomstatuseffect.SpectralArrowEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.bounce.LivingEntityMixin",
+          "annotations": [
+            "@ModifyArg",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.brimstone.BrimstoneCrossbowMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.brimstone.CrossbowItemMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.brimstone.RangedWeaponItemMixin",
+          "annotations": [
+            "@ModifyReturnValue",
+            "@WrapOperation",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.buryentity.AbstractBlockMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.buryentity.EntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.buryentity.ShulkerEntityGoalMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.buryentity.ShulkerEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.chargejump.LivingEntityMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.delayedlaunch.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@ModifyArg",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.delayedlaunch.RangedWeaponItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.directionburst.EntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.disarmingfishingbobber.FishingBobberEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.disarmingfishingbobber.FishingRodItemMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.disarmingfishingbobber.WitchEntityMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.eruption.ItemStackMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.extendedwaterspinattack.TridentItemMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.extendwatertime.PotionEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.felltrees.AbstractBlockMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.felltrees.PlayerEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.fluidwalking.LivingEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.fluidwalking.PlayerEntityMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.fluidwalking.PowderSnowBlockMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.grapplingfishingbobber.FishingBobberEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.grapplingfishingbobber.FishingRodItemMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.honeytrail.EntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.honeytrail.LivingEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.leechingtrident.TridentEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.lightningdash.EntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.lightningdash.ItemStackMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.mineoreveins.AbstractBlockMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.modifyconsumptiontime.LivingEntityMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.modifydetectionrange.LivingEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.multiplychargetime.LivingEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.phasethroughblocksandfloat.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.phasethroughblocksandfloat.RangedWeaponItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.phasethroughblocksandfloat.TridentEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.preventswimming.PlayerEntityMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.LivingEntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rangedshootcooldown.RangedWeaponItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rapidcrossbowfire.CrossbowAttackGoalMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rapidcrossbowfire.CrossbowAttackTaskMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rapidcrossbowfire.CrossbowItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rotationburst.LivingEntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.scattershot.CrossbowItemMixin",
+          "annotations": [
+            "@WrapWithCondition"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.scattershot.RangedWeaponItemMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@WrapOperation",
+            "@WrapWithCondition",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slam.HoneyBlockMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slam.LivingEntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slide.EntityMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slide.LivingEntityMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slide.PlayerEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue",
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.smeltminedblocks.BlockMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.teleportonhit.ProjectileEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.teleportonhit.RangedWeaponItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.teleportonhit.TridentEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.conditionalattribute.EnchantmentMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.GuardianEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.LivingEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.MobEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.ProjectileEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.SquidEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyArgs"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.spawnparticleswithcount.SpawnParticlesEnchantmentEffectMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.entity.torch.LivingEntityMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.entity.torch.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@ModifyExpressionValue",
+            "@WrapWithCondition"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.util.EnchantedCountIncreaseLootFunctionMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.util.PersistentProjectileEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.allowduplicatekeybindings.client.ControlsListWidgetKeyBindingEntryMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.allowduplicatekeybindings.client.GameOptionsMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.allowduplicatekeybindings.client.KeyBindingMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.coloredenchantmentnames.client.EnchantmentMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.coyotebite.MinecraftClientMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.overhaulenchantingtable.client.RenderLayersMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.client.ClientPlayerEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.config.rebalanceequipment.client.TridentEntityRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantment.dash.client.TranslatableTextContentMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantment.slide.client.TranslatableTextContentMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantment.strafe.client.TranslatableTextContentMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.allowcrossbowcooldownreloading.client.ClientPlayerInteractionManagerMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.brimstone.client.CrossbowItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.brimstone.client.InGameHudMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.buryentity.client.KeyboardInputMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.buryentity.client.ShulkerEntityRendererMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.chargejump.client.ClientPlayerInteractionManagerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.disarmingfishingbobber.client.MinecraftClientMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.entityxray.client.MinecraftClientMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.eruption.client.HeldItemRendererMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.eruption.client.PlayerEntityRendererMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.fluidwalking.client.ClientPlayerEntityMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.hidelabelbehindwalls.client.EntityRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.leechingtrident.client.TridentEntityRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.lightningdash.client.HeldItemFeatureRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.lightningdash.client.HeldItemRendererMixin",
+          "annotations": [
+            "@ModifyExpressionValue",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.lightningdash.client.PlayerEntityRendererMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.multiplychargetime.client.HeldItemRendererMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.nightvision.client.GameRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.nightvision.client.LivingEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.client.DrawContextMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.client.ItemColorsMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.client.ItemEntityRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.client.ItemRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.client.ItemStackMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rage.client.integration.sodium.EntityVertexMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.rapidcrossbowfire.client.MinecraftClientMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slam.client.PlayerEntityRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slide.client.ClientPlayerEntityMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slide.client.GameRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmenteffectcomponenttype.slide.client.KeyboardInputMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.client.LivingEntityRendererMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.enchantmententityeffecttype.freeze.client.SquidEntityRendererMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.entity.brimstone.client.WorldRendererMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "moriyashiine.enchancement.mixin.util.client.ModelLoaderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
           "blacklisted": false
         }
       ]
@@ -13970,6 +15452,21 @@
       ]
     },
     {
+      "name": "isleweaver_bclib.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.bclib",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.bclib.TemplateStructureMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "badpackets.mixins.json",
       "packageName": "lol.bai.badpackets.impl.mixin",
       "priority": 1000,
@@ -14490,21 +15987,6 @@
       "packageName": "fuzs.hoppergadgetry.neoforge.mixin",
       "priority": 1000,
       "mixins": []
-    },
-    {
-      "name": "convergence_api_phantasm.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.phantasm",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.phantasm.DragonMintBlockMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
     },
     {
       "name": "biolith.mixins.json",
@@ -15722,52 +17204,6 @@
       "packageName": "net.lostluma.dynamic_fps.impl.neoforge.mixin",
       "priority": 1000,
       "mixins": []
-    },
-    {
-      "name": "convergence_api_wover.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.wover",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.wover.WoverChunkGeneratorMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.wover.WoverSurfaceRuleUtilMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "convergence_api_unusualend.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.unusualend",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.unusualend.BiomeFilterMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.unusualend.HeightRangePlacementVoronoiMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
     },
     {
       "name": "fabric-item-group-api-v1.mixins.json",
@@ -17815,42 +19251,12 @@
       ]
     },
     {
-      "name": "hoppergadgetry.common.mixins.json",
-      "packageName": "fuzs.hoppergadgetry.mixin",
-      "priority": 1000,
-      "mixins": []
-    },
-    {
-      "name": "convergence_api_core.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.core",
+      "name": "mixins.cardinal_components_entity.json",
+      "packageName": "org.ladysnake.cca.mixin.entity",
       "priority": 1000,
       "mixins": [
         {
-          "className": "com.thebeyond.isleweaver.mixin.core.BiomeGenerationSettingsAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.core.CountOnEveryLayerPlacementAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.core.NoiseGeneratorSettingsAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.core.TheEndBiomeSourceMixin",
+          "className": "org.ladysnake.cca.mixin.entity.common.BucketableMixin",
           "annotations": [
             "@Inject"
           ],
@@ -17858,14 +19264,58 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.isleweaver.mixin.core.MultiPackResourceManagerMixin",
+          "className": "org.ladysnake.cca.mixin.entity.common.MixinEntity",
           "annotations": [
-            "@ModifyVariable"
+            "@Inject"
           ],
           "side": "common",
           "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.entity.common.MixinEntityTrackerEntry",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.entity.common.MixinPlayerManager",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.entity.common.MixinServerPlayerEntity",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.entity.common.MixinServerWorld",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.entity.client.MixinClientWorld",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
         }
       ]
+    },
+    {
+      "name": "hoppergadgetry.common.mixins.json",
+      "packageName": "fuzs.hoppergadgetry.mixin",
+      "priority": 1000,
+      "mixins": []
     },
     {
       "name": "mob-ai-tweaks.mixins.json",
@@ -18872,12 +20322,12 @@
       ]
     },
     {
-      "name": "convergence_api_quark.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.quark",
+      "name": "mixins.cardinal_components_world.json",
+      "packageName": "org.ladysnake.cca.mixin.world",
       "priority": 1000,
       "mixins": [
         {
-          "className": "com.thebeyond.isleweaver.mixin.quark.SpiralSpireGeneratorMixin",
+          "className": "org.ladysnake.cca.mixin.world.common.DataFixTypesMixin",
           "annotations": [
             "@Inject"
           ],
@@ -18885,11 +20335,35 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.isleweaver.mixin.quark.ZetaGeneratorGetBiomeMixin",
+          "className": "org.ladysnake.cca.mixin.world.common.MixinPlayerManager",
           "annotations": [
             "@Inject"
           ],
           "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.world.common.MixinServerWorld",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.world.common.MixinWorld",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "org.ladysnake.cca.mixin.world.client.MixinClientWorld",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
           "blacklisted": false
         }
       ]
@@ -19141,29 +20615,6 @@
       ]
     },
     {
-      "name": "convergence_api_dimensional_tears.mixins.json",
-      "packageName": "com.thebeyond.isleweaver.mixin.dimensional_tears",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "com.thebeyond.isleweaver.mixin.dimensional_tears.DimensionalTearsOceanFeatureMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.isleweaver.mixin.dimensional_tears.TeleportHelperMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
       "name": "oreganized.electrum.mixins.json",
       "packageName": "galena.oreganized.electrum.mixin",
       "priority": 1000,
@@ -19225,7 +20676,39 @@
           "blacklisted": false
         },
         {
+          "className": "com.thebeyond.mixin.AuroraciteLayerFillMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.AuroraciteLayerProtectionMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.thebeyond.mixin.BaseFireBlockMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.BeehiveDecoratorEmptyLogsMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.BiomeSourceSanitizerMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19241,9 +20724,187 @@
           "blacklisted": false
         },
         {
+          "className": "com.thebeyond.mixin.CocoaDecoratorEmptyLogsMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.CountOnEveryLayerPlacementMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.CountOnEveryLayerPlacementAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.ClearableWorldgenMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.CreativeModeInventoryScreenAccessor",
+          "annotations": [
+            "@Accessor",
+            "@Invoker"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.EndCitySeatingMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.CreativeModeTabAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.EndWeatherMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.EndWeatherSyncMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.EntityCollisionMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.EnvironmentScanPlacementMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.thebeyond.mixin.FallingBlockEntityAccessor",
           "annotations": [
             "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.FeatureGuardMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.FeatureInstanceScopeMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.ForeignGroundSeatMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.ForeignStructureRejectionMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.HeightmapPlacementMultiSurfaceMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.IslandCarveProtectionMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.JigsawStructureAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.JigsawStructureMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.LakeFeatureMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.LevelEntityCollisionsMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.LocateCommandMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.MultiNoiseBiomeSourceMixin",
+          "annotations": [
+            "@Overwrite"
           ],
           "side": "common",
           "blacklisted": false
@@ -19273,14 +20934,6 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.BiomeSourceSanitizerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
           "className": "com.thebeyond.mixin.RegistryFileCodecMixin",
           "annotations": [
             "@Inject"
@@ -19289,23 +20942,7 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.MultiNoiseBiomeSourceMixin",
-          "annotations": [
-            "@Overwrite"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.mixin.EndWeatherMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.mixin.EndWeatherSyncMixin",
+          "className": "com.thebeyond.mixin.ResourceOrTagKeyArgumentMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19321,7 +20958,15 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.JigsawStructureMixin",
+          "className": "com.thebeyond.mixin.SinglePoolElementAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.StructureManagerPedestalBeardMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19329,15 +20974,13 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.JigsawPlacementMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
+          "className": "com.thebeyond.mixin.StructureStartSanctionMixin",
+          "annotations": [],
           "side": "common",
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.AuroraciteLayerProtectionMixin",
+          "className": "com.thebeyond.mixin.StructureStartPlacementMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19345,7 +20988,21 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.AuroraciteLayerFillMixin",
+          "className": "com.thebeyond.mixin.StructureTemplateAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.StructureTemplatePlaceMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.WardenDeafenAngerMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19353,7 +21010,7 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.HeightmapPlacementMultiSurfaceMixin",
+          "className": "com.thebeyond.mixin.WardenVibrationUserMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19361,7 +21018,7 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.CountOnEveryLayerPlacementMixin",
+          "className": "com.thebeyond.mixin.ChunkBlockWatchMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19369,27 +21026,19 @@
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.EnvironmentScanPlacementMixin",
+          "className": "com.thebeyond.mixin.ItemFrameRendererMixin",
           "annotations": [
             "@Inject"
           ],
-          "side": "common",
+          "side": "client",
           "blacklisted": false
         },
         {
-          "className": "com.thebeyond.mixin.BeehiveDecoratorEmptyLogsMixin",
+          "className": "com.thebeyond.mixin.client.ItemEntityMixin",
           "annotations": [
             "@Inject"
           ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.mixin.CocoaDecoratorEmptyLogsMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
+          "side": "client",
           "blacklisted": false
         },
         {
@@ -19599,6 +21248,37 @@
       ]
     },
     {
+      "name": "isleweaver_enderscape.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.enderscape",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.enderscape.HeightRangePlacementAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.enderscape.PlacedFeatureAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.enderscape.UniformHeightAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "biolith.neoforge.mixins.json",
       "packageName": "com.terraformersmc.biolith.impl.mixin",
       "priority": 1000,
@@ -19640,72 +21320,12 @@
       ]
     },
     {
-      "name": "extensibleenums.neoforge.mixins.json",
-      "packageName": "fuzs.extensibleenums.neoforge.mixin",
-      "priority": 1000,
-      "mixins": []
-    },
-    {
-      "name": "gallery.mixins.json",
-      "packageName": "com.teamabnormals.gallery.core.mixin",
+      "name": "isleweaver_wover.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.wover",
       "priority": 1000,
       "mixins": [
         {
-          "className": "com.teamabnormals.gallery.core.mixin.HangingEntityItemMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.teamabnormals.gallery.core.mixin.PaintingMixin",
-          "annotations": [
-            "@WrapOperation",
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "architectury-common.mixins.json",
-      "packageName": "dev.architectury.mixin",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "dev.architectury.mixin.inject.MixinBlock",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.inject.MixinBucketItem",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.inject.MixinEntityType",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.inject.MixinFluid",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.inject.MixinFoodPropertiesBuilder",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.inject.MixinItem",
+          "className": "com.thebeyond.isleweaver.mixin.wover.WoverChunkGeneratorMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19713,19 +21333,7 @@
           "blacklisted": false
         },
         {
-          "className": "dev.architectury.mixin.inject.MixinItemProperties",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.inject.MixinLiquidBlock",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.architectury.mixin.MixinLightningBolt",
+          "className": "com.thebeyond.isleweaver.mixin.wover.WoverSurfaceRuleUtilMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19735,122 +21343,7 @@
       ]
     },
     {
-      "name": "fabric-message-api-v1.mixins.json",
-      "packageName": "net.fabricmc.fabric.mixin.message",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "net.fabricmc.fabric.mixin.message.MinecraftServerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.message.PlayerManagerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "terrablender_neoforge.mixins.json",
-      "packageName": "terrablender.mixin",
-      "priority": 1000,
-      "mixins": []
-    },
-    {
-      "name": "fabric-entity-events-v1.mixins.json",
-      "packageName": "net.fabricmc.fabric.mixin.entity.event",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.EntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.LivingEntityMixin",
-          "annotations": [
-            "@WrapOperation",
-            "@Inject",
-            "@Redirect",
-            "@ModifyReturnValue",
-            "@ModifyExpressionValue",
-            "@ModifyArg"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.MobEntityMixin",
-          "annotations": [
-            "@ModifyArg"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.PlayerEntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.PlayerManagerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.ServerPlayerEntityMixin",
-          "annotations": [
-            "@Inject",
-            "@Redirect",
-            "@ModifyExpressionValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.elytra.LivingEntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.elytra.PlayerEntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "net.fabricmc.fabric.mixin.entity.event.IItemStackExtensionMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "convergence_api_betterend.mixins.json",
+      "name": "isleweaver_betterend.mixins.json",
       "packageName": "com.thebeyond.isleweaver.mixin.betterend",
       "priority": 1000,
       "mixins": [
@@ -20116,6 +21609,216 @@
           "className": "com.thebeyond.isleweaver.mixin.betterend.UnderwaterPlantScatterMixin",
           "annotations": [
             "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "extensibleenums.neoforge.mixins.json",
+      "packageName": "fuzs.extensibleenums.neoforge.mixin",
+      "priority": 1000,
+      "mixins": []
+    },
+    {
+      "name": "gallery.mixins.json",
+      "packageName": "com.teamabnormals.gallery.core.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.teamabnormals.gallery.core.mixin.HangingEntityItemMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.teamabnormals.gallery.core.mixin.PaintingMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "architectury-common.mixins.json",
+      "packageName": "dev.architectury.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "dev.architectury.mixin.inject.MixinBlock",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinBucketItem",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinEntityType",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinFluid",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinFoodPropertiesBuilder",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinItem",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinItemProperties",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.inject.MixinLiquidBlock",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.architectury.mixin.MixinLightningBolt",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "fabric-message-api-v1.mixins.json",
+      "packageName": "net.fabricmc.fabric.mixin.message",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "net.fabricmc.fabric.mixin.message.MinecraftServerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.message.PlayerManagerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "terrablender_neoforge.mixins.json",
+      "packageName": "terrablender.mixin",
+      "priority": 1000,
+      "mixins": []
+    },
+    {
+      "name": "fabric-entity-events-v1.mixins.json",
+      "packageName": "net.fabricmc.fabric.mixin.entity.event",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.EntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.LivingEntityMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject",
+            "@Redirect",
+            "@ModifyReturnValue",
+            "@ModifyExpressionValue",
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.MobEntityMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.PlayerEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.PlayerManagerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.ServerPlayerEntityMixin",
+          "annotations": [
+            "@Inject",
+            "@Redirect",
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.elytra.LivingEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.elytra.PlayerEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.fabricmc.fabric.mixin.entity.event.IItemStackExtensionMixin",
+          "annotations": [
+            "@Inject"
           ],
           "side": "common",
           "blacklisted": false
@@ -20590,6 +22293,38 @@
       ]
     },
     {
+      "name": "isleweaver_phantasm.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.phantasm",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.phantasm.CrystalSpikeFeatureMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.phantasm.DragonMintBlockMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.phantasm.ModGameEventsMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "lithostitched.neoforge.mixins.json",
       "packageName": "dev.worldgen.lithostitched.mixin",
       "priority": 1000,
@@ -20604,6 +22339,69 @@
         },
         {
           "className": "dev.worldgen.lithostitched.mixin.common.ServerLifecycleHooksMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "isleweaver_core.mixins.json",
+      "packageName": "com.thebeyond.isleweaver.mixin.core",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.BiomeGenerationSettingsAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.CountOnEveryLayerPlacementAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.EndPlatformFeatureMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.EndSurfaceRuleReassertMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.NoiseGeneratorSettingsAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.TheEndBiomeSourceMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.isleweaver.mixin.core.MultiPackResourceManagerMixin",
           "annotations": [
             "@ModifyVariable"
           ],
@@ -23275,7 +25073,6 @@
         {
           "className": "com.kltyton.visual_creative_tab_editor.mixin.PackRepositoryMixin",
           "annotations": [
-            "@ModifyVariable",
             "@Inject"
           ],
           "side": "common",
@@ -23318,6 +25115,23 @@
           "className": "com.kltyton.visual_creative_tab_editor.mixin.client.CreativeModeItemPickerMenuVirtualTailMixin",
           "annotations": [
             "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.kltyton.visual_creative_tab_editor.mixin.client.AbstractContainerScreenItemGroupMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.kltyton.visual_creative_tab_editor.mixin.compat.createpropulsion.PropulsionCreativeTabRendererMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Redirect"
           ],
           "side": "client",
           "blacklisted": false
@@ -23582,6 +25396,50 @@
   "blacklistedMixins": [
     {
       "className": "galena.oreganized.argentum.mixin.LivingEntityMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.EnchantmentHelperMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.EnchantRandomlyLootFunctionMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.ItemEnchantmentsComponentBuilderMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.ingame.SingleEnchantmentProviderMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ItemGroupsMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryReferenceArgumentTypeMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryEntryReferenceMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ResourceFinderMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.SimpleRegistryMixin",
+      "reason": "Blacklisted via config"
+    },
+    {
+      "className": "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.TagGroupLoaderMixin",
       "reason": "Blacklisted via config"
     }
   ]

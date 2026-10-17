@@ -1,16 +1,14 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 111 mods (20 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 110 mods (20 dependencies)
 
 ## Contents
 
 - [AA4 Atlas](https://modrinth.com/project/aa4-atlas) `1.1.2`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
-- [Allurement](https://modrinth.com/project/allurement) `5.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
-- [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
 - [Better F1 Reborn](https://modrinth.com/project/better-f1-reborn) `1.1`
@@ -34,9 +32,9 @@
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `3.10.0`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
-- [EMI Enchanting](https://modrinth.com/project/emi-enchanting) `0.1.2+1.21+neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [Emojiful](https://modrinth.com/project/emojiful) `1.21-5.2.4`
+- [Enchancement](https://modrinth.com/project/enchancement) `1.21-r14`
 - [Enchantment Disabler](https://modrinth.com/project/enchantment-disabler) `3.4.9+1.21.1`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
@@ -70,6 +68,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.7.13-neoforge-21.1`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
+- [Menagerie Saturation](https://modrinth.com/project/menagerie-saturation) `1.0`
 - [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.1+neoforge-1211`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`

@@ -13,20 +13,12 @@
       "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
-      "path": "content/mods/allurement.json",
-      "sha1": "7e7f42563146f15f9c06414532c9d0cebe7f81f1"
-    },
-    {
       "path": "content/mods/amendments.json",
       "sha1": "3808c88189b81eb047492afef4e8fdd20c2acf6f"
     },
     {
       "path": "content/mods/antique-atlas-4.json",
       "sha1": "51753c9a092c0c52fd9c7a912f71f7f157881e7e"
-    },
-    {
-      "path": "content/mods/appleskin.json",
-      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
     },
     {
       "path": "content/mods/architects-palette.json",
@@ -50,7 +42,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "3ac6be97deff7b7bb8ba46ac9361b0306faed6cb"
+      "sha1": "fb05e8dce17d965d34ca3d45beb48553f489ae3c"
     },
     {
       "path": "content/mods/brick-and-mortar.json",
@@ -137,20 +129,20 @@
       "sha1": "6b369e0cf90fa8a4eefd313b831e70b55bf2a5cf"
     },
     {
-      "path": "content/mods/emi-enchanting.json",
-      "sha1": "e868d097c234581cda2f1515735e97e240c33409"
-    },
-    {
       "path": "content/mods/emi-loot.json",
       "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "66d1ee763270be697d697903f465766540fc1850"
+      "sha1": "3916f192f6f0648a6104378eb281f6d9a378209e"
     },
     {
       "path": "content/mods/emojiful.json",
       "sha1": "fa2d11ba1b88b51f5e5a07c6c0bbdc385ccf1561"
+    },
+    {
+      "path": "content/mods/enchancement.json",
+      "sha1": "3d07d50b624b28c8eed51f3deaa74ccaf17fd6b0"
     },
     {
       "path": "content/mods/enchantment-disabler.json",
@@ -323,6 +315,10 @@
     {
       "path": "content/mods/melody.json",
       "sha1": "f2e94c7ecc8fd43fe8016b05b98ad76e162111c8"
+    },
+    {
+      "path": "content/mods/menagerie-saturation.json",
+      "sha1": "c6ae79a0c22f9caf60ff3a5ac9c58adb13541ea7"
     },
     {
       "path": "content/mods/mixin-helper.json",
@@ -561,6 +557,10 @@
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
+      "path": "overrides/config/appleskin.json5",
+      "sha1": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa"
+    },
+    {
       "path": "overrides/config/architects_palette-common.toml",
       "sha1": "c8d6835135091d1d0c645319e36b2e2173e7a0a6"
     },
@@ -587,6 +587,10 @@
     {
       "path": "overrides/config/c2me.toml",
       "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
+    },
+    {
+      "path": "overrides/config/cardinal-components-api.properties",
+      "sha1": "0034d877ec2ea3155efaf54db8549db1e094f003"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -657,6 +661,10 @@
       "sha1": "87d3143bd0bd6f313636dcacf03e27db5b74cebe"
     },
     {
+      "path": "overrides/config/enchancement.json",
+      "sha1": "5e180599efe2947bcab5f13a61bfa4d9eca0f37d"
+    },
+    {
       "path": "overrides/config/enchantmentdisabler/config.toml",
       "sha1": "114fba399160ae1c25237ac529bc303cbfd51d02"
     },
@@ -678,7 +686,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "b227bc4cbed455fb1e033011a814349d41ab1944"
+      "sha1": "509a413601f613d87d0f6396bb331561641d92c3"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -690,7 +698,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "48c51ef1a5280876c7c02058da512c914ff4cb07"
+      "sha1": "c0b08f3d8549f3a2d87a8210876760841d2be757"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -786,7 +794,7 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
+      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -902,7 +910,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "0a38e8d16f3cc43c25535002e469b4811a8e5fc6"
+      "sha1": "2fb29bfbc1d7d8208ea0363f27b96a7378ba9f52"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -982,11 +990,11 @@
     },
     {
       "path": "overrides/config/mixinhelper-report.json",
-      "sha1": "c0834ac243fa5bd75485ce6cf8413f200fe355c2"
+      "sha1": "70c41fab95a0e8ac8d44b33aca3e066207811aaa"
     },
     {
       "path": "overrides/config/mixinhelper.json",
-      "sha1": "a4eef0dbb881d23ee33dba9694ca717cef0cc51e"
+      "sha1": "cc6ef579874f2ce5fe64cd200d0eda5aee44284b"
     },
     {
       "path": "overrides/config/mob-ai-tweaks/blacklists/allay_weapons.txt",
@@ -1046,7 +1054,7 @@
     },
     {
       "path": "overrides/config/natures_spirit-common.toml",
-      "sha1": "816a01a1fd2392a0a636298c3ecf0f3c1da48bea"
+      "sha1": "ffc264ba847c462899128921bae50be94abc9855"
     },
     {
       "path": "overrides/config/necronomicon.json5",
@@ -5023,6 +5031,10 @@
     {
       "path": "overrides/config/usefulspyglass-common.toml",
       "sha1": "56f14e8d7bab96d7bdf8a141feca36d32d58572f"
+    },
+    {
+      "path": "overrides/config/visual_creative_tab_editor/client.json",
+      "sha1": "b61dfae6c95aef68fa300fee5fa49238d9d6d5d4"
     },
     {
       "path": "overrides/config/watut-client.toml",
