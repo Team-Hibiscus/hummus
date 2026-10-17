@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "WBvnqHfV",
       "slug": "natures-spirit",
-      "versionId": "7ywS0UWV",
-      "versionNumber": "2.2.6-1.21.1",
-      "filename": "natures_spirit-2.2.6-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/WBvnqHfV/versions/7ywS0UWV/natures_spirit-2.2.6-1.21.1.jar",
-      "sha1": "290d94d58a85527f12b272d590d744eecfca7605",
-      "sha512": "59f1d14d33d3990cccf031d95cb838cdc14d24ee1e0477166b5534d905c05a1ce98d8a9a94a06a0a7726bd2c6452d9d9c053f19f084f4e65497fa01d9a3b4fe8",
-      "fileSize": 18620818
+      "versionId": "9tpL59jN",
+      "versionNumber": "2.3.0-1.21.1",
+      "filename": "natures_spirit-2.3.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WBvnqHfV/versions/9tpL59jN/natures_spirit-2.3.0-1.21.1.jar",
+      "sha1": "eb0ac26633ee8eab7eac9f2069a467cbd07b8b59",
+      "sha512": "b9617b4be67d7ee1c929bbb5afb1d3229d27b55ca1f32551b595d4264c3b9eacfd9b3d97f7c9a8c4e960cdb88483d7a98b42086d8025fdb68aa6a4978f7c6349",
+      "fileSize": 18677537
     }
   },
   "dependents": [

@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 110 mods (20 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 111 mods (20 dependencies)
 
 ## Contents
 
@@ -70,6 +70,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.7.13-neoforge-21.1`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
+- [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.1+neoforge-1211`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`
@@ -77,7 +78,7 @@
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.5+1.21.1-neoforge`
 - [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.2-1.21.1`
-- [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.2.6-1.21.1`
+- [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.3.0-1.21.1`
 - [no f3](https://modrinth.com/project/no-f3) `4+mod`
 - [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`

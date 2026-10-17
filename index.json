@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/allurement.json",
@@ -358,7 +358,7 @@
     },
     {
       "path": "content/mods/natures-spirit.json",
-      "sha1": "a7c05979ecda00dabfb3e01e5ae0274a3c787f51"
+      "sha1": "df5bf2032798bd7b4684dd403b6bdf5013918e5d"
     },
     {
       "path": "content/mods/necronomicon.json",
@@ -2467,62 +2467,6 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/pack.mcmeta",
       "sha1": "6f87005dd405cc2f0cec7bf0b7102e993edf2528"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/fir_placer.json",
-      "sha1": "e1a86c85e73c9e9e9de6559eb08193d51e2a615d"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/larch_placer.json",
-      "sha1": "e41811af5c69982c5e40be3417c7327050238a1f"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/large_redwood_placer.json",
-      "sha1": "e969aca9e3ec58cbcd5b388478ddb8e690d142fa"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/hummus/worldgen/placed_feature/redwood_placer.json",
-      "sha1": "b4bd6cc6498d2f6fb275d1002282b341a47c8bef"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/biome/old_growth_pine_taiga.json",
-      "sha1": "1e27d5623ade81ba328527c829fbb4b0dc4ba7b0"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/biome/old_growth_spruce_taiga.json",
-      "sha1": "29a0fd4dada1b45154a80ebd67ff1ed0d837f42d"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/biome/taiga.json",
-      "sha1": "2f3bc5a8c1b7ef5f470206dda5d45f7c7bb64aa5"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/configured_feature/trees_old_growth_pine_taiga.json",
-      "sha1": "e2745c9b292e6934fd7d9303e36c14d28f1095b7"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/configured_feature/trees_old_growth_spruce_taiga.json",
-      "sha1": "9aa41a0ca5f5243cd1d242c263cafffc2e14b8fb"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/configured_feature/trees_taiga.json",
-      "sha1": "cdfe17f84044f600f5dfe30b519bdbd97c82c41b"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/placed_feature/trees_old_growth_pine_taiga.json",
-      "sha1": "5fdc8e1011cb272561c9fce49e8ed5171a279190"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/placed_feature/trees_old_growth_spruce_taiga.json",
-      "sha1": "aad9b589245ef9669e60974b33010e854fe984e2"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/data/minecraft/worldgen/placed_feature/trees_taiga.json",
-      "sha1": "673b8f368fb89d6010bf1b15271e9d4617ad7fa2"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/taiga_redux_pack/pack.mcmeta",
-      "sha1": "64ee9ff85e292897b2c5ff7e3aab8dc312f0f852"
     },
     {
       "path": "overrides/config/paxi/resourcepack_load_order.json",
