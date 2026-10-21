@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T04:17:47.696609Z",
-  "totalMixinConfigs": 240,
-  "totalMixins": 2972,
+  "generatedAt": "2026-10-21T01:08:22.734645100Z",
+  "totalMixinConfigs": 242,
+  "totalMixins": 2990,
   "blacklistedCount": 12,
   "mixinConfigs": [
     {
@@ -4267,6 +4267,121 @@
           "className": "com.ninni.spawn.mixin.client.TurtleRendererMixin",
           "annotations": [
             "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "puddleflood.mixins.json",
+      "packageName": "pigcart.puddleflood.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "pigcart.puddleflood.mixin.AbstractThrownPotionMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.BlockMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.FlowingFluidMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.LayeredCauldronBlockMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.SnowLayerBlockMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.WaterFluidMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.BreakingBlockEffectMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.sodium.DefaultFluidRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.AbstractWidgetMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.BlockBehaviourMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.BlockStateBaseMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.ClientPacketListenerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.DripParticleMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.client.LiquidBlockRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "pigcart.puddleflood.mixin.iris.IdMapMixin",
+          "annotations": [
+            "@WrapOperation"
           ],
           "side": "client",
           "blacklisted": false
@@ -8611,6 +8726,21 @@
       ]
     },
     {
+      "name": "audaki_cart_engine.mixins.json",
+      "packageName": "audaki.cart_engine.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "audaki.cart_engine.mixin.AbstractMinecartEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "entityculling.mixins.json",
       "packageName": "dev.tr7zw.entityculling.mixin",
       "priority": 1000,
@@ -9546,6 +9676,14 @@
           "blacklisted": false
         },
         {
+          "className": "net.hibiscus.hummus.mixin.ArgentumTierMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "net.hibiscus.hummus.mixin.ArmorMaterialsMixin",
           "annotations": [
             "@Inject",
@@ -9852,6 +9990,14 @@
         },
         {
           "className": "net.hibiscus.hummus.mixin.ShieldMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.SilverfishMixin",
           "annotations": [
             "@Inject"
           ],

@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 110 mods (20 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 112 mods (19 dependencies)
 
 ## Contents
 
@@ -10,12 +10,13 @@
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
+- [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/project/audaki-cart-engine) `3.1.1`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
 - [Better F1 Reborn](https://modrinth.com/project/better-f1-reborn) `1.1`
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.2.2-1.21.1-neoforge`
 - [Bundle Backport-ish](https://modrinth.com/project/bundle-backportish) `1.1.4+mc1.21.1`
-- [Clutter No More](https://modrinth.com/project/clutter-no-more) `2.0.7+1.21.1-neoforge`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `2.0.7+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.1+1.21.5-neoforge`
@@ -49,6 +50,7 @@
 - [Galosphere](https://modrinth.com/project/galosphere) `1.21.1-1.5.5`
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`
 - [Gardens of the Dead](https://modrinth.com/project/gardens-of-the-dead) `5.0.2`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.1`
 - [Glow](https://modrinth.com/project/glows) `1.3.1`
 - [Hopper Gadgetry](https://modrinth.com/project/hopper-gadgetry) `v21.1.2-1.21.1-NeoForge`
 - [IFramesTweaker](https://modrinth.com/project/iframestweaker) `1.0.3`

@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -27,6 +27,10 @@
     {
       "path": "content/mods/architectury-api.json",
       "sha1": "00433e0e98ff8c84616e3a4e84a9f96a3b54050e"
+    },
+    {
+      "path": "content/mods/audaki-cart-engine.json",
+      "sha1": "027947856423e22aeec71058db65d2f716d3a085"
     },
     {
       "path": "content/mods/badpackets.json",
@@ -62,7 +66,7 @@
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "61021931e54dc6dd5a1ccd2fbe1e19788a2609b4"
+      "sha1": "cccd2b50bb8b6cc92360c1c2847fc558959d4323"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -206,7 +210,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "078e40362557cbef4ffd2d29d74a4603aa7174c0"
+      "sha1": "b49532c5a7d15bdd1a3674568237686885f57aa2"
     },
     {
       "path": "content/mods/glows.json",
@@ -470,7 +474,7 @@
     },
     {
       "path": "content/mods/surveyor.json",
-      "sha1": "f538145e47f359807b05ec22908d5bf1a3849701"
+      "sha1": "ebdfb20081a91140410f9d6595923575a8371516"
     },
     {
       "path": "content/mods/swordish_weapons.json",
@@ -586,7 +590,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
+      "sha1": "06768a7177f39772cea6f0c8acf528a9eb009838"
     },
     {
       "path": "overrides/config/cardinal-components-api.properties",
@@ -610,7 +614,7 @@
     },
     {
       "path": "overrides/config/combatnouveau-server.toml",
-      "sha1": "8b499bdb82b27eb4df766728c1acdeaaaf6276dc"
+      "sha1": "6c6348d6a49ea3b5e10dac22edf31ba711a074fd"
     },
     {
       "path": "overrides/config/cropsloverain.toml",
@@ -662,7 +666,7 @@
     },
     {
       "path": "overrides/config/enchancement.json",
-      "sha1": "5e180599efe2947bcab5f13a61bfa4d9eca0f37d"
+      "sha1": "5aaba1893fa8de38c2186e3ffb2eb747fa491d6b"
     },
     {
       "path": "overrides/config/enchantmentdisabler/config.toml",
@@ -698,7 +702,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "c0b08f3d8549f3a2d87a8210876760841d2be757"
+      "sha1": "3589779286887d87c8e980c78f472add2107df02"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -794,7 +798,7 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -910,7 +914,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "2fb29bfbc1d7d8208ea0363f27b96a7378ba9f52"
+      "sha1": "f22349b2d684692b64475ab8820a71a83f51c0d1"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -990,7 +994,7 @@
     },
     {
       "path": "overrides/config/mixinhelper-report.json",
-      "sha1": "70c41fab95a0e8ac8d44b33aca3e066207811aaa"
+      "sha1": "83386b50cf535ed29dcc58002bd373fd985d36f1"
     },
     {
       "path": "overrides/config/mixinhelper.json",
@@ -5074,7 +5078,7 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.6.jar",
-      "sha1": "c77a922d54babffaf1de5817aa924ac309d1714a"
+      "sha1": "86070288398fa41a90e60d217ed2654d3d8bf728"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",
