@@ -7,7 +7,7 @@
   "disableDurability": false,
   "disableVelocityChecks": true,
   "enhanceMobs": true,
-  "freeEnchantedBookMerging": true,
+  "freeEnchantedBookMerging": false,
   "rebalanceConsumables": true,
   "rebalanceEnchantments": true,
   "rebalanceEquipment": false,

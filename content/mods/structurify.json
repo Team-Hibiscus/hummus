@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "yz7AM2zx",
       "slug": "structurify",
-      "versionId": "aV5lNYVM",
-      "versionNumber": "neoforge-2.0.30+mc1.21.1",
-      "filename": "structurify-neoforge-2.0.30+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/yz7AM2zx/versions/aV5lNYVM/structurify-neoforge-2.0.30%2Bmc1.21.1.jar",
-      "sha1": "7d80d5f52fc1e6194d3dfa38985f6a4b272c9362",
-      "sha512": "5bf4abc2f777f47ec3ee846d861dcf743164475ff9d61790e99e8b515675f14b8cf613365b6e2a1e993f8032a06204ba490341daf2611de2fbbb834c87325130",
-      "fileSize": 476663
+      "versionId": "KDqZzIc2",
+      "versionNumber": "neoforge-2.0.43+mc1.21.1",
+      "filename": "structurify-neoforge-2.0.43+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yz7AM2zx/versions/KDqZzIc2/structurify-neoforge-2.0.43%2Bmc1.21.1.jar",
+      "sha1": "efd954533911c8a63f96cad82b96bcde47120ca2",
+      "sha512": "2a7ee8d9776c9d9557b0de931d9680e3b99b79b0648799f0314a97e2a10067e05fe0ae8a7059cb53a68e1786e057d2d37dcd6bbaaca6f688f22ebb31b057d2e5",
+      "fileSize": 530369
     }
   },
   "dependents": [],

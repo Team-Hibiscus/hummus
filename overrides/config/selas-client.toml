@@ -33,11 +33,11 @@
 		#Base ambient brightness added across the Nether. Higher values make the Nether more playable but less moody.
 		# Default: 0.14
 		# Range: 0.0 ~ 1.0
-		nether_light_factor = 0.14
+		nether_light_factor = 0.16
 		#Warm (reddish/orange) tint applied in darker Nether areas, evoking lava and fire glow.
 		# Default: 0.06
 		# Range: 0.0 ~ 0.5
-		nether_warm_tint = 0.06
+		nether_warm_tint = 0.1
 		#Base ambient brightness added across the End. Higher values make the void more visible.
 		# Default: 0.09
 		# Range: 0.0 ~ 1.0
@@ -45,14 +45,14 @@
 		#Cool (starlight blue) tint applied in darker End areas.
 		# Default: 0.05
 		# Range: 0.0 ~ 0.5
-		end_cool_tint = 0.05
+		end_cool_tint = 0.3
 
 	#Day/night transition timing. Values are Minecraft day ticks. One full Minecraft day is 24000 ticks.
 	[natural_darkness.twilight]
 		#Selas starts fading from day brightness into night brightness.
 		# Default: 11800
 		# Range: 0 ~ 23999
-		dusk_transition_start_tick = 11800
+		dusk_transition_start_tick = 11500
 		#Full Selas night begins.
 		# Default: 14000
 		# Range: 0 ~ 23999
@@ -64,22 +64,22 @@
 		#Dawn fade ends after midnight wraps back to day tick 0.
 		# Default: 400
 		# Range: 0 ~ 23999
-		dawn_transition_end_tick = 400
+		dawn_transition_end_tick = 700
 
 	#Moon and weather values.
 	[natural_darkness.natural_light]
 		#Sky brightness at midnight during a new moon. Lower values make moonless nights darker. Keep above cave darkness for open sky.
 		# Default: 0.075
 		# Range: 0.0 ~ 1.0
-		moonless_night_sky_factor = 0.075
+		moonless_night_sky_factor = 0.01
 		#Sky brightness at midnight during a full moon. Higher values make full-moon nights brighter.
 		# Default: 0.34
 		# Range: 0.0 ~ 1.0
-		full_moon_sky_factor = 0.34
+		full_moon_sky_factor = 0.35
 		#Controls the progression between new moon and full moon. 1 is linear; lower values brighten intermediate phases.
 		# Default: 0.65
 		# Range: 0.5 ~ 3.0
-		moon_phase_curve = 0.65
+		moon_phase_curve = 1.0
 		#Natural sky darkening when rain is at full strength.
 		# Default: 0.16
 		# Range: 0.0 ~ 1.0
@@ -94,11 +94,11 @@
 		#Lowest general brightness Selas allows in mixed light. 0 allows true black.
 		# Default: 0.01
 		# Range: 0.0 ~ 0.25
-		minimum_luminance_floor = 0.01
+		minimum_luminance_floor = 0.025
 		#Near-black anti-crush floor when both block light and sky light are low (deep caves / sealed spaces). Should stay below open-sky starlight.
 		# Default: 0.004
 		# Range: 0.0 ~ 0.25
-		cave_luminance_floor = 0.004
+		cave_luminance_floor = 0.006
 		#Extra luminance floor mixed in for open sky at night (starlight / airglow). 
 		#Uses sky light presence so caves stay darker than moonless surface nights. 0 disables the extra floor.
 		# Default: 0.016
@@ -107,22 +107,22 @@
 		#Controls how quickly low light falls into darkness. Higher values make low light darker.
 		# Default: 1.75
 		# Range: 0.25 ~ 4.0
-		darkness_curve = 1.75
+		darkness_curve = 1.45
 		#Controls how much block light resists darkening. Higher values keep torches and lava brighter.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.5
-		block_light_preservation = 1.0
+		block_light_preservation = 1.15
 
 	#Color changes in low light.
 	[natural_darkness.color]
 		#Removes color in darker areas. 0 disables this.
 		# Default: 0.38
 		# Range: 0.0 ~ 1.0
-		night_desaturation = 0.38
+		night_desaturation = 0.48
 		#Adds a small blue/cold tint in low natural light. 0 disables this.
 		# Default: 0.07
 		# Range: 0.0 ~ 0.5
-		night_cool_tint = 0.07
+		night_cool_tint = 0.0
 		#Adds a faint warm (creamy) tint in low light that scales with moon brightness, 
 		#so full-moon nights feel slightly warmer than the plain cool starlight tint. 0 disables this.
 		# Default: 0.03

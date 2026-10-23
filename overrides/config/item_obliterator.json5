@@ -108,7 +108,9 @@
     "naturalist:snail_spawn_egg",
     "naturalist:snail_eggs",
     "naturalist:snail_bucket",
-    "!.*vertical_slab$"
+    "!.*vertical_slab$",
+    "minecraft:furnace",
+    "minecraft:blast_furnace"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

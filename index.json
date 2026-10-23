@@ -46,7 +46,7 @@
     },
     {
       "path": "content/mods/brick-and-mortar.json",
-      "sha1": "d6429d95ae932aa7b17a70d49771aae85d0aae23"
+      "sha1": "d151d218df9d9b7a6458f2bb15949f5ace340636"
     },
     {
       "path": "content/mods/bundle-backportish.json",
@@ -57,12 +57,16 @@
       "sha1": "7b2a70c8c93d9b892c1a7f4f64faf77793c9d945"
     },
     {
+      "path": "content/mods/caelum.json",
+      "sha1": "f909bc578191f14395a5d7596c30ac3ec5e0c4e6"
+    },
+    {
       "path": "content/mods/cloth-config.json",
       "sha1": "baba89c2f4ee5e55d60919d355d9c9b10a557b53"
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "61021931e54dc6dd5a1ccd2fbe1e19788a2609b4"
+      "sha1": "cccd2b50bb8b6cc92360c1c2847fc558959d4323"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -78,7 +82,7 @@
     },
     {
       "path": "content/mods/crops-love-rain.json",
-      "sha1": "e0ead7d8e61c98b5cbe8761dbd4e4a776bbf058d"
+      "sha1": "a1b378e40adb6ed734538046e668e6020e5f8c4d"
     },
     {
       "path": "content/mods/custom-portal-api-reforged.json",
@@ -158,7 +162,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "066a0a6d48b267a3ffb49236d2737f0334fd9bb5"
+      "sha1": "dedf0d7ec47073a74dc52f7b883681070e77d222"
     },
     {
       "path": "content/mods/extra-mod-integrations.json",
@@ -210,7 +214,7 @@
     },
     {
       "path": "content/mods/glows.json",
-      "sha1": "c88db3355d51cffce7ad50cdb8bfab5745a90539"
+      "sha1": "189a6186a56047a379cca17bfd1312faf3a8823b"
     },
     {
       "path": "content/mods/goated.json",
@@ -234,7 +238,7 @@
     },
     {
       "path": "content/mods/immersive-overlays.json",
-      "sha1": "c84da716094659decc0f1f818df4c522e200615c"
+      "sha1": "7c1ae8e24ba0d6720ccf88f64b157ca750d6fe2e"
     },
     {
       "path": "content/mods/in-control.json",
@@ -254,7 +258,7 @@
     },
     {
       "path": "content/mods/isleweaver.json",
-      "sha1": "3a1d680d0cf876edc5ade9cc6a10c1cbe9b917eb"
+      "sha1": "e2da739b908a9df4386d4311321b27aa7309a403"
     },
     {
       "path": "content/mods/item-obliterator.json",
@@ -298,7 +302,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "efcb89598b76844930399eb11537d67c0662dd82"
+      "sha1": "f5b34035200705a7288fdd67ed7c0ccfb028a469"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -322,7 +326,7 @@
     },
     {
       "path": "content/mods/mixin-helper.json",
-      "sha1": "ac34d463ffede69ceb55b2b53024c3452b7dbf16"
+      "sha1": "4edc6ca8e92265fde0316b75bedaaa7d58f86a5e"
     },
     {
       "path": "content/mods/mob-ai-tweaks.json",
@@ -354,7 +358,7 @@
     },
     {
       "path": "content/mods/natures-spirit.json",
-      "sha1": "df5bf2032798bd7b4684dd403b6bdf5013918e5d"
+      "sha1": "7976d5e0556b0ad3b2ee1bb991f94d47d1e23f19"
     },
     {
       "path": "content/mods/necronomicon.json",
@@ -367,6 +371,10 @@
     {
       "path": "content/mods/oreganized.json",
       "sha1": "a92f38a308c5c8e405366bba6e7b29593baae3e7"
+    },
+    {
+      "path": "content/mods/packet-fixer.json",
+      "sha1": "3e70a0817b2ce0856233a01ca1123548f2091107"
     },
     {
       "path": "content/mods/particular-reforged.json",
@@ -406,7 +414,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "04aacf9a8cb0f35e2f88e750b7ae281fbb2be9ad"
+      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
     },
     {
       "path": "content/mods/relocate.json",
@@ -458,7 +466,7 @@
     },
     {
       "path": "content/mods/structurify.json",
-      "sha1": "0a5b90adf244b8cea09e10c9b02a36c2af0f9081"
+      "sha1": "fa54d1a6d04686f3a23ffaba101b51f5534382db"
     },
     {
       "path": "content/mods/supplementaries-squared.json",
@@ -482,7 +490,7 @@
     },
     {
       "path": "content/mods/the-beyond.json",
-      "sha1": "6618f95cfc72f41b97e449862df31aa3eae1e301"
+      "sha1": "fcc1e616d8e98cb1489a10010ed15a7c622c39a9"
     },
     {
       "path": "content/mods/trimmed.json",
@@ -589,6 +597,18 @@
       "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
     },
     {
+      "path": "overrides/config/caelum-client.toml",
+      "sha1": "82288a281b5b8e7c7c42a999ac5467ff57109f94"
+    },
+    {
+      "path": "overrides/config/caelum-server.toml",
+      "sha1": "42ecedaaed2d515c3014eed85b1ac9844d86eb81"
+    },
+    {
+      "path": "overrides/config/caelum_client--server_fallback.toml",
+      "sha1": "61bb3d3c5b7bf074fc51d18fb25940ec24aeb726"
+    },
+    {
       "path": "overrides/config/cardinal-components-api.properties",
       "sha1": "0034d877ec2ea3155efaf54db8549db1e094f003"
     },
@@ -662,7 +682,7 @@
     },
     {
       "path": "overrides/config/enchancement.json",
-      "sha1": "5e180599efe2947bcab5f13a61bfa4d9eca0f37d"
+      "sha1": "f47940a978e462ad79047c8078cbc2c533360cee"
     },
     {
       "path": "overrides/config/enchantmentdisabler/config.toml",
@@ -686,7 +706,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "509a413601f613d87d0f6396bb331561641d92c3"
+      "sha1": "6373e79e373aecb9fb975642fecf2dfc1bf89165"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -698,7 +718,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "c0b08f3d8549f3a2d87a8210876760841d2be757"
+      "sha1": "c82257e6d51d60b884f00c8132ad55ea99365d91"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -910,11 +930,11 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "2fb29bfbc1d7d8208ea0363f27b96a7378ba9f52"
+      "sha1": "051be62ea5469445b852d17b5acb6cdfc96204a8"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
-      "sha1": "3a1ae90d114acba0f618f28591aad7e142b06372"
+      "sha1": "c078934f03067c498b5d0bd30ce0226b319236e7"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -990,7 +1010,7 @@
     },
     {
       "path": "overrides/config/mixinhelper-report.json",
-      "sha1": "70c41fab95a0e8ac8d44b33aca3e066207811aaa"
+      "sha1": "4868d758b03404a6bf2b0d5b538cc2f4bc66f576"
     },
     {
       "path": "overrides/config/mixinhelper.json",
@@ -1087,6 +1107,10 @@
     {
       "path": "overrides/config/oreganized-common.toml",
       "sha1": "531548c78c342e48657beddde81960b22ea91235"
+    },
+    {
+      "path": "overrides/config/packetfixer.properties",
+      "sha1": "659a43cf08199d8ccac632139bc5b9b44789f3ed"
     },
     {
       "path": "overrides/config/particular-common.toml",
@@ -1375,278 +1399,6 @@
     {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/pack.mcmeta",
       "sha1": "d855b8ea091e58b5c3dc5f67fc75175783d269c2"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/alleviating.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/ascension_curse.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/launch.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/reeling.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/allurement/reforming.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/darker_depths/quick_dash.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/darker_depths/swift_strike.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/farmersdelight/backstabbing.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/enfeeble.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/rupture.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/sifting.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/galosphere/sustain.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/aqua_affinity.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/bane_of_arthopods.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/blast_protection.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/depth_strider.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/efficency.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/feather_falling.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/fire_aspect.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/fire_protection.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/flame.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/fortune.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/frost_walker.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/impaling.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/infinity.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/knockback.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/looting.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/luck_of_the_sea.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/lure.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/mending.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/multishot.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/piercing.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/power.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/projectile_protection.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/protection.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/punch.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/quick_charge.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/respiration.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/sharpness.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/silk_touch.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/smite.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/sweeping_edge.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/thorns.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/minecraft/unbreaking.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/after_burner.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/auto_loading_holster.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/blasting_impression.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/descent.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/despise.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/featherweight_munitions.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/full_auto_retrofit.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/grappling_bobber.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/kick_back.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/perfect_parry.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/recall.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/vorpal_weapon.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/mob-ai-tweaks/withering_munitions.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/antidote.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/conductivity_curse.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/ghasted.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/illagers_bane.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/multishot.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/outreach.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/photosynthesis.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/piercing.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/power.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/wax_wings.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/data/immersiveenchanting/enchantment_costs/nova_structures/wither_coated.json",
-      "sha1": "a770e2b62e3a8ad183a36941ca9bb45780ea8214"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_disable_immersive_enchants/pack.mcmeta",
@@ -4929,8 +4681,12 @@
       "sha1": "852773e5b432777d1419370a03856e2362470a63"
     },
     {
+      "path": "overrides/config/scalablelux.properties",
+      "sha1": "b606e07eb9e153dfb7273184568640bba59672b1"
+    },
+    {
       "path": "overrides/config/selas-client.toml",
-      "sha1": "1b0412f63c37132a07541ee7f3a2f93f0a8728ff"
+      "sha1": "1d5a76cb36cada16ae5572cf9c1e188049077a9b"
     },
     {
       "path": "overrides/config/sleep_tight-client.toml",
@@ -5054,7 +4810,7 @@
     },
     {
       "path": "overrides/config/yacl.json5",
-      "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+      "sha1": "5451445552bdaa25249df44b74ee54a70ec6aed9"
     },
     {
       "path": "overrides/config/zeta-common.toml",

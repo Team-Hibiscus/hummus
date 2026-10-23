@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "N9WucjHL",
       "slug": "reliable-emi",
-      "versionId": "H9QC5CD3",
-      "versionNumber": "4.1.1-1.21.1-neoforge",
-      "filename": "remi-neoforge-1.21.1-4.1.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/N9WucjHL/versions/H9QC5CD3/remi-neoforge-1.21.1-4.1.1.jar",
-      "sha1": "cb535818456cce6f3d14d77b6ebb92726b0ed791",
-      "sha512": "aaeccc9a1d1c90ea0e0cd475ee82ad7d2e50e1da50760b1f3cffe99ec1f0c186ba12328757cc864b04a2da7c585e1b2e4ffb912e0f7ba0d35a69c7fbb262c7ad",
-      "fileSize": 201858
+      "versionId": "2TeI2Zyn",
+      "versionNumber": "4.7.12-1.21.1-neoforge",
+      "filename": "remi-neoforge-1.21.1-4.7.12.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/N9WucjHL/versions/2TeI2Zyn/remi-neoforge-1.21.1-4.7.12.jar",
+      "sha1": "056966c6c09bc6aa683603845f61c6c92dbb225f",
+      "sha512": "53f277848356d0c4e8027b97b7ea30b39ea85556d3043e525e248c9408ad9f4b659e71ac78d16adfd3d85c580355b7be5794ff90df98865d5f9173abd13f9cee",
+      "fileSize": 293172
     }
   },
   "dependents": [],

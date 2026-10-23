@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T04:17:47.696609Z",
-  "totalMixinConfigs": 240,
-  "totalMixins": 2972,
+  "generatedAt": "2026-10-18T07:58:13.146003Z",
+  "totalMixinConfigs": 244,
+  "totalMixins": 3101,
   "blacklistedCount": 12,
   "mixinConfigs": [
     {
@@ -4303,6 +4303,159 @@
       ]
     },
     {
+      "name": "packetfixer.v1_20_5.neoforge.mixins.json",
+      "packageName": "dev.tonimatas.packetfixer.mixins",
+      "priority": 1000,
+      "pluginClass": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.MixinPlugin",
+      "mixins": [
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ByteBufCodecsMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ClientboundCustomPayloadPacketMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ClientboundCustomQueryPacketMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ClientboundLevelChunkPacketDataMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.CompressionDecoderMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.CompressionEncoderMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ConnectionMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.FriendlyByteBufMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.NbtAccounterMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ServerboundCustomPayloadPacketMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ServerboundCustomQueryPacketMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ServerCommonPacketListenerImplMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ServerGamePacketListenerImplMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.ServerLoginPacketListenerImplMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.Varint21FrameDecoderMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.Varint21LengthFieldPrependerMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.VarIntMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.tonimatas.packetfixer.mixins.v1_20_5_neoforge.VarLongMixin",
+          "annotations": [
+            "@ModifyConstant"
+          ],
+          "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "fabric-tag-api-v1.mixins.json",
       "packageName": "net.fabricmc.fabric.mixin.tags",
       "priority": 1000,
@@ -8116,6 +8269,678 @@
       ]
     },
     {
+      "name": "owo.mixins.json",
+      "packageName": "io.wispforest.owo.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "io.wispforest.owo.mixin.CachedRegistryInfoGetterAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ClientConnectionMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ComponentTypeBuilderMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.Copenhagen",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.DataResultMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.DataResultMixin$DataResultErrorMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ForwardingDynamicOpsAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.NbtCompoundMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.PacketByteBufMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.RegistryOpsAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ScreenHandlerInvoker",
+          "annotations": [
+            "@Invoker"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ScreenHandlerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ServerCommonNetworkHandlerAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ServerPlayerEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ServerPlayerInteractionManagerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.SetComponentsLootFunctionAccessor",
+          "annotations": [
+            "@Invoker"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.TagGroupLoaderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ext.ComponentMapImplAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ext.ComponentMapImplMixin",
+          "annotations": [
+            "@ModifyExpressionValue",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ext.ItemMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ext.ItemStackMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.ItemGroupAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.ItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.ItemSettingsMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.offline.AdvancementProgressAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.offline.PlayerAdvancementTrackerMixin",
+          "annotations": [
+            "@ModifyArg"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.offline.ProgressMapAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.offline.WorldSaveHandlerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.recipe_remainders.CraftingResultSlotMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.recipe_remainders.RecipeManagerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.registry.ReferenceAccessor",
+          "annotations": [
+            "@Invoker"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.registry.SimpleRegistryMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.text.LanguageMixin",
+          "annotations": [
+            "@ModifyExpressionValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.text.TextCodecsMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.tweaks.EulaReaderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.tweaks.LevelInfoMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.SlotAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.SlotMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.BlockEntityAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.neoforge.NetworkRegistryMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.BufferBuilderAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ScreenAccessor",
+          "annotations": [
+            "@Accessor",
+            "@Invoker"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ClientCommonNetworkHandlerAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ClientConfigurationNetworkHandlerMixin",
+          "annotations": [
+            "@ModifyArg",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ClientLoginNetworkHandlerAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.DrawContextMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.MinecraftClientMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.AbstractInventoryScreenMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.CreativeInventoryScreenAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.CreativeInventoryScreenMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyArg",
+            "@ModifyArgs"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.itemgroup.MixinCreativeInventoryScreenMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.shader.GameRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.shader.ShaderProgramAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.shader.ShaderProgramMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.text.TranslationStorageMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.tweaks.OperatingSystemMixin",
+          "annotations": [
+            "@Overwrite"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.tweaks.TextFieldWidgetMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.ChatScreenMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.ClickableWidgetMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.DrawContextInvoker",
+          "annotations": [
+            "@Invoker",
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.DrawContextMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.EditBoxWidgetMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.EntityRenderDispatcherMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.EntityRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.HandledScreenMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.MinecraftClientMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.RenderSystemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.ScreenMixin",
+          "annotations": [
+            "@ModifyExpressionValue",
+            "@ModifyArg"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.SliderWidgetMixin",
+          "annotations": [
+            "@ModifyArg",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.TessellatorMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.TextFieldWidgetMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.BaseOwoHandledScreenAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.ButtonWidgetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.CheckboxWidgetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.ClickableWidgetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.EditBoxAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.EditBoxWidgetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.TextBoxComponentAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.access.TextFieldWidgetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.layers.HandledScreenAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.layers.KeyboardMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.layers.MouseMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.ui.layers.ScreenMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.neoforge.NetworkRegistryMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.neoforge.ClientConnectionDisconnectHookMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "io.wispforest.owo.mixin.MainMixin",
+          "annotations": [],
+          "side": "server",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "blueprint.mixins.json",
       "packageName": "com.teamabnormals.blueprint.core.mixin",
       "priority": 1000,
@@ -9792,6 +10617,28 @@
           "blacklisted": false
         },
         {
+          "className": "net.hibiscus.hummus.mixin.KilnBlockEntityMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.KilnOpenersCounterMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.KilnRecipeMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "net.hibiscus.hummus.mixin.LevelSliceMixin",
           "annotations": [
             "@Inject"
@@ -9835,6 +10682,15 @@
           "blacklisted": false
         },
         {
+          "className": "net.hibiscus.hummus.mixin.RecipeManagerMixin",
+          "annotations": [
+            "@Inject",
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "net.hibiscus.hummus.mixin.SaplingBlockMixin",
           "annotations": [
             "@Redirect"
@@ -9862,6 +10718,14 @@
           "className": "net.hibiscus.hummus.mixin.SimpleTierAccessor",
           "annotations": [
             "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.SmeltingRecipeMixin",
+          "annotations": [
+            "@ModifyReturnValue"
           ],
           "side": "common",
           "blacklisted": false
@@ -9923,7 +10787,15 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.ClientLevelMixin",
+          "className": "net.hibiscus.hummus.mixin.RecipeBookComponentAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.client.ClientLevelMixin",
           "annotations": [
             "@Overwrite"
           ],
@@ -9931,13 +10803,21 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.EnchantmentScreenMixin",
+          "className": "net.hibiscus.hummus.mixin.client.ClientRecipeBookMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.client.EnchantmentScreenMixin",
           "annotations": [],
           "side": "client",
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.EntityRenderDispatcherMixin",
+          "className": "net.hibiscus.hummus.mixin.client.EntityRenderDispatcherMixin",
           "annotations": [
             "@Inject"
           ],
@@ -9945,7 +10825,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.EntityRendererMixin",
+          "className": "net.hibiscus.hummus.mixin.client.EntityRendererMixin",
           "annotations": [
             "@WrapOperation"
           ],
@@ -9953,7 +10833,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.GuiMixin",
+          "className": "net.hibiscus.hummus.mixin.client.GuiMixin",
           "annotations": [
             "@ModifyConstant"
           ],
@@ -9961,7 +10841,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.HumanoidArmorLayerMixin",
+          "className": "net.hibiscus.hummus.mixin.client.HumanoidArmorLayerMixin",
           "annotations": [
             "@Inject"
           ],
@@ -9969,7 +10849,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.HumanoidModelMixin",
+          "className": "net.hibiscus.hummus.mixin.client.HumanoidModelMixin",
           "annotations": [
             "@Inject"
           ],
@@ -9977,7 +10857,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.LevelRendererMixin",
+          "className": "net.hibiscus.hummus.mixin.client.LevelRendererMixin",
           "annotations": [
             "@Inject",
             "@ModifyArg"
@@ -9986,7 +10866,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.LocalPlayerMixin",
+          "className": "net.hibiscus.hummus.mixin.client.LocalPlayerMixin",
           "annotations": [
             "@Inject"
           ],
@@ -9994,7 +10874,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.MinecraftAttackMixin",
+          "className": "net.hibiscus.hummus.mixin.client.MinecraftAttackMixin",
           "annotations": [
             "@Inject"
           ],
@@ -10002,7 +10882,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.MinecraftMixin",
+          "className": "net.hibiscus.hummus.mixin.client.MinecraftMixin",
           "annotations": [
             "@Inject"
           ],
@@ -10010,7 +10890,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.MixinHideParryShield",
+          "className": "net.hibiscus.hummus.mixin.client.MixinHideParryShield",
           "annotations": [
             "@Inject"
           ],
@@ -10018,7 +10898,7 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.ParticleEngineMixin",
+          "className": "net.hibiscus.hummus.mixin.client.ParticleEngineMixin",
           "annotations": [
             "@Redirect"
           ],
@@ -10026,13 +10906,13 @@
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.RenderChunkRegionMixin",
+          "className": "net.hibiscus.hummus.mixin.client.RenderChunkRegionMixin",
           "annotations": [],
           "side": "client",
           "blacklisted": false
         },
         {
-          "className": "net.hibiscus.hummus.mixin.WorldBorderRendererMixin",
+          "className": "net.hibiscus.hummus.mixin.client.WorldBorderRendererMixin",
           "annotations": [
             "@Inject"
           ],
@@ -19235,6 +20115,135 @@
       ]
     },
     {
+      "name": "caelum.mixins.json",
+      "packageName": "net.sophka.caelum.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "net.sophka.caelum.mixin.MixinDaylightDetectorBlock",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinEnderMan",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinFleeSunGoal",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinLevel",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinLevelTimeAccess",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinMob",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinMoveThroughVillageGoal",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinRestrictSunGoal",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinVillageSiege",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinClientLevel",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinDimensionType",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinFogRenderer",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.MixinLevelRenderer",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation",
+            "@WrapWithCondition",
+            "@ModifyExpressionValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.compatibility.iris.MixinCelestialUniforms",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.sophka.caelum.mixin.compatibility.iris.MixinShadowMatrices",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
       "name": "ferritecore.datacomponents.mixin.json",
       "packageName": "malte0811.ferritecore.mixin.datacomponents",
       "priority": 1000,
@@ -22115,6 +23124,37 @@
             "@Inject"
           ],
           "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "cloud_tweaks.mixins.json",
+      "packageName": "net.not_thefirst.story_mode_clouds.mixin",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "net.not_thefirst.story_mode_clouds.mixin.ClientWorldMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.not_thefirst.story_mode_clouds.mixin.LevelRendererMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.not_thefirst.story_mode_clouds.mixin.ClientMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
           "blacklisted": false
         }
       ]
