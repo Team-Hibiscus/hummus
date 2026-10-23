@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T03:12:56.131060Z",
-  "totalMixinConfigs": 242,
-  "totalMixins": 3048,
+  "generatedAt": "2026-10-23T04:27:42.201299Z",
+  "totalMixinConfigs": 244,
+  "totalMixins": 3078,
   "blacklistedCount": 12,
   "mixinConfigs": [
     {
@@ -10484,6 +10484,14 @@
           ],
           "side": "client",
           "blacklisted": false
+        },
+        {
+          "className": "net.hibiscus.hummus.mixin.client.BMEmiPluginMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
         }
       ]
     },
@@ -17695,6 +17703,12 @@
       ]
     },
     {
+      "name": "emi_discovery.neoforge.mixins.json",
+      "packageName": "net.funkpla.emi_discovery.mixin",
+      "priority": 1000,
+      "mixins": []
+    },
+    {
       "name": "fabric-biome-api-v1.mixins.json",
       "packageName": "net.fabricmc.fabric.mixin.biome",
       "priority": 1000,
@@ -22287,6 +22301,254 @@
             "@Inject"
           ],
           "side": "common",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "emi_discovery.mixins.json",
+      "packageName": "net.funkpla.emi_discovery.mixin",
+      "priority": 1000,
+      "pluginClass": "com.moulberry.mixinconstraints.ConstraintsMixinPlugin",
+      "mixins": [
+        {
+          "className": "net.funkpla.emi_discovery.mixin.BottleItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.BucketItemAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.BucketItemMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.InventoryChangeTriggerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.MinecraftServerStorageSourceAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.ClientAdvancementsMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.ClientPacketListenerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.LocalPlayerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.MultiPlayerGameModeMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.EmiApiMixin",
+          "annotations": [
+            "@Inject",
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.EmiIngredientRecipeMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.EmiReloadManagerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.EmiScreenManagerMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.EmiSidebarsMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.EmiSmithingTrimRecipeMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.IngredientTooltipComponentMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Inject",
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.ItemEmiStackMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.ListEmiIngredientMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.PageSlotWidgetMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.RecipeScreenMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.SlotWidgetMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.TagEmiIngredientMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.TagTooltipComponentMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Inject",
+            "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.accessor.EmiTagRecipeAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.accessor.IngredientTooltipComponentAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.emi.accessor.TagEmiIngredientAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.remi.CreativeModeTabManagerMixin",
+          "annotations": [
+            "@ModifyReturnValue",
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.remi.EmiGroupStackMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "net.funkpla.emi_discovery.mixin.remi.StackManagerMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "client",
           "blacklisted": false
         }
       ]

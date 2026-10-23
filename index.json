@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "baba89c2f4ee5e55d60919d355d9c9b10a557b53"
+      "sha1": "4a64a198ff66810be5f75a3d76d9c159ae55b3ba"
     },
     {
       "path": "content/mods/clutter-no-more.json",
@@ -137,12 +137,16 @@
       "sha1": "6b369e0cf90fa8a4eefd313b831e70b55bf2a5cf"
     },
     {
+      "path": "content/mods/emi-discovery.json",
+      "sha1": "e489395f0338022d1dbe02a7f955921022f65fae"
+    },
+    {
       "path": "content/mods/emi-loot.json",
       "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "3916f192f6f0648a6104378eb281f6d9a378209e"
+      "sha1": "d67528e1e967717d6b27606e3b55482b8c9b5ee2"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -167,10 +171,6 @@
     {
       "path": "content/mods/every-compat.json",
       "sha1": "dedf0d7ec47073a74dc52f7b883681070e77d222"
-    },
-    {
-      "path": "content/mods/extra-mod-integrations.json",
-      "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -418,7 +418,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
+      "sha1": "4a11351de2a78646c55509cc7fcf922bd49b6c27"
     },
     {
       "path": "content/mods/relocate.json",
@@ -677,6 +677,14 @@
       "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
     },
     {
+      "path": "overrides/config/emi_discovery.toml",
+      "sha1": "2a3578b477108afd0df65dccf9e6e3292d9a0b38"
+    },
+    {
+      "path": "overrides/config/emi_discovery/advancements/example.json.disabled",
+      "sha1": "d65cb9b779d42d6eadb97efed7080da5daf21f20"
+    },
+    {
       "path": "overrides/config/emi_loot_config.toml",
       "sha1": "83c6402d23d916c585937e4d57dd3ffe5d03081a"
     },
@@ -722,7 +730,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "1885de972ed501dc48054270cd2ed27ad6c743ab"
+      "sha1": "7d2260502e4a3f6bd99015b41b88a877e7029318"
     },
     {
       "path": "overrides/config/fancymenu/assets/mods.png",
@@ -934,7 +942,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "2fd6269f89fb318df3c4a85017f71fa2f6b0c182"
+      "sha1": "a2852b430ddea769695b87f1d826299a10e6c99e"
     },
     {
       "path": "overrides/config/item_obliterator.json5",
@@ -1014,7 +1022,7 @@
     },
     {
       "path": "overrides/config/mixinhelper-report.json",
-      "sha1": "239657e91fcebdb4d59eaaba4d53dda8330101fd"
+      "sha1": "7c233764ec37b2e1f063a2e0ec24a80ec0c81b3d"
     },
     {
       "path": "overrides/config/mixinhelper.json",
@@ -1114,7 +1122,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "03fb9ad76e519847c21bd2a73a4d8fb8269057f0"
+      "sha1": "29c0d577420682e5ffa5548a1678382411ec1a76"
     },
     {
       "path": "overrides/config/particular-common.toml",
@@ -4630,7 +4638,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "ab741ae7abe17e92d2e78b5ee62110ef0c927406"
+      "sha1": "4e492077b961ca759104a5c9a094d8c6ddceca1c"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
@@ -4642,7 +4650,7 @@
     },
     {
       "path": "overrides/config/remi/remi.json",
-      "sha1": "06fe909c61ec965b20fe8bfa57ad981915f804f9"
+      "sha1": "f320f8237f3ca62b53d333187e384b2db79c375c"
     },
     {
       "path": "overrides/config/remi/stack_groups/bamboo_spikes.json",
@@ -4834,7 +4842,7 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.7.jar",
-      "sha1": "8f54d17dd60b8260980960389fdc635f80b63265"
+      "sha1": "ce00f281e311ee74f98dc5cd983235f3a7b011ac"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

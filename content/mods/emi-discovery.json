@@ -1,0 +1,23 @@
+{
+  "name": "EMIDiscovery",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WO3G3DRj",
+      "slug": "emi-discovery",
+      "versionId": "aNLpgPoP",
+      "versionNumber": "2.1.0+1.21.1",
+      "filename": "emi_discovery-neoforge-1.21.1-2.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WO3G3DRj/versions/aNLpgPoP/emi_discovery-neoforge-1.21.1-2.1.0.jar",
+      "sha1": "4151b2834bc877cb2a76f89e7e48756534240f15",
+      "sha512": "26bf83f42b6549532c5115c8daeefccc698b2d72048e4de267cf97ffddbdddeb71ded89d621aa8e1b18d1e5a4d6089b74a9a8b13042906def6cef3909d235518",
+      "fileSize": 284148
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

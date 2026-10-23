@@ -38,7 +38,7 @@
     ]
   },
   "emiOnlyInRecipeBook": false,
-  "emiOnlyInRecipeBookState": false,
+  "emiOnlyInRecipeBookState": true,
   "disableEmiGlobalConfig": false,
   "dragCheatToInventory": true,
   "enableCategorizedTagPages": true,

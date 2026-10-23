@@ -33,8 +33,8 @@
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `3.10.0`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
-- [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
+- [EMIDiscovery](https://modrinth.com/project/emi-discovery) `2.1.0+1.21.1`
 - [Emojiful](https://modrinth.com/project/emojiful) `1.21-5.2.4`
 - [Enchancement](https://modrinth.com/project/enchancement) `1.21-r14`
 - [Enchantment Disabler](https://modrinth.com/project/enchantment-disabler) `3.4.9+1.21.1`
