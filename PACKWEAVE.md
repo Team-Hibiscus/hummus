@@ -10,6 +10,7 @@
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
+- [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/project/audaki-cart-engine) `3.1.1`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
 - [Better F1 Reborn](https://modrinth.com/project/better-f1-reborn) `1.1`
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
@@ -50,7 +51,8 @@
 - [Galosphere](https://modrinth.com/project/galosphere) `1.21.1-1.5.5`
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`
 - [Gardens of the Dead](https://modrinth.com/project/gardens-of-the-dead) `5.0.2`
-- [Glow](https://modrinth.com/project/glows) `1.3.2`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.1`
+- [Glow](https://modrinth.com/project/glows) `1.3.1`
 - [Hopper Gadgetry](https://modrinth.com/project/hopper-gadgetry) `v21.1.2-1.21.1-NeoForge`
 - [IFramesTweaker](https://modrinth.com/project/iframestweaker) `1.0.3`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`

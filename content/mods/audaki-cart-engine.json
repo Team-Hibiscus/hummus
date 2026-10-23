@@ -1,0 +1,23 @@
+{
+  "name": "Audaki Cart Engine (Faster Minecarts)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "V8qsCwta",
+      "slug": "audaki-cart-engine",
+      "versionId": "RLAkkIZ6",
+      "versionNumber": "3.1.1",
+      "filename": "ACE_mc1.20.6-3.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/V8qsCwta/versions/RLAkkIZ6/ACE_mc1.20.6-3.1.1.jar",
+      "sha1": "7455fc4b8245bc4745c161674f60700f2adf6968",
+      "sha512": "d53e3a09aaab2615fdccd5d32858f825fb075169d72bf17c5c69f5c182be889bcf0e28f91a1a6f9a28303dcf1df478f9476eacbf7017274533fa4addeb9705b7",
+      "fileSize": 31850
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
