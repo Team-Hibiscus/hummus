@@ -1,13 +1,26 @@
 {
   "enableCreativeModeTabs": false,
+  "creativeTabSidebarTarget": "INDEX",
+  "creativeTabTheme": "SYNCED",
+  "tabAlignment": "STRETCH",
+  "verticalTabsWidth": 28,
+  "verticalTabsHeight": 24,
+  "horizontalTabsWidth": 22,
+  "horizontalTabsHeight": 24,
+  "tabIconSize": 16,
   "syncSelectedCreativeModeTab": false,
   "showCreativeTabNameInSearchbar": false,
+  "switchToSearchTabWhenSearching": false,
   "maxSidebarTabs": 0,
   "disabledCreativeModeTabs": [
     "minecraft:op_blocks"
   ],
   "enableStackGroups": true,
   "enableCreateStackGroupButton": true,
+  "stackGroupsIndex": true,
+  "stackGroupsCraftables": true,
+  "stackGroupsWorkstation": true,
+  "stackGroupsFavorites": false,
   "disabledStackGroups": [
     "minecraft:stairs",
     "minecraft:slabs",
@@ -26,6 +39,7 @@
   },
   "emiOnlyInRecipeBook": false,
   "emiOnlyInRecipeBookState": false,
+  "disableEmiGlobalConfig": false,
   "dragCheatToInventory": true,
   "enableCategorizedTagPages": true,
   "enableEntityTags": true,
@@ -35,6 +49,7 @@
   "showTitleInsteadOfPageNumbers": true,
   "hidePageButtonWhenOnePage": false,
   "incrementalScrollbarFill": false,
+  "verticalScrollbar": false,
   "searchWidgetAlignWithPanel": true,
   "searchWidgetWidth": 0,
   "searchWidgetLeftOffset": 0,
@@ -43,5 +58,9 @@
   "searchWidgetVerticalPadding": 2,
   "searchWidgetSuggestionTextColor": -8355712,
   "searchWidgetTextColor": -1,
-  "searchWidgetUseVanillaTexture": false
+  "searchWidgetUseVanillaTexture": false,
+  "searchById": true,
+  "searchModPrefix": true,
+  "searchTagPrefix": true,
+  "searchTooltipPrefix": true
 }

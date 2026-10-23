@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T07:58:13.146003Z",
-  "totalMixinConfigs": 244,
-  "totalMixins": 3101,
+  "generatedAt": "2026-10-23T03:12:56.131060Z",
+  "totalMixinConfigs": 242,
+  "totalMixins": 3048,
   "blacklistedCount": 12,
   "mixinConfigs": [
     {
@@ -2247,11 +2247,11 @@
     },
     {
       "name": "cropsloverain.mixins.json",
-      "packageName": "io.github.thepoultryman.cropsloverain.mixin",
+      "packageName": "com.toastycarbon.cropsloverain.mixin",
       "priority": 1000,
       "mixins": [
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.BerryBushGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.BerryBushGrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2259,7 +2259,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.CocoaGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.CocoaGrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2267,7 +2267,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.CropGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.CropGrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2275,7 +2275,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.SaplingGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.SaplingGrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2283,7 +2283,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.StemBlockGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.StemBlockGrowthSpeedup",
           "annotations": [
             "@Inject",
             "@ModifyExpressionValue"
@@ -2292,7 +2292,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.SugarCaneGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.SugarCaneGrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2300,7 +2300,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.bamboo.GrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.bamboo.GrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2308,7 +2308,7 @@
           "blacklisted": false
         },
         {
-          "className": "io.github.thepoultryman.cropsloverain.mixin.bamboo.SaplingGrowthSpeedup",
+          "className": "com.toastycarbon.cropsloverain.mixin.bamboo.SaplingGrowthSpeedup",
           "annotations": [
             "@Inject"
           ],
@@ -2330,9 +2330,26 @@
       "pluginClass": "com.thebeyond.mixin.client.ClientMixinConfigPlugin",
       "mixins": [
         {
+          "className": "com.thebeyond.mixin.client.AbstractSoundInstanceAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.thebeyond.mixin.client.CameraAccessor",
           "annotations": [
             "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.CreativeModeInventoryScreenAccessor",
+          "annotations": [
+            "@Accessor",
+            "@Invoker"
           ],
           "side": "common",
           "blacklisted": false
@@ -3661,68 +3678,6 @@
       ]
     },
     {
-      "name": "lithostitched.21.1.mixins.json",
-      "packageName": "dev.worldgen.lithostitched.mixin",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.predicate.RegistryDataLoaderMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.RuinedPortalPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.villager.VillagerTypeMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.BiomeGenerationSettingsAccessor",
-          "annotations": [
-            "@Invoker",
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.JigsawStructureMixin",
-          "annotations": [
-            "@Redirect"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.MobSpawnSettingsAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.SurfaceRulesContextMixin2",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
       "name": "spawn.mixins.json",
       "packageName": "com.ninni.spawn.mixin",
       "priority": 1000,
@@ -4267,121 +4222,6 @@
           "className": "com.ninni.spawn.mixin.client.TurtleRendererMixin",
           "annotations": [
             "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "puddleflood.mixins.json",
-      "packageName": "pigcart.puddleflood.mixin",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "pigcart.puddleflood.mixin.AbstractThrownPotionMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.BlockMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.FlowingFluidMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.LayeredCauldronBlockMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.SnowLayerBlockMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.WaterFluidMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.BreakingBlockEffectMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.sodium.DefaultFluidRendererMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.AbstractWidgetMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.BlockBehaviourMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.BlockStateBaseMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.ClientPacketListenerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.DripParticleMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.client.LiquidBlockRendererMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "pigcart.puddleflood.mixin.iris.IdMapMixin",
-          "annotations": [
-            "@WrapOperation"
           ],
           "side": "client",
           "blacklisted": false
@@ -7772,185 +7612,7 @@
       "priority": 1000,
       "mixins": [
         {
-          "className": "dev.worldgen.lithostitched.mixin.common.compat.terrablender.NoiseBasedChunkGeneratorMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.bandlands.NoiseBasedChunkGeneratorMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.bandlands.SurfaceSystemMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.mnbs.MNBSMixin",
-          "annotations": [
-            "@Redirect"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.mnbs.MNBSPLMixin",
-          "annotations": [
-            "@Redirect"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.mnbs.ParameterListAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.StructurePieceMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.StructureStartMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.EndCityPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.IglooPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.NetherFossilPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.OceanRuinPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.ShipwreckPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.processor.WoodlandMansionPieceMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.floor.FirstFloorMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.floor.SecondFloorMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.floor.ThirdFloorMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.FloorRoomCollectionMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.PiecePlacerMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.WoodlandMansionStructureMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.WoodlandMansionPieceMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.NetherFossilStructureMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.RuinedPortalStructureMixin",
-          "annotations": [
-            "@Redirect"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.template.ShipwreckStructureMixin",
+          "className": "dev.worldgen.lithostitched.mixin.common.BeardifierMixin",
           "annotations": [
             "@WrapOperation"
           ],
@@ -7960,6 +7622,15 @@
         {
           "className": "dev.worldgen.lithostitched.mixin.common.BiomeAccessor",
           "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.BiomeGenerationSettingsAccessor",
+          "annotations": [
+            "@Invoker",
             "@Accessor"
           ],
           "side": "common",
@@ -8014,7 +7685,31 @@
           "blacklisted": false
         },
         {
+          "className": "dev.worldgen.lithostitched.mixin.common.JigsawStructureMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.ListPoolElementAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "dev.worldgen.lithostitched.mixin.common.MappedRegistryAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.MobSpawnSettingsAccessor",
           "annotations": [
             "@Accessor"
           ],
@@ -8041,6 +7736,14 @@
           "className": "dev.worldgen.lithostitched.mixin.common.NoiseBasedChunkGeneratorMixin",
           "annotations": [
             "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.NoiseChunkAccessor",
+          "annotations": [
+            "@Invoker"
           ],
           "side": "common",
           "blacklisted": false
@@ -8073,6 +7776,14 @@
           "className": "dev.worldgen.lithostitched.mixin.common.RandomStateAccessor",
           "annotations": [
             "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.RandomStateMixin",
+          "annotations": [
+            "@Inject"
           ],
           "side": "common",
           "blacklisted": false
@@ -8118,6 +7829,287 @@
         {
           "className": "dev.worldgen.lithostitched.mixin.common.SurfaceRulesContextMixin",
           "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.TreeConfigurationAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.bandlands.NoiseBasedChunkGeneratorMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.bandlands.SurfaceSystemMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.compat.terrablender.NoiseBasedChunkGeneratorMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.density.DensityFunctionsMapAllMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.mnbs.MNBSMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.mnbs.MNBSPLMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.mnbs.ParameterListAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.neoforge.ServerLifecycleHooksMixin",
+          "annotations": [
+            "@ModifyVariable"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.predicate.RegistryDataLoaderMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.DesertPyramidStructureMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.EndCityPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.IglooPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.MineshaftCorridorMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.MineshaftPieceMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.MonsterThroneMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.NetherFossilPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.OceanRuinPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.PortalRoomMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.RuinedPortalPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue",
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.ShipwreckPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.StructurePieceMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.StructureStartMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.WoodlandMansionPieceMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.processor.WoodlandMansionStructureMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.NetherFossilStructureMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.RuinedPortalStructureMixin",
+          "annotations": [
+            "@Redirect"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.ShipwreckStructureMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.FloorRoomCollectionMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.PiecePlacerMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.WoodlandMansionPieceMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.WoodlandMansionStructureMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.floor.FirstFloorMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.floor.SecondFloorMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.template.mansion.floor.ThirdFloorMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "dev.worldgen.lithostitched.mixin.common.villager.VillagerTypeMixin",
+          "annotations": [
+            "@ModifyReturnValue"
+          ],
           "side": "common",
           "blacklisted": false
         },
@@ -8183,7 +8175,31 @@
           "blacklisted": false
         },
         {
+          "className": "com.evandev.remi.mixin.emi.EmiConfigMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.evandev.remi.mixin.emi.EmiIngredientRecipeMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.EmiIngredientSerializersMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.EmiSidebarsMixin",
           "annotations": [
             "@Inject"
           ],
@@ -8199,6 +8215,14 @@
           "blacklisted": false
         },
         {
+          "className": "com.evandev.remi.mixin.emi.ItemEmiStackSerializerMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.evandev.remi.mixin.emi.RegexTagQueryMixin",
           "annotations": [
             "@Inject"
@@ -8207,9 +8231,28 @@
           "blacklisted": false
         },
         {
-          "className": "com.evandev.remi.mixin.emi.TagEmiIngredientMixin",
+          "className": "com.evandev.remi.mixin.emi.SidebarButtonWidgetMixin",
           "annotations": [
             "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.SidebarTypeMixin",
+          "annotations": [
+            "@Invoker",
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.TagEmiIngredientMixin",
+          "annotations": [
+            "@ModifyVariable",
+            "@Inject",
+            "@WrapOperation"
           ],
           "side": "common",
           "blacklisted": false
@@ -8231,10 +8274,26 @@
           "blacklisted": false
         },
         {
+          "className": "com.evandev.remi.mixin.emi.accessor.SizedButtonWidgetAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.evandev.remi.mixin.emi.BoMScreenMixin",
           "annotations": [
             "@Inject",
             "@WrapOperation"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.EmiFavoritesMixin",
+          "annotations": [
+            "@Inject"
           ],
           "side": "client",
           "blacklisted": false
@@ -8251,10 +8310,10 @@
           "className": "com.evandev.remi.mixin.emi.EmiScreenManagerMixin",
           "annotations": [
             "@ModifyVariable",
-            "@Redirect",
-            "@ModifyExpressionValue",
             "@Inject",
-            "@WrapOperation"
+            "@WrapOperation",
+            "@Redirect",
+            "@ModifyExpressionValue"
           ],
           "side": "client",
           "blacklisted": false
@@ -8262,8 +8321,7 @@
         {
           "className": "com.evandev.remi.mixin.emi.EmiScreenManagerScreenSpaceMixin",
           "annotations": [
-            "@Inject",
-            "@Overwrite"
+            "@Inject"
           ],
           "side": "client",
           "blacklisted": false
@@ -8271,9 +8329,18 @@
         {
           "className": "com.evandev.remi.mixin.emi.EmiScreenManagerSidebarPanelMixin",
           "annotations": [
+            "@ModifyVariable",
             "@WrapOperation",
-            "@Inject",
-            "@ModifyVariable"
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.EmiSearchMixin",
+          "annotations": [
+            "@WrapOperation",
+            "@Inject"
           ],
           "side": "client",
           "blacklisted": false
@@ -8311,7 +8378,15 @@
           "blacklisted": false
         },
         {
-          "className": "com.evandev.remi.mixin.minecraft.AbstractContainerScreenAccessor",
+          "className": "com.evandev.remi.mixin.emi.QueryTypeMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.emi.accessor.EmiScreenManagerAccessor",
           "annotations": [
             "@Accessor"
           ],
@@ -8350,6 +8425,23 @@
           ],
           "side": "client",
           "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.minecraft.accessor.AbstractContainerScreenAccessor",
+          "annotations": [
+            "@Accessor",
+            "@Invoker"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.evandev.remi.mixin.minecraft.accessor.SlotWrapperAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
         }
       ]
     },
@@ -8379,678 +8471,6 @@
             "@WrapOperation"
           ],
           "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "owo.mixins.json",
-      "packageName": "io.wispforest.owo.mixin",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "io.wispforest.owo.mixin.CachedRegistryInfoGetterAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ClientConnectionMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ComponentTypeBuilderMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.Copenhagen",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.DataResultMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.DataResultMixin$DataResultErrorMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ForwardingDynamicOpsAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.NbtCompoundMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.PacketByteBufMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.RegistryOpsAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ScreenHandlerInvoker",
-          "annotations": [
-            "@Invoker"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ScreenHandlerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ServerCommonNetworkHandlerAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ServerPlayerEntityMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ServerPlayerInteractionManagerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.SetComponentsLootFunctionAccessor",
-          "annotations": [
-            "@Invoker"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.TagGroupLoaderMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ext.ComponentMapImplAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ext.ComponentMapImplMixin",
-          "annotations": [
-            "@ModifyExpressionValue",
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ext.ItemMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ext.ItemStackMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.ItemGroupAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.ItemMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.ItemSettingsMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.offline.AdvancementProgressAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.offline.PlayerAdvancementTrackerMixin",
-          "annotations": [
-            "@ModifyArg"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.offline.ProgressMapAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.offline.WorldSaveHandlerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.recipe_remainders.CraftingResultSlotMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.recipe_remainders.RecipeManagerMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.registry.ReferenceAccessor",
-          "annotations": [
-            "@Invoker"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.registry.SimpleRegistryMixin",
-          "annotations": [],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.text.LanguageMixin",
-          "annotations": [
-            "@ModifyExpressionValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.text.TextCodecsMixin",
-          "annotations": [
-            "@ModifyVariable"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.tweaks.EulaReaderMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.tweaks.LevelInfoMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.SlotAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.SlotMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.BlockEntityAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.neoforge.NetworkRegistryMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.BufferBuilderAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ScreenAccessor",
-          "annotations": [
-            "@Accessor",
-            "@Invoker"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ClientCommonNetworkHandlerAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ClientConfigurationNetworkHandlerMixin",
-          "annotations": [
-            "@ModifyArg",
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ClientLoginNetworkHandlerAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.DrawContextMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.MinecraftClientMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.AbstractInventoryScreenMixin",
-          "annotations": [
-            "@ModifyVariable"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.CreativeInventoryScreenAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.CreativeInventoryScreenMixin",
-          "annotations": [
-            "@Inject",
-            "@ModifyArg",
-            "@ModifyArgs"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.itemgroup.MixinCreativeInventoryScreenMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.shader.GameRendererMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.shader.ShaderProgramAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.shader.ShaderProgramMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.text.TranslationStorageMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.tweaks.OperatingSystemMixin",
-          "annotations": [
-            "@Overwrite"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.tweaks.TextFieldWidgetMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.ChatScreenMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.ClickableWidgetMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.DrawContextInvoker",
-          "annotations": [
-            "@Invoker",
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.DrawContextMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.EditBoxWidgetMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.EntityRenderDispatcherMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.EntityRendererMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.HandledScreenMixin",
-          "annotations": [
-            "@Inject",
-            "@ModifyVariable"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.MinecraftClientMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.RenderSystemMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.ScreenMixin",
-          "annotations": [
-            "@ModifyExpressionValue",
-            "@ModifyArg"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.SliderWidgetMixin",
-          "annotations": [
-            "@ModifyArg",
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.TessellatorMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.TextFieldWidgetMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.BaseOwoHandledScreenAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.ButtonWidgetAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.CheckboxWidgetAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.ClickableWidgetAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.EditBoxAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.EditBoxWidgetAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.TextBoxComponentAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.access.TextFieldWidgetAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.layers.HandledScreenAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.layers.KeyboardMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.layers.MouseMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.ui.layers.ScreenMixin",
-          "annotations": [],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.neoforge.NetworkRegistryMixin",
-          "annotations": [
-            "@ModifyReturnValue"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.neoforge.ClientConnectionDisconnectHookMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "io.wispforest.owo.mixin.MainMixin",
-          "annotations": [],
-          "side": "server",
           "blacklisted": false
         }
       ]
@@ -11088,14 +10508,6 @@
       "priority": 1000,
       "mixins": [
         {
-          "className": "folk.sisby.surveyor.mixin.MixinFilledMapItem",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
           "className": "folk.sisby.surveyor.mixin.MixinChunkDataSender",
           "annotations": [
             "@Inject"
@@ -11450,6 +10862,21 @@
         },
         {
           "className": "org.anti_ad.mc.ipnext.mixin.MixinClientPacketListener",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        }
+      ]
+    },
+    {
+      "name": "the_beyond_exposure_compat.mixins.json",
+      "packageName": "com.thebeyond.mixin.compat.exposure",
+      "priority": 1000,
+      "mixins": [
+        {
+          "className": "com.thebeyond.mixin.compat.exposure.ExposureDirectCaptureMixin",
           "annotations": [
             "@Inject"
           ],
@@ -17389,6 +16816,14 @@
       "mixins": [
         {
           "className": "com.faboslav.structurify.common.mixin.ChunkGeneratorMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.faboslav.structurify.common.mixin.ChunkGeneratorStructureStateMixin",
           "annotations": [],
           "side": "common",
           "blacklisted": false
@@ -17433,6 +16868,14 @@
         {
           "className": "com.faboslav.structurify.common.mixin.StructureManagerMixin",
           "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.faboslav.structurify.common.mixin.WorldOptionsMixin",
+          "annotations": [
+            "@Inject"
+          ],
           "side": "common",
           "blacklisted": false
         },
@@ -17513,22 +16956,6 @@
           "blacklisted": false
         },
         {
-          "className": "com.faboslav.structurify.common.mixin.structure.jigsaw.compat.RepurposedStructuresGenericJigsawStructureMixin",
-          "annotations": [
-            "@ModifyExpressionValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.faboslav.structurify.common.mixin.structure.jigsaw.compat.YungJigsawStructureMixin",
-          "annotations": [
-            "@ModifyExpressionValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
           "className": "com.faboslav.structurify.common.mixin.structure.placement.RandomSpreadStructurePlacementMixin",
           "annotations": [
             "@ModifyReturnValue",
@@ -17539,15 +16966,6 @@
         },
         {
           "className": "com.faboslav.structurify.common.mixin.structure.placement.StructurePlacementMixin",
-          "annotations": [
-            "@ModifyReturnValue",
-            "@ModifyExpressionValue"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.faboslav.structurify.common.mixin.structure.placement.compat.RepurposedStructuresModifySpreadMixin",
           "annotations": [
             "@ModifyReturnValue",
             "@ModifyExpressionValue"
@@ -17578,6 +16996,12 @@
           "blacklisted": false
         },
         {
+          "className": "com.faboslav.structurify.common.mixin.TabManagerMixin",
+          "annotations": [],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
           "className": "com.faboslav.structurify.common.mixin.WorldOpenFlowsMixin",
           "annotations": [
             "@Inject"
@@ -17594,6 +17018,14 @@
           "blacklisted": false
         },
         {
+          "className": "com.faboslav.structurify.common.mixin.yacl.CategoryTabMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
           "className": "com.faboslav.structurify.common.mixin.yacl.ElementListWidgetExtMixin",
           "annotations": [],
           "side": "client",
@@ -17603,6 +17035,14 @@
           "className": "com.faboslav.structurify.common.mixin.yacl.GroupSeparatorEntryAccessor",
           "annotations": [
             "@Accessor"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.faboslav.structurify.common.mixin.yacl.GroupSeparatorEntryMixin",
+          "annotations": [
+            "@Inject"
           ],
           "side": "client",
           "blacklisted": false
@@ -17623,6 +17063,14 @@
           "className": "com.faboslav.structurify.common.mixin.yacl.OptionListWidgetMixin",
           "annotations": [
             "@Inject"
+          ],
+          "side": "client",
+          "blacklisted": false
+        },
+        {
+          "className": "com.faboslav.structurify.common.mixin.yacl.YACLScreenAccessor",
+          "annotations": [
+            "@Accessor"
           ],
           "side": "client",
           "blacklisted": false
@@ -21823,14 +21271,6 @@
       "priority": 1000,
       "mixins": [
         {
-          "className": "com.thebeyond.mixin.AbstractSoundInstanceAccessor",
-          "annotations": [
-            "@Accessor"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
           "className": "com.thebeyond.mixin.AuroraciteLayerFillMixin",
           "annotations": [
             "@Inject"
@@ -21906,15 +21346,6 @@
           "className": "com.thebeyond.mixin.ClearableWorldgenMixin",
           "annotations": [
             "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "com.thebeyond.mixin.CreativeModeInventoryScreenAccessor",
-          "annotations": [
-            "@Accessor",
-            "@Invoker"
           ],
           "side": "common",
           "blacklisted": false
@@ -22049,6 +21480,60 @@
           "blacklisted": false
         },
         {
+          "className": "com.thebeyond.mixin.EntityBoundsNeighbourhoodMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.EntitySectionNeighbourhoodMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.LivingEntityPushNeighbourhoodMixin",
+          "annotations": [
+            "@WrapOperation"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.LivingEntityCoilClimbMixin",
+          "annotations": [
+            "@Inject"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.PersistentEntitySectionManagerAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.TransientEntitySectionManagerAccessor",
+          "annotations": [
+            "@Accessor"
+          ],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.ServerLevelEntitySectionsMixin",
+          "annotations": [],
+          "side": "common",
+          "blacklisted": false
+        },
+        {
           "className": "com.thebeyond.mixin.LocateCommandMixin",
           "annotations": [
             "@WrapOperation"
@@ -22178,6 +21663,12 @@
             "@Inject"
           ],
           "side": "common",
+          "blacklisted": false
+        },
+        {
+          "className": "com.thebeyond.mixin.client.ClientLevelEntitySectionsMixin",
+          "annotations": [],
+          "side": "client",
           "blacklisted": false
         },
         {
@@ -23275,37 +22766,6 @@
       ]
     },
     {
-      "name": "cloud_tweaks.mixins.json",
-      "packageName": "net.not_thefirst.story_mode_clouds.mixin",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "net.not_thefirst.story_mode_clouds.mixin.ClientWorldMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "net.not_thefirst.story_mode_clouds.mixin.LevelRendererMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        },
-        {
-          "className": "net.not_thefirst.story_mode_clouds.mixin.ClientMixin",
-          "annotations": [
-            "@Inject"
-          ],
-          "side": "client",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
       "name": "paxi_neoforge.mixins.json",
       "packageName": "com.yungnickyoung.minecraft.paxi.mixin",
       "priority": 1000,
@@ -23504,29 +22964,6 @@
           "className": "com.thebeyond.isleweaver.mixin.phantasm.ModGameEventsMixin",
           "annotations": [
             "@Inject"
-          ],
-          "side": "common",
-          "blacklisted": false
-        }
-      ]
-    },
-    {
-      "name": "lithostitched.neoforge.mixins.json",
-      "packageName": "dev.worldgen.lithostitched.mixin",
-      "priority": 1000,
-      "mixins": [
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.BeardifierMixin",
-          "annotations": [
-            "@WrapOperation"
-          ],
-          "side": "common",
-          "blacklisted": false
-        },
-        {
-          "className": "dev.worldgen.lithostitched.mixin.common.ServerLifecycleHooksMixin",
-          "annotations": [
-            "@ModifyVariable"
           ],
           "side": "common",
           "blacklisted": false
