@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -70,7 +70,7 @@
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "cccd2b50bb8b6cc92360c1c2847fc558959d4323"
+      "sha1": "25e5383a35b0a4e0c0d76e99a40d9dbd300badba"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -146,7 +146,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "d67528e1e967717d6b27606e3b55482b8c9b5ee2"
+      "sha1": "29e490e2f0d442ebf6b0ec2a8c7f4c446e5757d5"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -171,6 +171,10 @@
     {
       "path": "content/mods/every-compat.json",
       "sha1": "dedf0d7ec47073a74dc52f7b883681070e77d222"
+    },
+    {
+      "path": "content/mods/extra-mod-integrations.json",
+      "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -263,10 +267,6 @@
     {
       "path": "content/mods/isleweaver.json",
       "sha1": "e2da739b908a9df4386d4311321b27aa7309a403"
-    },
-    {
-      "path": "content/mods/item-obliterator.json",
-      "sha1": "e1011e7f797e235b1c4369a374433eb501b6fa1d"
     },
     {
       "path": "content/mods/jade.json",
@@ -365,10 +365,6 @@
       "sha1": "7976d5e0556b0ad3b2ee1bb991f94d47d1e23f19"
     },
     {
-      "path": "content/mods/necronomicon.json",
-      "sha1": "0953b54dfaf50fa8156ba5270e7e128c2b3aa1dc"
-    },
-    {
       "path": "content/mods/no-f3.json",
       "sha1": "f6279a12553c4969114ee3da0e65466846463bac"
     },
@@ -419,6 +415,14 @@
     {
       "path": "content/mods/reliable-emi.json",
       "sha1": "4a11351de2a78646c55509cc7fcf922bd49b6c27"
+    },
+    {
+      "path": "content/mods/reliable-recipes.json",
+      "sha1": "ffc0a249e50bc08081afe72dde9c8d415541928f"
+    },
+    {
+      "path": "content/mods/reliable-remover.json",
+      "sha1": "576c756c1deb526068cca348cef31ab7510ed791"
     },
     {
       "path": "content/mods/relocate.json",
@@ -509,16 +513,12 @@
       "sha1": "578519c63d4e5c87fff5930f011d96835c2eec0f"
     },
     {
-      "path": "content/mods/visual-creative-tab-editor.json",
-      "sha1": "e64e6ccc5a2357187a86f6028babd712e210e9cd"
-    },
-    {
       "path": "content/mods/what-are-they-up-to.json",
       "sha1": "5fe1c1560d32efcf5ee9d3c0a21a600aa6f7261a"
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "d24f5f5495ed2936cd07ff677854fc0eb611e260"
+      "sha1": "3a0083286873f631abca437acc0d3be2a1e0db97"
     },
     {
       "path": "content/mods/yungs-api.json",
@@ -598,7 +598,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
+      "sha1": "06768a7177f39772cea6f0c8acf528a9eb009838"
     },
     {
       "path": "overrides/config/caelum-client.toml",
@@ -674,7 +674,7 @@
     },
     {
       "path": "overrides/config/emi.css",
-      "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
+      "sha1": "443472dd544ffacd3a96c8466be869afb52b4a4b"
     },
     {
       "path": "overrides/config/emi_discovery.toml",
@@ -826,7 +826,7 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -945,10 +945,6 @@
       "sha1": "a2852b430ddea769695b87f1d826299a10e6c99e"
     },
     {
-      "path": "overrides/config/item_obliterator.json5",
-      "sha1": "c078934f03067c498b5d0bd30ce0226b319236e7"
-    },
-    {
       "path": "overrides/config/jade/hide-blocks.json",
       "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9"
     },
@@ -1010,7 +1006,7 @@
     },
     {
       "path": "overrides/config/mcqoy.toml",
-      "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
+      "sha1": "c4caac89f0d23837b92e88a06f7d53bafd803c9c"
     },
     {
       "path": "overrides/config/midnightlib.json",
@@ -1126,7 +1122,7 @@
     },
     {
       "path": "overrides/config/particular-common.toml",
-      "sha1": "4897077ac4452134e5c50b3b208afd6a04c56dd5"
+      "sha1": "8986d8e750448154e980b7b368dda97b055dd528"
     },
     {
       "path": "overrides/config/paxi-neoforge-1_21.toml",
@@ -1437,76 +1433,356 @@
       "sha1": "23242ac62a07ebe78d856e714b0079931387be6e"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/black_ash_bricks.json",
+      "sha1": "59b13fc43d3430c903302a74a08467beeaee2815"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/black_bricks.json",
+      "sha1": "6b3abe19f93676d6a9a0b27b6195b2fccf0346ec"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/black_soul_ash_bricks.json",
+      "sha1": "c2fd562d6803e50c9cc7409243d9cc29463204c9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/blue_bricks.json",
+      "sha1": "f001406623644361ce3f975aa412b242ddfbef7e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/brown_bricks.json",
+      "sha1": "1c46e3e2db63e4aa7fab65993d6d41f064db4e77"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_algal_bricks.json",
+      "sha1": "609a433a770f129eee46e344f73c5c5dd7909999"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_purpur_block.json",
       "sha1": "a9fabd5100985a76f110b4c5cac64309a335146c"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_purpur_brick_wall.json",
-      "sha1": "1a2e4b99f9e445cc1b834d574a6343575472c8ec"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/charred_nether_bricks.json",
+      "sha1": "a355e4c33d4f8cb29cf7d075d5dbf557eecc5ab9"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_purpur_brick_wall_stonecutting.json",
-      "sha1": "0e2ec9a4d579641912bc23c79df23f7f0c4f6934"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cream_bricks.json",
+      "sha1": "4960ce7ff4348179c5bb5131999eeabe9f572a2a"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_soul_purpur_brick_wall.json",
-      "sha1": "6c00b3350362a7acd27770a8423611ede6aa186a"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/algal_tiles.json",
+      "sha1": "c8b8296bad182442c9e12b36e44fd6c47016fd29"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/burnt_soul_purpur_brick_wall_stonecutting.json",
-      "sha1": "310a06056cf359c158cc861a5d9453e5e3c27787"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/ash_tiles.json",
+      "sha1": "007fbdf8c706bf1ec91099eada52302043409dc8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/black_ash_bricks.json",
+      "sha1": "c9a90df32908ac451ff5d37a8987e83ed45aa86f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/black_ash_tiles.json",
+      "sha1": "e7e3c711381b94cf42427d2612c7318ff946150f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/black_bricks.json",
+      "sha1": "1898b369c833692c43363b89f4df250615041e20"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/black_soul_ash_bricks.json",
+      "sha1": "7dc9426a60c92ddff4266ffd36711681fd8f65da"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/black_soul_ash_tiles.json",
+      "sha1": "158677cc9dcb5ff24ae2b07f3d6cf1beb552ccfb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/black_tiles.json",
+      "sha1": "96bcd329b422e41253efd18cc0ead9c12a4d0791"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/blue_bricks.json",
+      "sha1": "8d0d04d4bad1b17081319177172c6b535feab22e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/blue_tiles.json",
+      "sha1": "56a8529dd3d3871ebe0ddf7398e41f8486b864b5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/brick_tiles.json",
+      "sha1": "4a8614ea21e871af6e998cf5b7d9dca26ae66374"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/brown_bricks.json",
+      "sha1": "ce6c196922705a9a3e8d267ceac30d293930814c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/brown_tiles.json",
+      "sha1": "b2c8c89c2b336ab40b1daf1ce4c38af279d20aca"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/burnt_algal_bricks.json",
+      "sha1": "ff55c879b5825c462308513d18dbcf7073d733aa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/burnt_algal_tiles.json",
+      "sha1": "85b844d317017a1dfa765e4b1a7ea544ca6475da"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/burnt_soul_algal_bricks.json",
+      "sha1": "75ea61f14faf054b6906e085058fea5834703ada"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/burnt_soul_algal_tiles.json",
+      "sha1": "a63a19e210cd823480a08e4aa68429a61c1c40a0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/charred_nether_bricks.json",
+      "sha1": "77363f4a7735634ff03f7c117b61e5dc04fd2a6c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/charred_nether_tiles.json",
+      "sha1": "74bbfa7ba993a3b6425ffb5ce88ffcbb5964567d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/charred_soul_nether_bricks.json",
+      "sha1": "307cd55c155a2a6c95890f9aab60dbdc07c6f48d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/charred_soul_nether_tiles.json",
+      "sha1": "ad269562d2cfea0e94507afba1f823969a1f9aeb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/cream_bricks.json",
+      "sha1": "016957441742a7b1e851a81e4677b9f99f7cf429"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/cream_tiles.json",
+      "sha1": "c590d58678065acec0ea03d32e4b4ef658b23345"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/gray_ash_bricks.json",
+      "sha1": "369e6816ba1d41b2ead2e281de23d79724e4bbfb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/gray_ash_tiles.json",
+      "sha1": "398e6c503a606801f3da7e8e0eb9f206802986e6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/gray_bricks.json",
+      "sha1": "e29555e62a1ed8e5fd516fae74ef8f6c96dd5ec7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/gray_soul_ash_bricks.json",
+      "sha1": "545a9756906d6c64d91181a8e5fa7078e966ae74"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/gray_soul_ash_tiles.json",
+      "sha1": "d9908e5e6c193870ed9564bee0ddead3397dc4f6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/gray_tiles.json",
+      "sha1": "b9426227dc679b069d20c3108c520abf4b4c936b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_algal_bricks.json",
+      "sha1": "73e776b783974d2c8727c05269cef0195cc24e4e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_algal_tiles.json",
+      "sha1": "004eb37cf235986bdc25850adb010be68c214ae3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_nether_bricks.json",
+      "sha1": "209eb29a525e7c552f8ab7215e9376c78445bab1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_nether_tiles.json",
+      "sha1": "bf1a579e7fb7cc5665bc68c09990c818c0069d18"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_soul_algal_bricks.json",
+      "sha1": "217e643500da7e0dbae2e44cf0d39106074a16d5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_soul_algal_tiles.json",
+      "sha1": "326a1191164145511cceef7849f1a0174e5e0519"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_soul_nether_bricks.json",
+      "sha1": "c507ce4d35a96d2758114497a633cfb39004528a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/light_soul_nether_tiles.json",
+      "sha1": "93b440b76e7f4e55ab1a999d562264a2d795fa98"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/nether_tiles.json",
+      "sha1": "9ba22f22ccabbe8f2a1e0c6aa41c1f944aa14c14"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/orange_bricks.json",
+      "sha1": "b3e8c4408795c49e50b1cdc5681ddfc267732a9a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/orange_tiles.json",
+      "sha1": "6ec9c81a0695005192a1cc93680f22f7dcbf890a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_algal_bricks.json",
+      "sha1": "40a6674d573213318b8002988ca974bd41f4e0bd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_algal_tiles.json",
+      "sha1": "cb941bc27d30f48d717230fbe96bacba73389cdd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_nether_bricks.json",
+      "sha1": "01507f984ce85609aa5a018aed4aac30c42f751b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_nether_tiles.json",
+      "sha1": "951d17d7c6398298b6db120356073fe3450ffc56"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_soul_algal_bricks.json",
+      "sha1": "c8b7aaf4d09816bdf9e165c7ad42da9056a5746c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_soul_algal_tiles.json",
+      "sha1": "ea592a69fbf0504441d41a61a729bdb47d954482"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_soul_nether_bricks.json",
+      "sha1": "ea52a7d4db56421f3e416be51fbfd7b64ffdd124"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/raw_soul_nether_tiles.json",
+      "sha1": "7c278e6e1435bea78abc1b8c51cd0b7d6439397c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/soul_algal_bricks.json",
+      "sha1": "72bb606f0ae237b4e0f49f9cac706636722e602e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/soul_algal_tiles.json",
+      "sha1": "5c3674a8c75f4c0d1ece819d2025b5bd95c61056"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/soul_ash_bricks.json",
+      "sha1": "e0ffa0bc0d7868fd9b78effc3c8c624b6d21b00d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/soul_ash_tiles.json",
+      "sha1": "5936737449bb56ef7dca2ef900c3e575b335aa88"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/soul_nether_bricks.json",
+      "sha1": "1381b1dbeade2a741e3f63ecd9f8207ae41e341f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/soul_nether_tiles.json",
+      "sha1": "d805b9be66ff82977637bfc09847648f2d4c72d0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/tan_bricks.json",
+      "sha1": "1e4a90bfebc605be41f493674cffff79c3ec2155"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/tan_tiles.json",
+      "sha1": "345a0dde4f36cba91c47835d3e4ef27437eeca38"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/white_ash_bricks.json",
+      "sha1": "969457a637ea86546eb829423a745141cca021a6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/white_ash_tiles.json",
+      "sha1": "3e889c69f8844d473975a9f6c91547256591cb96"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/white_soul_ash_bricks.json",
+      "sha1": "148479312b1c021d308bcf1bece850de506e2231"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/cutting/white_soul_ash_tiles.json",
+      "sha1": "bcbbecc89b347c98f2f7f0cbf412ec8f2c3bb1ef"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/gray_ash_bricks.json",
+      "sha1": "01d95a9c4d5dff6ccddfccdfa6d261f3c0c57d00"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/gray_bricks.json",
+      "sha1": "f4c6f56b38579a7388c57f4e29019bb33936c56b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/gray_soul_ash_bricks.json",
+      "sha1": "f0bcb99973dcf8f1c5436d52fe31ee95face03de"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_algal_bricks.json",
+      "sha1": "3c2d9cb98398fd9fd23b1307772d4ddf742ebfde"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_nether_bricks.json",
+      "sha1": "1f181c4fb1343fe36af810df91f737ab56a63255"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_purpur_block.json",
       "sha1": "7fcc6a18aed886fdc7062a136d1262c885e6f1a5"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_purpur_brick_wall.json",
-      "sha1": "a4faf143c6d006a1e52f4c63d32c3f5e09dfe124"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_soul_algal_bricks.json",
+      "sha1": "30d68f556524152338edfe7aa167f8be836da423"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_purpur_brick_wall_stonecutting.json",
-      "sha1": "b4dac0d554aff7bb96e565056b0638c27499f838"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_soul_nether_bricks.json",
+      "sha1": "6f17f1396dea965320d0452c9eaefdbbd6efae36"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_soul_purpur_brick_wall.json",
-      "sha1": "8e39e236cd17b1460ad71a68acb88842a94a94c2"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/orange_bricks.json",
+      "sha1": "6448186ca602a0b23619c8b0893b6494b65c97e3"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/light_soul_purpur_brick_wall_stonecutting.json",
-      "sha1": "af8aa84c75d7a4980019f8e42553e625ebadf35b"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_algal_bricks.json",
+      "sha1": "e4697346e3e55b13dae723a7fd58d27291a28809"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/purpur_brick_wall.json",
-      "sha1": "2aaf54e0e368ea5d8848cf0adaefad56bb1ac59d"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_nether_bricks.json",
+      "sha1": "2a0f9a11fb797cfab05ae913f0f5845fc7dd5d99"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/purpur_brick_wall_stonecutting.json",
-      "sha1": "68835c92ab1ebad9755751b949cb8110095565c8"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_soul_algal_bricks.json",
+      "sha1": "3c3558bb5a1646f2522cd08e89f04cb14e411abb"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_purpur_brick_wall.json",
-      "sha1": "bcbcf519a7e4f101e2855dceca72b817f35c9483"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_soul_nether_bricks.json",
+      "sha1": "707c0745e99dab3dab1d8fd02dce5621b58a5c02"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_purpur_brick_wall_stonecutting.json",
-      "sha1": "ccc36cf71b4dc7ec5a9f197e1efce6e6858881e1"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/soul_algal_bricks.json",
+      "sha1": "dbb9b9baca4a80c30d5ca39e8e3c0450c726c46c"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_soul_purpur_brick_wall.json",
-      "sha1": "a34dc5a423b8fc03063ec983210ebc3a20e20a3e"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/soul_ash_bricks.json",
+      "sha1": "3bb7a6870629f9511b045b3cd2520401502e1999"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/raw_soul_purpur_brick_wall_stonecutting.json",
-      "sha1": "f278904ef1fcf494b8cef47703899273d817e3f0"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/soul_nether_bricks.json",
+      "sha1": "35fa29996b3b3fd187fe3f711b735d2454f70dfb"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/soul_purpur_brick_wall.json",
-      "sha1": "fdd809f80e3071a27b5f61ce12ae183d5ae183a4"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/tan_bricks.json",
+      "sha1": "d796346b3b1855ea1bc5f52e635cbff29d34f13b"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/soul_purpur_brick_wall_stonecutting.json",
-      "sha1": "aae352e2b4d1c525b544bf31295de1ee0377ee58"
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/white_ash_bricks.json",
+      "sha1": "acf18c4cdefb41cc3c9815d65f7388f9bcccd908"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/brick_and_mortar/recipe/white_soul_ash_bricks.json",
+      "sha1": "7eb3c5fce058037f3706cd8b7b7653e932d6b17d"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/clutternomore/tags/item/shape_map_blacklist.json",
@@ -1835,10 +2111,6 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/hopper.json",
       "sha1": "01f3f9e8c1fd8e8695adcf08a8d20f89d5779c8e"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/iron_ingot_from_smelting_raw_iron.json",
-      "sha1": "a5c3590c9fcb5025c4062f60a9626e34c777b4af"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/light_blue_bed.json",
@@ -4647,6 +4919,22 @@
     {
       "path": "overrides/config/reliable_advancements_layout.json",
       "sha1": "18e2b63b54cca0427a40f1b4d36b37e10d2bc7fc"
+    },
+    {
+      "path": "overrides/config/reliable_recipes.json",
+      "sha1": "e5aac16ed27fb9595de76cdd20e25a9e223152b2"
+    },
+    {
+      "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
+      "sha1": "d82ebcadb5085e4d1f8da80b811d21b3b6ce1d9c"
+    },
+    {
+      "path": "overrides/config/reliable_remover.json",
+      "sha1": "89178df4f58ef3f4f8dbd8a5510535de188fe82e"
+    },
+    {
+      "path": "overrides/config/reliable_remover/removals.json",
+      "sha1": "24402402ec9fcdc8b376f53b8031f4c2904dc4d7"
     },
     {
       "path": "overrides/config/remi/remi.json",

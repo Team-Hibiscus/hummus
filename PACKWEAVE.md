@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 114 mods (19 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 115 mods (18 dependencies)
 
 ## Contents
 
@@ -17,7 +17,7 @@
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.3.1-1.21.1-neoforge`
 - [Bundle Backport-ish](https://modrinth.com/project/bundle-backportish) `1.1.4+mc1.21.1`
 - [Caelum](https://modrinth.com/project/caelum) `3.0.0.6`
-- [Clutter No More](https://modrinth.com/project/clutternomore) `2.0.7+1.21.1-neoforge`
+- [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
@@ -33,6 +33,7 @@
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `3.10.0`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
+- [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [EMIDiscovery](https://modrinth.com/project/emi-discovery) `2.1.0+1.21.1`
 - [Emojiful](https://modrinth.com/project/emojiful) `1.21-5.2.4`
@@ -62,7 +63,6 @@
 - [Inventory Profiles Next](https://modrinth.com/project/inventory-profiles-next) `neoforge-1.21.1-2.2.5`
 - [Inventory Storages](https://modrinth.com/project/inventory-storages) `1.0.0`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
-- [Item Obliterator](https://modrinth.com/project/item-obliterator) `2.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [Jaden's Nether Expansion](https://modrinth.com/project/jadens-nether-expansion) `2.4.1`
 - [Jaden's Nether Expansion Delight](https://modrinth.com/project/jadens-nether-expansion-delight) `1.21.1-1.0.4a-neoforge`
@@ -94,6 +94,8 @@
 - [Re-Locate](https://modrinth.com/project/relocate) `1.2.0`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `4.1.2-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.7.1+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.1+1.21.1-neoforge`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
 - [Selas](https://modrinth.com/project/selas) `0.1.3`
@@ -114,7 +116,6 @@
 - [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.3b-InDev`
 - [Twohanded Engine](https://modrinth.com/project/twohanded-engine) `1.0.2`
 - [Useful Spyglass](https://modrinth.com/project/useful-spyglass) `1.0.2`
-- [Visual Creative Tab Editor](https://modrinth.com/project/visual-creative-tab-editor) `2.2.0+mc1.21.1-neoforge`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [You've Goat to be Kidding Me](https://modrinth.com/project/goated) `neoforge_1.21-1.4.3`
 - [Zeta](https://modrinth.com/project/zeta) `1.1-40`
