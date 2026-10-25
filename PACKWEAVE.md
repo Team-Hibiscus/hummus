@@ -80,7 +80,7 @@
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.5+1.21.1-neoforge`
 - [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.2-1.21.1`
-- [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.3.1-1.21.1`
+- [Nature's Spirit](https://modrinth.com/project/natures-spirit) `2.3.2-1.21.1`
 - [no f3](https://modrinth.com/project/no-f3) `4+mod`
 - [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`

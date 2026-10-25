@@ -72,3 +72,6 @@ config/visual_loot_edit/blacklists.json
 config/visual_loot_edit/pack.mcmeta
 /emi.json
 figura/
+overrides/config/iris.properties
+overrides/config/fabric/indigo-renderer.properties
+overrides/config/mixinhelper-report.json
