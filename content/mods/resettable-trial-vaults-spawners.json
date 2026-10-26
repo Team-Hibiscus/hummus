@@ -1,0 +1,23 @@
+{
+  "name": "Resettable Trial Vaults & Spawners",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bUTHehjH",
+      "slug": "resettable-trial-vaults-spawners",
+      "versionId": "rh8FCYEF",
+      "versionNumber": "1.1.0",
+      "filename": "resettable_trial_chambers-1.1.0-neoforge-1.21.0(1).jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bUTHehjH/versions/rh8FCYEF/resettable_trial_chambers-1.1.0-neoforge-1.21.0%281%29.jar",
+      "sha1": "27d15bf1f5cf8a51f9e8b090ddd3e3b44b9c7693",
+      "sha512": "101d33a59ba98ad948d6b93d2a6074ca4db4bd6739d69d645ab7a1e49ca61926edabb6dc255cd22746b29c57e5ea1170c5965c025f646a1947b82eb49b1f45bc",
+      "fileSize": 195259
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

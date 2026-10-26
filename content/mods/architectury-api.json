@@ -18,8 +18,7 @@
     }
   },
   "dependents": [
-    "WuGVWUF2",
-    "lg1TPRFm"
+    "WuGVWUF2"
   ],
   "clientSide": "required",
   "serverSide": "required"

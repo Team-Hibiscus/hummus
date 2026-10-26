@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/amendments.json",
@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "00433e0e98ff8c84616e3a4e84a9f96a3b54050e"
+      "sha1": "f76089a70cf7ff2c3ed66f91d0dda2822a9aaed4"
     },
     {
       "path": "content/mods/audaki-cart-engine.json",
@@ -46,7 +46,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "fb05e8dce17d965d34ca3d45beb48553f489ae3c"
+      "sha1": "d536e0638423adb765a4ed57617e7fededbf3ce8"
     },
     {
       "path": "content/mods/brick-and-mortar.json",
@@ -69,6 +69,10 @@
       "sha1": "4a64a198ff66810be5f75a3d76d9c159ae55b3ba"
     },
     {
+      "path": "content/mods/cloud_tweaks.json",
+      "sha1": "c4b4f44a5e549d3a39cb84ba02973fbb385f9de4"
+    },
+    {
       "path": "content/mods/clutter-no-more.json",
       "sha1": "25e5383a35b0a4e0c0d76e99a40d9dbd300badba"
     },
@@ -83,6 +87,10 @@
     {
       "path": "content/mods/coroutil.json",
       "sha1": "d51bcebe04afbcc82bcc4d247b227c39d21f70fb"
+    },
+    {
+      "path": "content/mods/crafty-hands.json",
+      "sha1": "c49e7a869cf685ce37cd232cba2a82c85abf11c4"
     },
     {
       "path": "content/mods/crops-love-rain.json",
@@ -189,6 +197,10 @@
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
+      "path": "content/mods/fintastic.json",
+      "sha1": "403a873338ca9fbae383d9b101c36fce7984e0c8"
+    },
+    {
       "path": "content/mods/fog.json",
       "sha1": "dfcc78bac4deb5e4bf9f355ead5bfdf3f24bfd71"
     },
@@ -211,10 +223,6 @@
     {
       "path": "content/mods/galosphere.json",
       "sha1": "796ce09413f7dbf9c9672f5c439139853cec09db"
-    },
-    {
-      "path": "content/mods/gardens-of-the-dead.json",
-      "sha1": "ccd6af0f87c7f48e2b5d0cc86913bc4a5762abf8"
     },
     {
       "path": "content/mods/geckolib.json",
@@ -306,7 +314,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "f5b34035200705a7288fdd67ed7c0ccfb028a469"
+      "sha1": "39a7668b56bc49b6b892d1989bbeafda578b8922"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -362,7 +370,7 @@
     },
     {
       "path": "content/mods/natures-spirit.json",
-      "sha1": "7976d5e0556b0ad3b2ee1bb991f94d47d1e23f19"
+      "sha1": "ded396fe32da8032ec690de2f6fb8a8fd6ce759e"
     },
     {
       "path": "content/mods/no-f3.json",
@@ -427,6 +435,10 @@
     {
       "path": "content/mods/relocate.json",
       "sha1": "01744df1597c5d9aba0166bbee03d2fe94edc46d"
+    },
+    {
+      "path": "content/mods/resettable-trial-vaults-spawners.json",
+      "sha1": "9491ed682863341fd05aa7cc594009b138211fbd"
     },
     {
       "path": "content/mods/retro-vibes.json",
@@ -598,7 +610,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "06768a7177f39772cea6f0c8acf528a9eb009838"
+      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
     },
     {
       "path": "overrides/config/caelum-client.toml",
@@ -615,6 +627,34 @@
     {
       "path": "overrides/config/cardinal-components-api.properties",
       "sha1": "0034d877ec2ea3155efaf54db8549db1e094f003"
+    },
+    {
+      "path": "overrides/config/cloud_configs.json",
+      "sha1": "59606bebb343d419fd1460e169f2a4cf999e4739"
+    },
+    {
+      "path": "overrides/config/cloud_presets/colors/default.json",
+      "sha1": "766de8d7d0e37a504bd08bb7d7d1dd125692f36c"
+    },
+    {
+      "path": "overrides/config/cloud_presets/colors/presets.json",
+      "sha1": "429f8134178b1528241851e5684c430a63abfd95"
+    },
+    {
+      "path": "overrides/config/cloud_presets/light_sources/default.json",
+      "sha1": "de20474eca182b6f629c830cc0fa75026ddd0048"
+    },
+    {
+      "path": "overrides/config/cloud_presets/light_sources/presets.json",
+      "sha1": "ab12cb2996e0f53b974925edc1de693c2ea20b40"
+    },
+    {
+      "path": "overrides/config/cloud_presets/lighting/default.json",
+      "sha1": "17d81739ac21a647e5e94f5db1db512aa19146c8"
+    },
+    {
+      "path": "overrides/config/cloud_presets/lighting/presets.json",
+      "sha1": "a62be83a1cf409f56d8f277d5392670710a8caec"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -718,7 +758,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "6373e79e373aecb9fb975642fecf2dfc1bf89165"
+      "sha1": "f3288a1ae2cd64e79f444d325a619cc9148e6cbd"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -825,8 +865,12 @@
       "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
     },
     {
+      "path": "overrides/config/fintastic.toml",
+      "sha1": "95f00b521f295acf5c75a2b216b3b6408171e106"
+    },
+    {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
+      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -998,7 +1042,7 @@
     },
     {
       "path": "overrides/config/lithostitched.json",
-      "sha1": "9ae03c2dafdba47d9518aae1865d20e5abadbe03"
+      "sha1": "f6edbf678a085652ce6d37117f4099a1dd7b4c03"
     },
     {
       "path": "overrides/config/lodestone-client.toml",
@@ -1006,7 +1050,7 @@
     },
     {
       "path": "overrides/config/mcqoy.toml",
-      "sha1": "c4caac89f0d23837b92e88a06f7d53bafd803c9c"
+      "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
     },
     {
       "path": "overrides/config/midnightlib.json",
@@ -1082,7 +1126,7 @@
     },
     {
       "path": "overrides/config/natures_spirit-common.toml",
-      "sha1": "ffc264ba847c462899128921bae50be94abc9855"
+      "sha1": "54d3d6d291de25700dc33e6b08e834d50211d6a9"
     },
     {
       "path": "overrides/config/necronomicon.json5",
@@ -1118,7 +1162,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "29c0d577420682e5ffa5548a1678382411ec1a76"
+      "sha1": "4c877a4e6765d036153a2f9ea93d16a89f612060"
     },
     {
       "path": "overrides/config/particular-common.toml",
@@ -4918,7 +4962,7 @@
     },
     {
       "path": "overrides/config/reliable_advancements_layout.json",
-      "sha1": "18e2b63b54cca0427a40f1b4d36b37e10d2bc7fc"
+      "sha1": "ce82843b7b70e6d626e3a8fb60387da604722a1b"
     },
     {
       "path": "overrides/config/reliable_recipes.json",
@@ -4982,7 +5026,7 @@
     },
     {
       "path": "overrides/config/scalablelux.properties",
-      "sha1": "b606e07eb9e153dfb7273184568640bba59672b1"
+      "sha1": "6e68b5ab2eaba0f3069f05b085e646c67311edfd"
     },
     {
       "path": "overrides/config/selas-client.toml",
@@ -5130,7 +5174,7 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.7.jar",
-      "sha1": "ce00f281e311ee74f98dc5cd983235f3a7b011ac"
+      "sha1": "8644fcd865f283b0a447378f45684d2da16b240c"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

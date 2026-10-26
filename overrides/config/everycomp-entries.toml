@@ -1,14 +1,7 @@
-		[types.wood_type.darkerdepths]
-			petrified = true
-
 		[types.wood_type.enderscape]
 			veiled = true
 			celestial = true
 			murublight = true
-
-		[types.wood_type.gardens_of_the_dead]
-			whistlecane = true
-			soulblight = true
 
 		[types.wood_type.natures_spirit]
 			redwood = true
@@ -29,10 +22,6 @@
 			mahogany = true
 			saxaul = true
 
-		[types.wood_type.spawn]
-			rotten = true
-			date = true
-
 		[types.wood_type.netherexp]
 			claret = true
 
@@ -43,6 +32,13 @@
 			azalea = true
 			ancient = true
 			blossom = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
+
+		[types.wood_type.darkerdepths]
+			petrified = true
 
 		[types.leaves_type.galosphere]
 			opal = true
@@ -79,9 +75,6 @@
 			mahogany = true
 			saxaul = true
 
-		[types.leaves_type.spawn]
-			date = true
-
 		[types.leaves_type.architects_palette]
 			twisted = true
 
@@ -93,14 +86,14 @@
 			yellow_blossom = true
 			red_blossom = true
 
+		[types.leaves_type.spawn]
+			date = true
+
 		[types.cake.natures_spirit]
 			cheese_block = true
 
 		[types.lantern.architects_palette]
 			nether_brass_lantern = true
-
-		[types.lantern.darkerdepths]
-			glowshroom_lantern = true
 
 		[types.lantern.enderscape]
 			bulb_lantern = true
@@ -131,6 +124,9 @@
 			copper_lantern = true
 			brass_lantern = true
 			crimson_lantern = true
+
+		[types.lantern.darkerdepths]
+			glowshroom_lantern = true
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true

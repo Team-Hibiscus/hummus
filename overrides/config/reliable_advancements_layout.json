@@ -1203,6 +1203,462 @@
     "farmersdelight:main/root": [
       0,
       101
+    ],
+    "quark:content/get_all_corundum": [
+      128,
+      148
+    ],
+    "quark:content/apply_color_rune": [
+      224,
+      67
+    ],
+    "quark:content/wear_full_rainbow": [
+      256,
+      67
+    ],
+    "crafty_hands:main/dont_do_that": [
+      32,
+      1134
+    ],
+    "quark:content/pathfinder_map_center": [
+      64,
+      972
+    ],
+    "quark:content/get_bottled_cloud": [
+      32,
+      459
+    ],
+    "quark:content/get_own_head": [
+      64,
+      729
+    ],
+    "quark:content/get_forgotten_hat": [
+      64,
+      810
+    ],
+    "quark:content/ancient_apple_overlevel": [
+      64,
+      945
+    ],
+    "quark:content/poison_baby": [
+      64,
+      553
+    ],
+    "quark:content/throw_parrot_egg": [
+      64,
+      580
+    ],
+    "quark:content/shiba_help": [
+      64,
+      337
+    ],
+    "netherexp:nether/soul_sand_valley/soul_sand_valley": [
+      32,
+      698
+    ],
+    "netherexp:nether/soul_sand_valley/ghost_mucus": [
+      64,
+      783
+    ],
+    "netherexp:nether/soul_sand_valley/frightening_rush": [
+      64,
+      715
+    ],
+    "netherexp:nether/soul_sand_valley/haunt_your_own_house": [
+      96,
+      702
+    ],
+    "netherexp:nether/soul_sand_valley/exorcism": [
+      96,
+      783
+    ],
+    "netherexp:nether/soul_sand_valley/ssv_sub_biomes": [
+      64,
+      810
+    ],
+    "netherexp:nether/add_spores_to_block": [
+      32,
+      276
+    ],
+    "netherexp:nether/soul_sand_valley/emf_raider": [
+      64,
+      587
+    ],
+    "netherexp:nether/soul_sand_valley/rodeo_stampede": [
+      128,
+      769
+    ],
+    "netherexp:nether/pizza_hunt": [
+      64,
+      526
+    ],
+    "netherexp:nether/brain_food": [
+      96,
+      121
+    ],
+    "netherexp:nether/soul_sand_valley/rattling_remnants": [
+      64,
+      661
+    ],
+    "netherexp:nether/soul_sand_valley/a_ruperts_drop": [
+      96,
+      729
+    ],
+    "netherexp:nether/soul_sand_valley/blind_shot": [
+      128,
+      715
+    ],
+    "netherexp:nether/soul_sand_valley/involuntary_eviction": [
+      96,
+      675
+    ],
+    "netherexp:nether/soul_sand_valley/99_blue_balloons": [
+      128,
+      796
+    ],
+    "netherexp:nether/soul_sand_valley/enter_soul_glass": [
+      128,
+      742
+    ],
+    "netherexp:nether/soul_sand_valley/ghosts_busted": [
+      160,
+      796
+    ],
+    "netherexp:nether/soul_sand_valley/occult_manor": [
+      96,
+      587
+    ],
+    "netherexp:nether/soul_sand_valley/black_ice_black_everything_black": [
+      96,
+      810
+    ],
+    "netherexp:nether/soul_sand_valley/froghorn": [
+      160,
+      715
+    ],
+    "netherexp:nether/soul_sand_valley/gravedigger": [
+      96,
+      648
+    ],
+    "netherexp:nether/ayo_the_pizza_here": [
+      96,
+      526
+    ],
+    "quark:content/watcher_center": [
+      96,
+      499
+    ],
+    "netherexp:nether/soul_sand_valley/the_caduceus": [
+      128,
+      580
+    ],
+    "netherexp:nether/soul_sand_valley/rekindled_betrayal": [
+      128,
+      621
+    ],
+    "netherexp:nether/soul_sand_valley/non_renewable_yeah_right": [
+      128,
+      648
+    ],
+    "netherexp:nether/soul_sand_valley/hp_minecraftian": [
+      128,
+      553
+    ],
+    "netherexp:nether/soul_sand_valley/lorekeeper": [
+      160,
+      553
+    ],
+    "quark:content/tame_foxhound": [
+      128,
+      445
+    ],
+    "netherexp:nether/overkill": [
+      128,
+      418
+    ],
+    "netherexp:nether/soul_sand_valley/plague_doctor": [
+      160,
+      580
+    ],
+    "netherexp:nether/stayin_frosty": [
+      128,
+      526
+    ],
+    "netherexp:nether/soul_sand_valley/eldritch_manipulation": [
+      160,
+      634
+    ],
+    "netherexp:nether/soul_sand_valley/back_with_a_vengeance": [
+      160,
+      607
+    ],
+    "quark:content/foxhound_speed_up_furnace": [
+      160,
+      445
+    ],
+    "netherexp:nether/soul_sand_valley/angel_with_a_shotgun": [
+      192,
+      634
+    ],
+    "netherexp:nether/soul_sand_valley/the_nether_is_full": [
+      224,
+      621
+    ],
+    "netherexp:nether/soul_sand_valley/ultra_overkill": [
+      256,
+      621
+    ],
+    "netherexp:nether/soul_sand_valley/guns_for_hands": [
+      224,
+      648
+    ],
+    "the_beyond:the_beyond/full_power_magnet": [
+      96,
+      310
+    ],
+    "quark:content/use_viaduct": [
+      96,
+      121
+    ],
+    "the_beyond:the_beyond/encounter_stalker": [
+      96,
+      94
+    ],
+    "the_beyond:the_beyond/befriend_lantern": [
+      96,
+      229
+    ],
+    "the_beyond:the_beyond/gift_enadrake": [
+      96,
+      283
+    ],
+    "the_beyond:the_beyond/brush_lantern": [
+      128,
+      216
+    ],
+    "the_beyond:the_beyond/collect_pearl": [
+      96,
+      364
+    ],
+    "the_beyond:the_beyond/walk_the_rope": [
+      128,
+      94
+    ],
+    "the_beyond:the_beyond/offering_remembered": [
+      96,
+      67
+    ],
+    "the_beyond:the_beyond/rake_nacre": [
+      128,
+      351
+    ],
+    "the_beyond:the_beyond/geyser": [
+      96,
+      13
+    ],
+    "the_beyond:the_beyond/sacred_passage": [
+      128,
+      67
+    ],
+    "the_beyond:the_beyond/ectoplasmic_ignition": [
+      128,
+      243
+    ],
+    "the_beyond:the_beyond/gift_rare_enadrake": [
+      128,
+      283
+    ],
+    "the_beyond:the_beyond/strip_mirror": [
+      128,
+      378
+    ],
+    "the_beyond:the_beyond/ectoplasmic_ignition_2": [
+      160,
+      229
+    ],
+    "the_beyond:the_beyond/casting": [
+      128,
+      13
+    ],
+    "the_beyond:the_beyond/freeze": [
+      160,
+      13
+    ],
+    "the_beyond:the_beyond/pass_the_torch": [
+      160,
+      256
+    ],
+    "the_beyond:the_beyond/memories_returned": [
+      160,
+      67
+    ],
+    "the_beyond:the_beyond/tame_bauble": [
+      128,
+      324
+    ],
+    "the_beyond:the_beyond/clinamen": [
+      128,
+      405
+    ],
+    "the_beyond:the_beyond/so_below": [
+      192,
+      67
+    ],
+    "the_beyond:the_beyond/create_bauble": [
+      160,
+      405
+    ],
+    "the_beyond:the_beyond/snapshot": [
+      192,
+      13
+    ],
+    "the_beyond:the_beyond/complete_refuge": [
+      160,
+      283
+    ],
+    "the_beyond:the_beyond/use_refuge": [
+      192,
+      283
+    ],
+    "the_beyond:the_beyond/defying_the_void": [
+      192,
+      256
+    ],
+    "the_beyond:the_beyond/wax_trinket": [
+      160,
+      310
+    ],
+    "the_beyond:the_beyond/as_above": [
+      224,
+      67
+    ],
+    "the_beyond:the_beyond/bucket_trinket": [
+      160,
+      337
+    ],
+    "the_beyond:the_beyond/select_trinket": [
+      192,
+      337
+    ],
+    "the_beyond:the_beyond/memory_full": [
+      224,
+      0
+    ],
+    "the_beyond:the_beyond/fill_projector": [
+      224,
+      27
+    ],
+    "the_beyond:the_beyond/discover_projection": [
+      256,
+      27
+    ],
+    "the_beyond:the_beyond/discover_all_projection": [
+      288,
+      27
+    ],
+    "fintastic:fintastic/root": [
+      0,
+      324
+    ],
+    "fintastic:fintastic/creatures": [
+      32,
+      189
+    ],
+    "fintastic:fintastic/copepod": [
+      64,
+      351
+    ],
+    "fintastic:fintastic/items": [
+      32,
+      459
+    ],
+    "fintastic:fintastic/aquarium_glass": [
+      64,
+      513
+    ],
+    "fintastic:fintastic/pleco": [
+      64,
+      108
+    ],
+    "fintastic:fintastic/fishing_hat": [
+      64,
+      405
+    ],
+    "fintastic:fintastic/guppy": [
+      64,
+      162
+    ],
+    "fintastic:fintastic/insaniquarium": [
+      64,
+      0
+    ],
+    "fintastic:fintastic/daphnia": [
+      64,
+      135
+    ],
+    "fintastic:fintastic/coelacanth": [
+      64,
+      81
+    ],
+    "fintastic:fintastic/small_catfish": [
+      64,
+      243
+    ],
+    "fintastic:fintastic/green_aquatic_thumb": [
+      64,
+      459
+    ],
+    "fintastic:fintastic/sharkminnow": [
+      64,
+      297
+    ],
+    "fintastic:fintastic/arapaima": [
+      64,
+      216
+    ],
+    "fintastic:fintastic/gourami": [
+      64,
+      27
+    ],
+    "fintastic:fintastic/normal_feed": [
+      64,
+      432
+    ],
+    "fintastic:fintastic/minnow": [
+      64,
+      54
+    ],
+    "fintastic:fintastic/catfish": [
+      64,
+      378
+    ],
+    "fintastic:fintastic/featherback": [
+      64,
+      270
+    ],
+    "fintastic:fintastic/dwarf_frog": [
+      64,
+      324
+    ],
+    "fintastic:fintastic/premium_feed": [
+      96,
+      445
+    ],
+    "fintastic:fintastic/deltarune": [
+      96,
+      324
+    ],
+    "fintastic:fintastic/bad_feed": [
+      96,
+      418
+    ],
+    "fintastic:fintastic/fishnet": [
+      64,
+      486
+    ],
+    "fintastic:fintastic/moony": [
+      64,
+      189
     ]
   },
   "tab_properties": {
@@ -1277,6 +1733,16 @@
       "background_rules": "[]"
     },
     "farmersdelight:main/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "fintastic:fintastic/root": {
       "title": "",
       "static_background": false,
       "bg_width": 16,

@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 115 mods (18 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 117 mods (19 dependencies)
 
 ## Contents
 
@@ -17,9 +17,11 @@
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.3.1-1.21.1-neoforge`
 - [Bundle Backport-ish](https://modrinth.com/project/bundle-backportish) `1.1.4+mc1.21.1`
 - [Caelum](https://modrinth.com/project/caelum) `3.0.0.6`
+- [Cloud Tweaks](https://modrinth.com/project/cloud_tweaks) `0.4.1+1.21`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
+- [Crafty Hands](https://modrinth.com/project/crafty-hands) `1.1.1-1.21.1`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
 - [Custom Portal API Reforged](https://modrinth.com/project/custom-portal-api-reforged) `1.2.2`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
@@ -46,12 +48,12 @@
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Fintastic](https://modrinth.com/project/fintastic) `1.21.1-3.3`
 - [Fog](https://modrinth.com/project/fog) `1.11.0+1.21-neoforge`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.1+1.21.1`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Galosphere](https://modrinth.com/project/galosphere) `1.21.1-1.5.5`
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`
-- [Gardens of the Dead](https://modrinth.com/project/gardens-of-the-dead) `5.0.2`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.1`
 - [Glow](https://modrinth.com/project/glows) `1.3.2`
 - [Hopper Gadgetry](https://modrinth.com/project/hopper-gadgetry) `v21.1.2-1.21.1-NeoForge`
@@ -69,7 +71,6 @@
 - [kiss](https://modrinth.com/project/kiss-fabric) `2.0.0-alpha.3+mc1.21.1-neoforge`
 - [Kiwi 🥝](https://modrinth.com/project/kiwi) `15.8.7+neoforge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
-- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
 - [Menagerie Saturation](https://modrinth.com/project/menagerie-saturation) `1.0`
 - [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.2+neoforge-1211`
@@ -96,6 +97,7 @@
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.7.1+1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.1+1.21.1-neoforge`
+- [Resettable Trial Vaults & Spawners](https://modrinth.com/project/resettable-trial-vaults-spawners) `1.1.0`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
 - [Selas](https://modrinth.com/project/selas) `0.1.3`
