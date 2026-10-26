@@ -417,7 +417,7 @@
 		# - <color> being an ARGB hex color (without the #) for the map to display. You can generate one here - https://argb-int-calculator.netlify.app/
 		#Here's an example of a map to locate Ice Mountains:
 		#minecraft:snowy_slopes,2,8,14,FF7FE4FF
-		Customs = []
+		Customs = ["natures_spirit:bamboo_wetlands,2,8,14,FFFFFFFF"]
 		#Set to false to make it so the default quark Pathfinder Map Built-In don't get added, and only the custom ones do
 		"Apply Default Trades" = true
 		#How many steps in the search should the Pathfinder's Quill do per tick? The higher this value, the faster it'll find a result, but the higher chance it'll lag the game while doing so

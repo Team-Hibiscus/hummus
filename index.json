@@ -718,7 +718,7 @@
     },
     {
       "path": "overrides/config/emi_discovery.toml",
-      "sha1": "2a3578b477108afd0df65dccf9e6e3292d9a0b38"
+      "sha1": "32d183a917f2fa28b2f28124408800b68f2b8fe1"
     },
     {
       "path": "overrides/config/emi_discovery/advancements/example.json.disabled",
@@ -2247,6 +2247,26 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/natures_spirit/recipe/wisteria_mosaic.json",
       "sha1": "84aecb885f6da962341aa1cdafd4ed4148f6a711"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_1.nbt",
+      "sha1": "f58b881a0ac4cf6c80fdebd090248ce61d565352"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_2.nbt",
+      "sha1": "bf7e2c6947f848fb7c98eaa8a76bf0c244726f64"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_3.nbt",
+      "sha1": "9e8b8fb59728adaf6ccc3ea3e38772537f914719"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_4.nbt",
+      "sha1": "012cfb7f5b8795e505b78e63e98163eaed04b202"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_5.nbt",
+      "sha1": "f031d62c7394e3f989243e65d591c8c38f69a84a"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/oreganized/neoforge/biome_modifier/savannah_ores.json",
@@ -4954,7 +4974,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "4e492077b961ca759104a5c9a094d8c6ddceca1c"
+      "sha1": "90b1630819b55fee4a7da0bbf4e48caa079388de"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
