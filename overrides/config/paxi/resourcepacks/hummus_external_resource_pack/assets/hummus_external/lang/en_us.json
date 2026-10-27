@@ -31,5 +31,11 @@
   "emi.info.white_wisteria_tall_rooted_dirt": "Growing a white wisteria tree on top of a rooted dirt block results in a tall white wisteria tree.",
   "emi.info.blue_wisteria_tall_rooted_dirt": "Growing a blue wisteria tree on top of a rooted dirt block results in a tall blue wisteria tree.",
   "emi.info.purple_wisteria_tall_rooted_dirt": "Growing a purple wisteria tree on top of a rooted dirt block results in a tall purple wisteria tree.",
-  "emi.info.pink_wisteria_tall_rooted_dirt": "Growing a pink wisteria tree on top of a rooted dirt block results in a tall pink wisteria tree."
+  "emi.info.pink_wisteria_tall_rooted_dirt": "Growing a pink wisteria tree on top of a rooted dirt block results in a tall pink wisteria tree.",
+  "emi.info.larch_bush_podzol": "Growing a larch tree on top of a podzol block results in a larch bush.",
+  "emi.info.mahogany_bush_podzol": "Growing a mahogany tree on top of a podzol block results in a mahogany bush.",
+  "emi.info.tall_fir_rooted_dirt": "Growing a fir tree on top of a rooted dirt block results in a tall fir tree.",
+  "emi.info.tall_cherry_rooted_dirt": "Growing a cherry tree on top of a rooted dirt block results in a tall cherry tree.",
+  "emi.info.cedar_large_rooted_dirt": "Growing a 2x2 cedar tree on top of a rooted dirt block results in a large cedar tree.",
+  "emi.info.birch_bush_podzol": "Growing a birch tree on top of a podzol block results in a birch bush."
 }

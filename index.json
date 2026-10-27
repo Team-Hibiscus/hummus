@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -610,7 +610,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
+      "sha1": "06768a7177f39772cea6f0c8acf528a9eb009838"
     },
     {
       "path": "overrides/config/caelum-client.toml",
@@ -630,7 +630,7 @@
     },
     {
       "path": "overrides/config/cloud_configs.json",
-      "sha1": "59606bebb343d419fd1460e169f2a4cf999e4739"
+      "sha1": "152ffee36abf7d21467e3c8ee7739c53ed032630"
     },
     {
       "path": "overrides/config/cloud_presets/colors/default.json",
@@ -655,6 +655,66 @@
     {
       "path": "overrides/config/cloud_presets/lighting/presets.json",
       "sha1": "a62be83a1cf409f56d8f277d5392670710a8caec"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_13-00-50.json",
+      "sha1": "59606bebb343d419fd1460e169f2a4cf999e4739"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_14-05-39.json",
+      "sha1": "b085d36f124b2d1a27eb0098249ead1c0d07012b"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-36-20.json",
+      "sha1": "f6cbc7a67ba6edc3cdd2d2fc720d361dd4499750"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-37-04.json",
+      "sha1": "1d1db9ce45d2da94203cc98cabe9ed1adf15af0f"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-37-13.json",
+      "sha1": "0b2964ba79cb5c0ee434a451373392ee04a0193c"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-37-42.json",
+      "sha1": "eec5d9d92ffca512d490025e63653b55cc177e29"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-38-10.json",
+      "sha1": "8e422b4f3461f8029dc228abb486c804809305ba"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-38-58.json",
+      "sha1": "e4b2a8eb87f454988814b81e515c6086467bbad3"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-39-24.json",
+      "sha1": "9b4df93e332971c7662733a56204fa04450f9aa4"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-39-47.json",
+      "sha1": "f7b83f40f25604178dbd2ee4ad53679dd9a4e332"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-40-10.json",
+      "sha1": "30312a1d8cb254c9505d5af8bc89495188fd0227"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-40-17.json",
+      "sha1": "a45c4989ce6d9b46ba2daecc1cf451220fa3ddc9"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-40-39.json",
+      "sha1": "67e8466c530f4afeb920adb886938b4c42b46a94"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-41-05.json",
+      "sha1": "78d5080672f77d218b7d6829efb07dc2b84b534e"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-41-14.json",
+      "sha1": "2db8957b8324bcd2b07b595cd836f56fba08a81d"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -870,7 +930,7 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -1851,6 +1911,18 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/farmersdelight/recipe/golden_knife.json",
       "sha1": "0a0d008617546540cc2d2b4109cbf7653bc39883"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/configured_feature/duckweed_key.json",
+      "sha1": "6aa94c0af6b875ee5be929ccd9940360fcbbca8a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/placed_feature/duckweed_placed.json",
+      "sha1": "844e7fb07d9b8ba3ad976c9794729c9c517d9dfa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/placed_feature/lotus_placed.json",
+      "sha1": "844e7fb07d9b8ba3ad976c9794729c9c517d9dfa"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/gardens_of_the_dead/recipe/whistlecane_mosaic.json",
@@ -4777,6 +4849,10 @@
       "sha1": "4799243bb7099680d3c2f17d10a342436ba70193"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/birch_bush_podzol.json",
+      "sha1": "c2910f0f21a8ff0e4e52bcb10ebfc7533d2c1f7b"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/birch_regular_coarse_dirt.json",
       "sha1": "c1ad8c9c8e0ade66260fbcbd644f8aa555edd96c"
     },
@@ -4795,6 +4871,18 @@
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/jungle_fancy_rooted_dirt.json",
       "sha1": "a9f37ee86415ff898730cb640f394c807f456f8e"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/larch_bush_podzol.json",
+      "sha1": "d372a15a77a3c30cb27eb73f4de51fedc9e28bed"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/large_cedar_rooted_dirt.json",
+      "sha1": "d46061d1d1b79187b313a3f28fa1e27785ab1907"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/mahogany_bush_podzol.json",
+      "sha1": "48c248e91ee387658e770d7f85dac41fa6c07adc"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/mahogany_large_rooted_dirt.json",
@@ -4851,6 +4939,14 @@
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/sugi_large_rooted_dirt.json",
       "sha1": "9a173e10f3d66defa7e54023aa39c01f0ae098c2"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/tall_cherry_rooted_dirt.json",
+      "sha1": "c8bf3491db829a4c9ab34c696c8622b6df66fc57"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/tall_fir_rooted_dirt.json",
+      "sha1": "ffbc7b607a4b83432e81351f9734c6e8c6d6e3ed"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/white_wisteria_tall_rooted_dirt.json",
@@ -4930,7 +5026,7 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/hummus_external/lang/en_us.json",
-      "sha1": "12145d3837b3979ae9b06656d07bb3e90d5038e5"
+      "sha1": "6dfb1b1df1d57a63463f757de50641c44702da16"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_0.png",
@@ -4998,7 +5094,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "24402402ec9fcdc8b376f53b8031f4c2904dc4d7"
+      "sha1": "fa99ab637a323e7b9b7b5a95276cc7daa5878a60"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -5193,8 +5289,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.7.jar",
-      "sha1": "8644fcd865f283b0a447378f45684d2da16b240c"
+      "path": "overrides/mods/hummus-0.8.8.jar",
+      "sha1": "12f4fa46ccbf63d0d17be4cec64a537c9f03e2fe"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",
