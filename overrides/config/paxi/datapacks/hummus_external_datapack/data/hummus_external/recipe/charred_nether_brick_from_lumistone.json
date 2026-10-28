@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hummus:lumistone_sphere"
+    },
+    {
+      "item": "brick_and_mortar:charred_nether_brick"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "brick_and_mortar:charred_nether_brick"
+  }
+}

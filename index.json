@@ -1981,6 +1981,122 @@
       "sha1": "2a3469938702a2d4dcc026838a4072a96f6749ba"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/ash_brick_from_lumistone.json",
+      "sha1": "4e690183b220ade335a5b68100004a680b81389e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/black_ash_brick_from_lumistone.json",
+      "sha1": "62591ccae2c2338f7d814b1948ac533dffce6fbe"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/black_soul_ash_brick_from_lumistone.json",
+      "sha1": "b7526baa0f6bc06962662d7dca5bc2285342350f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/blue_brick_from_lumistone.json",
+      "sha1": "4908d847abc43bd2881fc6462ba8a9bac077ffcf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/brown_brick_from_lumistone.json",
+      "sha1": "6da140e95f06982caa7a5aca25c53530b845ef50"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/burnt_algal_brick_from_lumistone.json",
+      "sha1": "94880d9c37c40e8e320282abc08c38cc2870506e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/burnt_soul_algal_brick_from_lumistone.json",
+      "sha1": "43de148d78347d6ef165165d0c652c0a2490ecd4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/charred_nether_brick_from_lumistone.json",
+      "sha1": "79c6cb1094ca938c63618b5987f1849456bee0ec"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/charred_soul_nether_brick_from_lumistone.json",
+      "sha1": "36befa98b1c9e213abf7c80c8e61a11274472f3b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/clinker_brick_from_lumistone.json",
+      "sha1": "544e451ec8c5877cf8cf43663a31a20760bfa9af"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cream_brick_from_lumistone.json",
+      "sha1": "035990742ae6b7fe448e83e60a6a94e8b6c46dce"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_ash_brick_from_lumistone.json",
+      "sha1": "79293112e9eeb99dacf621a8b36b8bb023340431"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_brick_from_lumistone.json",
+      "sha1": "ceedf39d30f9126e9ee6d54086708eaf1ed7f5cd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_soul_ash_brick_from_lumistone.json",
+      "sha1": "5b2298fbe373ba2aff58b84f6b2fd67eeb334b08"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_algal_brick_from_lumistone.json",
+      "sha1": "083b9bbed033565366f68720ef9f3dd3f9dcd98a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_nether_brick_from_lumistone .json",
+      "sha1": "b1c15fe3fd2d9806077d81950503ffb97133e390"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_soul_algal_brick_from_lumistone.json",
+      "sha1": "1d1196becd46d6f9aded70708c47c0812aefbfdd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_soul_nether_brick_from_lumistone.json",
+      "sha1": "71da57d2f52c5eb744d756b58e9f11c862932d61"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/orange_brick_from_lumistone.json",
+      "sha1": "4dcd06822d7df4e8cb96261d5b1f1e54facfdfaa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_algal_brick_from_lumistone.json",
+      "sha1": "f77bd7032a63f5d46e8543b52d729eb710e11af5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_nether_brick_from_lumistone.json",
+      "sha1": "900b63e014dbd17290e39481eed1bccac3c95baf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_soul_algal_brick_from_lumistone.json",
+      "sha1": "4f3bbae4b09f637c5cd22ac2686e537586e691f7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_soul_nether_brick_from_lumistone.json",
+      "sha1": "19c06ac26f8f759c014aa6a1fda7e5ab360eafed"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/soul_algal_brick_from_lumistone.json",
+      "sha1": "cca7ddbba6211bf13a09fe93b39c4aa0d94ad79f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/soul_ash_brick_from_lumistone.json",
+      "sha1": "bf53dd0ac3f981246b4d1a02be69713a47d6dfe9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/soul_nether_brick_from_lumistone.json",
+      "sha1": "df14d60236f41883bc85f0073ee4d8774094e3e5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/tan_brick_from_lumistone.json",
+      "sha1": "2aa433be0745ead80c1abb65e42d3e5b5c6b781e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/white_ash_brick_from_lumistone.json",
+      "sha1": "1f7dcb79096d5043e5fb2576b02acf8b64d666e4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/white_soul_ash_brick_from_lumistone.json",
+      "sha1": "60f2dbc3e3348c803e861f620abb6536b8fce067"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/shape_map/compat.json",
       "sha1": "05d6ffbdea37c32f146213ded53654ef8016b64a"
     },
