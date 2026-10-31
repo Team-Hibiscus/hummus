@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -614,7 +614,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
+      "sha1": "06768a7177f39772cea6f0c8acf528a9eb009838"
     },
     {
       "path": "overrides/config/caelum-client.toml",
@@ -634,7 +634,7 @@
     },
     {
       "path": "overrides/config/cloud_configs.json",
-      "sha1": "59606bebb343d419fd1460e169f2a4cf999e4739"
+      "sha1": "152ffee36abf7d21467e3c8ee7739c53ed032630"
     },
     {
       "path": "overrides/config/cloud_presets/colors/default.json",
@@ -659,6 +659,66 @@
     {
       "path": "overrides/config/cloud_presets/lighting/presets.json",
       "sha1": "a62be83a1cf409f56d8f277d5392670710a8caec"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_13-00-50.json",
+      "sha1": "59606bebb343d419fd1460e169f2a4cf999e4739"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_14-05-39.json",
+      "sha1": "b085d36f124b2d1a27eb0098249ead1c0d07012b"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-36-20.json",
+      "sha1": "f6cbc7a67ba6edc3cdd2d2fc720d361dd4499750"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-37-04.json",
+      "sha1": "1d1db9ce45d2da94203cc98cabe9ed1adf15af0f"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-37-13.json",
+      "sha1": "0b2964ba79cb5c0ee434a451373392ee04a0193c"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-37-42.json",
+      "sha1": "eec5d9d92ffca512d490025e63653b55cc177e29"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-38-10.json",
+      "sha1": "8e422b4f3461f8029dc228abb486c804809305ba"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-38-58.json",
+      "sha1": "e4b2a8eb87f454988814b81e515c6086467bbad3"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-39-24.json",
+      "sha1": "9b4df93e332971c7662733a56204fa04450f9aa4"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-39-47.json",
+      "sha1": "f7b83f40f25604178dbd2ee4ad53679dd9a4e332"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-40-10.json",
+      "sha1": "30312a1d8cb254c9505d5af8bc89495188fd0227"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-40-17.json",
+      "sha1": "a45c4989ce6d9b46ba2daecc1cf451220fa3ddc9"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-40-39.json",
+      "sha1": "67e8466c530f4afeb920adb886938b4c42b46a94"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-41-05.json",
+      "sha1": "78d5080672f77d218b7d6829efb07dc2b84b534e"
+    },
+    {
+      "path": "overrides/config/cloud_tweaks/backups/cloud_configs_2026-10-26_18-41-14.json",
+      "sha1": "2db8957b8324bcd2b07b595cd836f56fba08a81d"
     },
     {
       "path": "overrides/config/clutternomore/client.toml",
@@ -722,7 +782,7 @@
     },
     {
       "path": "overrides/config/emi_discovery.toml",
-      "sha1": "2a3578b477108afd0df65dccf9e6e3292d9a0b38"
+      "sha1": "32d183a917f2fa28b2f28124408800b68f2b8fe1"
     },
     {
       "path": "overrides/config/emi_discovery/advancements/example.json.disabled",
@@ -874,7 +934,7 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -1857,6 +1917,18 @@
       "sha1": "0a0d008617546540cc2d2b4109cbf7653bc39883"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/configured_feature/duckweed_key.json",
+      "sha1": "6aa94c0af6b875ee5be929ccd9940360fcbbca8a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/placed_feature/duckweed_placed.json",
+      "sha1": "844e7fb07d9b8ba3ad976c9794729c9c517d9dfa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/placed_feature/lotus_placed.json",
+      "sha1": "844e7fb07d9b8ba3ad976c9794729c9c517d9dfa"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/gardens_of_the_dead/recipe/whistlecane_mosaic.json",
       "sha1": "c695707de67c529adb83c47866c86acd32e82120"
     },
@@ -1911,6 +1983,122 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/sunmetal.json",
       "sha1": "2a3469938702a2d4dcc026838a4072a96f6749ba"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/ash_brick_from_lumistone.json",
+      "sha1": "4e690183b220ade335a5b68100004a680b81389e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/black_ash_brick_from_lumistone.json",
+      "sha1": "62591ccae2c2338f7d814b1948ac533dffce6fbe"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/black_soul_ash_brick_from_lumistone.json",
+      "sha1": "b7526baa0f6bc06962662d7dca5bc2285342350f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/blue_brick_from_lumistone.json",
+      "sha1": "4908d847abc43bd2881fc6462ba8a9bac077ffcf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/brown_brick_from_lumistone.json",
+      "sha1": "6da140e95f06982caa7a5aca25c53530b845ef50"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/burnt_algal_brick_from_lumistone.json",
+      "sha1": "94880d9c37c40e8e320282abc08c38cc2870506e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/burnt_soul_algal_brick_from_lumistone.json",
+      "sha1": "43de148d78347d6ef165165d0c652c0a2490ecd4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/charred_nether_brick_from_lumistone.json",
+      "sha1": "79c6cb1094ca938c63618b5987f1849456bee0ec"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/charred_soul_nether_brick_from_lumistone.json",
+      "sha1": "36befa98b1c9e213abf7c80c8e61a11274472f3b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/clinker_brick_from_lumistone.json",
+      "sha1": "544e451ec8c5877cf8cf43663a31a20760bfa9af"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cream_brick_from_lumistone.json",
+      "sha1": "035990742ae6b7fe448e83e60a6a94e8b6c46dce"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_ash_brick_from_lumistone.json",
+      "sha1": "79293112e9eeb99dacf621a8b36b8bb023340431"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_brick_from_lumistone.json",
+      "sha1": "ceedf39d30f9126e9ee6d54086708eaf1ed7f5cd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_soul_ash_brick_from_lumistone.json",
+      "sha1": "5b2298fbe373ba2aff58b84f6b2fd67eeb334b08"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_algal_brick_from_lumistone.json",
+      "sha1": "083b9bbed033565366f68720ef9f3dd3f9dcd98a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_nether_brick_from_lumistone .json",
+      "sha1": "b1c15fe3fd2d9806077d81950503ffb97133e390"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_soul_algal_brick_from_lumistone.json",
+      "sha1": "1d1196becd46d6f9aded70708c47c0812aefbfdd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_soul_nether_brick_from_lumistone.json",
+      "sha1": "71da57d2f52c5eb744d756b58e9f11c862932d61"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/orange_brick_from_lumistone.json",
+      "sha1": "4dcd06822d7df4e8cb96261d5b1f1e54facfdfaa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_algal_brick_from_lumistone.json",
+      "sha1": "f77bd7032a63f5d46e8543b52d729eb710e11af5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_nether_brick_from_lumistone.json",
+      "sha1": "900b63e014dbd17290e39481eed1bccac3c95baf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_soul_algal_brick_from_lumistone.json",
+      "sha1": "4f3bbae4b09f637c5cd22ac2686e537586e691f7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/raw_soul_nether_brick_from_lumistone.json",
+      "sha1": "19c06ac26f8f759c014aa6a1fda7e5ab360eafed"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/soul_algal_brick_from_lumistone.json",
+      "sha1": "cca7ddbba6211bf13a09fe93b39c4aa0d94ad79f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/soul_ash_brick_from_lumistone.json",
+      "sha1": "bf53dd0ac3f981246b4d1a02be69713a47d6dfe9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/soul_nether_brick_from_lumistone.json",
+      "sha1": "df14d60236f41883bc85f0073ee4d8774094e3e5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/tan_brick_from_lumistone.json",
+      "sha1": "2aa433be0745ead80c1abb65e42d3e5b5c6b781e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/white_ash_brick_from_lumistone.json",
+      "sha1": "1f7dcb79096d5043e5fb2576b02acf8b64d666e4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/white_soul_ash_brick_from_lumistone.json",
+      "sha1": "60f2dbc3e3348c803e861f620abb6536b8fce067"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/shape_map/compat.json",
@@ -2251,6 +2439,26 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/natures_spirit/recipe/wisteria_mosaic.json",
       "sha1": "84aecb885f6da962341aa1cdafd4ed4148f6a711"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_1.nbt",
+      "sha1": "f58b881a0ac4cf6c80fdebd090248ce61d565352"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_2.nbt",
+      "sha1": "bf7e2c6947f848fb7c98eaa8a76bf0c244726f64"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_3.nbt",
+      "sha1": "9e8b8fb59728adaf6ccc3ea3e38772537f914719"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_4.nbt",
+      "sha1": "012cfb7f5b8795e505b78e63e98163eaed04b202"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/nova_structures/structure/shrine/shrine_combat/enterance/shrine_entry_5.nbt",
+      "sha1": "f031d62c7394e3f989243e65d591c8c38f69a84a"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/oreganized/neoforge/biome_modifier/savannah_ores.json",
@@ -4761,6 +4969,10 @@
       "sha1": "4799243bb7099680d3c2f17d10a342436ba70193"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/birch_bush_podzol.json",
+      "sha1": "c2910f0f21a8ff0e4e52bcb10ebfc7533d2c1f7b"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/birch_regular_coarse_dirt.json",
       "sha1": "c1ad8c9c8e0ade66260fbcbd644f8aa555edd96c"
     },
@@ -4779,6 +4991,18 @@
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/jungle_fancy_rooted_dirt.json",
       "sha1": "a9f37ee86415ff898730cb640f394c807f456f8e"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/larch_bush_podzol.json",
+      "sha1": "d372a15a77a3c30cb27eb73f4de51fedc9e28bed"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/large_cedar_rooted_dirt.json",
+      "sha1": "d46061d1d1b79187b313a3f28fa1e27785ab1907"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/mahogany_bush_podzol.json",
+      "sha1": "48c248e91ee387658e770d7f85dac41fa6c07adc"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/mahogany_large_rooted_dirt.json",
@@ -4835,6 +5059,14 @@
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/sugi_large_rooted_dirt.json",
       "sha1": "9a173e10f3d66defa7e54023aa39c01f0ae098c2"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/tall_cherry_rooted_dirt.json",
+      "sha1": "c8bf3491db829a4c9ab34c696c8622b6df66fc57"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/tall_fir_rooted_dirt.json",
+      "sha1": "ffbc7b607a4b83432e81351f9734c6e8c6d6e3ed"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/emi/recipe/additions/white_wisteria_tall_rooted_dirt.json",
@@ -4914,7 +5146,7 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/hummus_external/lang/en_us.json",
-      "sha1": "12145d3837b3979ae9b06656d07bb3e90d5038e5"
+      "sha1": "6dfb1b1df1d57a63463f757de50641c44702da16"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_0.png",
@@ -4958,7 +5190,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "4e492077b961ca759104a5c9a094d8c6ddceca1c"
+      "sha1": "90b1630819b55fee4a7da0bbf4e48caa079388de"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
@@ -4982,7 +5214,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "24402402ec9fcdc8b376f53b8031f4c2904dc4d7"
+      "sha1": "fa99ab637a323e7b9b7b5a95276cc7daa5878a60"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -5273,8 +5505,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.7.jar",
-      "sha1": "8644fcd865f283b0a447378f45684d2da16b240c"
+      "path": "overrides/mods/hummus-0.8.9.jar",
+      "sha1": "710a6d9ea16188f3c125127483e08a3bc792b7d9"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

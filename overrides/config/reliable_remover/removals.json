@@ -74,7 +74,10 @@
     "naturalist:snail_eggs",
     "naturalist:snail_bucket",
     "minecraft:furnace",
-    "minecraft:blast_furnace"
+    "minecraft:blast_furnace",
+    "fintastic:lotus",
+    "fintastic:lotus_pad",
+    "fintastic:lotus_flower"
 	]
 },
 {

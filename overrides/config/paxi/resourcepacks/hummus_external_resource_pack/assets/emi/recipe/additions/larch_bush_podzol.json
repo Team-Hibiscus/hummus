@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:natures_spirit:larch_sapling",
+    "item:minecraft:podzol"
+  ],
+  "text": "emi.info.larch_bush_podzol"
+}
