@@ -485,6 +485,10 @@
       "sha1": "7908e473cbafbbffcc0f92e6cbceab7e730562fc"
     },
     {
+      "path": "content/mods/streams-reflowing.json",
+      "sha1": "eb13c8e21bc101f1fe7a91912529343939dd87d1"
+    },
+    {
       "path": "content/mods/structurify.json",
       "sha1": "fa54d1a6d04686f3a23ffaba101b51f5534382db"
     },
@@ -1162,7 +1166,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "4c877a4e6765d036153a2f9ea93d16a89f612060"
+      "sha1": "270f380b1778129ed02b3ba5efa180dbdb65279d"
     },
     {
       "path": "overrides/config/particular-common.toml",
@@ -5075,6 +5079,102 @@
     {
       "path": "overrides/config/spyglass-improvements/settings.json",
       "sha1": "437b3fdc70cf4a0cdfc6f2451a3bc3e486930575"
+    },
+    {
+      "path": "overrides/config/streamsreflowing-client.properties",
+      "sha1": "9b91dc2388ac7664dfc2052b07cbe09955af4dfa"
+    },
+    {
+      "path": "overrides/config/streamsreflowing.properties",
+      "sha1": "e0a79a26071031a34942e1dd6eebb5b4ace235c4"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/.guide_version",
+      "sha1": "f31d3ddef8b640c98e1dfab6725cefc6d476cc77"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/.withdrew_2_13_2",
+      "sha1": "a741f3c345e9733b2dabec11ffb22edfed22c4b8"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/GUIDE.md",
+      "sha1": "e4ae0864d860e0fe6bc1fc2a1e0a8d58f051afa9"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/README.md",
+      "sha1": "c6419707d4f62115d6ddee12d07c334ce8f5e294"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/examples/definition_example.json",
+      "sha1": "7134ae9009367541a4fc565f9cb6d797f3bb7004"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/examples/example.json",
+      "sha1": "1a93fac0e0c0ada42bf1c1d3e82472cb993f566b"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/examples/riverside_lilies.json",
+      "sha1": "ec3d9dbfc32dd8616d47f93a5ad1d56b1de340ad"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/examples/riverside_logs.json",
+      "sha1": "4d2a1bdca59d0c170d3b8b55fa563a1deaaf5906"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/examples/riverside_seagrass.json",
+      "sha1": "e3d0b461dcf2db82969a063f411c36c2a5833a29"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_features/examples/riverside_stumps.json",
+      "sha1": "dcdbf54e18918f3d9a0dd68d3b187337cd24becc"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/.guide_version",
+      "sha1": "f31d3ddef8b640c98e1dfab6725cefc6d476cc77"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/GUIDE.md",
+      "sha1": "e4ae0864d860e0fe6bc1fc2a1e0a8d58f051afa9"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/README.md",
+      "sha1": "814d8b0ea52dba5c90b1e4ebb9009a5ef5432d4c"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/01_smallest.json",
+      "sha1": "6fe29b0328bccdc1e9922771116b7c53229803e1"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/02_rings_and_sizes.json",
+      "sha1": "02519543faa5a0389b4e2673f1e96d1f37963f1f"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/03_patterns_and_mixes.json",
+      "sha1": "1fb189d11721c47fb3ef9ec92d200e79d1146235"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/04_overrides.json",
+      "sha1": "03b0119836c3222bbb2ded357d35f67d6a150880"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/05_scenery_on_rings.json",
+      "sha1": "addd8982f1dc88db1debc701b46eda26eb676ae1"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/06_matching_and_priority.json",
+      "sha1": "6bdcb119ed3036a92f6840fe7d39f1989bcdfc5a"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/07_leave_raw.json",
+      "sha1": "2db1093aec84f7153c3fda326043847587025d34"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/08_everything.json",
+      "sha1": "b72108ca01f877b00591880ffdc9fd2cff05248f"
+    },
+    {
+      "path": "overrides/config/streamsreflowing/bank_styles/examples/09_old_2_13_format.json",
+      "sha1": "ca5bdd9bd5cf32e71a6b9c1ec37030cfde0d396b"
     },
     {
       "path": "overrides/config/structurify.json",

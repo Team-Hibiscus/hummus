@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 117 mods (19 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.252**, 118 mods (19 dependencies)
 
 ## Contents
 
@@ -110,6 +110,7 @@
 - [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/project/sodium-shadowy-path-blocks) `4.1.0-neoforge`
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.8`
 - [Spyglass Improvements](https://modrinth.com/project/spyglass-improvements) `1.5.7+mc1.21+neoforge`
+- [Streams Reflowing](https://modrinth.com/project/streams-reflowing) `2.16.2`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
