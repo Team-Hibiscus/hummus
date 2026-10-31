@@ -14,7 +14,8 @@
       "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.RegistryMixin",
       "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.ResourceFinderMixin",
       "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.SimpleRegistryMixin",
-      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.TagGroupLoaderMixin"
+      "moriyashiine.enchancement.mixin.config.disabledisallowedenchantments.internal.TagGroupLoaderMixin",
+      "com.notunanancyowen.mait.mixin.LivingEntityRendererMixin"
   ],
     "mixinConfigs": [],
     "targetClasses": []

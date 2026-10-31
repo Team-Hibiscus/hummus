@@ -1,0 +1,23 @@
+{
+  "name": "Better Smithing Table",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Vt8TI045",
+      "slug": "bettersmithingtable",
+      "versionId": "9FahdfLH",
+      "versionNumber": "2.2.1+1.21.1",
+      "filename": "better_smithing_table-neoforge-2.2.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Vt8TI045/versions/9FahdfLH/better_smithing_table-neoforge-2.2.1%2B1.21.1.jar",
+      "sha1": "d93b3debe32c167ba43c2a888cd0def9c016626b",
+      "sha512": "cf9289ebc9af92237bb1fbf8e16761279cd449993395114469d3b5a07c7e0ffd3312d1fc1af6a97403204eeee9011583921c8334c7fd69267901e51a07aba58f",
+      "fileSize": 81057
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

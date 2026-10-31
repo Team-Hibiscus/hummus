@@ -1,0 +1,23 @@
+{
+  "name": "Linked Chests",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Mr2x2AUf",
+      "slug": "new-linked-chests",
+      "versionId": "GIiRpEEp",
+      "versionNumber": "v21.1.0-1.21.1-NeoForge",
+      "filename": "LinkedChests-v21.1.0-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Mr2x2AUf/versions/GIiRpEEp/LinkedChests-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "d8a13abff1a61c1ca9b4756066d147fcf64e68f9",
+      "sha512": "56e459ed102d77c7042c69f85e982c01264679a9e73910ef5acf00516d72050299cd1ae0be5641ac26bdfbc65184f53fce0951d3056551823c31e378eb1a0d9c",
+      "fileSize": 135632
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

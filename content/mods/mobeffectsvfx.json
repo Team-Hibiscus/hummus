@@ -1,0 +1,23 @@
+{
+  "name": "MobEffectsVFX",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lq1wGfHO",
+      "slug": "mobeffectsvfx",
+      "versionId": "4i8kZCqW",
+      "versionNumber": "1.21.1-1.1",
+      "filename": "mobeffectsvfx-1.21.1-1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lq1wGfHO/versions/4i8kZCqW/mobeffectsvfx-1.21.1-1.1.jar",
+      "sha1": "4e592a1d65cf549e7faddbd996aaa5fc130603a0",
+      "sha512": "f1c3870c0083916813bdbc88cfac711dcc48de6094de10d9ca5cafc5935b9a3058831ed9cb20a463c6918cae2e201171af91e1eccfcc11de33d50746a3614c74",
+      "fileSize": 4545161
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

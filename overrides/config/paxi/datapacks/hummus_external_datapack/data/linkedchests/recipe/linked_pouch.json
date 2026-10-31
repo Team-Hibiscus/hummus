@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "linkedchests:linked_chest"
+    },
+    {
+      "item": "minecraft:bundle"
+    }
+  ],
+  "result": {
+    "id": "linkedchests:linked_pouch",
+    "count": 1
+  }
+}

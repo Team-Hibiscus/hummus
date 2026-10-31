@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "misc",
+  "pattern": [
+    "csc",
+    "sas",
+    "csc"
+  ],
+  "key": {
+    "s": {
+      "item": "enderscape:nebulite_shards"
+    },
+    "c": {
+      "item": "enderscape:shadoline_ingot"
+    },
+    "a": {
+      "item": "minecraft:ender_chest"
+    }
+  },
+  "result": {
+    "id": "linkedchests:linked_chest",
+    "count": 1
+  }
+}
