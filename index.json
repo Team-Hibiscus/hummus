@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "0d5a92ab2fdde59768bc641a3ed3caaee14d1e06"
+      "sha1": "a4e1c39d3e79136ec21e26367ec912a754ecc857"
     },
     {
       "path": "content/mods/brick-and-mortar.json",
@@ -1266,7 +1266,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "a8b9770921b1d80953f5bf3e819ca455f6ebb486"
+      "sha1": "869b8480fc041e59f58b6197aa423c2e8e019cb5"
     },
     {
       "path": "overrides/config/particular-common.toml",
@@ -2238,7 +2238,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/linkedchests/recipe/linked_chest.json",
-      "sha1": "833af7ae319dd1bbb0fa0cd02e07cf34e1b4e0a4"
+      "sha1": "31915a7e6a6a1a78868c136faba711a0ef4cf073"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/linkedchests/recipe/linked_pouch.json",
