@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -31,6 +31,10 @@
     {
       "path": "content/mods/audaki-cart-engine.json",
       "sha1": "027947856423e22aeec71058db65d2f716d3a085"
+    },
+    {
+      "path": "content/mods/badoptimizations.json",
+      "sha1": "f658ca1ed127d4b77d26c308ac416b7854f1e613"
     },
     {
       "path": "content/mods/badpackets.json",
@@ -353,12 +357,8 @@
       "sha1": "9b81d4f66c50c4e61b72556c1ff506f3fc143792"
     },
     {
-      "path": "content/mods/mobeffectsvfx.json",
-      "sha1": "21b06d70ddd07c956d97c69e2470e580fcf7fa66"
-    },
-    {
       "path": "content/mods/modernfix.json",
-      "sha1": "49fe72b3ea8294e7b9d4da43e28a4ae6f67592e9"
+      "sha1": "a61e381a6c5652cb785d05f84612a09e2ab91e23"
     },
     {
       "path": "content/mods/moonlight.json",
@@ -613,6 +613,10 @@
       "sha1": "c8d6835135091d1d0c645319e36b2e2173e7a0a6"
     },
     {
+      "path": "overrides/config/badoptimizations.txt",
+      "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2"
+    },
+    {
       "path": "overrides/config/better_smithing_table.json",
       "sha1": "1dee20cf22c7bd10e454068d9f0738ef37a4c166"
     },
@@ -638,7 +642,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "a95ca9338e3215a0a0ee4ddc95195258231b2fac"
+      "sha1": "06768a7177f39772cea6f0c8acf528a9eb009838"
     },
     {
       "path": "overrides/config/caelum-client.toml",
@@ -966,7 +970,7 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "f0a10a5d8ae28915af6995bee1398768b85eb788"
+      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
     },
     {
       "path": "overrides/config/fog/config.json",
@@ -5365,6 +5369,18 @@
       "sha1": "712e4a76bfe3c8768d8786e4f1922094f9cf6f7c"
     },
     {
+      "path": "overrides/config/spark/activity.json",
+      "sha1": "ab1606ae4198106d79aaa6409d39938aeb45f18c"
+    },
+    {
+      "path": "overrides/config/spark/config.json",
+      "sha1": "33b6644f61573b11848cde9419529737418e0207"
+    },
+    {
+      "path": "overrides/config/spark/tmp/about.txt",
+      "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2"
+    },
+    {
       "path": "overrides/config/spawn-client.toml",
       "sha1": "54232eca019e04958d83165c63380b7b8bd80a36"
     },
@@ -5375,10 +5391,6 @@
     {
       "path": "overrides/config/spyglass-improvements/settings.json",
       "sha1": "437b3fdc70cf4a0cdfc6f2451a3bc3e486930575"
-    },
-    {
-      "path": "overrides/config/streamsreflowing-client.properties",
-      "sha1": "9b91dc2388ac7664dfc2052b07cbe09955af4dfa"
     },
     {
       "path": "overrides/config/streamsreflowing.properties",
@@ -5490,7 +5502,7 @@
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "37fd8fa3f9f753e1461108d715ffb3e97f98fafc"
+      "sha1": "c0ba006369509f66999979670a3cf0539c084667"
     },
     {
       "path": "overrides/config/teallib-client.toml",

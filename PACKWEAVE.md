@@ -12,6 +12,7 @@
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
 - [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/project/audaki-cart-engine) `3.1.1`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
+- [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
 - [Better F1 Reborn](https://modrinth.com/project/better-f1-reborn) `1.1`
 - [Better Smithing Table](https://modrinth.com/project/bettersmithingtable) `2.2.1+1.21.1`
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
@@ -79,8 +80,7 @@
 - [MidnightLib](https://modrinth.com/project/midnightlib) `1.10.0+1.21.1-neoforge`
 - [Mixin Helper](https://modrinth.com/project/mixin-helper) `1.1.2+neoforge-1211`
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.3`
-- [MobEffectsVFX](https://modrinth.com/project/mobeffectsvfx) `1.21.1-1.1`
-- [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
