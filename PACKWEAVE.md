@@ -18,7 +18,7 @@
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.3.1-1.21.1-neoforge`
 - [Bundle Backport-ish](https://modrinth.com/project/bundle-backportish) `1.1.4+mc1.21.1`
-- [Caelum](https://modrinth.com/project/caelum) `3.0.0.6`
+- [Caelum](https://modrinth.com/project/caelum) `3.0.0.7`
 - [Cloud Tweaks](https://modrinth.com/project/cloud_tweaks) `0.4.1+1.21`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
@@ -106,6 +106,7 @@
 - [Resettable Trial Vaults & Spawners](https://modrinth.com/project/resettable-trial-vaults-spawners) `1.1.0`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
+- [Screenshot Gallery](https://modrinth.com/project/screenshot-gallery) `2.1+neoforge`
 - [Selas](https://modrinth.com/project/selas) `0.1.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.16+1.21.1`
 - [Sleep Tight](https://modrinth.com/project/sleep-tight) `1.21-1.5.2`

@@ -1,0 +1,23 @@
+{
+  "name": "Screenshot Gallery",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "IhVCYgCW",
+      "slug": "screenshot-gallery",
+      "versionId": "y1ZSNZIQ",
+      "versionNumber": "2.1+neoforge",
+      "filename": "screenshotgallery-neoforge-2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/IhVCYgCW/versions/y1ZSNZIQ/screenshotgallery-neoforge-2.1.jar",
+      "sha1": "d0cc2f05b015cc40d1b319627e6dd9277e211bb4",
+      "sha512": "7da51b7dcea03f3a7ffbcd34e41eae23749caeed9becad124e9fcbd7ba628755d5c361a02e795a033afa236d8ffac364a2f9afc59896d786a3c9068d16b74dfd",
+      "fileSize": 105621
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

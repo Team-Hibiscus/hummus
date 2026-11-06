@@ -1,0 +1,13 @@
+{
+  "gridSize": "MEDIUM",
+  "fadeAnimations": true,
+  "showMetadata": true,
+  "squareButton": false,
+  "customScreenshotDir": "",
+  "buttonOffsetX": 0,
+  "buttonOffsetY": 0,
+  "buttonRow": -1,
+  "buttonSide": 0,
+  "buttonRowOffset": 0,
+  "favorites": []
+}

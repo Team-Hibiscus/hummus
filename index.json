@@ -70,11 +70,11 @@
     },
     {
       "path": "content/mods/caelum.json",
-      "sha1": "f909bc578191f14395a5d7596c30ac3ec5e0c4e6"
+      "sha1": "92f8b435bf1650160517afe6dd3047c2a083cbc4"
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "4a64a198ff66810be5f75a3d76d9c159ae55b3ba"
+      "sha1": "c851655a871217c36f0df304adcc3ad00ee7ee72"
     },
     {
       "path": "content/mods/cloud_tweaks.json",
@@ -469,6 +469,10 @@
       "sha1": "6bbe45de8f6ca53d775aa4aa60b1059e4339af8c"
     },
     {
+      "path": "content/mods/screenshot-gallery.json",
+      "sha1": "c717d4980d36d5ae50197c1f76a8abbf10a428b4"
+    },
+    {
       "path": "content/mods/selas.json",
       "sha1": "281bada9529f842532eda2a79d597a0f3a9c6456"
     },
@@ -650,11 +654,11 @@
     },
     {
       "path": "overrides/config/caelum-server.toml",
-      "sha1": "42ecedaaed2d515c3014eed85b1ac9844d86eb81"
+      "sha1": "7bb7b2c060ef38779466aff89b8e6e56244fa88f"
     },
     {
       "path": "overrides/config/caelum_client--server_fallback.toml",
-      "sha1": "61bb3d3c5b7bf074fc51d18fb25940ec24aeb726"
+      "sha1": "ba7a861527c1e7ef74e99e36754a1012d2f74e75"
     },
     {
       "path": "overrides/config/cardinal-components-api.properties",
@@ -890,7 +894,7 @@
     },
     {
       "path": "overrides/config/fancymenu/customization/pause_screen_layout.txt",
-      "sha1": "dde95bb3dd38db2b81a732220487e26b33a704ee"
+      "sha1": "97af8e29b5fd85f48914d4cabe41d2789a95bc71"
     },
     {
       "path": "overrides/config/fancymenu/customization/skin_customization_screen_layout.txt",
@@ -898,7 +902,7 @@
     },
     {
       "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "5cea08eaf271784399a87bc531ce1f87bb5b3f9e"
+      "sha1": "c443b4ba68e80f2d1035c0d1b505021f9a246060"
     },
     {
       "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -975,6 +979,10 @@
     {
       "path": "overrides/config/fog/config.json",
       "sha1": "a63856817b9095ab56c36f5bb027b50ff4001503"
+    },
+    {
+      "path": "overrides/config/font/font-config.json",
+      "sha1": "0eee905c448958ba03f697f8b7a601e104ce3af4"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",
@@ -1270,7 +1278,7 @@
     },
     {
       "path": "overrides/config/packetfixer.properties",
-      "sha1": "869b8480fc041e59f58b6197aa423c2e8e019cb5"
+      "sha1": "f0445c01a4965be0c6627cb67e6dc5f1efdbbadc"
     },
     {
       "path": "overrides/config/particular-common.toml",
@@ -5331,6 +5339,10 @@
     {
       "path": "overrides/config/screenshot_viewer-client.toml",
       "sha1": "4bb20f8f52a0778e033c5e990683c06891554979"
+    },
+    {
+      "path": "overrides/config/screenshotgallery.json",
+      "sha1": "6dafd43f2d44657aa0f8d8b9348cbad6b7ce0c3c"
     },
     {
       "path": "overrides/config/selas-client.toml",

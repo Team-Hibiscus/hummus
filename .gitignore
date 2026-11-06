@@ -75,3 +75,4 @@ figura/
 overrides/config/iris.properties
 overrides/config/fabric/indigo-renderer.properties
 overrides/config/mixinhelper-report.json
+overrides/config/packetfixer.properties

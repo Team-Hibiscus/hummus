@@ -14,10 +14,18 @@
 	#What should be affected by the camera latitude (the z coordinate)
 	#Allowed Values: NONE, ALL
 	latitude_effects = "ALL"
+	#The Z coordinate that represents the equator
+	# Default: 0.0
+	# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	equatorZ = 0.0
+	#The X coordinate that represents the prime meridian. Currently has no effect.
+	# Default: 0.0
+	# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	primeMeridianX = 0.0
 
 [celestial]
 	#Whether eclipses should happen
-	eclipses = false
+	eclipses = true
 	#Whether the size of the sun on Earth should be the same as in vanilla Minecraft. Other celestial bodies are scaled proportionally. Since this affects the timing of eclipses, must be here on the server side.
 	vanilla_sun_size = true
 
