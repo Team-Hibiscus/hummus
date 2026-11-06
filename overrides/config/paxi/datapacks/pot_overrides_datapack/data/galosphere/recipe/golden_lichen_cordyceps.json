@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:nuggets/gold"
+    },
+    {
+      "tag": "c:nuggets/gold"
+    },
+    {
+      "tag": "c:nuggets/gold"
+    },
+    {
+      "tag": "c:nuggets/gold"
+    },
+    {
+      "tag": "c:nuggets/gold"
+    },
+    {
+      "item": "galosphere:lichen_cordyceps"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "galosphere:golden_lichen_cordyceps"
+  }
+}

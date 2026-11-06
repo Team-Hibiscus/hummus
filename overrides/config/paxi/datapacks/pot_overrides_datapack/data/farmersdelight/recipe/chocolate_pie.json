@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "container": {
+    "count": 1,
+    "id": "farmersdelight:pie_crust"
+  },
+  "ingredients": [
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "item": "minecraft:cocoa_beams"
+    },
+    {
+      "item": "minecraft:cocoa_beams"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "farmersdelight:chocolate_pie"
+  }
+}

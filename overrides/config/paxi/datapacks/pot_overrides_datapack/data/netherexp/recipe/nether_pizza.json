@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "container": {
+    "count": 1,
+    "id": "farmersdelight:pie_crust"
+  },
+  "ingredients": [
+    {
+      "tag": "netherexp:cooked_hogham"
+    },
+    {
+      "tag": "netherexp:cooked_hogham"
+    },
+    {
+      "item": "netherexp:warped_wart"
+    },
+    {
+      "item": "netherexp:glowcheese"
+    },
+    {
+      "item": "netherexp:glowcheese"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "netherexp:nether_pizza"
+  }
+}

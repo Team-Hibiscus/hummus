@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "spawn:dates"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "spawn:date_cookie",
+    "count": 4
+  }
+}

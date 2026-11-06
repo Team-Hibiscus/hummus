@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "netherexp:cerebrage"
+    },
+    {
+      "item": "minecraft:warped_fungus"
+    },
+    {
+      "tag": "netherexp:cooked_hogham"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "netherexp:roasted_bone",
+    "count": 2
+  }
+}

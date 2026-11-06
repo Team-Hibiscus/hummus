@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "oreganized:lead_ingot"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "minecraft:poisonous_potato"
+  }
+}

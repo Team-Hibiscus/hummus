@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:white_concrete_powder"
+    },
+    {
+      "item": "minecraft:white_concrete_powder"
+    },
+    {
+      "item": "minecraft:white_concrete_powder"
+    },
+    {
+      "item": "minecraft:white_concrete_powder"
+    },
+    {
+      "tag": "c:buckets/water"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "minecraft:white_concrete",
+    "count": 4
+  }
+}

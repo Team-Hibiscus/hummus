@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "fintastic:regular_feed"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "fintastic:bad_feed"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:ingots/silver"
+    },
+    {
+      "tag": "c:ingots/silver"
+    },
+    {
+      "tag": "c:ingots/silver"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:ingots/gold"
+    },
+    {
+      "tag": "c:ingots/gold"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "oreganized:electrum_ingot"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "fintastic:quality_feed"
+    },
+    {
+      "item": "fintastic:fairy_shrimp"
+    },
+    {
+      "tag": "fintastic:quality_fish_feed_ingredient"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "fintastic:great_feed",
+    "count": 2
+  }
+}

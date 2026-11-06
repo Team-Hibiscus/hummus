@@ -1,0 +1,30 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "c:ash"
+    },
+    {
+      "tag": "c:ash"
+    },
+    {
+      "tag": "c:ash"
+    },
+    {
+      "tag": "c:ash"
+    },
+    {
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "supplementaries:soap",
+    "count": 6
+  }
+}

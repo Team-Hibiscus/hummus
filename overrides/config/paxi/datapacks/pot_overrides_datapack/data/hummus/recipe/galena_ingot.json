@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "oreganized:lead_ingot"
+    },
+    {
+      "item": "oreganized:lead_ingot"
+    },
+    {
+      "item": "oreganized:lead_ingot"
+    },
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "oreganized:silver_ingot"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "hummus:galena_ingot"
+  }
+}

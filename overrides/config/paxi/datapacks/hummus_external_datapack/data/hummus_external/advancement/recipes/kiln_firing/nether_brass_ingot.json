@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "hummus_external:nether_brass_ingot"
+      }
+    },
+    "entered_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "the_nether"
+      }
+    },
+    "has_copper_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_ingot"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_copper_ingot"
+    ],
+    [
+      "entered_nether"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hummus_external:nether_brass_ingot"
+    ]
+  }
+}

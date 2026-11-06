@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "galosphere:palladium_ingot"
+    },
+    {
+      "item": "galosphere:palladium_ingot"
+    },
+    {
+      "item": "galosphere:palladium_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "hummus:dawn_gold_ingot"
+  }
+}

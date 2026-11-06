@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "minecraft:glowstone_dust",
+    "count": 4
+  }
+}

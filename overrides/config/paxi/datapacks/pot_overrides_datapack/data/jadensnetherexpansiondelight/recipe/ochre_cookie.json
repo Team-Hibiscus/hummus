@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "netherexp:ochre_frogmist"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "jadensnetherexpansiondelight:ochre_cookie",
+    "count": 8
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "creaturefeature:fiendish_essence"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "creaturefeature:fiendish_soda"
+  }
+}

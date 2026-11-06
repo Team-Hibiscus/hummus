@@ -166,7 +166,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "29e490e2f0d442ebf6b0ec2a8c7f4c446e5757d5"
+      "sha1": "ed9d68d2c5e3731100e76dda2a4b8fd5366d6a2a"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -191,10 +191,6 @@
     {
       "path": "content/mods/every-compat.json",
       "sha1": "dedf0d7ec47073a74dc52f7b883681070e77d222"
-    },
-    {
-      "path": "content/mods/extra-mod-integrations.json",
-      "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -1517,26 +1513,6 @@
       "sha1": "090eae2e6daf6eff799ef28b4a89226396b3b190"
     },
     {
-      "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/ghast_tear_mixing_recipe.json",
-      "sha1": "81982600e21abd7b99755861734e999f8be1ef69"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/glowstone_mixing_recipe.json",
-      "sha1": "2075229e4118b41b5a0927b45403b53f36432d69"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/gold_nugget_mixing_recipe.json",
-      "sha1": "d8f3a2b210fa28e5bd793147f34feca07ce477fd"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/data/compound_crafting/recipe/cooking/gunpowder_mixing_recipe.json",
-      "sha1": "50337fcad68baf3b2ab64ac99af8ddb3165caad5"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/compound_crafting_hummus/pack.mcmeta",
-      "sha1": "ede1bad0ad7805257e1f1fa07cc11a7a133b0355"
-    },
-    {
       "path": "overrides/config/paxi/datapacks/forest_redux_pack/data/minecraft/worldgen/biome/forest.json",
       "sha1": "07557b8a83e938cd09d1db0b80c61992ed313643"
     },
@@ -1981,6 +1957,10 @@
       "sha1": "c695707de67c529adb83c47866c86acd32e82120"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/advancement/recipes/kiln_firing/nether_brass_ingot.json",
+      "sha1": "5f19f12910f562a7eb5435c95b27d84005ced0c5"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/beacon/bone_block.json",
       "sha1": "372da31d9b396e5beca5449ff6eaed93378a7b34"
     },
@@ -2103,6 +2083,10 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_soul_nether_brick_from_lumistone.json",
       "sha1": "71da57d2f52c5eb744d756b58e9f11c862932d61"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/nether_brass_ingot.json",
+      "sha1": "afe991db6ad4fdbeac32e7a1e619bc62fab663ee"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/orange_brick_from_lumistone.json",
@@ -2719,6 +2703,406 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/pack.mcmeta",
       "sha1": "6f87005dd405cc2f0cec7bf0b7102e993edf2528"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/algal_blend.json",
+      "sha1": "6e9d763697ffd007757753bb7c5554b1ac50bb99"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/cerebral_plate.json",
+      "sha1": "795ed4561507ca2b845c13a249ab268a1a023b26"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/entwine_rod.json",
+      "sha1": "523fc8de2d1fe88f888d82db1a4ed9036f266c5b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/oracle_jelly.json",
+      "sha1": "bfd7582b83f54d259ed96464bb27a34371701861"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/sunmetal_blend.json",
+      "sha1": "ef3b88ad6b2b0dd3a2a4140b57f80a176bcbed39"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/wardstone_blend.json",
+      "sha1": "6bf184381d8067fb13dc09e29baa55c5f038f404"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/creaturefeature/recipe/fiendish_soda.json",
+      "sha1": "97bc08f835e856c90cd2267d1f7b72979117bd2c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/darkerdepths/recipe/glow_ink_sac_from_glow_grime.json",
+      "sha1": "fd2e1873031ec78e1bbed9536743568115e71c0d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/darkerdepths/recipe/scorched_remains.json",
+      "sha1": "ebae7e5ac146b6f320df2244fbd521eeb4fe1101"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/darkerdepths/recipe/scorched_remains_block.json",
+      "sha1": "a4d8fdcc961f35ad5975ad0cca931f4604e12ad9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/darkerdepths/recipe/slime_ball_from_glow_grime.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/enderscape/recipe/chorus_cake_roll.json",
+      "sha1": "1b63b7591797b84b00ef0de981124b28e8515829"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/apple_pie.json",
+      "sha1": "5eda54ef184de97703efb3840adbca953828f52f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/cake_from_milk_bottle.json",
+      "sha1": "cd75b303edc3cb2d46a030f2a512474cb31518b8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/chocolate_pie.json",
+      "sha1": "317e6e90996b7a23521b82a3bf33cdb710ce5fa0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/honey_cookie.json",
+      "sha1": "c2a53beb96106b6fb7cad641056f4f2ea83415db"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/pumpkin_pie_from_pie_crust.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/pumpkin_pie_from_slices.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/sweet_berry_cheesecake.json",
+      "sha1": "9baa0f6857626a8d1c9b2ec696432023bea6df93"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/sweet_berry_cookie.json",
+      "sha1": "48c430afce8168699ef09d2b8487bd51f073c19b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/fintastic/recipe/bad_fish_feed.json",
+      "sha1": "b2c0ea58ff9b20beeae5ca475f6bbfa6c411574f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/fintastic/recipe/fish_feed.json",
+      "sha1": "4cf69c0b13e65bc6a7577c17e568c2fcc1d785d5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/fintastic/recipe/great_fish_feed.json",
+      "sha1": "e6a4c71ce06e6e876f27771654f3fbe99d1016f2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/fintastic/recipe/premium_feed.json",
+      "sha1": "0a91f9d922966562bb9bd1ad19396833a210784a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/fintastic/recipe/quality_fish_feed.json",
+      "sha1": "3f409894ee89df8cc268a6edbce3aa7e84d03b19"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/galosphere/recipe/cured_membrane.json",
+      "sha1": "f981a62661bd5e909519990f8b23f025e3201101"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/galosphere/recipe/golden_lichen_cordyceps.json",
+      "sha1": "f4b78f898f5e5a2619215dc03dbc471a4b635f49"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/galosphere/recipe/salted_jerky.json",
+      "sha1": "1d167445879ec57cd37e0e736ffb807de062d582"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus/recipe/dawn_gold_ingot.json",
+      "sha1": "f2f07a6207eaf7be7553b6085516dc0559963991"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus/recipe/galena_ingot.json",
+      "sha1": "3a4e19bb517730323d6d7ceac0038645a6e7848b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus/recipe/rose_gold_ingot.json",
+      "sha1": "99c133a35cd5c9ce4c2d442b75133c37548ab670"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/black_concrete.json",
+      "sha1": "f4a887f909325a95ed8c70f9094e3ede61ed40d9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/blue_concrete.json",
+      "sha1": "8248f221a5785d702894b87e3b4da50e431b2b5c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/brown_concrete.json",
+      "sha1": "ff90ac8686648221725c7a5cdf7f959a108372ad"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/cyan_concrete.json",
+      "sha1": "fbb8f28b8fedcb0e112c7badd4f564fe17699f12"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/glowstone_dust.json",
+      "sha1": "d6cd64e0a49ccc6d11efaedabe36049e49380753"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/gray_concrete.json",
+      "sha1": "90073c0383e793ebed9c31330d980c322552db67"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/green_concrete.json",
+      "sha1": "b89a224f500eae0ffb5c6da321eceb74ca9ee50d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/light_blue_concrete.json",
+      "sha1": "4da61303c93615cc59443bf260e004dece2405c6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/light_gray_concrete.json",
+      "sha1": "a53d11b7f45ab937ea506c5e2010b3f4c23a2954"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/lime_concrete.json",
+      "sha1": "b0ac7821e03d968c60ca1ab6f3d28633a856b535"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/magenta_concrete.json",
+      "sha1": "8db53f48aea95738a800c51ad8f256ac2b8a4679"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/orange_concrete.json",
+      "sha1": "81904784fdf3913ae309c9ddbaa139ae17265e30"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/pink_concrete.json",
+      "sha1": "d1185e0d3f5ecef5511d4ac7afce9253903d127a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/purple_concrete.json",
+      "sha1": "a23ff8570066d9c9c96054461a25acb77ba8f0af"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/red_concrete.json",
+      "sha1": "6ace079f04daa5e4cc041f1509a2315c5b329505"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/white_concrete.json",
+      "sha1": "815dfee00c48e507cf54eb0cb8ae9efec495e06d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/yellow_concrete.json",
+      "sha1": "2fc43c01f31d536f5cf8ee4e54a6c7ee52e5d3f4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/black_concrete.json",
+      "sha1": "399791aa777ef0330b3ae8583683e507d9160f61"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/blue_concrete.json",
+      "sha1": "46b02fe9b02217efd9ae10c60a9e8a5cd0aec8f0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/brown_concrete.json",
+      "sha1": "f3397b4510fe5ba00e9c9f671d086a72c899de56"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/cyan_concrete.json",
+      "sha1": "791c05203208daf52d12c9ccc46a310986b09e27"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/glowstone_dust.json",
+      "sha1": "a3a3bdf96d505147263ad065572acac7c5d20654"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/gray_concrete.json",
+      "sha1": "3eb10b349421120a81039219b69ba6aa8506b27e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/green_concrete.json",
+      "sha1": "09c54c216e71ab56c3e507d76af736fadcdd30e3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/light_blue_concrete.json",
+      "sha1": "036bfb9b9100181112886a5b13fb765f577abd19"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/light_gray_concrete.json",
+      "sha1": "83c2308dfb5edcfd0cec4047d3682cdf87e5139a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/lime_concrete.json",
+      "sha1": "f018e93e8302247f9ae4dfdb5c9a5801bb953610"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/magenta_concrete.json",
+      "sha1": "e359519021f979fc206f84ab8d86d76c1bf06186"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/orange_concrete.json",
+      "sha1": "71c727649073ea1b3e1f3335dea84ab992a1fc96"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/pink_concrete.json",
+      "sha1": "68980506a77ea7f7d93b7f7e20799243a891485d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/purple_concrete.json",
+      "sha1": "98a990f6f9fdbadd1953cb92ba7a5cff12ef15d1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/red_concrete.json",
+      "sha1": "c9ab2d0fed1c9876c3229be89685adb601bc8c1c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/white_concrete.json",
+      "sha1": "f6755b65fd3fa8d9a09d6e2ececd17183b3269a0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/yellow_concrete.json",
+      "sha1": "3198c70186157986baba533fd1e63374f0a37a2e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/jadensnetherexpansiondelight/recipe/banshee_cookie.json",
+      "sha1": "7a5031f9ec118baf92cc00b9195d040d91c19bf8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/jadensnetherexpansiondelight/recipe/ochre_cookie.json",
+      "sha1": "f25a5130c31cc4dd5f57e2b1b186a03b92e173a5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/jadensnetherexpansiondelight/recipe/pearlescent_cookie.json",
+      "sha1": "985af5415dce02c946f53ac3d8e7d75c60bcceba"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/jadensnetherexpansiondelight/recipe/verdant_cookie.json",
+      "sha1": "f4c4607fccadbab783b2b31af150ed0604ac49b5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/beetroot_soup.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/cake.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/cookie.json",
+      "sha1": "118c7697ba4a845758ce42658f6c009343a5deab"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/ender_eye.json",
+      "sha1": "8aa31f5615a5a0187da2724ed0d40d8ec57929e4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/fermented_spider_eye.json",
+      "sha1": "c3aa0a1f7fc2a14242c0a9706c055197ee114b6e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/fire_charge.json",
+      "sha1": "48a60ee86a6900ab2a22c393b359b7b58fff6925"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/glistering_melon_slice.json",
+      "sha1": "2fd952e441c57215ea5798bbf5fa8e9434f86c2b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/golden_apple.json",
+      "sha1": "e1bda4fd71762083889e21ca8601e954356eacbb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/golden_carrot.json",
+      "sha1": "71f1caba76148635f1f19b599b3fbd093122f8ad"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/magma_cream.json",
+      "sha1": "8382032b059595d65adea0331d9de97800382a7b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/mushroom_stew.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/netherite_ingot.json",
+      "sha1": "06f884e01e62895470f1a640d046c7fb0ee20bea"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/pumpkin_pie.json",
+      "sha1": "008ce26a903a5cd18065d769983aa908cee0d3dd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/rabbit_stew_from_brown_mushroom.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/rabbit_stew_from_red_mushroom.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/naturalist/recipe/pumpkin_pie.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/natures_spirit/recipe/pizza.json",
+      "sha1": "cd096062a31e4f0f4fee831ca828e515bb31b29a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/netherexp/recipe/glowcheese.json",
+      "sha1": "6b9e4a924ee4afc9f13d600a2d0ebe4734a7e7fa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/netherexp/recipe/nether_pizza.json",
+      "sha1": "b5a58b11b3e1924c87cfa6378c10e5ba9907a23f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/netherexp/recipe/phasmo_shard.json",
+      "sha1": "6f68710a79be9734eba8d46e37947816cf2138da"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/netherexp/recipe/roasted_bone.json",
+      "sha1": "496b2d9e5513e39eba4250bce294422ef7591576"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/netherexp/recipe/wraithing_flesh.json",
+      "sha1": "76757b9fed6f883797e9d2bf8d82bdf5d3ea63e2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/oreganized/recipe/electrum_ingot.json",
+      "sha1": "0ece9dc8519869a0a91015f5d04ed482fbdb6367"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/oreganized/recipe/poisonous_potato_from_lead.json",
+      "sha1": "8ce21270d9c6d2e64e3bf1e41f2cfb999b34cfa9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/spawn/recipe/clam_chowder.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/spawn/recipe/clam_chowder_fd.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/spawn/recipe/date_cookie.json",
+      "sha1": "38bf442d8f5f6e7534a56a713f0b926759ad1c18"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/supplementaries/recipe/integration/pancake_fd.json",
+      "sha1": "4d253b6994f43e7421273dec037e451ab4a964bb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/supplementaries/recipe/pancake.json",
+      "sha1": "6c1146ee2fb3ea85e51449dc2115ea1453df721c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/supplementaries/recipe/soap.json",
+      "sha1": "22c0850c736801ef3ac6a72d654e78d71f5b1130"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/pack.mcmeta",
+      "sha1": "63ecd647fb980b733fedf74a10ff8c770432521f"
     },
     {
       "path": "overrides/config/paxi/resourcepack_load_order.json",
@@ -5282,7 +5666,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "fa99ab637a323e7b9b7b5a95276cc7daa5878a60"
+      "sha1": "681178fdefbed35aa7d0c87643e5c493a3c1b641"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -5589,8 +5973,8 @@
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
     },
     {
-      "path": "overrides/mods/hummus-0.8.11.jar",
-      "sha1": "6d76ea9beb8c2b501c0ea1def4f20e6f73f032f4"
+      "path": "overrides/mods/hummus-0.8.12.jar",
+      "sha1": "8c0a16088781e080abe50d5c17a18877ed9fc74d"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",

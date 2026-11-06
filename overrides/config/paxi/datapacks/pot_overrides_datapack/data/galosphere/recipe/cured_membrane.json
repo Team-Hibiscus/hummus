@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "galosphere:pink_salt_shard"
+    },
+    {
+      "item": "galosphere:pink_salt_shard"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "item": "galosphere:pink_salt_shard"
+    },
+    {
+      "item": "galosphere:pink_salt_shard"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "galosphere:cured_membrane"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "darkerdepths:glow_grime"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "minecraft:glow_ink_sac",
+    "count": 2
+  }
+}

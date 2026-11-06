@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "container": {
+    "count": 1,
+    "id": "farmersdelight:pie_crust"
+  },
+  "ingredients": [
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "natures_spirit:cheese_bucket"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "natures_spirit:whole_pizza"
+  }
+}

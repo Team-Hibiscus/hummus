@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "architects_palette:wardstone_blend",
+    "count": 4
+  }
+}

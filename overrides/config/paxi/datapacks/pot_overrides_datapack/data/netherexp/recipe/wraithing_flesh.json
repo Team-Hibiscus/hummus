@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "netherexp:banshee_powder"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "netherexp:wraithing_flesh"
+  }
+}

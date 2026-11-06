@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "netherexp:banshee_powder"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "jadensnetherexpansiondelight:banshee_cookie",
+    "count": 8
+  }
+}

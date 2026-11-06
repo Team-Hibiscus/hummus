@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "netherexp:banshee_powder"
+    }
+  ],
+  "recipe_book_tab": "mixing",
+  "result": {
+    "id": "netherexp:phasmo_shard",
+    "count": 2
+  }
+}

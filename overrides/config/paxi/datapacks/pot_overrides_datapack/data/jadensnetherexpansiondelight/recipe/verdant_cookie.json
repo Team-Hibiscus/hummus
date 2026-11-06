@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "netherexp:verdant_frogmist"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "jadensnetherexpansiondelight:verdant_cookie",
+    "count": 8
+  }
+}

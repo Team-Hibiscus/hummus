@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "container": {
+    "count": 1,
+    "id": "farmersdelight:pie_crust"
+  },
+  "ingredients": [
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "farmersdelight:apple_pie"
+  }
+}

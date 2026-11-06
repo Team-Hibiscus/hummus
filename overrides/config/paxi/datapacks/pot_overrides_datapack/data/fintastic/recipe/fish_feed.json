@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "fintastic:regular_feed",
+    "count": 2
+  }
+}

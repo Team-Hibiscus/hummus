@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beams"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "tag": "c:crops/wheat"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "id": "minecraft:cookie",
+    "count": 8
+  }
+}
