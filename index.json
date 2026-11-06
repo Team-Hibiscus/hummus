@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/amendments.json",
@@ -979,10 +979,6 @@
     {
       "path": "overrides/config/fog/config.json",
       "sha1": "a63856817b9095ab56c36f5bb027b50ff4001503"
-    },
-    {
-      "path": "overrides/config/font/font-config.json",
-      "sha1": "0eee905c448958ba03f697f8b7a601e104ce3af4"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",

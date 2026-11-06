@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 122 mods (19 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.252**, 123 mods (19 dependencies), 1 resource pack
 
 ## Contents
 

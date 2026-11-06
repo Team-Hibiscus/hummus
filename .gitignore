@@ -76,3 +76,5 @@ overrides/config/iris.properties
 overrides/config/fabric/indigo-renderer.properties
 overrides/config/mixinhelper-report.json
 overrides/config/packetfixer.properties
+overrides/config/flywheel-client.toml
+overrides/config/c2me.toml
