@@ -1,0 +1,34 @@
+{
+	"type": "recipes_lib:crafting_shapeless_components",
+	"ingredients": [
+		{
+			"type": "recipes_lib:components",
+			"item": {
+				"id": "minecraft:name_tag",
+				"components": {
+					"minecraft:custom_name": "frozen_ocean"
+				}
+			},
+			"matchType": "CONTAINS"
+		},
+		{
+			"item": "minecraft:map"
+		},
+                {
+			"item": "hummus:lumiglass"
+		},
+                {
+			"item": "hummus:lumiglass"
+		},
+                {
+			"item": "hummus:lumiglass"
+		}
+	],
+	"result": {
+		"item": "quark:pathfinders_quill",
+		"components": {
+			"quark:target_biome": "minecraft:frozen_ocean"
+		},
+		"merge_components": false
+	}
+}

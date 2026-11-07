@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "w0fv1VuK",
       "slug": "swordish_weapons",
-      "versionId": "P4Shbm2I",
-      "versionNumber": "1.0.6",
-      "filename": "swordish-1.0.6.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/w0fv1VuK/versions/P4Shbm2I/swordish-1.0.6.jar",
-      "sha1": "b460df9c85ade9303613ca21ca3a4749c6712e57",
-      "sha512": "5ddb0d3af96be4deb082f3ac6ca70b3fbf6c24982bcb5c235742c54ba3c7791a03f0a3997a42ec96ca92db8c1cdd4e5b79c46617093d3e8df8ca5e3d6db26060",
-      "fileSize": 80534
+      "versionId": "aHlu4hq9",
+      "versionNumber": "1.0.7",
+      "filename": "swordish-1.0.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/w0fv1VuK/versions/aHlu4hq9/swordish-1.0.7.jar",
+      "sha1": "d13eab1455efadf271c92e231c3b2bb7d35ffb71",
+      "sha512": "5cb2b25c38852af97c99227eb7a17ea0087177c504e3e686faffeb653dbdb92e7c43def4f929f3f61c08d5b328239969f2666bc16ce162525d60a3a9c36ecea8",
+      "fileSize": 80692
     }
   },
   "dependents": [],

@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -74,7 +74,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "c851655a871217c36f0df304adcc3ad00ee7ee72"
+      "sha1": "70f23235c7cb71fd51bf11e212cf70a1de5ffb1f"
     },
     {
       "path": "content/mods/cloud_tweaks.json",
@@ -166,7 +166,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "ed9d68d2c5e3731100e76dda2a4b8fd5366d6a2a"
+      "sha1": "29e490e2f0d442ebf6b0ec2a8c7f4c446e5757d5"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -191,6 +191,10 @@
     {
       "path": "content/mods/every-compat.json",
       "sha1": "dedf0d7ec47073a74dc52f7b883681070e77d222"
+    },
+    {
+      "path": "content/mods/extra-mod-integrations.json",
+      "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -325,6 +329,10 @@
       "sha1": "2b7df3fd258ec57dcf029b4620404fe86ea293a2"
     },
     {
+      "path": "content/mods/map-distance-fix.json",
+      "sha1": "dcb57f1a34739e91388f049b66ae1d2c846f62de"
+    },
+    {
       "path": "content/mods/material-beacons.json",
       "sha1": "8e572344dee9ea90b9c13640da028e096368e65f"
     },
@@ -405,6 +413,10 @@
       "sha1": "f53a13964a16c88e195f202608cb26afe1559f54"
     },
     {
+      "path": "content/mods/picture-mode.json",
+      "sha1": "7af7e9368096ddc82b0107a7895baa2abce41e62"
+    },
+    {
       "path": "content/mods/platform.json",
       "sha1": "056c63107401f0e09e3bbfa8bd27a12a740cd7c1"
     },
@@ -431,6 +443,10 @@
     {
       "path": "content/mods/quark.json",
       "sha1": "80e857c83b4caaca8491f78cb2635bbdc960d486"
+    },
+    {
+      "path": "content/mods/recipes-library.json",
+      "sha1": "5cad4e4721384e4ed344c8e09bb197707a99d78c"
     },
     {
       "path": "content/mods/reliable-advancements.json",
@@ -522,7 +538,7 @@
     },
     {
       "path": "content/mods/swordish_weapons.json",
-      "sha1": "4f8223635a98f9a96ed8c3df984bcaf34f16e5ce"
+      "sha1": "ca0016e0fd9ef74daaaaffb0ad38c72b03a3c8b8"
     },
     {
       "path": "content/mods/teallib.json",
@@ -538,7 +554,7 @@
     },
     {
       "path": "content/mods/twohanded-engine.json",
-      "sha1": "16960562071aeb72a7a004dfc8f679a8fe517bd8"
+      "sha1": "dec0e4fcdb2f138ee9e237aa519680fc4ad7fbb8"
     },
     {
       "path": "content/mods/useful-spyglass.json",
@@ -550,7 +566,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "3a0083286873f631abca437acc0d3be2a1e0db97"
+      "sha1": "2cd3c7d38e13fdfaf2bc484d190ac6c89524f206"
     },
     {
       "path": "content/mods/yungs-api.json",
@@ -1151,6 +1167,10 @@
     {
       "path": "overrides/config/lodestone-client.toml",
       "sha1": "db4dbb662f729686830fb0d461313184d1fc2f2f"
+    },
+    {
+      "path": "overrides/config/mapdistancefix.json",
+      "sha1": "7948fe95488082c160e1e69e255e0a261f8a3e71"
     },
     {
       "path": "overrides/config/mcqoy.toml",
@@ -1949,6 +1969,10 @@
       "sha1": "844e7fb07d9b8ba3ad976c9794729c9c517d9dfa"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/placed_feature/hornwort_placed.json",
+      "sha1": "bfac1dd751474191611035a82f91a48d0b784fbf"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/placed_feature/lotus_placed.json",
       "sha1": "844e7fb07d9b8ba3ad976c9794729c9c517d9dfa"
     },
@@ -2715,6 +2739,366 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/pack.mcmeta",
       "sha1": "6f87005dd405cc2f0cec7bf0b7102e993edf2528"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/badlands_quill.json",
+      "sha1": "6a0203e5e1194082bcf2fa2649ae3411b2837e7a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/bamboo_jungle_quill.json",
+      "sha1": "98f97c25357ec326a9fcec76e99cc110d1fb22cd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/birch_forest_quill.json",
+      "sha1": "7818230eb16bd27d6cf87c097829e107d0322992"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/cherry_grove_quill.json",
+      "sha1": "9a44684a34ab5c2f7ca3bf36dea946a1ac9ac468"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/dark_forest_quill.json",
+      "sha1": "19e8ce171ed21c0436e8a3a1dc462e37fe9a44c3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/desert_quill.json",
+      "sha1": "055ee7b7e14f5b98fbc89019484db1493a95d2a0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/eroded_badlands_quill.json",
+      "sha1": "7d99512e89197da8474bf136c9cc0e43512ddc73"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/flower_forest_quill.json",
+      "sha1": "62b1663cea154f25cb9e0131251ae4645181a304"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/forest_quill.json",
+      "sha1": "b2c8cd700ecded1f6fb2a5a3dbf2b6bb8c73ad77"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/frozen_ocean_quill.json",
+      "sha1": "ce38feccd9847499691046fd14342b715fb3b300"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/frozen_peaks_quill.json",
+      "sha1": "79c1f22897311325b2275fb20b678bc14f92757a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/grove_quill.json",
+      "sha1": "31ac4aaf0222a787b91279549cf3de0530ced67e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/ice_spikes_quill.json",
+      "sha1": "1003d14f390a2e4eed05366d030156b7f7a8d718"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/jagged_peaks_quill.json",
+      "sha1": "444cd3ec77f007214f9a5e482d4d3b969fc8b0b3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/jungle_quill.json",
+      "sha1": "4df0e97179d55b82c57caf418b8fd8782e74bfb1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/lukewarm_ocean_quill.json",
+      "sha1": "d35f1d33f047b0586fdcf16006d4ca19bc03979f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/mangrove_swamp_quill.json",
+      "sha1": "2e2d3f82c0133b07b11d54a052a28b4f1c7d6c15"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/mushroom_fields_quill.json",
+      "sha1": "d5c6e09e59303015103c3d0c169d47f53a81d598"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/alpine_clearings_quill.json",
+      "sha1": "b97cb9264adb0512f1ee0603f7780439170810ba"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/alpine_highlands_quill.json",
+      "sha1": "bd5f08ab7c693321427c8cb68c4e76de42d54a54"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/arid_highlands_quill.json",
+      "sha1": "a1b1cf40d48c1b6ea8ed5f923c88273de2bba026"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/arid_savanna_quill.json",
+      "sha1": "91576c28558c015de2f28c8aad41d4e8f94b6e19"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/aspen_forest_quill.json",
+      "sha1": "d26fcfe2a66a0838d47effdadfdec8deec9f250c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/bamboo_wetlands_quill.json",
+      "sha1": "76a0111ad116196308b47518a6e5019ae01c89d7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/blooming_dunes_quill.json",
+      "sha1": "80b7809b602f4b101a7631478e4bcd104ba1eaf0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/blooming_highlands_quill.json",
+      "sha1": "daa4797fdebc7623516a8384b036d643e5bdeade"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/blooming_sugi_forest_quill.json",
+      "sha1": "755202eb0c07a1e090e5c6376c9fb1e7db4e0573"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/boreal_taiga_quill.json",
+      "sha1": "3181e7a2f5a64cde8dfe294a42b31b6e2976fdab"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/carnation_fields_quill.json",
+      "sha1": "b7fc0bb8318c3dd7011555ba37a5f287a2b50178"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/cedar_thicket_quill.json",
+      "sha1": "569d296b8a61ad7cd701eb6bdb70be554bceac5e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/chaparral_quill.json",
+      "sha1": "074ac5da3168dc20922b91b8a612842eae503d3d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/coniferous_covert_quill.json",
+      "sha1": "169e2b5407ebfe4a32e055327193f5006790a6b7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/cypress_fields_quill.json",
+      "sha1": "3122a0178e14ce3ffba9ff5336820a23894b2a55"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/drylands_quill.json",
+      "sha1": "6ae4dd6ad1fa57a5e3fe8f44867e4c2019a19a0e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/dusty_slopes_quill.json",
+      "sha1": "b2d8fc42bff0665a8e420a6d16275ad76356d5a7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/fir_forest_quill.json",
+      "sha1": "c6d87b13a240f685392dc1f473100c561f012df7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/floral_ridges_quill.json",
+      "sha1": "0ed6372ab34f3a92150cf99196f1ff6d5b8a0606"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/flowering_shrubland_quill.json",
+      "sha1": "1644076f3fb53f1c5c699db5ed3d02c34344794b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/golden_wilds_quill.json",
+      "sha1": "8c30f12bf7c37f423c880aaf6d5d37b22a99ceee"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/heather_fields_quill.json",
+      "sha1": "69d817b9137f96bac49ac602f75da0a365b93139"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/lavender_fields_quill.json",
+      "sha1": "5d603b2044ebb92a552914e2551f13bee0eccb4b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/lively_dunes_quill.json",
+      "sha1": "da691a6a8dd003e129431a7fe17192a7c82ce56c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/maple_woodlands_quill.json",
+      "sha1": "cc3943084d870c4241ec46af0a2da67faa85190b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/marigold_meadows_quill.json",
+      "sha1": "05c982d6754c83330cf3abaf4b695899db6368ec"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/marsh_quill.json",
+      "sha1": "4dcb4872986efab933829a671146eddacc461256"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/oak_savanna_quill.json",
+      "sha1": "82e476ae913402520dd28fe54499693b5678a7e1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/prairie_quill.json",
+      "sha1": "495119b807dbd24502465eb93f260a376a80bad5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/red_peaks_quill.json",
+      "sha1": "8ff12fdf88a2ec804420a89ff89ad5dfbd6e1f91"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/redwood_forest_quill.json",
+      "sha1": "2c07c776a48f5c2dbd1031d0a8405440c79238b5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/scorched_dunes_quill.json",
+      "sha1": "f1813e8613125d1d02aed91ed2b9e786a701b54b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/shrubby_highlands_quill.json",
+      "sha1": "64d2624e2064b7b4486404236d3ea5cf7574341c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/shrubland_quill.json",
+      "sha1": "946b4a54ee1b71f2aa147fc58030ff4e6ba7bfba"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/sleeted_slopes_quill.json",
+      "sha1": "315f31cc62e39a7447dc2517a7c13fce537393d8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/snowcapped_red_peaks_quill.json",
+      "sha1": "7a0b19e79ffb0d1864b0c28fc68c6d737d000b00"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/snowy_fir_forest_quill.json",
+      "sha1": "ebed9dee9749eaec4a95c255fda46605ef0139e4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/snowy_redwood_forest_quill.json",
+      "sha1": "9bfc587a81fff5ad97370072df0a02b78a3ef0b6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/sparse_tropical_woods_quill.json",
+      "sha1": "20e151659d6cbd4aa864e8be0a1ac75f3d2c0dea"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/stratified_desert_quill.json",
+      "sha1": "46cb5b8cd8aef05f3da8771be79e851f5568212f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/sugi_forest_quill.json",
+      "sha1": "73d7a96bc4936a1a0eb1c748ecb3adc83bad9148"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/tropical_basin_quill.json",
+      "sha1": "e39d2a66c1acbafff9eabb3ac690a1387c50929a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/tropical_woods_quill.json",
+      "sha1": "bc1c619399d2ae5e8ea40230f6c586fac4e8f061"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/tundra_quill.json",
+      "sha1": "2480c53ca2aa06f29c67c3741867a4c239e18236"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/white_cliffs_quill.json",
+      "sha1": "87e11598a752cae8e0cb802759248d3cdb1a8a20"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/windswept_sugi_forest_quill.json",
+      "sha1": "51502a4319aac810356ea04f4d324c1b689af66a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/wisteria_forest_quill.json",
+      "sha1": "9d5a1bada4d97011bef658d5a479b030d96bd5d3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/wooded_drylands_quill.json",
+      "sha1": "e4e70b5b3ee8f8b69712e90fa43bb0e443a624b7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/wooded_highlands_quill.json",
+      "sha1": "c6d62b69a790b8a7f57fdb0e2e5e39427ac22150"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/natures_spirit/xeric_plains_quill.json",
+      "sha1": "6c76befb36ebd2f36a22c889f5f82297b4386d68"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/ocean_quill.json",
+      "sha1": "a8ff2ba67cc053b3bd0597cd080328a75b20f46a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/old_growth_birch_forest.json",
+      "sha1": "aec27ddc29fa0bf6ad04a90e89890bec01450e76"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/old_growth_pine_taiga.json",
+      "sha1": "4f722f5ad519fe8e86389834fecda774da2ebbee"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/old_growth_spruce_taiga.json",
+      "sha1": "b37523bf49259c427bd91a6499f5fcc99ced3324"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/plains_quill.json",
+      "sha1": "c5e9d65ab60f2f86454d74af58f6eef085d6c3a6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/savanna_plateau_quill.json",
+      "sha1": "5179001ba2098dcd7ac215d754b616aff4706db9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/savanna_quill.json",
+      "sha1": "f9de1b7222968ef567e5852344ab5cd37faccb30"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/snowy_plains_quill.json",
+      "sha1": "593d0ebd540b141542aaabc0073eea348eb83be8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/snowy_slopes_quill.json",
+      "sha1": "b8ca6188ea40bcba766d7ee1611cd64fb801154e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/snowy_taiga_quill.json",
+      "sha1": "5317eeb0fe2210d3949deb053f421f0eff7a669c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/sparse_jungle_quill.json",
+      "sha1": "45928d3f56656bd86a3349415f89b245a78c035e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/stony_peaks_quill.json",
+      "sha1": "ab6724734e8ce32236e1c05a1d7c3e168ea51053"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/sunflower_plains_quill.json",
+      "sha1": "5328d8f081d081c6b0f3a75e2bad033dd3ec3162"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/swamp_quill.json",
+      "sha1": "23fa832bde7d6f3607ca7164f0624be973bd04cb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/taiga_quill.json",
+      "sha1": "8190220e565e1ca0ec117ffd9ac6925ccdd16b50"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/warm_ocean_quill.json",
+      "sha1": "b94803976628aa6331377194a9889cc356a53f4a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/windswept_forest_quill.json",
+      "sha1": "ecc21f684241567d4f4717932285b3accba957f4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/windswept_gravelly_hills_quill.json",
+      "sha1": "420a51e96da61ce519d9bedcf2ae0810456cc75e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/windswept_hills_quill.json",
+      "sha1": "18b0e2913fee2fd5c80c1647c57d0724003175ed"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/windswept_savanna_quill.json",
+      "sha1": "674d02fa7c49f8d655fc33109a2f93dac513b55a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/wooded_badlands.json",
+      "sha1": "cf6a4eb2adea256eb070c8105075486945e0e070"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/pack.mcmeta",
+      "sha1": "208ba45c2768135602d7af21f582d0821ab18d17"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/algal_blend.json",
@@ -5811,18 +6195,6 @@
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",
       "sha1": "712e4a76bfe3c8768d8786e4f1922094f9cf6f7c"
-    },
-    {
-      "path": "overrides/config/spark/activity.json",
-      "sha1": "ab1606ae4198106d79aaa6409d39938aeb45f18c"
-    },
-    {
-      "path": "overrides/config/spark/config.json",
-      "sha1": "33b6644f61573b11848cde9419529737418e0207"
-    },
-    {
-      "path": "overrides/config/spark/tmp/about.txt",
-      "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2"
     },
     {
       "path": "overrides/config/spawn-client.toml",

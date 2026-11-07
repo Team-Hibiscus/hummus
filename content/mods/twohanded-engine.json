@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "LMRVHxZu",
       "slug": "twohanded-engine",
-      "versionId": "IZP73VkJ",
-      "versionNumber": "1.0.2",
-      "filename": "twohandedengine-1.0.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/LMRVHxZu/versions/IZP73VkJ/twohandedengine-1.0.2.jar",
-      "sha1": "54f9a710782480b04fb1926029afcc907d2997ce",
-      "sha512": "4fbbec3e46f5e1cc5a25df26e0efd5eee3b6e454f9af0f1b19c76e8b7c57dbb513f0a14f88cbe25eca60a9c841c50e37471c79e277bd6bcf9ac96d0b3d7500fb",
-      "fileSize": 14796
+      "versionId": "GfyWuOZ3",
+      "versionNumber": "1.0.3",
+      "filename": "twohandedengine-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LMRVHxZu/versions/GfyWuOZ3/twohandedengine-1.0.3.jar",
+      "sha1": "81c6828cc81f40f9a3a4a57bebb5d4a348ae8b9a",
+      "sha512": "f6cbf5a39a146a3e3e9a33715033d53d902d0f0042a54c7aa08e03632f192db961a6641231e4c66ef1c80e6437ace2470a54e8848d50afa4077a052d8bfb0b15",
+      "fileSize": 16922
     }
   },
   "dependents": [

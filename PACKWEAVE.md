@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 122 mods (19 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.252**, 126 mods (19 dependencies), 1 resource pack
 
 ## Contents
 
@@ -39,6 +39,7 @@
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `3.10.0`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
+- [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [EMIDiscovery](https://modrinth.com/project/emi-discovery) `2.1.0+1.21.1`
 - [Emojiful](https://modrinth.com/project/emojiful) `1.21-5.2.4`
@@ -74,6 +75,7 @@
 - [Kiwi 🥝](https://modrinth.com/project/kiwi) `15.8.7+neoforge`
 - [Linked Chests](https://modrinth.com/project/new-linked-chests) `v21.1.0-1.21.1-NeoForge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
 - [Menagerie Saturation](https://modrinth.com/project/menagerie-saturation) `1.0`
 - [MidnightLib](https://modrinth.com/project/midnightlib) `1.10.0+1.21.1-neoforge`
@@ -91,6 +93,7 @@
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.5.7`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
+- [Picture Mode](https://modrinth.com/project/picture-mode) `1.1.7+1.21.1-neoforge`
 - [Platform](https://modrinth.com/project/platform) `1.3.3`
 - [playerAnimator](https://modrinth.com/project/playeranimator) `2.0.4+1.21.1-forge`
 - [Portable Hole](https://modrinth.com/project/portable-hole) `v21.1.0-1.21.1-NeoForge`
@@ -98,6 +101,7 @@
 - [Pro Placer](https://modrinth.com/project/pro-placer) `v21.1.1-1.21.1-NeoForge`
 - [Quark](https://modrinth.com/project/quark) `4.1-487`
 - [Re-Locate](https://modrinth.com/project/relocate) `1.2.0`
+- [Recipes Library](https://modrinth.com/project/recipes-library) `1.21.1-4.0.2`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `4.1.2-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.7.1+1.21.1-neoforge`
@@ -119,10 +123,10 @@
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
-- [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.6`
+- [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.7`
 - [The Beyond](https://modrinth.com/project/the-beyond) `1.0.1`
 - [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.3b-InDev`
-- [Twohanded Engine](https://modrinth.com/project/twohanded-engine) `1.0.2`
+- [Twohanded Engine](https://modrinth.com/project/twohanded-engine) `1.0.3`
 - [Useful Spyglass](https://modrinth.com/project/useful-spyglass) `1.0.2`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
 - [You've Goat to be Kidding Me](https://modrinth.com/project/goated) `neoforge_1.21-1.4.3`
