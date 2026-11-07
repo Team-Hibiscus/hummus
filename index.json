@@ -2057,6 +2057,10 @@
       "sha1": "035990742ae6b7fe448e83e60a6a94e8b6c46dce"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/fish_from_cod.json",
+      "sha1": "0775c68f1e8b25a700703423e81e7658c0e7dfea"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_ash_brick_from_lumistone.json",
       "sha1": "79293112e9eeb99dacf621a8b36b8bb023340431"
     },
@@ -2465,6 +2469,14 @@
       "sha1": "867631eca81fa8098f63d70a05f317a618c45293"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/natures_delight/recipe/cooking/cocada.json",
+      "sha1": "e4e51e75eff1aeacb6de67e91c6a1abb8de68f32"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/natures_delight/recipe/cooking/coconut_bread.json",
+      "sha1": "aba4e5faaef7ee68302ed7475887bc317851efd4"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/natures_spirit/recipe/coconut_mosaic.json",
       "sha1": "324957459b9b20004eaca8532417b38ff9ee5676"
     },
@@ -2706,27 +2718,27 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/algal_blend.json",
-      "sha1": "6e9d763697ffd007757753bb7c5554b1ac50bb99"
+      "sha1": "840c85f7874902732da26ffd2d0ae434617260d6"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/cerebral_plate.json",
-      "sha1": "795ed4561507ca2b845c13a249ab268a1a023b26"
+      "sha1": "5d1495b816b99177c2841bf4d452542df771c49d"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/entwine_rod.json",
-      "sha1": "523fc8de2d1fe88f888d82db1a4ed9036f266c5b"
+      "sha1": "4c097c85da89982ec934b3c2233b0fdd0195afb1"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/oracle_jelly.json",
-      "sha1": "bfd7582b83f54d259ed96464bb27a34371701861"
+      "sha1": "e04a36e67ea422bcdfa69f476eec20480b998695"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/sunmetal_blend.json",
-      "sha1": "ef3b88ad6b2b0dd3a2a4140b57f80a176bcbed39"
+      "sha1": "e5abd5bf2d8618ac6cc766666f4816c54d5ff7fe"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/architects_palette/recipe/wardstone_blend.json",
-      "sha1": "6bf184381d8067fb13dc09e29baa55c5f038f404"
+      "sha1": "ba07a0c154a97dd9b33b01a6e4f8cb4e3da56407"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/creaturefeature/recipe/fiendish_soda.json",
@@ -2758,11 +2770,23 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/cake_from_milk_bottle.json",
-      "sha1": "cd75b303edc3cb2d46a030f2a512474cb31518b8"
+      "sha1": "ba5f661331081600190ecba8a7a44e0de134f52b"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/chocolate_pie.json",
       "sha1": "317e6e90996b7a23521b82a3bf33cdb710ce5fa0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/cooking/baked_cod_stew.json",
+      "sha1": "b33c5cd27ee8fa3667665b211cfc459005ac9095"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/cutting/cod.json",
+      "sha1": "0b02a3865d17a53b5b021444450f979b1969450c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/cutting/cooked_cod.json",
+      "sha1": "4d5873e5406905d87fa2d3723cb2aec81eb9292f"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/honey_cookie.json",
@@ -5582,15 +5606,43 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/lang/en_us.json",
-      "sha1": "bf9b623d0b861b0475a18ec085f8563b2545630a"
+      "sha1": "b2399ee05bc64445fc6b7f57294bc0aa45e6aaa4"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/block/rice_roll_medley.png",
+      "sha1": "b5473eeeae4f3e7708a02fe9a731f79875933541"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/cod_roll.png",
+      "sha1": "c1c9f606e06ab4967da64e762dc30db1611b4b75"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/cod_slice.png",
+      "sha1": "a79c3f9c6f1a012ce6e5e68eac7578e3a94d2bbb"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/golden_knife.png",
       "sha1": "61da76339e05687c398cf4c98c598bc1e315c124"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/rice_roll_medley_block.png",
+      "sha1": "4d4d3a5b53a049d6c574b5075d5d35f01ff95133"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/fintastic/textures/item/cooked_fish.png",
+      "sha1": "9de7c833530b61d03d3a482654cd74ac23e5c04f"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/fintastic/textures/item/raw_fish.png",
+      "sha1": "edc97d7e97f489b21b145bf1ea8ed912c2900473"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/hummus_external/lang/en_us.json",
-      "sha1": "6dfb1b1df1d57a63463f757de50641c44702da16"
+      "sha1": "9d8d80b6d486413143fb69361137e820ca225a9a"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/lang/en_us.json",
+      "sha1": "19399ffc608971342b9e3987cfb968f8e2f3890e"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_0.png",
@@ -5666,7 +5718,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "681178fdefbed35aa7d0c87643e5c493a3c1b641"
+      "sha1": "2ed1df29b181eab4b10c3ea325a1c4e12e5694fa"
     },
     {
       "path": "overrides/config/remi/remi.json",

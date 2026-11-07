@@ -16,7 +16,7 @@
       "item": "minecraft:wheat"
     },
     {
-      "item": "c:eggs"
+      "tag": "c:eggs"
     },
     {
       "item": "minecraft:sugar"

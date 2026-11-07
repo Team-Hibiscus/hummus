@@ -3,11 +3,6 @@
   "item.swordish.golden_glaive" : "Dawn Gold Glaive",
   "item.swordish.golden_dualblade" : "Dawn Gold Dualblade",
 
-  "block.minecraft.purpur_block": "Light Purpur Block",
-  "block.minecraft.purpur_pillar": "Light Purpur Pillar",
-  "block.minecraft.purpur_slab": "Light Purpur Slab",
-  "block.minecraft.purpur_stairs": "Light Purpur Stairs",
-
   "emi.info.oak_swamp_mud": "Growing a oak tree on top of a mud block results in a swamp oak tree.",
   "emi.info.oak_basic_muddy_mangrove_roots": "Growing a oak tree on top of a muddy mangrove roots block always results in a basic oak tree.",
   "emi.info.oak_bush_podzol": "Growing a oak tree on top of a podzol block results in a oak bush.",
