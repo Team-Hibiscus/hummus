@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "natures_spirit:wood_type/coconut",
+  "tag": "natures_spirit:wood_type/coconut",
+  "registry": "minecraft:item",
+  "enabled": true
+}

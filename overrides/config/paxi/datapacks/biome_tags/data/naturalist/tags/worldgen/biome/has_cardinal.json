@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "#natures_spirit:is_adobe",
+    "minecraft:birch_forest",
+    "minecraft:forest",
+    "minecraft:old_growth_birch_forest",
+    "natures_spirit:chaparral",
+    "natures_spirit:marsh",
+    "natures_spirit:oak_savanna",
+    "natures_spirit:prairie"
+  ],
+  "remove": [
+    "#c:is_desert",
+    "#c:is_forest",
+    "#c:is_sandy",
+    "#c:is_savanna",
+    "#c:is_swamp",
+    "#minecraft:is_forest",
+    "#minecraft:is_savanna",
+    "minecraft:desert",
+    "minecraft:mangrove_swamp"
+  ]
+}

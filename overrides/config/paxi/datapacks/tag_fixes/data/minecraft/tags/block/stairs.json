@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "creaturefeature:carapace_brick_stairs",
+    "creaturefeature:murky_pearl_tile_stairs",
+    "fintastic:stromatolite_bricks_stairs",
+    "natures_spirit:xeric_thatch_stairs",
+    "quark:polished_tuff_stairs",
+    "quark:tuff_bricks_stairs",
+    "quark:tuff_stairs",
+    "suppsquared:daub_frame_stairs",
+    "suppsquared:daub_stairs"
+  ]
+}

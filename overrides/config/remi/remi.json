@@ -24,7 +24,10 @@
   "disabledStackGroups": [
     "minecraft:stairs",
     "minecraft:slabs",
-    "minecraft:walls"
+    "minecraft:walls",
+    "fintastic:fishbowl_plants",
+    "minecraft:wool_carpets",
+    "farmersdelight:drinks"
   ],
   "stackGroupItemOrder": {
     "c:nuggets": [

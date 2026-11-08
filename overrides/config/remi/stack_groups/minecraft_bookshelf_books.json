@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "minecraft:bookshelf_books",
+  "tag": "minecraft:bookshelf_books",
+  "registry": "minecraft:item",
+  "enabled": true
+}

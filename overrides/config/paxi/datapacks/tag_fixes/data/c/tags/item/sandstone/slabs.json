@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:cut_pink_sandstone_slab",
+    "natures_spirit:pink_sandstone_slab",
+    "natures_spirit:smooth_pink_sandstone_slab",
+    "spawn:blasted_sandstone_slab",
+    "spawn:cut_blasted_sandstone_slab",
+    "spawn:smooth_blasted_sandstone_slab"
+  ]
+}

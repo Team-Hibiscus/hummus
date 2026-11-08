@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#c:foods/cookie",
+    "jadensnetherexpansiondelight:lightspores_cheesecake_slice",
+    "jadensnetherexpansiondelight:nightspores_cheesecake_slice",
+    "jadensnetherexpansiondelight:wisp_pie_slice",
+    "natures_delight:coconut_pancakes",
+    "supplementaries:pancake"
+  ]
+}

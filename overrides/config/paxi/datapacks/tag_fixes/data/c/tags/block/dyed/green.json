@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:green_canvas_sign",
+    "farmersdelight:green_hanging_canvas_sign",
+    "fintastic:green_aquarium_glass",
+    "fintastic:green_aquarium_glass_pane",
+    "natures_spirit:green_chalk",
+    "natures_spirit:green_chalk_slab",
+    "natures_spirit:green_chalk_stairs",
+    "natures_spirit:green_kaolin",
+    "natures_spirit:green_kaolin_brick_slab",
+    "natures_spirit:green_kaolin_brick_stairs",
+    "natures_spirit:green_kaolin_bricks",
+    "natures_spirit:green_kaolin_slab",
+    "natures_spirit:green_kaolin_stairs",
+    "natures_spirit:green_paper_lantern",
+    "netherexp:green_stained_redstone_lamp",
+    "quark:green_framed_glass",
+    "quark:green_framed_glass_pane",
+    "quark:green_shingles",
+    "quark:green_shingles_slab",
+    "quark:green_shingles_stairs",
+    "quark:green_shingles_vertical_slab",
+    "sleep_tight:hammock_green"
+  ]
+}

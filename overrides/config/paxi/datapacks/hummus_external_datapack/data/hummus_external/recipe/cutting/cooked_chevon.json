@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "goated:cooked_chevon"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "farmersdelight:mutton_chops"
+      }
+    }
+  ],
+  "tool": [
+    {
+      "type": "farmersdelight:item_ability",
+      "action": "knife_dig"
+    },
+    {
+      "tag": "c:tools/knife"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#natures_spirit:stripped_wood",
+    "architects_palette:stripped_twisted_wood",
+    "darkerdepths:stripped_petrified_wood",
+    "spawn:stripped_rotten_wood"
+  ]
+}

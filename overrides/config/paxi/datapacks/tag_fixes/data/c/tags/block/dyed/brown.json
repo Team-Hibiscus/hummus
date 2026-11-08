@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:brown_canvas_sign",
+    "farmersdelight:brown_hanging_canvas_sign",
+    "fintastic:brown_aquarium_glass",
+    "fintastic:brown_aquarium_glass_pane",
+    "natures_spirit:brown_chalk",
+    "natures_spirit:brown_chalk_slab",
+    "natures_spirit:brown_chalk_stairs",
+    "natures_spirit:brown_kaolin",
+    "natures_spirit:brown_kaolin_brick_slab",
+    "natures_spirit:brown_kaolin_brick_stairs",
+    "natures_spirit:brown_kaolin_bricks",
+    "natures_spirit:brown_kaolin_slab",
+    "natures_spirit:brown_kaolin_stairs",
+    "natures_spirit:brown_paper_lantern",
+    "netherexp:brown_stained_redstone_lamp",
+    "quark:brown_framed_glass",
+    "quark:brown_framed_glass_pane",
+    "quark:brown_shingles",
+    "quark:brown_shingles_slab",
+    "quark:brown_shingles_stairs",
+    "quark:brown_shingles_vertical_slab",
+    "sleep_tight:hammock_brown"
+  ]
+}

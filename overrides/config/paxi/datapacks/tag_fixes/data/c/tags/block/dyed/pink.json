@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:pink_canvas_sign",
+    "farmersdelight:pink_hanging_canvas_sign",
+    "fintastic:pink_aquarium_glass",
+    "fintastic:pink_aquarium_glass_pane",
+    "natures_spirit:pink_chalk",
+    "natures_spirit:pink_chalk_slab",
+    "natures_spirit:pink_chalk_stairs",
+    "natures_spirit:pink_kaolin",
+    "natures_spirit:pink_kaolin_brick_slab",
+    "natures_spirit:pink_kaolin_brick_stairs",
+    "natures_spirit:pink_kaolin_bricks",
+    "natures_spirit:pink_kaolin_slab",
+    "natures_spirit:pink_kaolin_stairs",
+    "natures_spirit:pink_paper_lantern",
+    "netherexp:pink_stained_redstone_lamp",
+    "quark:pink_framed_glass",
+    "quark:pink_framed_glass_pane",
+    "quark:pink_shingles",
+    "quark:pink_shingles_slab",
+    "quark:pink_shingles_stairs",
+    "quark:pink_shingles_vertical_slab",
+    "sleep_tight:hammock_pink"
+  ]
+}

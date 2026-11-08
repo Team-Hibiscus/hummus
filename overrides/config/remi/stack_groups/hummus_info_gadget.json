@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "hummus:info_gadget",
+  "tag": "hummus:info_gadget",
+  "registry": "minecraft:item",
+  "enabled": true
+}

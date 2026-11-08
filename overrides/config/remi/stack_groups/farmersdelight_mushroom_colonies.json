@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "farmersdelight:mushroom_colonies",
+  "tag": "farmersdelight:mushroom_colonies",
+  "registry": "minecraft:item",
+  "enabled": true
+}

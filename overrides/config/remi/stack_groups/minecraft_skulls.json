@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "minecraft:skulls",
+  "tag": "minecraft:skulls",
+  "registry": "minecraft:item",
+  "enabled": true
+}

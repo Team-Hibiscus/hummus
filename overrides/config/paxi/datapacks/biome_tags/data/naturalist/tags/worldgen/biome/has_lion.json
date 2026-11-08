@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:flowering_shrubland",
+    "natures_spirit:shrubland",
+    "natures_spirit:wooded_drylands",
+    "natures_spirit:xeric_plains"
+  ]
+}

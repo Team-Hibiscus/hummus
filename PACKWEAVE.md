@@ -39,7 +39,6 @@
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
 - [Elytra Trims](https://modrinth.com/project/elytra-trims) `3.10.0`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
-- [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI Loot](https://modrinth.com/project/emi-loot) `0.7.9+1.21+neoforge`
 - [EMIDiscovery](https://modrinth.com/project/emi-discovery) `2.1.0+1.21.1`
 - [Emojiful](https://modrinth.com/project/emojiful) `1.21-5.2.4`
@@ -75,6 +74,7 @@
 - [Kiwi 🥝](https://modrinth.com/project/kiwi) `15.8.7+neoforge`
 - [Linked Chests](https://modrinth.com/project/new-linked-chests) `v21.1.0-1.21.1-NeoForge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
 - [Menagerie Saturation](https://modrinth.com/project/menagerie-saturation) `1.0`

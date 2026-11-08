@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "jadensnetherexpansiondelight:cooked_hogham_slice",
+    "jadensnetherexpansiondelight:cooked_wraithing_flesh",
+    "jadensnetherexpansiondelight:cooked_wraithing_flesh_slice",
+    "netherexp:cooked_hogham",
+    "spawn:cooked_dodo"
+  ]
+}

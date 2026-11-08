@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "farmersdelight:drinks",
+  "tag": "farmersdelight:drinks",
+  "registry": "minecraft:item",
+  "enabled": false
+}

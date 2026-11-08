@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "minecraft:soul_fire_base_blocks",
+  "tag": "minecraft:soul_fire_base_blocks",
+  "registry": "minecraft:item",
+  "enabled": true
+}

@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "naturalist:turkey"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 3,
+        "id": "farmersdelight:chicken_cuts"
+      }
+    }
+  ],
+  "tool": [
+    {
+      "type": "farmersdelight:item_ability",
+      "action": "knife_dig"
+    },
+    {
+      "tag": "c:tools/knife"
+    }
+  ]
+}

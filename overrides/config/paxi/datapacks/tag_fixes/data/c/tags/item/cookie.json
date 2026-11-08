@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:honey_cookie",
+    "farmersdelight:sweet_berry_cookie",
+    "minecraft:cookie",
+    "spawn:date_cookie"
+  ]
+}

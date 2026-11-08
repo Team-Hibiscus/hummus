@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fintastic:raw_fish"
+  ],
+  "remove": [
+    "minecraft:cod"
+  ]
+}

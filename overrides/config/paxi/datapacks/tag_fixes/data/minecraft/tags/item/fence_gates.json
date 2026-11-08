@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "darkerdepths:petrified_fence_gate",
+    "enderscape:veiled_fence_gate",
+    "farmersdelight:rope_fence_gate",
+    "netherexp:claret_fence_gate",
+    "quark:nether_brick_fence_gate",
+    "spawn:date_fence_gate",
+    "spawn:rotten_fence_gate"
+  ]
+}

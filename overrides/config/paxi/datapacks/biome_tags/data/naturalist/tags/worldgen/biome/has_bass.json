@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:autumnal_river",
+    "natures_spirit:prairie_river"
+  ],
+  "remove": [
+    "#c:is_swamp",
+    "#minecraft:is_river",
+    "minecraft:mangrove_swamp"
+  ]
+}

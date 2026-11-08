@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:fir_forest",
+    "natures_spirit:oak_savanna",
+    "natures_spirit:prairie",
+    "natures_spirit:redwood_forest",
+    "natures_spirit:snowy_fir_forest"
+  ],
+  "remove": [
+    "#c:is_forest",
+    "#c:is_taiga",
+    "#minecraft:is_forest",
+    "#minecraft:is_taiga"
+  ]
+}

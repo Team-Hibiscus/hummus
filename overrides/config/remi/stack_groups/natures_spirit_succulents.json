@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "natures_spirit:succulents",
+  "tag": "natures_spirit:succulents",
+  "registry": "minecraft:item",
+  "enabled": true
+}

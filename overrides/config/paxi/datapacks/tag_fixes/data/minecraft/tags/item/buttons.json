@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "darkerdepths:petrified_button",
+    "enderscape:polished_end_stone_button",
+    "enderscape:polished_mirestone_button",
+    "netherexp:claret_button"
+  ]
+}

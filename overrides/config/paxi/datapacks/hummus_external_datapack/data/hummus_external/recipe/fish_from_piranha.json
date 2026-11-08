@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "naturalist:piranha"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "fintastic:raw_fish"
+  }
+}

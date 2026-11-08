@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "galosphere:sterling_horse_armor",
+    "hummus:copper_horse_armor",
+    // "hummus:galena_horse_armor",
+    "hummus:rose_gold_horse_armor"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:rope_fence",
+    "netherexp:bone_fence",
+    "netherexp:polished_blackstone_fence",
+    "supplementaries:wicker_fence"
+  ]
+}

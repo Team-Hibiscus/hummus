@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "netherexp:chiseled_soul_slate_bricks",
+    "netherexp:chiseled_soul_slate_tiles",
+    "netherexp:cracked_soul_slate_bricks",
+    "netherexp:etched_soul_slate_bricks",
+    "netherexp:etched_soul_slate_tiles",
+    "netherexp:pale_soul_slate",
+    "netherexp:soul_slate",
+    "netherexp:soul_slate_brick_pillar",
+    "netherexp:soul_slate_brick_slab",
+    "netherexp:soul_slate_brick_stairs",
+    "netherexp:soul_slate_brick_wall",
+    "netherexp:soul_slate_bricks",
+    "netherexp:soul_slate_slab",
+    "netherexp:soul_slate_stairs",
+    "netherexp:soul_slate_tile_slab",
+    "netherexp:soul_slate_tile_stairs",
+    "netherexp:soul_slate_tile_wall",
+    "netherexp:soul_slate_tiles",
+    "netherexp:soul_slate_wall"
+  ]
+}

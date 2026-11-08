@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "spawn:cooked_bluefish",
+    "spawn:cooked_bluefish_slice",
+    "spawn:cooked_herring",
+    "spawn:cooked_herring_slice",
+    "spawn:cooked_tuna_chunk",
+    "spawn:cooked_tuna_slice"
+  ]
+}

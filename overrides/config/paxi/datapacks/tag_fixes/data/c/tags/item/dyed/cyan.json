@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "bundle-backportish:cyan_bundle",
+    "farmersdelight:cyan_canvas_sign",
+    "farmersdelight:cyan_hanging_canvas_sign",
+    "fintastic:cyan_aquarium_glass",
+    "fintastic:cyan_aquarium_glass_pane",
+    "natures_spirit:cyan_chalk",
+    "natures_spirit:cyan_chalk_slab",
+    "natures_spirit:cyan_chalk_stairs",
+    "natures_spirit:cyan_kaolin",
+    "natures_spirit:cyan_kaolin_brick_slab",
+    "natures_spirit:cyan_kaolin_brick_stairs",
+    "natures_spirit:cyan_kaolin_bricks",
+    "natures_spirit:cyan_kaolin_slab",
+    "natures_spirit:cyan_kaolin_stairs",
+    "natures_spirit:cyan_paper_lantern",
+    "netherexp:cyan_stained_redstone_lamp",
+    "quark:cyan_framed_glass",
+    "quark:cyan_framed_glass_pane",
+    "quark:cyan_shard",
+    "quark:cyan_shingles",
+    "quark:cyan_shingles_slab",
+    "quark:cyan_shingles_stairs",
+    "quark:cyan_shingles_vertical_slab",
+    "sleep_tight:hammock_cyan"
+  ]
+}

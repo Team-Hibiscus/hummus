@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:sparse_tropical_woods",
+    "natures_spirit:tropical_basin",
+    "natures_spirit:tropical_shores",
+    "natures_spirit:tropical_woods"
+  ],
+  "remove": [
+    "#minecraft:is_jungle"
+  ]
+}

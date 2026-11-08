@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "architects_palette:nether_brass_nugget",
+    "hummus:copper_nugget",
+    "hummus:dawn_gold_nugget",
+    "hummus:galena_nugget",
+    "hummus:rose_gold_nugget"
+  ]
+}

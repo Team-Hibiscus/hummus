@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "bundle-backportish:lime_bundle",
+    "farmersdelight:lime_canvas_sign",
+    "farmersdelight:lime_hanging_canvas_sign",
+    "fintastic:lime_aquarium_glass",
+    "fintastic:lime_aquarium_glass_pane",
+    "natures_spirit:lime_chalk",
+    "natures_spirit:lime_chalk_slab",
+    "natures_spirit:lime_chalk_stairs",
+    "natures_spirit:lime_kaolin",
+    "natures_spirit:lime_kaolin_brick_slab",
+    "natures_spirit:lime_kaolin_brick_stairs",
+    "natures_spirit:lime_kaolin_bricks",
+    "natures_spirit:lime_kaolin_slab",
+    "natures_spirit:lime_kaolin_stairs",
+    "natures_spirit:lime_paper_lantern",
+    "netherexp:lime_stained_redstone_lamp",
+    "quark:lime_framed_glass",
+    "quark:lime_framed_glass_pane",
+    "quark:lime_shard",
+    "quark:lime_shingles",
+    "quark:lime_shingles_slab",
+    "quark:lime_shingles_stairs",
+    "quark:lime_shingles_vertical_slab",
+    "sleep_tight:hammock_lime"
+  ]
+}

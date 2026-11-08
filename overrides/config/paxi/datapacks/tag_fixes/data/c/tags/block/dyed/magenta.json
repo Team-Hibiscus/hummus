@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:magenta_canvas_sign",
+    "farmersdelight:magenta_hanging_canvas_sign",
+    "fintastic:magenta_aquarium_glass",
+    "fintastic:magenta_aquarium_glass_pane",
+    "natures_spirit:magenta_chalk",
+    "natures_spirit:magenta_chalk_slab",
+    "natures_spirit:magenta_chalk_stairs",
+    "natures_spirit:magenta_kaolin",
+    "natures_spirit:magenta_kaolin_brick_slab",
+    "natures_spirit:magenta_kaolin_brick_stairs",
+    "natures_spirit:magenta_kaolin_bricks",
+    "natures_spirit:magenta_kaolin_slab",
+    "natures_spirit:magenta_kaolin_stairs",
+    "natures_spirit:magenta_paper_lantern",
+    "netherexp:magenta_stained_redstone_lamp",
+    "quark:magenta_framed_glass",
+    "quark:magenta_framed_glass_pane",
+    "quark:magenta_shingles",
+    "quark:magenta_shingles_slab",
+    "quark:magenta_shingles_stairs",
+    "quark:magenta_shingles_vertical_slab",
+    "sleep_tight:hammock_magenta"
+  ]
+}

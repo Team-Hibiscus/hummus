@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "hummus:obsidian_glass",
+    "netherexp:discernment_glass",
+    "netherexp:soul_glass",
+    "netherexp:waxen_soul_glass",
+    "quark:dirty_glass_pane"
+  ]
+}

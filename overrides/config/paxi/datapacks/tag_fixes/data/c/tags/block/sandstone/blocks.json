@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:chiseled_pink_sandstone",
+    "natures_spirit:cut_pink_sandstone",
+    "natures_spirit:pink_sandstone",
+    "natures_spirit:smooth_pink_sandstone",
+    "spawn:blasted_sandstone",
+    "spawn:chiseled_blasted_sandstone",
+    "spawn:cut_blasted_sandstone",
+    "spawn:smooth_blasted_sandstone"
+  ]
+}

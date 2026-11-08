@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#spawn:deep_corals",
+    "natures_spirit:sedge_grass",
+    "spawn:fall_dragon_reeds",
+    "spawn:red_algae",
+    "spawn:spring_dragon_reeds",
+    "spawn:summer_dragon_reeds",
+    "spawn:winter_dragon_reeds"
+  ]
+}

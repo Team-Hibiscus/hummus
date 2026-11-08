@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:orange_canvas_sign",
+    "farmersdelight:orange_hanging_canvas_sign",
+    "fintastic:orange_aquarium_glass",
+    "fintastic:orange_aquarium_glass_pane",
+    "natures_spirit:orange_chalk",
+    "natures_spirit:orange_chalk_slab",
+    "natures_spirit:orange_chalk_stairs",
+    "natures_spirit:orange_kaolin",
+    "natures_spirit:orange_kaolin_brick_slab",
+    "natures_spirit:orange_kaolin_brick_stairs",
+    "natures_spirit:orange_kaolin_bricks",
+    "natures_spirit:orange_kaolin_slab",
+    "natures_spirit:orange_kaolin_stairs",
+    "natures_spirit:orange_paper_lantern",
+    "netherexp:orange_stained_redstone_lamp",
+    "quark:orange_framed_glass",
+    "quark:orange_framed_glass_pane",
+    "quark:orange_shingles",
+    "quark:orange_shingles_slab",
+    "quark:orange_shingles_stairs",
+    "quark:orange_shingles_vertical_slab",
+    "sleep_tight:hammock_orange"
+  ]
+}

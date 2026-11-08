@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "architects_palette:stripped_twisted_log",
+    "darkerdepths:stripped_petrified_log",
+    "netherexp:stripped_claret_stem",
+    "spawn:stripped_date_log",
+    "spawn:stripped_rotten_log"
+  ]
+}

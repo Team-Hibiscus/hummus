@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:alpine_clearings",
+    "natures_spirit:flowering_shrubland",
+    "natures_spirit:oak_savanna",
+    "natures_spirit:prairie",
+    "natures_spirit:shrubland"
+  ]
+}

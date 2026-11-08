@@ -73,6 +73,31 @@
     "mob": "naturalist:snail",
     "when": "onjoin",
     "result": "deny"
+  },
+  {
+    "mob": "naturalist:clam",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:anglerfish",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:crab",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:catfish",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:ant",
+    "when": "onjoin",
+    "result": "deny"
   }
 
 ]

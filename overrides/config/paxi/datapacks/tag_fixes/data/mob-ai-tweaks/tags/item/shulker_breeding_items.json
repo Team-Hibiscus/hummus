@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "brick_and_mortar:burnt_popped_chorus",
+    "brick_and_mortar:burnt_soul_popped_chorus",
+    "brick_and_mortar:light_popped_chorus",
+    "brick_and_mortar:light_soul_popped_chorus",
+    "brick_and_mortar:raw_popped_chorus",
+    "brick_and_mortar:raw_soul_popped_chorus",
+    "brick_and_mortar:soul_popped_chorus"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "architects_palette:nether_brass_torch",
+    "hummus:amethyst_torch",
+    "minecraft:redstone_torch"
+  ]
+}

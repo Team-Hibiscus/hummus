@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands"
+  ],
+  "remove": [
+    "#minecraft:is_badlands",
+    "#minecraft:is_savanna",
+    "minecraft:desert"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "creaturefeature:music_disc_nan",
+    "creaturefeature:music_disc_nothing",
+    "immersiveenchanting:music_disc_arcane_memories",
+    "immersiveenchanting:music_disc_biblioclasm",
+    "minecraft:music_disc_tears",
+    "netherexp:music_disc_buckshot_wonderland",
+    "netherexp:music_disc_cricket"
+  ]
+}

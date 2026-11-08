@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:purple_canvas_sign",
+    "farmersdelight:purple_hanging_canvas_sign",
+    "fintastic:purple_aquarium_glass",
+    "fintastic:purple_aquarium_glass_pane",
+    "natures_spirit:purple_chalk",
+    "natures_spirit:purple_chalk_slab",
+    "natures_spirit:purple_chalk_stairs",
+    "natures_spirit:purple_kaolin",
+    "natures_spirit:purple_kaolin_brick_slab",
+    "natures_spirit:purple_kaolin_brick_stairs",
+    "natures_spirit:purple_kaolin_bricks",
+    "natures_spirit:purple_kaolin_slab",
+    "natures_spirit:purple_kaolin_stairs",
+    "natures_spirit:purple_paper_lantern",
+    "netherexp:purple_stained_redstone_lamp",
+    "quark:purple_framed_glass",
+    "quark:purple_framed_glass_pane",
+    "quark:purple_shingles",
+    "quark:purple_shingles_slab",
+    "quark:purple_shingles_stairs",
+    "quark:purple_shingles_vertical_slab",
+    "sleep_tight:hammock_purple"
+  ]
+}

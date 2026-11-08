@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:carnation_fields",
+    "natures_spirit:cedar_thicket",
+    "natures_spirit:chaparral",
+    "natures_spirit:lavender_fields",
+    "natures_spirit:oak_savanna",
+    "natures_spirit:prairie",
+    "natures_spirit:shrubland",
+    "natures_spirit:tropical_woods",
+    "natures_spirit:wooded_drylands",
+    "natures_spirit:woody_highlands"
+  ]
+}

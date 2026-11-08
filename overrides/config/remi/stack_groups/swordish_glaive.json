@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "swordish:glaive",
+  "tag": "swordish:glaive",
+  "registry": "minecraft:item",
+  "enabled": true
+}

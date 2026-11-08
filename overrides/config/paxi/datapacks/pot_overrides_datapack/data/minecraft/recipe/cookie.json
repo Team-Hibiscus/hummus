@@ -4,7 +4,7 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:cocoa_beams"
+      "item": "minecraft:cocoa_beans"
     },
     {
       "tag": "c:crops/wheat"

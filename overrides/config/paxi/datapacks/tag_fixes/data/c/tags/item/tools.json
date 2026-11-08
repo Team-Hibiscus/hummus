@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#crafty_hands:gloves",
+    "minecraft:clock",
+    "minecraft:compass",
+    "oreganized:thermometer",
+    "supplementaries:altimeter"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "bundle-backportish:blue_bundle",
+    "farmersdelight:blue_canvas_sign",
+    "farmersdelight:blue_hanging_canvas_sign",
+    "fintastic:blue_aquarium_glass",
+    "fintastic:blue_aquarium_glass_pane",
+    "natures_spirit:blue_chalk",
+    "natures_spirit:blue_chalk_slab",
+    "natures_spirit:blue_chalk_stairs",
+    "natures_spirit:blue_kaolin",
+    "natures_spirit:blue_kaolin_brick_slab",
+    "natures_spirit:blue_kaolin_brick_stairs",
+    "natures_spirit:blue_kaolin_bricks",
+    "natures_spirit:blue_kaolin_slab",
+    "natures_spirit:blue_kaolin_stairs",
+    "natures_spirit:blue_paper_lantern",
+    "netherexp:blue_stained_redstone_lamp",
+    "quark:blue_framed_glass",
+    "quark:blue_framed_glass_pane",
+    "quark:blue_shard",
+    "quark:blue_shingles",
+    "quark:blue_shingles_slab",
+    "quark:blue_shingles_stairs",
+    "quark:blue_shingles_vertical_slab",
+    "sleep_tight:hammock_blue"
+  ]
+}

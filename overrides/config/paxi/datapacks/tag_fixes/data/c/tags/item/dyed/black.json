@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "bundle-backportish:black_bundle",
+    "farmersdelight:black_canvas_sign",
+    "farmersdelight:black_hanging_canvas_sign",
+    "fintastic:black_aquarium_glass",
+    "fintastic:black_aquarium_glass_pane",
+    "natures_spirit:black_chalk",
+    "natures_spirit:black_chalk_slab",
+    "natures_spirit:black_chalk_stairs",
+    "natures_spirit:black_kaolin",
+    "natures_spirit:black_kaolin_brick_slab",
+    "natures_spirit:black_kaolin_brick_stairs",
+    "natures_spirit:black_kaolin_bricks",
+    "natures_spirit:black_kaolin_slab",
+    "natures_spirit:black_kaolin_stairs",
+    "natures_spirit:black_paper_lantern",
+    "netherexp:black_stained_redstone_lamp",
+    "quark:black_framed_glass",
+    "quark:black_framed_glass_pane",
+    "quark:black_shard",
+    "quark:black_shingles",
+    "quark:black_shingles_slab",
+    "quark:black_shingles_stairs",
+    "quark:black_shingles_vertical_slab",
+    "sleep_tight:hammock_black"
+  ]
+}

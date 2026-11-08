@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:pink_sandstone_stairs",
+    "natures_spirit:smooth_pink_sandstone_stairs",
+    "spawn:blasted_sandstone_stairs",
+    "spawn:smooth_blasted_sandstone_stairs"
+  ]
+}

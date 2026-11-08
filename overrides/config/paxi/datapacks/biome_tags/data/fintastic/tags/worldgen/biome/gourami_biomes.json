@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#c:is_jungle",
+    "natures_spirit:lush_river",
+    "natures_spirit:pink_sandy_river"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "c:drinks",
+  "tag": "c:drinks",
+  "registry": "minecraft:item",
+  "enabled": true
+}

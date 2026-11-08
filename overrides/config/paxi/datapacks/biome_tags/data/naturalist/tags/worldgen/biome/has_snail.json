@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "natures_spirit:carnation_fields",
+    "natures_spirit:cedar_thicket",
+    "natures_spirit:chaparral",
+    "natures_spirit:cypress_fields",
+    "natures_spirit:flowering_shrubland",
+    "natures_spirit:golden_wilds",
+    "natures_spirit:heather_fields",
+    "natures_spirit:lavender_fields",
+    "natures_spirit:oak_savanna",
+    "natures_spirit:shrubby_highlands"
+  ]
+}

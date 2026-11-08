@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/amendments.json",
@@ -166,7 +166,7 @@
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "29e490e2f0d442ebf6b0ec2a8c7f4c446e5757d5"
+      "sha1": "ed9d68d2c5e3731100e76dda2a4b8fd5366d6a2a"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -191,10 +191,6 @@
     {
       "path": "content/mods/every-compat.json",
       "sha1": "dedf0d7ec47073a74dc52f7b883681070e77d222"
-    },
-    {
-      "path": "content/mods/extra-mod-integrations.json",
-      "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -323,6 +319,10 @@
     {
       "path": "content/mods/lithostitched.json",
       "sha1": "39a7668b56bc49b6b892d1989bbeafda578b8922"
+    },
+    {
+      "path": "content/mods/lmft.json",
+      "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
     },
     {
       "path": "content/mods/lodestonelib.json",
@@ -906,7 +906,7 @@
     },
     {
       "path": "overrides/config/fancymenu/customization/pause_screen_layout.txt",
-      "sha1": "5f0c8716d7ce4386fc23b926902ed4859dc3a6df"
+      "sha1": "6f310b60436777851089107e300b19b94f218403"
     },
     {
       "path": "overrides/config/fancymenu/customization/skin_customization_screen_layout.txt",
@@ -1082,7 +1082,7 @@
     },
     {
       "path": "overrides/config/incontrol/spawn.json",
-      "sha1": "0759899ebf7d6b41b5910f6c2b3a4cf3734bb57f"
+      "sha1": "fad102786af02ba31a63c38016cd795d38350b36"
     },
     {
       "path": "overrides/config/incontrol/spawner.json",
@@ -1163,6 +1163,10 @@
     {
       "path": "overrides/config/lithostitched.json",
       "sha1": "f6edbf678a085652ce6d37117f4099a1dd7b4c03"
+    },
+    {
+      "path": "overrides/config/lmft.json",
+      "sha1": "cc01fc9b9cfe79c57a1e65ac2f9915834fe446fe"
     },
     {
       "path": "overrides/config/lodestone-client.toml",
@@ -1250,7 +1254,7 @@
     },
     {
       "path": "overrides/config/naturalist-server.toml",
-      "sha1": "edc29ccc339dc279b79c576de4d0fa43f496a14b"
+      "sha1": "39c3ed32c3e7174f2e5cce4f3894eac7a3aa4486"
     },
     {
       "path": "overrides/config/natures_spirit-common.toml",
@@ -1303,6 +1307,242 @@
     {
       "path": "overrides/config/paxi/datapack_load_order.json",
       "sha1": "8e6ca7cb68c57cda98ed2569f124cddd1379ae47"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/amazon_sword_biomes.json",
+      "sha1": "1b997899daa76f7892d771c8ceab81b2b13994f8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/anubias_biomes.json",
+      "sha1": "151ceaab6bb9e5592205a95183d1ba18f4b6d5a1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/aquatic_moss_biomes.json",
+      "sha1": "6a075bbdbcdc56a254f04b9af3e06b546c1f7e96"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/catfish_biomes.json",
+      "sha1": "927f59103e72f5e98e5eb826058dce705274371e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/dwarf_frog_biomes.json",
+      "sha1": "147dce54dffda5bb6fb15c82f88034b77248a659"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/featherback_biomes.json",
+      "sha1": "8bca809fe1bac3a9811570ec1a26f49b6e818342"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/fintastic_salmon_biomes.json",
+      "sha1": "31ed1b6962d10389c6450c4f982ffab7a01e59df"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/fwshark_biomes.json",
+      "sha1": "927f59103e72f5e98e5eb826058dce705274371e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/gourami_biomes.json",
+      "sha1": "411f564bfb0df542ae5c46c54c3ae187c7092ffc"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/guppy_biomes.json",
+      "sha1": "147dce54dffda5bb6fb15c82f88034b77248a659"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/hornwort_biomes.json",
+      "sha1": "bd4a136a02a524d7cacbd737cf7c9f3a0a402adf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/minnow_surface_biomes.json",
+      "sha1": "927f59103e72f5e98e5eb826058dce705274371e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/moony_biomes.json",
+      "sha1": "d18939ed0f6f985a14684b7e8a7bde0d0f5e2840"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/fintastic/tags/worldgen/biome/small_catfish_biomes.json",
+      "sha1": "29d29a24eec1738c7bf0432e562b3a6297e2570f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/galosphere/tags/worldgen/biome/has_structure/forgotten_ruins.json",
+      "sha1": "01888dd0cfd9182f143c3b6baaff6a4c13148926"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/end_city.json",
+      "sha1": "8f8c86afd4f10b8dc144c23a592d56f7c94cf1dd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/jungle_temple.json",
+      "sha1": "14652ad1f7e22a36fde4254146d24ebf96a46c61"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json",
+      "sha1": "15c6ff094b17562819b82af356bf38c02c6eb785"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/mineshaft_mesa.json",
+      "sha1": "36c44f1a06f88032fb47d6ea845ab13d2baca33f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json",
+      "sha1": "d18939ed0f6f985a14684b7e8a7bde0d0f5e2840"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/trail_ruins.json",
+      "sha1": "e2e00d85f9ee9a487854c84e1fc2f6fd3da8e7ad"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json",
+      "sha1": "2b7815450852c1b31a349ede5c925fb53a8054bd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/increased_fire_burnout.json",
+      "sha1": "29d29a24eec1738c7bf0432e562b3a6297e2570f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/minecraft/tags/worldgen/biome/produces_corals_from_bonemeal.json",
+      "sha1": "d18939ed0f6f985a14684b7e8a7bde0d0f5e2840"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_ant_hill.json",
+      "sha1": "59785292f45fdf841511eef4873a264e0124b9e3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_bass.json",
+      "sha1": "665499f496722f111aa0011253d00002b5214d50"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_black_bear.json",
+      "sha1": "d79a66859e63618dd116f8d82414953f011f1eba"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_bluejay.json",
+      "sha1": "c6e3443bbe9cb1417418aa3ac74d03ec6971f1d7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_boar.json",
+      "sha1": "e836d78085a447a9809f7fa90179bf507d37e8e7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_cardinal.json",
+      "sha1": "6d9f28c191a75c6d90a9cf7a22ba6db07296adbb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_coral_snake.json",
+      "sha1": "59785292f45fdf841511eef4873a264e0124b9e3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_desert_scorpion.json",
+      "sha1": "2c60def563ae2e545f6e098bc12b18095d46adf2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_elephant.json",
+      "sha1": "a077abb406e1fe47e0627cddfe45ffdcd404116d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_finch.json",
+      "sha1": "241b5065b07ec3b1a572f8ffda8d48e893e27b5b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_firefly.json",
+      "sha1": "ecc894e79987eb8a9c9be5cc96f4dd893a4c14d7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_great_white_shark.json",
+      "sha1": "d18939ed0f6f985a14684b7e8a7bde0d0f5e2840"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_hedgehog.json",
+      "sha1": "2be923fa58deeae017d1ea811f05293715fb3485"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_hippo.json",
+      "sha1": "7b4bf9b944e943da1ee92e9377dc7d595859a84a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_komodo_dragon.json",
+      "sha1": "4f2b7f7293e55f73b1009454c7587d7bb82b672c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_lion.json",
+      "sha1": "220015aac9fd0fd5950932104cc9cbdfca8fe04c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_lizard.json",
+      "sha1": "884b85fc986776c21b002256b7d0882563c41baf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_mammoth.json",
+      "sha1": "c5c4385a675a57b4ae1acd1360605311e873861c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_ostrich.json",
+      "sha1": "b0d3fd2771bff436d103e4f870eebc0a8d6a6374"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_rattlesnake.json",
+      "sha1": "dd70818e2f91e33244f098f835c8e24815396353"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_rhino.json",
+      "sha1": "0ef8a1155bf35cd39ff2991843a051105a540761"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_snail.json",
+      "sha1": "63b093161bb442b39cd651d621dcb438c664bbd4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_sparrow.json",
+      "sha1": "bda615d51f5baf43f69bf13aea8aeff519308e5a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_tiger.json",
+      "sha1": "674a5a9b9dd667c8239ee4e50ce17d6b01fb9aef"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_tortoise.json",
+      "sha1": "59785292f45fdf841511eef4873a264e0124b9e3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_turkey.json",
+      "sha1": "7b20ef647c35d978675894eca9b10b4a77d08ef9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_vulture.json",
+      "sha1": "55721f81cb6aa1e8538a40faab678f2a11bea530"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_zebra.json",
+      "sha1": "155dcc3e09d2d80e5cb88888b19b0eed8d3f5b58"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/variant/tiger/black_panther.json",
+      "sha1": "927f59103e72f5e98e5eb826058dce705274371e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/variant/tiger/leopard.json",
+      "sha1": "52166806574b1613986f36658a799f57137daa7e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/spawn/tags/worldgen/biome/mob_spawns/coastal_crab_spawns.json",
+      "sha1": "c2a26cbe6316bf9fa27b0ea967a83e60ffcdfdb1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/spawn/tags/worldgen/biome/mob_spawns/hamster_spawns.json",
+      "sha1": "5b45a066895cf054c8b1b3179b6266e4975dd9fb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/spawn/tags/worldgen/biome/variant_spawns/base_cold_spawns.json",
+      "sha1": "9edd03f21cf7349bb2023d9f8c4e56a56065dd3f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/data/spawn/tags/worldgen/biome/variant_spawns/base_warm_spawns.json",
+      "sha1": "6844def0ad7787ee5fd5fea7cdb7cb80d9c4ed26"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/biome_tags/pack.mcmeta",
+      "sha1": "9374cb36bb3b958229dfd363243535849256e853"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/hybrid_beta/worldgen/density_function/overworld/caves/cheese.json",
@@ -2081,8 +2321,84 @@
       "sha1": "035990742ae6b7fe448e83e60a6a94e8b6c46dce"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/bushmeat.json",
+      "sha1": "686caddee06679c84c0a7efdfd6318665f291394"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/chevon.json",
+      "sha1": "c44a1470c4c04e3ec01bda161f9eaf71fab503d4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_bushmeat.json",
+      "sha1": "b1ffa409424d794d5ca08340419bd3f1f61a2344"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_chevon.json",
+      "sha1": "772ff7a1df1aa1336347ae9706186a9b5919223a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_dodo.json",
+      "sha1": "cdc96ea139140d5a1997c91ec2880675346b331f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_drumstick.json",
+      "sha1": "af3f2e00a8cee3bba3d57b91576601b5d1128446"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_duck.json",
+      "sha1": "ecdbe347acf22a52cb063253985a567f09c5c265"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_mammoth_meat.json",
+      "sha1": "fede40fd94711aa7b773015d6440c8db4ea7e75b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_turkey.json",
+      "sha1": "b4fb0d1eb1e607ce3ae3e936f7cce60b5b77d5ca"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_venison.json",
+      "sha1": "5ca70364c58c2b6bb9289d7fa75e45555e904b3e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/dodo.json",
+      "sha1": "df2a099cb1229e055e20c6e1089e716244a767c9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/drumstick.json",
+      "sha1": "32eb07c743b4628e663091cce274c9f6d000a3d0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/duck.json",
+      "sha1": "cc880999b7ae3e882f647e479a92e6b9a3574880"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/mammoth_meat.json",
+      "sha1": "82dccabec5648cd516e41ac66da258421e303174"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/turkey.json",
+      "sha1": "4f6e8c8a8e902ee2ace4b1366071254dd2fcb7a5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/venison.json",
+      "sha1": "06a05e78023bf03e1daf2cdb42c41d7733167f32"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/fish_from_bass.json",
+      "sha1": "c84bfd32cf5c701b23e07982978a7c2247d87925"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/fish_from_blobfish.json",
+      "sha1": "12ea3ccb248ff720aa30f81d9748fe1169aa1d7f"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/fish_from_cod.json",
       "sha1": "0775c68f1e8b25a700703423e81e7658c0e7dfea"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/fish_from_piranha.json",
+      "sha1": "00fdd2268d71984e44eeb7d8774e55a5a33c1537"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/gray_ash_brick_from_lumistone.json",
@@ -2737,6 +3053,10 @@
       "sha1": "54e37bafe68bd7027641ee297b4dd38c724ad835"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/has_ant_hill.json",
+      "sha1": "b221ec153f29e62c2cbf6a8c454ed35e266b870a"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/pack.mcmeta",
       "sha1": "6f87005dd405cc2f0cec7bf0b7102e993edf2528"
     },
@@ -3158,7 +3478,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/chocolate_pie.json",
-      "sha1": "317e6e90996b7a23521b82a3bf33cdb710ce5fa0"
+      "sha1": "b8e5b7051099a6aa80db20b5c804a96eff8ed5e2"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/farmersdelight/recipe/cooking/baked_cod_stew.json",
@@ -3398,7 +3718,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/cookie.json",
-      "sha1": "118c7697ba4a845758ce42658f6c009343a5deab"
+      "sha1": "2b1255f4af44ac40d396606ca22e74a4e0b35ee0"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/ender_eye.json",
@@ -3511,6 +3831,706 @@
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/pack.mcmeta",
       "sha1": "63ecd647fb980b733fedf74a10ff8c770432521f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/amendments/tags/item/sets_on_fire.json",
+      "sha1": "6593a49a7305425a1754fa9a6623b1fb7c25b3cf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/chains.json",
+      "sha1": "57cffb29ea17fbed0f30b3fcb752e196c1769090"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/chests.json",
+      "sha1": "d287df2b1237f6f4bbd11e91c3cc7260f319d375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/black.json",
+      "sha1": "1445bd4139d0910af08299ddc58fb8fc480f9446"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/blue.json",
+      "sha1": "0799aa418cc1aa70127a293e36ff60afba44ba4c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/brown.json",
+      "sha1": "5951a96d0db6f05406f147b57ad325e44f3dafc1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/cyan.json",
+      "sha1": "38187393762e5211803a155de6c2ffe3eb787dc9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/gray.json",
+      "sha1": "f9f178e98edb45d926dde0d42e3b9a6d90a25e0f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/green.json",
+      "sha1": "5e755c158e2c33804e4ecaecdec0d6a93a4c0ec8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/light_blue.json",
+      "sha1": "202fedea5eb137610fd512abc6e498ffad20a352"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/light_gray.json",
+      "sha1": "87fd0d98f2fa8f6d90a136bac98a02b56ac8572f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/lime.json",
+      "sha1": "cb27a6a6b30a0ac92fb6ec12134ff8e65c067384"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/magenta.json",
+      "sha1": "237373da2e0091f510288f2892a7af722dd029b4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/orange.json",
+      "sha1": "23691dae71228efc5ad44f98ef7f3b961e945e45"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/pink.json",
+      "sha1": "e02a1bb6731f76106f891f6008cf773eb467665e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/purple.json",
+      "sha1": "703f2cf230f50f58d990a32c8b12269a161c9f36"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/red.json",
+      "sha1": "048e0795e4a122611fd537f3d60c8db5487671a3"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/white.json",
+      "sha1": "358de4aa6a2a2b0caae3a3663659b25876b57195"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/dyed/yellow.json",
+      "sha1": "880c816dc9f9f6861ed01dfa34328d2c450b3e04"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/fence_gates/wooden.json",
+      "sha1": "33ab4224f9975eb05435b387e59b83b11c1d8182"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/fences.json",
+      "sha1": "0942b5ba5bf8806ab35752b0e587751e9d54ebca"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/glass_blocks.json",
+      "sha1": "6d04f5e8b65e3b642697e10a332e2972f21f544f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/glass_blocks/tinted.json",
+      "sha1": "073d850134975bfeb55be2935fb6bf7abb9ba192"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/mushrooms.json",
+      "sha1": "b1730f8ab1bfcdb4e197b54e7fae83ad7a641b98"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/sands.json",
+      "sha1": "7c639c36fe1bc69b4a2d2ab62dc608f9f95ff702"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/sandstone/blocks.json",
+      "sha1": "fac4f0fc6836e769933fd92513133bece9bcec35"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/sandstone/slabs.json",
+      "sha1": "e748356e2978affa344d97ac9b54f7fbf415278c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/sandstone/stairs.json",
+      "sha1": "12c1abfe6afd19ce53ba7d15e0a8a6510614fae8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/stones.json",
+      "sha1": "a84190016827230de22f7fdb07526271aa7fa854"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/stripped_logs.json",
+      "sha1": "c91d8002ffc52c950cc495a17aab05e7754b02dc"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/block/stripped_woods.json",
+      "sha1": "ff46ee718b4f9ec624935078441000ee7633d057"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/bones.json",
+      "sha1": "b3942b22d1725f09465cdda141291181bd6e4a9e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/buckets.json",
+      "sha1": "9b6893c0bfeca9f93f888a1a9736a14f05aa8162"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/buckets/entity_water.json",
+      "sha1": "19a687d132b4c9c13263af48e670cef321666740"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/chains.json",
+      "sha1": "57cffb29ea17fbed0f30b3fcb752e196c1769090"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/chests.json",
+      "sha1": "d287df2b1237f6f4bbd11e91c3cc7260f319d375"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/cookie.json",
+      "sha1": "7a93c8853d68fcc94eeba2daed3f656e51b22c27"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/crops/cabbage.json",
+      "sha1": "26f3684e83cea291e944131818d8d5bde9e52806"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/drinks.json",
+      "sha1": "5e9326c8cb52086f6d683a468c7d5cf69f237326"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/black.json",
+      "sha1": "82a6975758e66bf5c7423a18cef6c717d558d977"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/blue.json",
+      "sha1": "aae0b25b82365c7977067dc1b8cba74db94c23d7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/brown.json",
+      "sha1": "5c873aa5ed668b4eeb9d339547205cd187a6654e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/cyan.json",
+      "sha1": "25bbd27d0676f4af6cd6d370d55a6514b19c6e17"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/gray.json",
+      "sha1": "7ec6a6687cb20e54afa7f376107bc271d2879b03"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/green.json",
+      "sha1": "7e34a665a795c17428fee4a84f28584eff36f32f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/light_blue.json",
+      "sha1": "d09503f06258b71bb9fb1d57bacf6f65f422ac11"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/light_gray.json",
+      "sha1": "2e5e0a5c550ad450f70c54cf23e1bfe3d4e9f371"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/lime.json",
+      "sha1": "0e0b5ff1eff5669445d0fa9a48defdcd6e7caa89"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/magenta.json",
+      "sha1": "597461028c781c10ec59298fb1ad3b50e2bab421"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/orange.json",
+      "sha1": "c3254679880fdf961e857eefe83a07ddd29b31f5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/pink.json",
+      "sha1": "4aeff00c67bfe718552d4e51657441c8f7d3cf19"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/purple.json",
+      "sha1": "07cdf447baf5a5e3e340b3585d4b3572979229f7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/red.json",
+      "sha1": "a7454861fb51b04f9f8a26d7bbc277d1e0008d3b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/white.json",
+      "sha1": "3d5280f3a31aa50fa97fa4844b49ca0460efbd91"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/dyed/yellow.json",
+      "sha1": "997dc2a1a6a169a7d3075081e4000bb7cb8af2d4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/feathers.json",
+      "sha1": "107568b4dfe3cf9358b2bc799be775b571770488"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/fence_gates/wooden.json",
+      "sha1": "b46574b091c4fe4e9d32cc94ff92e1ba55e55f35"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/fences.json",
+      "sha1": "0942b5ba5bf8806ab35752b0e587751e9d54ebca"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods.json",
+      "sha1": "3380c8f423ed026186b7607dc7534a47b29c966f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/berry.json",
+      "sha1": "7bca0d1bfe72e4b6cab254e53a01b1bf3783fd5a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/bread.json",
+      "sha1": "d0ed8fc6c42c303b57ccfcf3521dc7188bf5dbaa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_beef.json",
+      "sha1": "862b4201c437e7d478decbdb135ce4922aee264a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_chicken.json",
+      "sha1": "2eb2d3e725e9f8aed12419254a3a4cf454d22c86"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_cod.json",
+      "sha1": "c6c9159932959e5a3c886bee941b3b44e4431dd1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_fish.json",
+      "sha1": "9e74ab0b5277cbdfce1449754eaad88151be2ebe"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_meat.json",
+      "sha1": "6d7d2d2ecf8aba93087758c31f8fe509973abd37"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_mutton.json",
+      "sha1": "6af61ea8d5bc59dfe9606c14e6d3e758ad990580"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cooked_pork.json",
+      "sha1": "1459566d9e17bb4f7b8bda49ab77cecf76114aa9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/cookie.json",
+      "sha1": "0a930f5448e038b50de8efab60cfbcdcc84cdd18"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/edible_when_placed.json",
+      "sha1": "3a92b4cfcbbef21a7265305fa9cdcaf5322a7294"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/fruit.json",
+      "sha1": "7ecd6c3096419ebaf3e75884f8adf6cf7874aa00"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/golden.json",
+      "sha1": "5a76236006e686f2860fc044eee36f5ce4b5dabd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/pie.json",
+      "sha1": "48c49261af27bdc20eac05125165a68831c07513"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/raw_beef.json",
+      "sha1": "99f2986a6ec30a4d6210ab7789f55b033e0f9e69"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/raw_chicken.json",
+      "sha1": "0d2dc6e16446051ab878a418ac5a7a6003bf5ceb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/raw_cod.json",
+      "sha1": "27648f2d87692fede0a9f6be5a45aa72375d30f2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/raw_fish.json",
+      "sha1": "90eb9af5e3bc345537406b34031c736b6d58bbe7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/raw_meat.json",
+      "sha1": "29dc81a6a26eb1c72c70076aa94976918df671cb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/raw_mutton.json",
+      "sha1": "504d4ab519ab8bd30f1f4b795632009dae71bbe6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/safe_raw_fish.json",
+      "sha1": "a6db86017de6057909c1b811cd1f83bc5d6dfdb9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/foods/soup.json",
+      "sha1": "12f55a87bfb9012324265cde0c4ecc618468f308"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/gems.json",
+      "sha1": "e2f76310dfe634481f39ef083c35ee1c56ecef23"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/glass_blocks.json",
+      "sha1": "9b2717c41a0ce97de9cf114faf385a95f8736abe"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/glass_blocks/tinted.json",
+      "sha1": "073d850134975bfeb55be2935fb6bf7abb9ba192"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/horse_armor.json",
+      "sha1": "a0a358af1eb1183e4d19f0ab183fd49437d47c5a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/ingots.json",
+      "sha1": "d0026463cc51cae0afe3328523789e6741baf046"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/mushrooms.json",
+      "sha1": "b1730f8ab1bfcdb4e197b54e7fae83ad7a641b98"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/music_discs.json",
+      "sha1": "9536a507cff9616e21600331e7e0aed435194e5c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/nuggets.json",
+      "sha1": "359786fb576f306271884ff4ec505d0ec79715a7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/nuggets/copper.json",
+      "sha1": "32a9a883a93eed56b011f91e648d6555dd11b58c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/sands.json",
+      "sha1": "7c639c36fe1bc69b4a2d2ab62dc608f9f95ff702"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/sandstone/blocks.json",
+      "sha1": "fac4f0fc6836e769933fd92513133bece9bcec35"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/sandstone/slabs.json",
+      "sha1": "e748356e2978affa344d97ac9b54f7fbf415278c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/sandstone/stairs.json",
+      "sha1": "12c1abfe6afd19ce53ba7d15e0a8a6510614fae8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/stones.json",
+      "sha1": "a84190016827230de22f7fdb07526271aa7fa854"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/stripped_logs.json",
+      "sha1": "25822994c9658ea12a9f0c4ec3a04a126f4cca34"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/stripped_woods.json",
+      "sha1": "adc2fdda3cbc42fcddcd213570841cd8bf7fa039"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/c/tags/item/tools.json",
+      "sha1": "9df3488b1efbf04d14a83002a7a2bf3df3b84709"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/block/feasts.json",
+      "sha1": "ba5c656a24141562325b9ff22202000d38bcfa55"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/block/mushroom_colonies.json",
+      "sha1": "d4a17294574156ac1a2c107ed7a33d9a668fbd02"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/block/pies.json",
+      "sha1": "846dbde9ba8fd52234d067ed2e92260f9cdc896d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/drinks.json",
+      "sha1": "e790c12ed1084fc65c0c535951344152ec86d8e7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/feasts.json",
+      "sha1": "ba5c656a24141562325b9ff22202000d38bcfa55"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/meals.json",
+      "sha1": "21dcce40c32d935c768e81e36e5f17826fb98a23"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/mushroom_colonies.json",
+      "sha1": "d4a17294574156ac1a2c107ed7a33d9a668fbd02"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/pies.json",
+      "sha1": "846dbde9ba8fd52234d067ed2e92260f9cdc896d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/snacks.json",
+      "sha1": "8f2d3b08d8e3b7b49540a53ca79a4bd45f244311"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/farmersdelight/tags/item/sweets.json",
+      "sha1": "a0385d7a182cb4b172568aac1ea5fcbb2cb1bcaf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/fintastic/tags/item/fishbowl_plants.json",
+      "sha1": "1a95b5aedb6d0cefd28ea4e309b7f3e632457f6d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/dirt.json",
+      "sha1": "c33383477f91d7554e83cdef4d3a5ab5fd1ab4d5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/fence_gates.json",
+      "sha1": "c0ec85286556f70929f744d89599f91138c215fa"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/fences.json",
+      "sha1": "9d4ecae83410cb4e90a74ab72fa282ab24e29504"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/piglin_repellents.json",
+      "sha1": "36eb477c22087c2e7bb85c236a2c9b8aba5b77cb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/saplings.json",
+      "sha1": "fd733866ba591bf15c1772af3d6cfd5bbfdbe1bc"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/slabs.json",
+      "sha1": "e2b4c69cc1706d8a0c8f4e0263d26491afb6332b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/small_flowers.json",
+      "sha1": "71a8103a01df1a3da831acbb0ad296cc7743ce45"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/stairs.json",
+      "sha1": "6bc1061f6936f8a2cec116339984c81c8c70e607"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/walls.json",
+      "sha1": "2807dbd8fb9d84406ec8eac76c45fa06f8844686"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/boats.json",
+      "sha1": "e59119777f1fd7c3a4553391b04ed3d87b028c96"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/breaks_decorated_pots.json",
+      "sha1": "bb10bbcabd208d992227d81b727e27906276cb4c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/buttons.json",
+      "sha1": "bfae31113f46dec1a4bb2ae05ff5363e469fce4b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/cat_food.json",
+      "sha1": "f29892f8d10c822f566e47979c51e8eee5253bc1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/chest_boats.json",
+      "sha1": "c472ea267cdeddbb76448740febcb868ff8a01eb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/dirt.json",
+      "sha1": "c33383477f91d7554e83cdef4d3a5ab5fd1ab4d5"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/fence_gates.json",
+      "sha1": "1d35bf4909bb7eec1266b6e28484709bd259e802"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/fences.json",
+      "sha1": "726887e968d5e08420e085cd43dc91e38fffdaec"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/flowers.json",
+      "sha1": "14e92945ace193f5c9fac035fc8b837ddf47a56f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/leaves.json",
+      "sha1": "997b1dfbb7f26e11af2c79796988356d29b4c442"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/meat.json",
+      "sha1": "5d6f7a4ea7f818d9122e4c45121b5586d92728db"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/ocelot_food.json",
+      "sha1": "d03dd31f80d2ed3764203a5230383ba892fa519e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/piglin_repellents.json",
+      "sha1": "36eb477c22087c2e7bb85c236a2c9b8aba5b77cb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/saplings.json",
+      "sha1": "fd733866ba591bf15c1772af3d6cfd5bbfdbe1bc"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/signs.json",
+      "sha1": "1b3b91386a185d70342a5861ed25b7170e384ca1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/slabs.json",
+      "sha1": "3f31644267e69fba6ba03efc0a6f780a82928324"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/small_flowers.json",
+      "sha1": "71a8103a01df1a3da831acbb0ad296cc7743ce45"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/soul_fire_base_blocks.json",
+      "sha1": "3a7225bdd39c316067b754d8857296f4415b9c22"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/stairs.json",
+      "sha1": "5191afc587b9b3de528ab3b00420f4595a6bc1a2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/stone_buttons.json",
+      "sha1": "1cdb713e5ce288b46873750d9b55d52ab93c4507"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/turtle_food.json",
+      "sha1": "163bafd8a40dd2ed2e4fce543b4dd118338a07eb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/walls.json",
+      "sha1": "6bde6703d658dde5ae9e78ad9d18b72e06a191da"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_buttons.json",
+      "sha1": "8f130b1e01ab51d658ac45c3ebc3e875f7ed2386"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_doors.json",
+      "sha1": "51b0da150827db7e9b3526845b2e86a06dc7b873"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_fences.json",
+      "sha1": "7bc39858a77182af80f5b6a721a40ca536cfb982"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_pressure_plates.json",
+      "sha1": "841df0652a24da95250d6021cb0aa1e9d523a188"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_slabs.json",
+      "sha1": "0c630a77e67f3f0cd481464f5ae074e91d10638a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_stairs.json",
+      "sha1": "cc2ccf5bd46555aee3e61c6c19444be11ddb9a68"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_trapdoors.json",
+      "sha1": "0e0fdd190eb54fddf5055dda9212aef33548f307"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/mob-ai-tweaks/tags/item/shulker_breeding_items.json",
+      "sha1": "8fc46f1b2a59fcdde09a959692796cb7f3229588"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/alligator_food_items.json",
+      "sha1": "29dc81a6a26eb1c72c70076aa94976918df671cb"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/bird_food_items.json",
+      "sha1": "46d077c4d600095411a9ae35cea45ccd5eda23c4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/boar_food_items.json",
+      "sha1": "2d9013ac07e6e775c7ba4c62f6b22cb8e96bcaf0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/eggs.json",
+      "sha1": "f8bf912ca97420b08da41ea251a0849e4412902b"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/giant_isopod_food.json",
+      "sha1": "5f0afb15a443122a9760d9143a8786c5d6077f5e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/great_white_shark_food_items.json",
+      "sha1": "5f0afb15a443122a9760d9143a8786c5d6077f5e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/ostrich_food_items.json",
+      "sha1": "46d077c4d600095411a9ae35cea45ccd5eda23c4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/rat_food.json",
+      "sha1": "b04c5faeb3e01a2bbcd92ae4ee1982c51e15a81e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/snake_tempt_items.json",
+      "sha1": "3976c74c243996d8063a867e0bbe59a3ee0ddd94"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/naturalist/tags/item/turkey_food_items.json",
+      "sha1": "46d077c4d600095411a9ae35cea45ccd5eda23c4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/natures_spirit/tags/item/evergreen_leaves.json",
+      "sha1": "3ae36c8ea329107e7eb2088630955c0a356ac071"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/natures_spirit/tags/item/xeric_leaves.json",
+      "sha1": "ecfc5959bdcbc9607511b5940d51780b96268a84"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/oreganized/tags/item/enchanted_book_like.json",
+      "sha1": "59dda15af34ec603c31ee2521aae702bb5d3a6d0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/oreganized/tags/item/lead_protection/helmet_standalone.json",
+      "sha1": "91e380a57d5ac5a1ae5eb55f7bc2017dc26399bf"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/angers_bluefish.json",
+      "sha1": "f29892f8d10c822f566e47979c51e8eee5253bc1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/ant_feeds.json",
+      "sha1": "936d79fc0c731701ac4b2f5ddb9cdf472040246f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/booby_collects.json",
+      "sha1": "f29892f8d10c822f566e47979c51e8eee5253bc1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/coastal_crab_feeds.json",
+      "sha1": "208d332faf351c49c5e6e52366b820968957e6a7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/hamster_tempts.json",
+      "sha1": "46d077c4d600095411a9ae35cea45ccd5eda23c4"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/sea_cow_likes.json",
+      "sha1": "440914a5e90a6d2548aebf4aeb63ed120d546ebc"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/sea_cow_loves.json",
+      "sha1": "10c3fe1cc0ef3c9fc386f52a7d00f03622f8fb98"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/seal_feeds.json",
+      "sha1": "27648f2d87692fede0a9f6be5a45aa72375d30f2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/seal_tempts.json",
+      "sha1": "27648f2d87692fede0a9f6be5a45aa72375d30f2"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/snail_feeds.json",
+      "sha1": "5f425da6b2fdaeac482f88b55eb1ab3dd0da67a0"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/sunfish_feeds.json",
+      "sha1": "6e769b79ca7ee9b89ff1831b015aab734fa9ebee"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/data/spawn/tags/item/tuna_feeds.json",
+      "sha1": "208d332faf351c49c5e6e52366b820968957e6a7"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/tag_fixes/pack.mcmeta",
+      "sha1": "28cbbcc4667f223266433969926d67c655151288"
     },
     {
       "path": "overrides/config/paxi/resourcepack_load_order.json",
@@ -6102,11 +7122,11 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "2ed1df29b181eab4b10c3ea325a1c4e12e5694fa"
+      "sha1": "8c3232f5d8911a349e1861588faf4fd238f07208"
     },
     {
       "path": "overrides/config/remi/remi.json",
-      "sha1": "f320f8237f3ca62b53d333187e384b2db79c375c"
+      "sha1": "90b1d837c350f49f70e48d2a2d47f6b6ff484e49"
     },
     {
       "path": "overrides/config/remi/stack_groups/bamboo_spikes.json",
@@ -6115,6 +7135,42 @@
     {
       "path": "overrides/config/remi/stack_groups/buntings.json",
       "sha1": "467d2ff1d1c694e4e14ad8f6580fe2dc551220ae"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_bookshelves.json",
+      "sha1": "2606faf355be671f1f4e4c173ea7b970d6f8f574"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_bricks.json",
+      "sha1": "90b0d644fbec6034abcb3083fe5221647ab3c934"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_drinks.json",
+      "sha1": "ef8d3dbe6aa0af50e26f4b706013b91ccffb8603"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_eggs.json",
+      "sha1": "fa2d34a38d1d54d7d98b4548bb38e273bb85eb6d"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_ladders.json",
+      "sha1": "4a2ccdc12cd7b35c7072092944fcccd7da3bee42"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_sandstone_blocks.json",
+      "sha1": "dc3bcfe674580a425991dec1449ec0a3c4d8e869"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_storage_blocks.json",
+      "sha1": "8ff096433c67b4a5205280fe97f8d9355e2d48e4"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_tools_knife.json",
+      "sha1": "c5b43168cb3ec46e7209cd38be38aa426cb79edc"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/c_tools_shield.json",
+      "sha1": "4205738ab16613d4f7760bebd4c040ca8ce0856b"
     },
     {
       "path": "overrides/config/remi/stack_groups/cabinets.json",
@@ -6129,8 +7185,24 @@
       "sha1": "e7a1bba2d57f755e9ef944056962d0fef24158f5"
     },
     {
+      "path": "overrides/config/remi/stack_groups/farmersdelight_drinks.json",
+      "sha1": "30090c57236534c993fbd3574dab52237477a952"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/farmersdelight_mushroom_colonies.json",
+      "sha1": "4d6386dc843ff10b2b3b6629da5ab99164bcbdd3"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/fintastic_fishbowl_plants.json",
+      "sha1": "d5ddcecefe78dbf41f987c34cf21bd48896385a8"
+    },
+    {
       "path": "overrides/config/remi/stack_groups/hammocks.json",
       "sha1": "cc875cba4ca98298644ab0e40372a2b39bc6460e"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/hummus_info_gadget.json",
+      "sha1": "3d70b3ac3ee77f7fea87902a9b424d00c3594d9f"
     },
     {
       "path": "overrides/config/remi/stack_groups/kaolin.json",
@@ -6141,12 +7213,100 @@
       "sha1": "03d116f5edda29f6e12f30e1b9afbadddd0e65c7"
     },
     {
+      "path": "overrides/config/remi/stack_groups/minecraft_bookshelf_books.json",
+      "sha1": "d818e62736aa3e329f2b222d1ef8c0ad751ccee4"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/minecraft_chest_armor.json",
+      "sha1": "f83d18b294ce163b07002587266ad352a55203dd"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/minecraft_foot_armor.json",
+      "sha1": "f3d4d720a1ea97b965eb261b1eb827c548ce1acd"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/minecraft_head_armor.json",
+      "sha1": "e3e3c73b27df5933e94868a7613db2fd7d8ca5a0"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/minecraft_leg_armor.json",
+      "sha1": "125da4c49c846bc3643ad1219bf3567dca24ce49"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/minecraft_skulls.json",
+      "sha1": "f575f6db928bab0ceed0ab21d9ebba034196b705"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/minecraft_soul_fire_base_blocks.json",
+      "sha1": "afc69ceeef971effbccfe3d91342db8298d41932"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/natures_spirit_succulents.json",
+      "sha1": "615e52b9303f575300d584567d7bbd7cd7fcb20e"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/natures_spirit_wood_type_coconut.json",
+      "sha1": "6efa43ed6bbf43c7bb6441a51e35721d55fe3606"
+    },
+    {
       "path": "overrides/config/remi/stack_groups/presents.json",
       "sha1": "a56fdcfb68c7695f0cf9f60fc2c0fe71f544887a"
     },
     {
+      "path": "overrides/config/remi/stack_groups/quark_hedges.json",
+      "sha1": "3a41cc445a5d473d0a8011566d5d12d19b0c9f4a"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/quark_posts.json",
+      "sha1": "340c2268aaec29698e060743b90f19b3e9da3e4d"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/quark_revertable_chests.json",
+      "sha1": "e48102bccf6dc6cb75e2264e45bdf1255521b798"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/quark_revertable_trapped_chests.json",
+      "sha1": "06d8ca33e10a07e2c9fe50ba0e44bd2e39ec7f7f"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/quark_shards.json",
+      "sha1": "ba03c9eea79abe59c8f50134189756a5de2b22b8"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/quark_stools.json",
+      "sha1": "fc57c5237a42d6c95da5ce69e556f0c2d1278ff2"
+    },
+    {
       "path": "overrides/config/remi/stack_groups/sacks.json",
       "sha1": "852773e5b432777d1419370a03856e2362470a63"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/supplementaries_awnings.json",
+      "sha1": "1bd4765a07d8c06d027f1e016afdfa92ddcac47f"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/supplementaries_trapped_presents.json",
+      "sha1": "a9bcae5e200600d8080ab54e71c3fd992784917a"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/supplementaries_way_signs.json",
+      "sha1": "80c123a707e685a256040c7c2f91b3c86aa51fcb"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/suppsquared_item_shelves.json",
+      "sha1": "c7923e2de2225d9f065154e87a46798ec3345e24"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/swordish_dualblade.json",
+      "sha1": "dceea2736b7ae3853e1bed143d343edaf848aa4c"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/swordish_glaive.json",
+      "sha1": "571e9eb36af6c08d04e320d2f43e97946814396b"
+    },
+    {
+      "path": "overrides/config/remi/stack_groups/swordish_halberd.json",
+      "sha1": "443c7415f141a07daa6c932a1eae8bd40dedbcec"
     },
     {
       "path": "overrides/config/scalablelux.properties",
@@ -6319,6 +7479,10 @@
     {
       "path": "overrides/config/surveyor.toml",
       "sha1": "c0ba006369509f66999979670a3cf0539c084667"
+    },
+    {
+      "path": "overrides/config/tageditorgui-common.toml",
+      "sha1": "88f650586c7c4ca657ad9aed939a475155d3fe96"
     },
     {
       "path": "overrides/config/teallib-client.toml",
