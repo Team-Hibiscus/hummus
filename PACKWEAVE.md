@@ -1,14 +1,12 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 127 mods (19 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.252**, 125 mods (19 dependencies)
 
 ## Contents
 
-- [AA4 Atlas](https://modrinth.com/project/aa4-atlas) `1.1.2`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
-- [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
 - [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/project/audaki-cart-engine) `3.1.1`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
@@ -22,7 +20,7 @@
 - [Cloud Tweaks](https://modrinth.com/project/cloud_tweaks) `0.4.1+1.21`
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
-- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.122+1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Crafty Hands](https://modrinth.com/project/crafty-hands) `1.1.1-1.21.1`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
@@ -46,7 +44,6 @@
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.55`
-- [Fabric API](https://modrinth.com/project/fabric-api) `0.115.6+1.21.1`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
@@ -59,6 +56,7 @@
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.1`
 - [Glow](https://modrinth.com/project/glows) `1.3.2`
+- [Hoofprint](https://modrinth.com/project/hoofprint) `1.3.0+1.21`
 - [Hopper Gadgetry](https://modrinth.com/project/hopper-gadgetry) `v21.1.2-1.21.1-NeoForge`
 - [IFramesTweaker](https://modrinth.com/project/iframestweaker) `1.0.3`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`

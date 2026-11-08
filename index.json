@@ -1,24 +1,16 @@
 {
   "files": [
     {
-      "path": "content/mods/aa4-atlas.json",
-      "sha1": "eb0bb5f0e5c478620fbad2b184364ba94913ff59"
-    },
-    {
       "path": "content/mods/aileron.json",
       "sha1": "715caba54385e8f2edfbdffb270310f804bcdeec"
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
       "sha1": "3808c88189b81eb047492afef4e8fdd20c2acf6f"
-    },
-    {
-      "path": "content/mods/antique-atlas-4.json",
-      "sha1": "51753c9a092c0c52fd9c7a912f71f7f157881e7e"
     },
     {
       "path": "content/mods/architects-palette.json",
@@ -66,7 +58,7 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "7b2a70c8c93d9b892c1a7f4f64faf77793c9d945"
+      "sha1": "1ba00aec2a4c3968b64b76d55df5c3ce63898779"
     },
     {
       "path": "content/mods/caelum.json",
@@ -249,6 +241,10 @@
       "sha1": "d2d6016f91e01f9dcd228103629dfc87ae6c6ee3"
     },
     {
+      "path": "content/mods/hoofprint.json",
+      "sha1": "12803ab150f74c919a52e9b87241b10453f276a1"
+    },
+    {
       "path": "content/mods/hopper-gadgetry.json",
       "sha1": "f142c3437151a0a93cbe5208ebf7abee09fd2e6d"
     },
@@ -342,7 +338,7 @@
     },
     {
       "path": "content/mods/mcqoy.json",
-      "sha1": "6659e681e4274c0ba74ccb17c8edf51a2efdf8a7"
+      "sha1": "3fa6f80d601b0a928aac83716a327c1200fa6092"
     },
     {
       "path": "content/mods/melody.json",
@@ -538,7 +534,7 @@
     },
     {
       "path": "content/mods/surveyor.json",
-      "sha1": "ebdfb20081a91140410f9d6595923575a8371516"
+      "sha1": "3f0bcaae192d836575c302e8d5bc0319f96ac172"
     },
     {
       "path": "content/mods/swordish_weapons.json",
@@ -830,7 +826,7 @@
     },
     {
       "path": "overrides/config/emi.css",
-      "sha1": "443472dd544ffacd3a96c8466be869afb52b4a4b"
+      "sha1": "5ab679f91dbc6a120d720b3f6f8b0608ce781213"
     },
     {
       "path": "overrides/config/emi_discovery.toml",
@@ -1011,6 +1007,10 @@
     {
       "path": "overrides/config/galosphere-common.toml",
       "sha1": "1dcba04cf87bfe49b7575d2b5dabec5e1b3a5e2b"
+    },
+    {
+      "path": "overrides/config/hoofprint.toml",
+      "sha1": "fc08c6f804d3fe018a1776c895734467347cf705"
     },
     {
       "path": "overrides/config/hummus-common.toml",
@@ -2219,6 +2219,10 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/gardens_of_the_dead/recipe/whistlecane_mosaic.json",
       "sha1": "c695707de67c529adb83c47866c86acd32e82120"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hoofprintphysicalcopy/tags/item/hoofprint_map_item.json",
+      "sha1": "00ad51e65d5de05b8b137c24960b55075725d42d"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/advancement/recipes/kiln_firing/nether_brass_ingot.json",
@@ -7310,7 +7314,7 @@
     },
     {
       "path": "overrides/config/scalablelux.properties",
-      "sha1": "6e68b5ab2eaba0f3069f05b085e646c67311edfd"
+      "sha1": "39af6efc0e62d6a4f656ee488eb3c4072d8a841a"
     },
     {
       "path": "overrides/config/screenshot_viewer-client.toml",
@@ -7478,7 +7482,7 @@
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "c0ba006369509f66999979670a3cf0539c084667"
+      "sha1": "648bf7a94ec6d011787e7fac2e89588d00602726"
     },
     {
       "path": "overrides/config/tageditorgui-common.toml",
@@ -7559,6 +7563,10 @@
     {
       "path": "overrides/mods/customrepairrecipes-1.0.0.jar",
       "sha1": "51cd60da824ec1fdc03e797069cb4bad35321ebc"
+    },
+    {
+      "path": "overrides/mods/hoofprintphysicalcopy-1.0.6.jar",
+      "sha1": "e29465b25c641d8a4163ba7abf9a478bbb9a9da9"
     },
     {
       "path": "overrides/mods/hummus-0.8.12.jar",
