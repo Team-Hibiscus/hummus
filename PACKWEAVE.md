@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · neoforge 21.1.252**, 126 mods (19 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.252**, 127 mods (19 dependencies)
 
 ## Contents
 
@@ -26,7 +26,6 @@
 - [Crafty Hands](https://modrinth.com/project/crafty-hands) `1.1.1-1.21.1`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
-- [Cubic Leaves](https://modrinth.com/project/cubic-leaves) `2.4-perf`
 - [Custom Portal API Reforged](https://modrinth.com/project/custom-portal-api-reforged) `1.2.2`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Darker Depths](https://modrinth.com/project/darker-depths) `2.1.6-1.21.1`
@@ -54,6 +53,7 @@
 - [Fintastic](https://modrinth.com/project/fintastic) `1.21.1-3.3`
 - [Fog](https://modrinth.com/project/fog) `1.11.0+1.21-neoforge`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.1+1.21.1`
+- [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Galosphere](https://modrinth.com/project/galosphere) `1.21.1-1.5.5`
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`

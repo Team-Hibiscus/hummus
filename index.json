@@ -217,6 +217,10 @@
       "sha1": "a9d6db9cbe6ebb12d32d4ba291957f70b2b7415b"
     },
     {
+      "path": "content/mods/fusion-connected-textures.json",
+      "sha1": "9b7b41251d9a9bd24045603227b7db85c631e52d"
+    },
+    {
       "path": "content/mods/fzzy-config.json",
       "sha1": "9e9e8c9199d651ae605315a9232af9cff5cf634d"
     },
@@ -510,7 +514,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "b2abf3834225ebf5fc11d8b9171c000174c9e40e"
+      "sha1": "6a9bc9a760f726a0cf127c641b495f1c2788dfd8"
     },
     {
       "path": "content/mods/spawn-mod.json",
@@ -575,10 +579,6 @@
     {
       "path": "content/mods/zeta.json",
       "sha1": "5ffd17f08b8e3756cb88582aafcc8f00baa09eec"
-    },
-    {
-      "path": "content/resourcepacks/cubic-leaves.json",
-      "sha1": "fad869336a2aeed0507c5793b51ad6d0156a9866"
     },
     {
       "path": "overrides/.qmenu_opened.marker",
@@ -4537,8 +4537,12 @@
       "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
-      "path": "overrides/config/paxi/resourcepacks/Snowiest+Snow+1.19.3.zip",
-      "sha1": "0bbe1aeeb2763691b35b8add31fc75cc661e8c43"
+      "path": "overrides/config/paxi/resourcepacks/Patch's Snow Layers v1.1.zip",
+      "sha1": "fbfa1932ae2de666d057b966acb0d95a2333b9b5"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Realistic Clocks.zip",
+      "sha1": "694a3629477fb3a0425206883481f84547de3e31"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/emi/textures/gui/background.png",
@@ -6675,10 +6679,6 @@
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/pack.png",
       "sha1": "78dd1a87830c70252ed2c6ce39739d1d2a7002f1"
-    },
-    {
-      "path": "overrides/config/paxi/resourcepacks/cute_clocks.zip",
-      "sha1": "971ee05d705059675e66b058eedd167ea776c4e2"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/architects_palette/lang/en_us.json",

@@ -20,9 +20,6 @@
   "dependents": [
     "EIa1eiMm"
   ],
-  "optionalDependents": [
-    "6nx7bid1"
-  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }
