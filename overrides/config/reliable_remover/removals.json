@@ -140,5 +140,11 @@
 {
   "action": "remove",
   "patterns": ["/.*vertical_slab/"]
+},
+{
+  "action": "remove",
+  "patterns": [
+    "^(?!minecraft:iron_hoe$).*_hoe$"
+  ]
 }
 ]

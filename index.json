@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/amendments.json",
@@ -386,7 +386,7 @@
     },
     {
       "path": "content/mods/natures-spirit.json",
-      "sha1": "ded396fe32da8032ec690de2f6fb8a8fd6ce759e"
+      "sha1": "1843b84c0dc342c9df2f01a3faf9bb12b2527ccb"
     },
     {
       "path": "content/mods/new-linked-chests.json",
@@ -1258,7 +1258,7 @@
     },
     {
       "path": "overrides/config/natures_spirit-common.toml",
-      "sha1": "54d3d6d291de25700dc33e6b08e834d50211d6a9"
+      "sha1": "83c117b1740d9c5fae60bd392af1baef36fae300"
     },
     {
       "path": "overrides/config/necronomicon.json5",
@@ -1406,7 +1406,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_ant_hill.json",
-      "sha1": "59785292f45fdf841511eef4873a264e0124b9e3"
+      "sha1": "68c5840a4f280c2fcc37d9f11630d400ed6bd953"
     },
     {
       "path": "overrides/config/paxi/datapacks/biome_tags/data/naturalist/tags/worldgen/biome/has_bass.json",
@@ -1594,7 +1594,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/hybrid_beta/worldgen/noise/gravel_beach.json",
-      "sha1": "7f7942d9cdbff98c65346f8b7c5d3d043cffb7f1"
+      "sha1": "6853c511f00776808ed32e40a44677e7f9e0a23f"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/hybrid_beta/worldgen/noise/sand_beach.json",
@@ -1762,7 +1762,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/overworld.json",
-      "sha1": "cd30ef13d1bb9f22c5330b0da1e4e5544e3aa609"
+      "sha1": "d0ea6e73f3470560ffafe5a6c0f49155329e1d68"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/pack.mcmeta",
@@ -7029,8 +7029,16 @@
       "sha1": "a79c3f9c6f1a012ce6e5e68eac7578e3a94d2bbb"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/diamond_knife.png",
+      "sha1": "0aff9e27a061d10db99c4f765567b0bbd5b740ec"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/golden_knife.png",
       "sha1": "61da76339e05687c398cf4c98c598bc1e315c124"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/iron_knife.png",
+      "sha1": "b19880b624620f44881d0b8ab7f4300e44b0761f"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/farmersdelight/textures/item/rice_roll_medley_block.png",
@@ -7050,7 +7058,11 @@
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/lang/en_us.json",
-      "sha1": "19399ffc608971342b9e3987cfb968f8e2f3890e"
+      "sha1": "bfac841bdd1311ae235a5eadd18688d4b91b6bab"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/clay.png",
+      "sha1": "62e04dde1680bb0761bde06442cdcf2632fc41e0"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_0.png",
@@ -7079,6 +7091,102 @@
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_overlay.png",
       "sha1": "d62db774b4fcc1819b9d62ab6998ae1aaaa2aeea"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/diamond_axe.png",
+      "sha1": "7abcb079b7c37cc8e558c79451389c26dad98e86"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/diamond_hoe.png",
+      "sha1": "7dd483fd31c1c946204bc0e04faaad7c7f82af80"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/diamond_pickaxe.png",
+      "sha1": "d112095c64ce0d7e155ceb25ec1ed69aee09290f"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/diamond_shovel.png",
+      "sha1": "d27cee1f96996e2b5d066f325cd3e91e8ab6b4da"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/diamond_sword.png",
+      "sha1": "8985bd83590d4c60bce3db0d306aaf1d1b212aed"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/iron_axe.png",
+      "sha1": "a90c90863fdca85f7004984d63caa2fce1fb0cf5"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/iron_hoe.png",
+      "sha1": "775812cadf4b8791a1d876fce20165cc1e3d401a"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/iron_pickaxe.png",
+      "sha1": "7d80301c521da7f2b90667a38f3ccbb60415c94c"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/iron_shovel.png",
+      "sha1": "e13661e8fc793ec9af489178a7bab879e9083c70"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/iron_sword.png",
+      "sha1": "d52842dba5970f4ccdfd6870a277b895cd8cc3d4"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_dualblade_in_hand.aseprite",
+      "sha1": "62af1f3eeba084232a8a43fbfbd3f214809ff107"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_dualblade_in_hand.png",
+      "sha1": "63bcfe223e3e93bac64ca4f588ce5f837bbd5e36"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_dualblade_in_inventory.png",
+      "sha1": "663dda05113e447a6b6b853c90f5906448c11f33"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_glaive_in_hand.png",
+      "sha1": "cf071761357bcc5b87c5416ed37b5c13a977357a"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_glaive_in_inventory.png",
+      "sha1": "bd17cfbd31b91a599ed72f25fd03fd41671c0b1e"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_halberd_in_hand.png",
+      "sha1": "d498a25dadaf8891bd82c8f08e603e75e10c9c35"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/diamond_halberd_in_inventory.png",
+      "sha1": "b48e90f126b83afb39888b1d0aff7eda20384a4f"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_dualblade_in_hand.aseprite",
+      "sha1": "f5be52bd4438af61e4f08922fb71cac2f7360329"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_dualblade_in_hand.png",
+      "sha1": "0dca0dd165f1ef766fd05932c29bce0c2681e5f8"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_dualblade_in_inventory.png",
+      "sha1": "6ebb041da9e880ad5e4c3d0443f6a70a263d7dae"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_glaive_in_hand.png",
+      "sha1": "3042c7af7df819084bee0d94238aeeb5b1b25a30"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_glaive_in_inventory.png",
+      "sha1": "248f5854e12b245b38fac2f09d35834d16c75fe8"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_halberd_in_hand.png",
+      "sha1": "1c7a6211c698ec4488acd67b2783f2cf9b203a7e"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/swordish/item/iron_halberd_in_inventory.png",
+      "sha1": "5e2929fd9e8991d28b5565f4e2ac8c294bb6b7e6"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/pack.mcmeta",
@@ -7126,7 +7234,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "8c3232f5d8911a349e1861588faf4fd238f07208"
+      "sha1": "4f2e31f030f5327f4131af144c2cb96fed59c575"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -7570,7 +7678,11 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.12.jar",
-      "sha1": "8c0a16088781e080abe50d5c17a18877ed9fc74d"
+      "sha1": "12c9b1ab946aeab86babf96bdc352fe7ca9d5c6e"
+    },
+    {
+      "path": "overrides/mods/natures_spirit-2.3.3-1.21.1.jar",
+      "sha1": "f2bf735b5ff71ac23d7de469f088cd61a0f83ead"
     },
     {
       "path": "overrides/shaderpacks/miniature-shader-2.18.5.txt",
