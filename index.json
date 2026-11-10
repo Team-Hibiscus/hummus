@@ -7093,6 +7093,10 @@
       "sha1": "d62db774b4fcc1819b9d62ab6998ae1aaaa2aeea"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/clay_ball.png",
+      "sha1": "8624a798a6dca3324bb2323039c73437fe5b4ff5"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/item/diamond_axe.png",
       "sha1": "7abcb079b7c37cc8e558c79451389c26dad98e86"
     },
