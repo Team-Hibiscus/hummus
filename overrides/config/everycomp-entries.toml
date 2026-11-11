@@ -89,11 +89,19 @@
 		[types.leaves_type.spawn]
 			date = true
 
+		[types.leaves_type.thrivingblocks]
+			old_oak = true
+			old_jungle = true
+			old_spruce = true
+
 		[types.cake.natures_spirit]
 			cheese_block = true
 
 		[types.lantern.architects_palette]
 			nether_brass_lantern = true
+
+		[types.lantern.darkerdepths]
+			glowshroom_lantern = true
 
 		[types.lantern.enderscape]
 			bulb_lantern = true
@@ -124,9 +132,6 @@
 			copper_lantern = true
 			brass_lantern = true
 			crimson_lantern = true
-
-		[types.lantern.darkerdepths]
-			glowshroom_lantern = true
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true

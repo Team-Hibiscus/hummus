@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -83,6 +83,10 @@
     {
       "path": "content/mods/connector.json",
       "sha1": "c5ba8d9f41e28149e6f5759a6733ebfe6ca0076f"
+    },
+    {
+      "path": "content/mods/cool-rain-reforged.json",
+      "sha1": "3d5cc36ae4e9e7f292fcb6127a756d8097b3fffb"
     },
     {
       "path": "content/mods/coroutil.json",
@@ -329,6 +333,10 @@
       "sha1": "2b7df3fd258ec57dcf029b4620404fe86ea293a2"
     },
     {
+      "path": "content/mods/magnum-torch.json",
+      "sha1": "3fc9297628b6833297c7b8e2c4d1a0004b7fa148"
+    },
+    {
       "path": "content/mods/map-distance-fix.json",
       "sha1": "dcb57f1a34739e91388f049b66ae1d2c846f62de"
     },
@@ -438,7 +446,7 @@
     },
     {
       "path": "content/mods/puzzles-lib.json",
-      "sha1": "ec9ec8286e692d3c102cd6cddedbfc846401b758"
+      "sha1": "e9b9e2292728fdc3888f2a1d9703a9011463c5bd"
     },
     {
       "path": "content/mods/quark.json",
@@ -479,6 +487,10 @@
     {
       "path": "content/mods/scalablelux.json",
       "sha1": "6bbe45de8f6ca53d775aa4aa60b1059e4339af8c"
+    },
+    {
+      "path": "content/mods/scholar.json",
+      "sha1": "b7362aed58022ab91f0e1a51ac0b1fc74096427f"
     },
     {
       "path": "content/mods/screenshot-gallery.json",
@@ -547,6 +559,10 @@
     {
       "path": "content/mods/the-beyond.json",
       "sha1": "fcc1e616d8e98cb1489a10010ed15a7c622c39a9"
+    },
+    {
+      "path": "content/mods/thriving-blocks.json",
+      "sha1": "bb4f4c8c854c61606142232ed866d8be068d4de5"
     },
     {
       "path": "content/mods/trimmed.json",
@@ -870,7 +886,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "f3288a1ae2cd64e79f444d325a619cc9148e6cbd"
+      "sha1": "159c269b27555c74fb988ab7fc0e822c32d44e3a"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -910,7 +926,7 @@
     },
     {
       "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "c443b4ba68e80f2d1035c0d1b505021f9a246060"
+      "sha1": "dce6d77fe0616a11410eef4f8417af640766734a"
     },
     {
       "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -1171,6 +1187,10 @@
     {
       "path": "overrides/config/lodestone-client.toml",
       "sha1": "db4dbb662f729686830fb0d461313184d1fc2f2f"
+    },
+    {
+      "path": "overrides/config/magnumtorch-server.toml",
+      "sha1": "3b86963f98eb07d722602e55aee017ea51d9116e"
     },
     {
       "path": "overrides/config/mapdistancefix.json",
@@ -2587,6 +2607,10 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/linkedchests/tags/item/personal_channel_providers.json",
       "sha1": "b221ec153f29e62c2cbf6a8c454ed35e266b870a"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/magnumtorch/recipe/diamond_magnum_torch.json",
+      "sha1": "17ac3d10d0bcf20ebdc48d7b34966f6f1ae6282b"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/material_beacons/beacon/diamond.json",
@@ -7238,7 +7262,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "2a3a060bf6485772a5d8b45ad3c60778d40902e9"
+      "sha1": "b8bd35143e2ab28d28f8cb211eae50218769391c"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -7429,6 +7453,14 @@
       "sha1": "39af6efc0e62d6a4f656ee488eb3c4072d8a841a"
     },
     {
+      "path": "overrides/config/scholar-client.toml",
+      "sha1": "cb144a8c97f525d725737c075e15035c4315e659"
+    },
+    {
+      "path": "overrides/config/scholar-common.toml",
+      "sha1": "0c3c236d1b068b002c7001a52c3ef984531b7dc8"
+    },
+    {
       "path": "overrides/config/screenshot_viewer-client.toml",
       "sha1": "4bb20f8f52a0778e033c5e990683c06891554979"
     },
@@ -7466,7 +7498,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
+      "sha1": "5df5a13fc9377f5cd40f315177ef9e2f1c64d2a9"
     },
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",
@@ -7594,7 +7626,7 @@
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "648bf7a94ec6d011787e7fac2e89588d00602726"
+      "sha1": "527e816871fd2d007ea0f6724575db2016c0a3cf"
     },
     {
       "path": "overrides/config/tageditorgui-common.toml",
@@ -7663,6 +7695,10 @@
     {
       "path": "overrides/config/zeta-common.toml",
       "sha1": "22df4f5efcb58547957245fcde37666baf9e5f58"
+    },
+    {
+      "path": "overrides/data/scholar_loaded_built_in_resource_packs.dat",
+      "sha1": "e0a186a5416918484f697c219701c7f1d4cac2cd"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",

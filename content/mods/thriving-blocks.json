@@ -1,0 +1,23 @@
+{
+  "name": "Thriving Blocks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dy6dTOFE",
+      "slug": "thriving-blocks",
+      "versionId": "AduHOxOF",
+      "versionNumber": "1.0.5",
+      "filename": "thrivingblocks-1.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dy6dTOFE/versions/AduHOxOF/thrivingblocks-1.0.5.jar",
+      "sha1": "6bcf04621803cdf6b4e106939183dabc83397b01",
+      "sha512": "f2f1f6ba9fa5b443c800b80df3fc5132d3f1f241d9477e70d7c4afd66fb7595a6c5bc1ce7b104d4ff91af722ca6b3f85f9c42264976b46e8eec1c63a91d7dec3",
+      "fileSize": 1055550
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

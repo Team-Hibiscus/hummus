@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.252**, 124 mods (20 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 128 mods (20 dependencies)
 
 ## Contents
 
@@ -21,6 +21,7 @@
 - [Clutter No More](https://modrinth.com/project/clutternomore) `3.0.3+1.21.1-neoforge`
 - [Combat Nouveau](https://modrinth.com/project/combat-nouveau) `v21.1.2-1.21.1-NeoForge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
+- [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [Crafty Hands](https://modrinth.com/project/crafty-hands) `1.1.1-1.21.1`
 - [Creature Feature](https://modrinth.com/project/creature-feature) `1.2.3.3`
 - [Crops Love Rain](https://modrinth.com/project/crops-love-rain) `3.2.2+1.21.5-neoforge`
@@ -73,6 +74,7 @@
 - [Linked Chests](https://modrinth.com/project/new-linked-chests) `v21.1.0-1.21.1-NeoForge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
+- [Magnum Torch](https://modrinth.com/project/magnum-torch) `v21.1.1-1.21.1-NeoForge`
 - [Map Distance Fix](https://modrinth.com/project/map-distance-fix) `1.1.2+mc1.21-1.21.11`
 - [Material Beacons](https://modrinth.com/project/material-beacons) `1.0.1+1.21.1`
 - [Menagerie Saturation](https://modrinth.com/project/menagerie-saturation) `1.0`
@@ -106,6 +108,7 @@
 - [Resettable Trial Vaults & Spawners](https://modrinth.com/project/resettable-trial-vaults-spawners) `1.1.0`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
+- [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Screenshot Gallery](https://modrinth.com/project/screenshot-gallery) `2.1+neoforge`
 - [Selas](https://modrinth.com/project/selas) `0.1.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.16+1.21.1`
@@ -123,6 +126,7 @@
 - [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.7`
 - [The Beyond](https://modrinth.com/project/the-beyond) `1.0.1`
 - [The Beyond - Isleweaver Addon](https://modrinth.com/project/isleweaver) `0.0.3b-InDev`
+- [Thriving Blocks](https://modrinth.com/project/thriving-blocks) `1.0.5`
 - [Twohanded Engine](https://modrinth.com/project/twohanded-engine) `1.0.3`
 - [Useful Spyglass](https://modrinth.com/project/useful-spyglass) `1.0.2`
 - [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`

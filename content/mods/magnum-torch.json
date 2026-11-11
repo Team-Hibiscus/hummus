@@ -1,0 +1,23 @@
+{
+  "name": "Magnum Torch",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jorDmSKv",
+      "slug": "magnum-torch",
+      "versionId": "BZAhwo2r",
+      "versionNumber": "v21.1.1-1.21.1-NeoForge",
+      "filename": "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jorDmSKv/versions/BZAhwo2r/MagnumTorch-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "e507e0c5c0008d541da9f1f64842446c4ecb9d1f",
+      "sha512": "254fe8a667d170b30471b46c83905126c501527efe913cbc939d40a8a7b01a3c1ad7c56b634778ed1599ebf2a99b9443828bc787d8ada4561bd1f8c3c61eecdf",
+      "fileSize": 124523
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
