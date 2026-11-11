@@ -80,6 +80,10 @@
     "fintastic:lotus_flower",
     "architects_palette:nether_brass_blend",
     "minecraft:cooked_cod",
+    "naturalist:crab_spawn_egg",
+    "naturalist:crab_meat",
+    "naturalist:crab",
+    "naturalist:cooked_crab_meat",
     "naturalist:clam_spawn_egg",
     "naturalist:clam_meat",
     "naturalist:cooked_clam_meat",
@@ -100,7 +104,8 @@
     "naturalist:fur",
     "naturalist:cooked_bass",
     "naturalist:cooked_piranha",
-    "naturalist:cooked_blobfish"
+    "naturalist:cooked_blobfish",
+    "naturalist:cooked_egg"
 	]
 },
 {

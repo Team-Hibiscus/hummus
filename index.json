@@ -7238,7 +7238,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "4f2e31f030f5327f4131af144c2cb96fed59c575"
+      "sha1": "2a3a060bf6485772a5d8b45ad3c60778d40902e9"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -7681,8 +7681,8 @@
       "sha1": "e29465b25c641d8a4163ba7abf9a478bbb9a9da9"
     },
     {
-      "path": "overrides/mods/hummus-0.8.12.jar",
-      "sha1": "12c9b1ab946aeab86babf96bdc352fe7ca9d5c6e"
+      "path": "overrides/mods/hummus-0.8.13.jar",
+      "sha1": "5116dcc047fc2a7a4c614d125e47cd84d3ef6cc6"
     },
     {
       "path": "overrides/mods/natures_spirit-2.3.3-1.21.1.jar",
