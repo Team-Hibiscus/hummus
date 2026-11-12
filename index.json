@@ -117,6 +117,10 @@
       "sha1": "250b982cef33e8835cd58735ab91409f21af58ac"
     },
     {
+      "path": "content/mods/deeper-oceans.json",
+      "sha1": "c44d62b1352059b3137954b7b342f40c37b2d9e8"
+    },
+    {
       "path": "content/mods/door-knocking.json",
       "sha1": "9c29954471c91fad9a71a895a87fd2d7213dab4c"
     },
@@ -322,7 +326,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "39a7668b56bc49b6b892d1989bbeafda578b8922"
+      "sha1": "de288d78a72180fe167a4b5dda40cbcd72cf3cd5"
     },
     {
       "path": "content/mods/lmft.json",
@@ -823,6 +827,10 @@
     {
       "path": "overrides/config/darkerdepths-common.toml",
       "sha1": "f2f7800074de6fe86df1274d4ed7de8512847736"
+    },
+    {
+      "path": "overrides/config/deeper_oceans.json",
+      "sha1": "2a95666cd6f8e87c55a3b29305e7ec8552dcca3f"
     },
     {
       "path": "overrides/config/door_knocking/main.json",
@@ -1654,7 +1662,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/density_function/overworld/offset.json",
-      "sha1": "ca3066fea8235fe5ca494052552fe37096c05e13"
+      "sha1": "db38cfe2153dddca9c3444fdac480e367500e0e3"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/density_function/overworld/sloped_cheese.json",
@@ -1783,6 +1791,10 @@
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/overworld.json",
       "sha1": "d0ea6e73f3470560ffafe5a6c0f49155329e1d68"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/cascades/data/nova_structures/worldgen/structure/trident_trial_monument.json",
+      "sha1": "ce7697d4735aad676b429b8876eef9fe9251d405"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/pack.mcmeta",

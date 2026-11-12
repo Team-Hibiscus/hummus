@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.253**, 128 mods (20 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 129 mods (20 dependencies)
 
 ## Contents
 
@@ -28,6 +28,7 @@
 - [Custom Portal API Reforged](https://modrinth.com/project/custom-portal-api-reforged) `1.2.2`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Darker Depths](https://modrinth.com/project/darker-depths) `2.1.6-1.21.1`
+- [Deeper Oceans](https://modrinth.com/project/deeper-oceans) `2.0.1-neoforge-21.1`
 - [Door Knocking](https://modrinth.com/project/door-knocking) `1.0.1+1.21-neoforge`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/project/dungeons-and-taverns-ancient-city-overhaul) `v2+mod`
