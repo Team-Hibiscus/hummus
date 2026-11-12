@@ -1,0 +1,440 @@
+{
+  "config_version": "2.0.43",
+  "config_datetime": "2026-11-10_20-45-39",
+  "general": {
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 1.2
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "minecraft:desert_pyramid",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:igloo",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:jungle_pyramid",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:mansion",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:pillager_outpost",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:catacombs",
+      "is_disabled": true,
+      "step": "vegetal_decoration"
+    },
+    {
+      "name": "darkerdepths:rope_mine_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:rope_mine_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_end",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:village_adobe",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:village_coconut",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:village_cypress",
+      "is_disabled": true
+    },
+    {
+      "name": "natures_spirit:village_wisteria",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:badlands_miner_outpost",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:deepslate_camp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:end_ship",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_cherry",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_dark_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_mangrove",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:firewatch_tower_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:illager_camp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:illager_hideout",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:illager_manor",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_bee_keeper",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_big_remnant",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_big_remnant_2",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_big_remnant_3",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_birch_graveyard",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_bridge_remnant",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_bunny_base",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_classic_village",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_desert_remnant",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_forest_smith",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_frog_ranch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_graveyard",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_medium_remnant",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_medium_remnant_2",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_miner_hut",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_mud_brick_constructor",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_ominous_shop",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_ruin_farmer",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_ruin_smith",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_sawmill",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_school_remnant",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_taiga_castle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_woodland_hud",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:remnant_zombie_horse_ranch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:ruin_town",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_acacia",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_cherry",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_dark_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_mangrove",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_snowy",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_spruce",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:tavern_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:underground_house",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:village_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:village_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:village_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_birch",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_dark_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_oak",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_savana",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:well_spruce",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:wild_ruin",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:witch_villa",
+      "is_disabled": true
+    },
+    {
+      "name": "supplementaries:galleon",
+      "is_disabled": true
+    },
+    {
+      "name": "supplementaries:road_sign",
+      "is_disabled": true
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "darkerdepths:catacombs_set",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:petrified_mineshaft",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:rope_mine_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:rope_mine_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "hummus:lead_star",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_end",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:desert_pyramids",
+      "frequency": 0.757
+    },
+    {
+      "name": "minecraft:end_cities",
+      "frequency": 0.27600002
+    },
+    {
+      "name": "minecraft:igloos",
+      "is_disabled": true,
+      "frequency": 0.5
+    },
+    {
+      "name": "minecraft:jungle_temples",
+      "frequency": 0.5
+    },
+    {
+      "name": "minecraft:ocean_monuments",
+      "frequency": 0.231
+    },
+    {
+      "name": "minecraft:ocean_ruins",
+      "frequency": 0.503
+    },
+    {
+      "name": "minecraft:pillager_outposts",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:ruined_portals",
+      "frequency": 0.711
+    },
+    {
+      "name": "minecraft:shipwrecks",
+      "frequency": 0.30600002
+    },
+    {
+      "name": "minecraft:villages",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:woodland_mansions",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:badlands_miner_outpost",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:nether_structures",
+      "frequency": 0.497
+    }
+  ],
+  "structure_template_pools": []
+}

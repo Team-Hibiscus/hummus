@@ -41,7 +41,7 @@
 	world = true
 	mobs = true
 	client = true
-	experimental = true
+	experimental = false
 	oddities = true
 
 [automation]

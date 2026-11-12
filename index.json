@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/amendments.json",
@@ -1654,7 +1654,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/density_function/overworld/offset.json",
-      "sha1": "db38cfe2153dddca9c3444fdac480e367500e0e3"
+      "sha1": "ca3066fea8235fe5ca494052552fe37096c05e13"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/density_function/overworld/sloped_cheese.json",
@@ -1766,7 +1766,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/amplified.json",
-      "sha1": "1a886bdad9134fe988300121798a7baab2efa413"
+      "sha1": "d69d839e3571b54ab7f0189df6ae6b1b514c7ff2"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/caves.json",
@@ -1774,11 +1774,11 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/floating_islands.json",
-      "sha1": "0fb79bedc43b42366a3429212bc8cdba125aa3d2"
+      "sha1": "23ea1350971a88e849b4896ebb0d7f58de9fe61a"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/large_biomes.json",
-      "sha1": "bfdea3d44ac34e417629f1ad98a9ddc2cb320c24"
+      "sha1": "a028cfcf94b39b005c006fb234dde7cf8841f821"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/minecraft/worldgen/noise_settings/overworld.json",
@@ -7089,6 +7089,26 @@
       "sha1": "62e04dde1680bb0761bde06442cdcf2632fc41e0"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/water_flow.png",
+      "sha1": "31ef6b08ef94eec07a523cf933fd1d9f2d84b85f"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/water_flow.png.mcmeta",
+      "sha1": "700ec13e51f7f22e4230a25c3727513679110317"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/water_overlay.png",
+      "sha1": "391f571d8fdbcf95b551ca6f1237f2a95cb9b709"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/water_still.png",
+      "sha1": "3895499f00869a96d2f2f99b25be245dabee2ec8"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/water_still.png.mcmeta",
+      "sha1": "11af65f9ec75a1e408a003168b0610b3965b4ed6"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/gui/title/background/panorama_0.png",
       "sha1": "1f8a1a48d2d6ec7383b15ce5ee6b9f73c1408494"
     },
@@ -7238,7 +7258,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "90b1630819b55fee4a7da0bbf4e48caa079388de"
+      "sha1": "24427f8fc6e23b7e6421729627a4b013ef25f52e"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
@@ -7610,7 +7630,15 @@
     },
     {
       "path": "overrides/config/structurify.json",
+      "sha1": "43f15a677304068aea1b8f3c598f79868725fdbf"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-10_20-45-39.json",
       "sha1": "16013679057a45ca7876c7fed9b9bb59c491dd20"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-10_20-45-58.json",
+      "sha1": "8da8b6a9c4c7b29ee3a58b5d3b4e3a82b26abd45"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -7718,7 +7746,7 @@
     },
     {
       "path": "overrides/mods/hummus-0.8.13.jar",
-      "sha1": "5116dcc047fc2a7a4c614d125e47cd84d3ef6cc6"
+      "sha1": "d39b5840bf80148a4f6a78c6c15f9bb960c7571e"
     },
     {
       "path": "overrides/mods/natures_spirit-2.3.3-1.21.1.jar",

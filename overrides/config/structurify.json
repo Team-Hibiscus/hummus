@@ -1,11 +1,9 @@
 {
-  "config_version": "2.0.28",
-  "config_datetime": "2026-08-08_17-20-46",
+  "config_version": "2.0.43",
+  "config_datetime": "2026-11-10_20-45-58",
   "general": {
-    "disable_all_structures": false,
-    "prevent_structure_overlap": false,
     "enable_global_spacing_and_separation_modifier": true,
-    "global_spacing_and_separation_modifier": 0.4
+    "global_spacing_and_separation_modifier": 1.4
   },
   "structure_namespaces": [],
   "structures": [
@@ -353,124 +351,89 @@
   ],
   "structure_sets": [
     {
-      "spacing": 32,
-      "separation": 8,
+      "name": "darkerdepths:catacombs_set",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:petrified_mineshaft",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:rope_mine_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "darkerdepths:rope_mine_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "hummus:lead_star",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_end",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveenchanting:ancient_library_jungle",
+      "is_disabled": true
+    },
+    {
       "name": "minecraft:desert_pyramids",
-      "is_disabled": false,
-      "salt": 14357617,
-      "frequency": 0.757,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:desert_pyramid": 1
-      }
+      "frequency": 0.757
     },
     {
-      "spacing": 24,
-      "separation": 14,
       "name": "minecraft:end_cities",
-      "is_disabled": false,
-      "salt": 10387313,
-      "frequency": 0.27600002,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "enderscape:end_city": 1
-      }
+      "frequency": 0.27600002
     },
     {
-      "spacing": 32,
-      "separation": 8,
       "name": "minecraft:igloos",
-      "is_disabled": false,
-      "salt": 14357618,
-      "frequency": 0.5,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:igloo": 1
-      }
+      "is_disabled": true,
+      "frequency": 0.5
     },
     {
-      "spacing": 32,
-      "separation": 8,
       "name": "minecraft:jungle_temples",
-      "is_disabled": false,
-      "salt": 14357619,
-      "frequency": 0.5,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:jungle_pyramid": 1
-      }
+      "frequency": 0.5
     },
     {
-      "spacing": 32,
-      "separation": 5,
       "name": "minecraft:ocean_monuments",
-      "is_disabled": false,
-      "salt": 10387313,
-      "frequency": 0.60800004,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:monument": 1
-      }
+      "frequency": 0.231
     },
     {
-      "spacing": 20,
-      "separation": 8,
       "name": "minecraft:ocean_ruins",
-      "is_disabled": false,
-      "salt": 14357621,
-      "frequency": 0.503,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:ocean_ruin_warm": 1,
-        "minecraft:ocean_ruin_cold": 1
-      }
+      "frequency": 0.503
     },
     {
-      "spacing": 40,
-      "separation": 15,
+      "name": "minecraft:pillager_outposts",
+      "is_disabled": true
+    },
+    {
       "name": "minecraft:ruined_portals",
-      "is_disabled": false,
-      "salt": 34222645,
-      "frequency": 0.711,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:ruined_portal": 1,
-        "minecraft:ruined_portal_nether": 1,
-        "minecraft:ruined_portal_swamp": 1,
-        "minecraft:ruined_portal_mountain": 1,
-        "minecraft:ruined_portal_jungle": 1,
-        "minecraft:ruined_portal_ocean": 1,
-        "minecraft:ruined_portal_desert": 1
-      }
+      "frequency": 0.711
     },
     {
-      "spacing": 24,
-      "separation": 4,
       "name": "minecraft:shipwrecks",
-      "is_disabled": false,
-      "salt": 165745295,
-      "frequency": 0.30600002,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:shipwreck_beached": 1,
-        "minecraft:shipwreck": 1
-      }
+      "frequency": 0.30600002
     },
     {
-      "spacing": 85,
-      "separation": 40,
+      "name": "minecraft:villages",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:woodland_mansions",
+      "is_disabled": true
+    },
+    {
+      "name": "nova_structures:badlands_miner_outpost",
+      "is_disabled": true
+    },
+    {
       "name": "nova_structures:nether_structures",
-      "is_disabled": false,
-      "salt": 5894302,
-      "frequency": 0.497,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "nova_structures:piglin_outstation": 20,
-        "nova_structures:piglin_donjon": 5,
-        "nova_structures:nether_port": 20,
-        "nova_structures:hamlet": 40,
-        "nova_structures:nether_keep": 10
-      }
+      "frequency": 0.497
     }
   ],
   "structure_template_pools": []
