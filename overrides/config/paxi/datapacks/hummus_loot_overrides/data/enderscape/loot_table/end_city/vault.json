@@ -8,12 +8,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -34,12 +29,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -59,12 +49,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -84,12 +69,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -109,12 +89,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -134,12 +109,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -159,12 +129,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -184,12 +149,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -209,12 +169,7 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "type": "minecraft:uniform",
-                "max": 50,
-                "min": 30
-              },
+              "function": "minecraft:enchant_randomly",
               "options": "#minecraft:on_random_loot"
             },
             {
@@ -260,7 +215,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:iron_ingot",
+          "name": "oreganized:lead_ingot",
           "weight": 30
         },
         {
@@ -435,6 +390,13 @@
         },
         {
           "type": "minecraft:item",
+          "name": "hummus:galena_smithing_template",
+          "weight": 4,
+          "functions": [],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
           "name": "enderscape:stasis_armor_trim_smithing_template",
           "weight": 4
         }
@@ -468,8 +430,7 @@
             {
               "function": "minecraft:enchant_randomly",
               "options": [
-                "enderscape:transdimensional",
-                "minecraft:mending"
+                "enderscape:transdimensional"
               ]
             }
           ],

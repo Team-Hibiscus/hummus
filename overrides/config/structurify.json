@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.43",
-  "config_datetime": "2026-11-10_20-45-58",
+  "config_datetime": "2026-11-15_17-20-32",
   "general": {
     "enable_global_spacing_and_separation_modifier": true,
     "global_spacing_and_separation_modifier": 1.4
@@ -367,7 +367,17 @@
       "is_disabled": true
     },
     {
+      "name": "enderscape:gateways",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "enderscape:ruins",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
       "name": "hummus:lead_star",
+      "spacing": 24,
+      "separation": 16,
       "override_global_spacing_and_separation_modifier": true
     },
     {
@@ -388,7 +398,8 @@
     },
     {
       "name": "minecraft:end_cities",
-      "frequency": 0.27600002
+      "frequency": 0.27600002,
+      "override_global_spacing_and_separation_modifier": true
     },
     {
       "name": "minecraft:igloos",
@@ -432,8 +443,84 @@
       "is_disabled": true
     },
     {
+      "name": "nova_structures:end_lighthouses",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "nova_structures:end_ship",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
       "name": "nova_structures:nether_structures",
       "frequency": 0.497
+    },
+    {
+      "name": "oreganized:boulder",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:ant_mount",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "spawn:cold_island",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "spawn:sandy_island",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "spawn:tide_pool",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "spawn:tropical_island",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "spawn:volcanic_island",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "supplementaries:galleons",
+      "is_disabled": true
+    },
+    {
+      "name": "supplementaries:road_signs",
+      "is_disabled": true
+    },
+    {
+      "name": "the_beyond:aberrant_remains",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:arch",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:bonfire",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:bridge",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:fountain",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:garden",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:jump_platform",
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "the_beyond:jump_platform_end",
+      "override_global_spacing_and_separation_modifier": true
     }
   ],
   "structure_template_pools": []

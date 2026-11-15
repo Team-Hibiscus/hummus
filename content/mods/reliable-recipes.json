@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Hl4ARA1z",
       "slug": "reliable-recipes",
-      "versionId": "gIyjIRbW",
-      "versionNumber": "3.7.1+1.21.1-neoforge",
-      "filename": "reliable_recipes-3.7.1+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Hl4ARA1z/versions/gIyjIRbW/reliable_recipes-3.7.1%2B1.21.1-neoforge.jar",
-      "sha1": "06676ebb856acbe2eeb0f4d4c0331e8a53b5c3c6",
-      "sha512": "ea1d0c06177788e0fb669e9d434b050e96011e8c19b309debd5cbbc16d7ed9e1e78d67bf672a9e9477a89085484b7e2a1adf57ee8b621ed3184a2c5412504f8a",
-      "fileSize": 214850
+      "versionId": "Uydw8VgL",
+      "versionNumber": "3.9.0+1.21.1-neoforge",
+      "filename": "reliable_recipes-3.9.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Hl4ARA1z/versions/Uydw8VgL/reliable_recipes-3.9.0%2B1.21.1-neoforge.jar",
+      "sha1": "2ad0e58194c72177659330aa58538ebeb0c9e486",
+      "sha512": "37b3e43e6a16082fae4aa6115a6ffc8d0f3f87847072265b46b3a51c8130aebdfdf346ac3624bcecb4313de8564d8ca5be7058e39e9f2df536cbd2af86df8d51",
+      "fileSize": 225231
     }
   },
   "dependents": [

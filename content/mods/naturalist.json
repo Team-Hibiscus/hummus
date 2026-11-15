@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "F8BQNPWX",
       "slug": "naturalist",
-      "versionId": "ETgOvHHS",
-      "versionNumber": "2.0.5+1.21.1-neoforge",
-      "filename": "naturalist-2.0.5-neoforge-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/F8BQNPWX/versions/ETgOvHHS/naturalist-2.0.5-neoforge-1.21.1.jar",
-      "sha1": "ea9ebf082eb978dcf583255e8fca1004a8114ab6",
-      "sha512": "7c5f1ce90a097a0e097ef60049b3ae1597295286b2e485d89c960504c150d62fd711b7286a90512f3b8bf27953a4f9d816a9c6a58700b888f59d05d5a7cb03e1",
-      "fileSize": 11325729
+      "versionId": "9Yn8ig4c",
+      "versionNumber": "2.0.7+1.21.1-neoforge",
+      "filename": "naturalist-2.0.7-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/F8BQNPWX/versions/9Yn8ig4c/naturalist-2.0.7-neoforge-1.21.1.jar",
+      "sha1": "a7f9f6d9991880c377d2248af5c1ea05a0aa1039",
+      "sha512": "5d56ec2d1e5f994c9b63cf7578e9ed1be2cd4f58a055503e32bdd90c80d9802af04d3f6e1eec08394180e196ce32b2c2e71df8ba19d918e77df1694c9007e7e1",
+      "fileSize": 11347884
     }
   },
   "dependents": [],

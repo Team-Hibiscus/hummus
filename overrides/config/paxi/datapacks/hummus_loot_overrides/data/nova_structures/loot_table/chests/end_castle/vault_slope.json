@@ -332,6 +332,13 @@
         },
         {
           "type": "minecraft:item",
+          "name": "hummus:galena_smithing_template",
+          "weight": 1,
+          "functions": [],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
           "name": "enderscape:mirror",
           "weight": 1,
           "functions": [],

@@ -249,7 +249,7 @@
               "count": 2
             }
           ],
-          "name": "minecraft:iron_block"
+          "name": "oreganized:lead_block"
         },
         {
           "type": "minecraft:item",
@@ -308,6 +308,13 @@
           "weight": 2,
           "conditions": [],
           "functions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hummus:galena_smithing_template",
+          "weight": 1,
+          "functions": [],
+          "conditions": []
         },
         {
           "type": "minecraft:item",

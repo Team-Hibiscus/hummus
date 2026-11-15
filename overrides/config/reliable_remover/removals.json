@@ -168,7 +168,25 @@
     "thrivingblocks:neat_flaxen_fern",
     "thrivingblocks:neat_large_flaxen_fern",
     "thrivingblocks:neat_sedge_grass",
-    "thrivingblocks:neat_tall_sedge_grass"
+    "thrivingblocks:neat_tall_sedge_grass",
+    "thrivingblocks:glowing_obsidian",
+    "thrivingblocks:rough_obsidian",
+    "thrivingblocks:rustic_redstone_lamp",
+    "thrivingblocks:old_glowstone_lamp",
+    "thrivingblocks:worn_bricks",
+    "thrivingblocks:coarse_sand",
+    "thrivingblocks:coarse_gravel",
+    "thrivingblocks:old_stonebricks",
+    "thrivingblocks:old_mossy_stonebricks",
+    "thrivingblocks:old_cracked_stonebricks",
+    "thrivingblocks:ancient_emerald_block",
+    "thrivingblocks:ancient_soul_sand",
+    "thrivingblocks:degraded_netherrack",
+    "thrivingblocks:old_grass_block",
+    "thrivingblocks:old_jungle_leaves",
+    "thrivingblocks:old_dead_bush",
+    "creaturefeature:sinister_spawn_egg",
+    "creaturefeature:saint_solis_spawn_egg"
 	]
 },
 {
@@ -219,5 +237,5 @@
   "action": "remove",
   "mod": ["thrivingblocks"],
   "patterns": ["/.*glass_layer.*/"]
-},
+}
 ]

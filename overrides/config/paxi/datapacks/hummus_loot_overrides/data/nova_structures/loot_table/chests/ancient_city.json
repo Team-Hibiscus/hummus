@@ -78,13 +78,29 @@
               "function": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              },
+              "add": false
+            }
+          ],
+          "name": "oreganized:electrum_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
                 "min": 4,
                 "max": 10
               },
               "add": false
             }
           ],
-          "name": "minecraft:iron_ingot"
+          "name": "oreganized:silver_ingot"
         },
         {
           "type": "minecraft:item",
@@ -116,7 +132,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_nugget"
+          "name": "oreganized:silver_nugget"
         },
         {
           "type": "minecraft:item",
@@ -174,7 +190,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -204,7 +220,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -234,7 +250,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -264,7 +280,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -294,7 +310,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -303,7 +319,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:iron_hoe"
+          "name": "oreganized:silver_hoe"
         },
         {
           "type": "minecraft:item",
@@ -324,7 +340,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -333,7 +349,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:iron_pickaxe"
+          "name": "oreganized:silver_pickaxe"
         },
         {
           "type": "minecraft:item",
@@ -354,7 +370,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -363,7 +379,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:iron_axe"
+          "name": "oreganized:silver_axe"
         },
         {
           "type": "minecraft:item",
@@ -384,7 +400,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -393,7 +409,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:iron_shovel"
+          "name": "oreganized:silver_shovel"
         },
         {
           "type": "minecraft:item",
@@ -414,7 +430,7 @@
               "add": false
             },
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -423,7 +439,7 @@
               "options": "#minecraft:on_random_loot"
             }
           ],
-          "name": "minecraft:iron_sword"
+          "name": "oreganized:silver_sword"
         },
         {
           "type": "minecraft:item",
@@ -476,7 +492,7 @@
           "weight": 1,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -499,7 +515,7 @@
           "weight": 8,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -522,7 +538,7 @@
           "weight": 1,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -545,7 +561,7 @@
           "weight": 1,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -568,7 +584,7 @@
           "weight": 1,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -584,14 +600,14 @@
               }
             }
           ],
-          "name": "minecraft:iron_boots"
+          "name": "oreganized:silver_boots"
         },
         {
           "type": "minecraft:item",
           "weight": 8,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -607,14 +623,14 @@
               }
             }
           ],
-          "name": "minecraft:iron_leggings"
+          "name": "oreganized:silver_leggings"
         },
         {
           "type": "minecraft:item",
           "weight": 1,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -630,14 +646,14 @@
               }
             }
           ],
-          "name": "minecraft:iron_chestplate"
+          "name": "oreganized:silver_chestplate"
         },
         {
           "type": "minecraft:item",
           "weight": 1,
           "functions": [
             {
-              "function": "minecraft:enchant_with_levels",
+              "function": "minecraft:enchant_randomly",
               "levels": {
                 "type": "minecraft:uniform",
                 "min": 30,
@@ -653,7 +669,7 @@
               }
             }
           ],
-          "name": "minecraft:iron_helmet"
+          "name": "oreganized:silver_helmet"
         },
         {
           "type": "minecraft:item",
@@ -892,12 +908,12 @@
       ]
     },
     {
-      "rolls": 1,
-      "bonus_rolls": 0,
+      "rolls": 2,
+      "bonus_rolls": 1,
       "entries": [
         {
           "type": "minecraft:empty",
-          "weight": 131,
+          "weight": 80,
           "conditions": [],
           "functions": []
         },
@@ -916,26 +932,15 @@
         },
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "options": "minecraft:mending",
-              "function": "minecraft:enchant_randomly"
-            }
-          ],
-          "name": "minecraft:book",
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:totem_of_undying",
-          "weight": 1,
+          "weight": 4,
           "functions": [],
           "conditions": []
         },
         {
           "type": "minecraft:item",
-          "name": "galosphere:preserved_template",
-          "weight": 1,
+          "name": "oreganized:electrum_upgrade_smithing_template",
+          "weight": 4,
           "functions": [],
           "conditions": []
         }

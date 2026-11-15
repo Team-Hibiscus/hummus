@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "egIM2bKK",
       "slug": "mob-ai-tweaks",
-      "versionId": "GkSAJ4i8",
-      "versionNumber": "1.11.3",
-      "filename": "mob-ai-tweaks-1.11.3-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/egIM2bKK/versions/GkSAJ4i8/mob-ai-tweaks-1.11.3-1.21.1.jar",
-      "sha1": "1ca5aa9962b8b2c9ac7fc2d16e0d82f92e761dba",
-      "sha512": "2382dfd0c44fd9e9c118c3ce8c4daacefb9cb7a9fe297b283721bfbceb05540b20d85cec07e0ff4712402d1a343180858b3ff5df7bcbd5c7ca52f7344968f885",
-      "fileSize": 627606
+      "versionId": "IXxyhHRL",
+      "versionNumber": "1.11.6",
+      "filename": "mob-ai-tweaks-1.11.6-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/egIM2bKK/versions/IXxyhHRL/mob-ai-tweaks-1.11.6-1.21.1.jar",
+      "sha1": "4debc2e521780578427f4d8fb5072e26a9693cad",
+      "sha512": "c78a00c92b05d2fad30f342ee76a6260fa2bb3fbbcaf4a2be614f83cba9d26f7a53473211c8b388bd4c6960aaeb0af63e2869e583678017f0681a52ae88cd019",
+      "fileSize": 641631
     }
   },
   "dependents": [],

@@ -10,7 +10,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "3808c88189b81eb047492afef4e8fdd20c2acf6f"
+      "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
     },
     {
       "path": "content/mods/architects-palette.json",
@@ -18,7 +18,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "f76089a70cf7ff2c3ed66f91d0dda2822a9aaed4"
+      "sha1": "ea6dcf586eee664f3fdacc81b529d108c63d3529"
     },
     {
       "path": "content/mods/audaki-cart-engine.json",
@@ -31,6 +31,10 @@
     {
       "path": "content/mods/badpackets.json",
       "sha1": "576d21806861d4980e033a0597fe1d0f4f969e0f"
+    },
+    {
+      "path": "content/mods/bears-storage-crates.json",
+      "sha1": "4f04ae500d8ee51de51ca4ab6933d54062f948b5"
     },
     {
       "path": "content/mods/better-f1-reborn.json",
@@ -66,7 +70,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "70f23235c7cb71fd51bf11e212cf70a1de5ffb1f"
+      "sha1": "bd76887fe0b15d7d2376c9ad38f681a1d161ed98"
     },
     {
       "path": "content/mods/cloud_tweaks.json",
@@ -74,7 +78,7 @@
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "25e5383a35b0a4e0c0d76e99a40d9dbd300badba"
+      "sha1": "6837814dcc72f8bb426384b7ab286842f7a7a3c3"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -82,7 +86,7 @@
     },
     {
       "path": "content/mods/connector.json",
-      "sha1": "c5ba8d9f41e28149e6f5759a6733ebfe6ca0076f"
+      "sha1": "6704c17bb8616ae64278520ecd7e42d1f3dd787c"
     },
     {
       "path": "content/mods/cool-rain-reforged.json",
@@ -98,7 +102,7 @@
     },
     {
       "path": "content/mods/creature-feature.json",
-      "sha1": "dc4d6d7b0b5c2b3a98a1c164c82e7c0a06db2c46"
+      "sha1": "ed58f0377a9822e69659e680a69efecb5ce7cde4"
     },
     {
       "path": "content/mods/crops-love-rain.json",
@@ -157,16 +161,12 @@
       "sha1": "6b369e0cf90fa8a4eefd313b831e70b55bf2a5cf"
     },
     {
-      "path": "content/mods/emi-discovery.json",
-      "sha1": "e489395f0338022d1dbe02a7f955921022f65fae"
-    },
-    {
       "path": "content/mods/emi-loot.json",
-      "sha1": "525963dc4b255ecfb78f69941314efd3fdf2fa92"
+      "sha1": "624b65c3a73c7da3144808ad50150acf815e67b1"
     },
     {
       "path": "content/mods/emi.json",
-      "sha1": "ed9d68d2c5e3731100e76dda2a4b8fd5366d6a2a"
+      "sha1": "e316ff03517060fe6076012636729fe6c2c7af58"
     },
     {
       "path": "content/mods/emojiful.json",
@@ -186,7 +186,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "2a95e205015292c7735186ca9d1888a3e3bda083"
+      "sha1": "c8b224c55f6a18ff760a739522785d73d6a9ee43"
     },
     {
       "path": "content/mods/every-compat.json",
@@ -262,7 +262,7 @@
     },
     {
       "path": "content/mods/immediatelyfast.json",
-      "sha1": "b53954a4e72a3425f1ca010e27f0beaca0d2fa6d"
+      "sha1": "75fd9033066564b102e8076c9b7b347c0d1ee7ad"
     },
     {
       "path": "content/mods/immersive-enchanting.json",
@@ -270,11 +270,11 @@
     },
     {
       "path": "content/mods/immersive-overlays.json",
-      "sha1": "7c1ae8e24ba0d6720ccf88f64b157ca750d6fe2e"
+      "sha1": "72d7a25515ca0da9dd1c6eeff6b5f43fa76f6eda"
     },
     {
       "path": "content/mods/in-control.json",
-      "sha1": "964b528af58a297bcb1c8ca8f141a6e6b23f0ddb"
+      "sha1": "f290cb21802a473af662a281cb06037c2e0aee7a"
     },
     {
       "path": "content/mods/inventory-profiles-next.json",
@@ -326,7 +326,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "de288d78a72180fe167a4b5dda40cbcd72cf3cd5"
+      "sha1": "614a4db75e725f0b93a1214e765f0b77cdccbb58"
     },
     {
       "path": "content/mods/lmft.json",
@@ -370,7 +370,7 @@
     },
     {
       "path": "content/mods/mob-ai-tweaks.json",
-      "sha1": "9b81d4f66c50c4e61b72556c1ff506f3fc143792"
+      "sha1": "24125abaecd23d9e36e8cd2fb452cf24e6b1f4cc"
     },
     {
       "path": "content/mods/modernfix.json",
@@ -382,7 +382,7 @@
     },
     {
       "path": "content/mods/mouse-tweaks.json",
-      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+      "sha1": "52e3ac1e64e920ae46b1f159ccd7a5bcd8a53bc2"
     },
     {
       "path": "content/mods/mru.json",
@@ -390,15 +390,11 @@
     },
     {
       "path": "content/mods/naturalist.json",
-      "sha1": "58565f87ce765e44ebf3dc8b362f9d2e9c3f522f"
+      "sha1": "9305789dbd6894be5d437b392c388f35908939b3"
     },
     {
       "path": "content/mods/natures-delight.json",
       "sha1": "0d566c0afa43f618a18eaa0fbf80bc89b4f7a0a4"
-    },
-    {
-      "path": "content/mods/natures-spirit.json",
-      "sha1": "1843b84c0dc342c9df2f01a3faf9bb12b2527ccb"
     },
     {
       "path": "content/mods/new-linked-chests.json",
@@ -418,7 +414,7 @@
     },
     {
       "path": "content/mods/particular-reforged.json",
-      "sha1": "9dfe4ee525306389ba9bfcd36a3d87bece6a766d"
+      "sha1": "fd807943e5dd8ae83d7b5b9cf51d2bddedc88e4a"
     },
     {
       "path": "content/mods/paxi.json",
@@ -426,11 +422,11 @@
     },
     {
       "path": "content/mods/picture-mode.json",
-      "sha1": "7af7e9368096ddc82b0107a7895baa2abce41e62"
+      "sha1": "dce0ec383c20b2eae4526f9058d91addc53b0de1"
     },
     {
       "path": "content/mods/platform.json",
-      "sha1": "056c63107401f0e09e3bbfa8bd27a12a740cd7c1"
+      "sha1": "63086d419a197f8464b70a82a47b4156ddab526d"
     },
     {
       "path": "content/mods/playeranimator.json",
@@ -466,15 +462,15 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "4a11351de2a78646c55509cc7fcf922bd49b6c27"
+      "sha1": "5b724e1d5d7456048d75607db82a220d0e176475"
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "ffc0a249e50bc08081afe72dde9c8d415541928f"
+      "sha1": "3e6993cdedf4a2ab543fcc3f6d3c510b05362c5e"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "576c756c1deb526068cca348cef31ab7510ed791"
+      "sha1": "6292a9e4397c8360cd336c3b1a16014be12160cb"
     },
     {
       "path": "content/mods/relocate.json",
@@ -506,7 +502,7 @@
     },
     {
       "path": "content/mods/sleep-tight.json",
-      "sha1": "5432ea2298f48ec786b193414abedd368178ec41"
+      "sha1": "512c36c0bfe4623df1e9cd1c178db5ca1118adff"
     },
     {
       "path": "content/mods/snow-real-magic.json",
@@ -622,11 +618,11 @@
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "eccc3ba85968db9608e62637d90c84503fc71d9f"
+      "sha1": "a55c09c88cdd48002672b8663948015d9c088295"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "30a460b08408775633bdbd033faec49738fee299"
+      "sha1": "1fdeec033c39afcdc2ac33cd5a63aa50913dac4c"
     },
     {
       "path": "overrides/config/antique-atlas.toml",
@@ -647,6 +643,14 @@
     {
       "path": "overrides/config/badoptimizations.txt",
       "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2"
+    },
+    {
+      "path": "overrides/config/bearsstoragecrates-client.toml",
+      "sha1": "9098260f492fce77f5e85989d7094e853af99f30"
+    },
+    {
+      "path": "overrides/config/bearsstoragecrates-server.toml",
+      "sha1": "3bf5887b3ec245e5c4c03deccc3268da06fe645d"
     },
     {
       "path": "overrides/config/better_smithing_table.json",
@@ -786,7 +790,7 @@
     },
     {
       "path": "overrides/config/clutternomore/startup.toml",
-      "sha1": "ac45779b4a3e51fa8ea3d37c8ef15182f8126249"
+      "sha1": "059e3a9f94bba6c38d724a7c052fbe82f2f57b53"
     },
     {
       "path": "overrides/config/combatnouveau-client.toml",
@@ -806,7 +810,7 @@
     },
     {
       "path": "overrides/config/creaturefeature-server.toml",
-      "sha1": "28569a2321459df311353020a80ddcca7d9cce98"
+      "sha1": "3a91e9d8023ddcd93d2a72461ab902d6fd792fd7"
     },
     {
       "path": "overrides/config/cropsloverain.toml",
@@ -874,7 +878,7 @@
     },
     {
       "path": "overrides/config/enchantmentdisabler/config.toml",
-      "sha1": "114fba399160ae1c25237ac529bc303cbfd51d02"
+      "sha1": "641abf7622c315fa1bb2cca127bd8fda2b0e8ed3"
     },
     {
       "path": "overrides/config/enderscape.json5",
@@ -1038,7 +1042,7 @@
     },
     {
       "path": "overrides/config/hummus-common.toml",
-      "sha1": "ef63dc984dd09fd40f14b44657060087b08f18ab"
+      "sha1": "06339c981089ae76956a198bac3448f06428ace6"
     },
     {
       "path": "overrides/config/iframestweakerneo-common.toml",
@@ -1106,7 +1110,7 @@
     },
     {
       "path": "overrides/config/incontrol/spawn.json",
-      "sha1": "fad102786af02ba31a63c38016cd795d38350b36"
+      "sha1": "b3cb7a98e1db25fba11b52a49d5c85601f9b6742"
     },
     {
       "path": "overrides/config/incontrol/spawner.json",
@@ -1238,7 +1242,7 @@
     },
     {
       "path": "overrides/config/mob-ai-tweaks/general_config.txt",
-      "sha1": "cf84bfde453f5df584c3c05c6c66a88fa8960842"
+      "sha1": "6d994752dbd3b077a24a51720a752711cbd7d957"
     },
     {
       "path": "overrides/config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt",
@@ -1326,7 +1330,7 @@
     },
     {
       "path": "overrides/config/particular-common.toml",
-      "sha1": "8986d8e750448154e980b7b368dda97b055dd528"
+      "sha1": "2c56e7218e34db1b83d972df5ffe0ce3987af12f"
     },
     {
       "path": "overrides/config/paxi-neoforge-1_21.toml",
@@ -1794,7 +1798,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/nova_structures/worldgen/structure/trident_trial_monument.json",
-      "sha1": "ce7697d4735aad676b429b8876eef9fe9251d405"
+      "sha1": "7681edb3a9e425d99671d63958d51ee7591acae5"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/pack.mcmeta",
@@ -2926,15 +2930,19 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/enderscape/loot_table/end_city/vault.json",
-      "sha1": "7ae871e85f0078dd666b6c140aff947bd13cd5e1"
+      "sha1": "8ab7769406658194168592c5045104dc8371419a"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/galosphere/loot_table/entities/berserker.json",
       "sha1": "25f7998955093878611ffdf0d3db0b0881324fdb"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/ancient_city.json",
+      "sha1": "10c1ef330ca8ccf699dfafe3b5193417b1330498"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/ancient_city_center.json",
-      "sha1": "4cf7e4f425898bf124783b5203ae0a1e6908f3e9"
+      "sha1": "4061577ae15afc5e909d60f00787ea9e0c49c012"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/minecraft/loot_table/chests/bastion_bridge.json",
@@ -2970,7 +2978,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/ancient_city.json",
-      "sha1": "294220136061e765d2fd0a6285c09f722c6ecd96"
+      "sha1": "ae3cc65068fbcff2c33541c78b476101d5390b39"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/ancient_city_ice_box.json",
@@ -2994,7 +3002,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/greater_loot.json",
-      "sha1": "79f5d42885bf1dc5d5c54b84d0dd77ac436c2d1a"
+      "sha1": "331170a1e32b6a8e5fc806ea43ea1abc5272cb0d"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/lesser_loot.json",
@@ -3014,15 +3022,15 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json",
-      "sha1": "b8c5af8c1815c2c45bc4f645753584dacc342ca2"
+      "sha1": "f4fb12687aea1581675aa511d88b1e2d9c76a99d"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/vault_galleon.json",
-      "sha1": "f2a619103da820cabbf9af2d0370ec6a4fd414d7"
+      "sha1": "d34d29156050f5ef7ec07b52d797433104161865"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_castle/vault_slope.json",
-      "sha1": "2dad460c5ecd84f3c6665ec0c5ffc29d5a51e6c6"
+      "sha1": "76fa402c52c45b5f8d39e554367243db712daf77"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_loot_overrides/data/nova_structures/loot_table/chests/end_lighthouse/vault_lighthouse.json",
@@ -3657,6 +3665,10 @@
       "sha1": "6ace079f04daa5e4cc041f1509a2315c5b329505"
     },
     {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/soul_bead.json",
+      "sha1": "465f6cc676c06725907ae6351f3255cb2fb7bca6"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/advancement/recipes/cooking/white_concrete.json",
       "sha1": "815dfee00c48e507cf54eb0cb8ae9efec495e06d"
     },
@@ -3723,6 +3735,10 @@
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/red_concrete.json",
       "sha1": "c9ab2d0fed1c9876c3229be89685adb601bc8c1c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/soul_bead.json",
+      "sha1": "05406d89dc0f47c523e19f8df12913b49fd0a61a"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/hummus_external/recipe/cooking/white_concrete.json",
@@ -7294,7 +7310,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "b8bd35143e2ab28d28f8cb211eae50218769391c"
+      "sha1": "6a057f75b330770ae9527b2a4464dab6b420ce20"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -7506,11 +7522,11 @@
     },
     {
       "path": "overrides/config/sleep_tight-client.toml",
-      "sha1": "30a615fb34104b8ca24d54617f25fb5e61704fb4"
+      "sha1": "9d2c2cb1e9c237906b603578da73d3bb877f6319"
     },
     {
       "path": "overrides/config/sleep_tight-common.toml",
-      "sha1": "cab00d284616747e4c7b12338c587bae74b6f040"
+      "sha1": "68d8b86b1b56167abf6dd1539cfc69ba1f39e1ce"
     },
     {
       "path": "overrides/config/snowrealmagic-client.yaml",
@@ -7642,7 +7658,7 @@
     },
     {
       "path": "overrides/config/structurify.json",
-      "sha1": "43f15a677304068aea1b8f3c598f79868725fdbf"
+      "sha1": "c48a0ff6d618e9408d8a53062e5fdef11ea9e784"
     },
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-10_20-45-39.json",
@@ -7651,6 +7667,14 @@
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-10_20-45-58.json",
       "sha1": "8da8b6a9c4c7b29ee3a58b5d3b4e3a82b26abd45"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-15_17-19-00.json",
+      "sha1": "43f15a677304068aea1b8f3c598f79868725fdbf"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-15_17-20-32.json",
+      "sha1": "8fc3aff27276a1cd2bbd6e167b1e7b4a753355e4"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -7757,8 +7781,8 @@
       "sha1": "e29465b25c641d8a4163ba7abf9a478bbb9a9da9"
     },
     {
-      "path": "overrides/mods/hummus-0.8.13.jar",
-      "sha1": "d39b5840bf80148a4f6a78c6c15f9bb960c7571e"
+      "path": "overrides/mods/hummus-0.8.16.jar",
+      "sha1": "30ff26cbef7d6951e7d906db508c443cd3b635af"
     },
     {
       "path": "overrides/mods/natures_spirit-2.3.3-1.21.1.jar",

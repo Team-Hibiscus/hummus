@@ -8,17 +8,18 @@
     "modrinth": {
       "id": "lhGA9TYQ",
       "slug": "architectury-api",
-      "versionId": "ZxYGwlk0",
-      "versionNumber": "13.0.8+neoforge",
-      "filename": "architectury-13.0.8-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
-      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
-      "sha512": "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e",
-      "fileSize": 584004
+      "versionId": "xGfBrBzj",
+      "versionNumber": "13.0.12+neoforge",
+      "filename": "architectury-13.0.12-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/xGfBrBzj/architectury-13.0.12-neoforge.jar",
+      "sha1": "646dace27624ac08ad8d229fe15f6601a8b7fbb2",
+      "sha512": "286127f99708d1e2723e1dcc9104ebcab258f04db92040fc2394e5b7faf36d731ef3b84e592d94ec0d0f7f899eca84f806b1e012223da4894d4d8af5030ffe0f",
+      "fileSize": 584731
     }
   },
   "dependents": [
-    "WuGVWUF2"
+    "WuGVWUF2",
+    "zSZk5pLt"
   ],
   "clientSide": "required",
   "serverSide": "required"

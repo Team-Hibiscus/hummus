@@ -211,7 +211,7 @@
               }
             }
           ],
-          "name": "minecraft:iron_block"
+          "name": "oreganized:lead_block"
         },
         {
           "type": "minecraft:item",
@@ -243,6 +243,13 @@
           "name": "minecraft:spire_armor_trim_smithing_template",
           "conditions": [],
           "functions": []
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hummus:galena_smithing_template",
+          "weight": 1,
+          "functions": [],
+          "conditions": []
         },
         {
           "type": "minecraft:item",

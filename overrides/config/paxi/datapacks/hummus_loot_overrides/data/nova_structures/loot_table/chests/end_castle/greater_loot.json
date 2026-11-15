@@ -489,6 +489,12 @@
         },
         {
           "type": "minecraft:item",
+          "name": "hummus:galena_smithing_template",
+          "functions": [],
+          "conditions": []
+        },
+        {
+          "type": "minecraft:item",
           "name": "enderscape:music_disc_glare",
           "weight": 1,
           "functions": [],

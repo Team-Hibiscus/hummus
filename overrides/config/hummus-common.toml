@@ -6,3 +6,13 @@ shield_disable_delay = 80
 experimental_border_changes = true
 #experimental movement
 experimental_movement = true
+#entity spike logger enabled
+entity_spike_enabled = false
+#wait time in ticks for entity logger to tally entities
+# Default: 60
+# Range: > 1
+entity_spike_wait_time = 60
+#min amount of entities to log as a spike
+# Default: 100
+# Range: > 1
+entity_spike_min_amount = 100

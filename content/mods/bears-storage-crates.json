@@ -1,0 +1,23 @@
+{
+  "name": "Bear's Storage Crates",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "zSZk5pLt",
+      "slug": "bears-storage-crates",
+      "versionId": "tSZIyOjO",
+      "versionNumber": "1.0.3",
+      "filename": "bearsstoragecrates-neoforge-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/zSZk5pLt/versions/tSZIyOjO/bearsstoragecrates-neoforge-1.0.3.jar",
+      "sha1": "6a4f8385ea8d37a1484f2cd664e0a1c978a6e5ae",
+      "sha512": "65901e5ecd17044eabb8f75c7480638b2baa539345e2ed2b71ec0ecd61e6f5bd8303908be419617dae495cccb21b077231088bf7449084863e20c9040875d774",
+      "fileSize": 429357
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

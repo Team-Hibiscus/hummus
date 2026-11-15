@@ -5,7 +5,6 @@ version = 2
 disabledEnchantmentsV2 = [
     [ "minecraft:respiration", { table = false, loot = false, trade = false } ],
     [ "minecraft:aqua_affinity", { table = false, loot = false, trade = false } ],
-    [ "allurement:alleviating", { table = false, loot = false, trade = false } ],
     [ "minecraft:protection", { table = false, loot = false, trade = false } ],
     [ "minecraft:blast_protection", { table = false, loot = false, trade = false } ],
     [ "minecraft:fire_protection", { table = false, loot = false, trade = false } ],
@@ -31,9 +30,7 @@ disabledEnchantmentsV2 = [
     [ "minecraft:silk_touch", { table = false, loot = false, trade = false } ],
     [ "minecraft:fire_aspect", { table = false, loot = false, trade = false } ],
     [ "nova_structures:multishot", { table = false, loot = false, trade = false } ],
-    [ "allurement:reeling", { table = false, loot = false, trade = false } ],
     [ "nova_structures:photosynthesis", { table = false, loot = false, trade = false } ],
-    [ "allurement:reforming", { table = false, loot = false, trade = false } ],
     [ "nova_structures:illagers_bane", { table = false, loot = false, trade = false } ],
     [ "nova_structures:wax_wings", { table = false, loot = false, trade = false } ],
     [ "galosphere:sustain", { table = false, loot = false, trade = false } ],
@@ -44,11 +41,9 @@ disabledEnchantmentsV2 = [
     [ "galosphere:sifting", { table = false, loot = false, trade = false } ],
     [ "darkerdepths:swift_strike", { table = false, loot = false, trade = false } ],
     [ "darkerdepths:quick_dash", { table = false, loot = false, trade = false } ],
-    [ "allurement:launch", { table = false, loot = false, trade = false } ],
     [ "minecraft:punch", { table = false, loot = false, trade = false } ],
     [ "minecraft:sharpness", { table = false, loot = false, trade = false } ],
     [ "minecraft:power", { table = false, loot = false, trade = false } ],
-    [ "allurement:ascension_curse", { table = false, loot = false, trade = false } ],
     [ "minecraft:depth_strider", { table = false, loot = false, trade = false } ],
     [ "minecraft:piercing", { table = false, loot = false, trade = false } ],
     [ "nova_structures:conductivity_curse", { table = false, loot = false, trade = false } ],
@@ -70,7 +65,16 @@ disabledEnchantmentsV2 = [
     [ "nova_structures:outreach", { table = false, loot = false, trade = false } ],
     [ "minecraft:infinity", { table = false, loot = false, trade = false } ],
     [ "minecraft:multishot", { table = false, loot = false, trade = false } ],
-    [ "minecraft:quick_charge", { table = false, loot = false, trade = false } ]
+    [ "minecraft:quick_charge", { table = false, loot = false, trade = false } ],
+    [ "enchancement:veil", { table = false, loot = false, trade = false } ],
+    [ "enchancement:amphibious", { table = false, loot = false, trade = false } ],
+    [ "enchancement:slide", { table = false, loot = false, trade = false } ],
+    [ "enchancement:beheading", { table = false, loot = false, trade = false } ],
+    [ "enchancement:molten", { table = false, loot = false, trade = false } ],
+    [ "enchancement:scooping", { table = false, loot = false, trade = false } ],
+    [ "enchancement:phasing", { table = false, loot = false, trade = false } ],
+    [ "enchancement:scatter", { table = false, loot = false, trade = false } ],
+    [ "enchancement:warp", { table = false, loot = false, trade = false } ]
 ]
 disabledEnchantments = [  ]
 

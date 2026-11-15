@@ -2,7 +2,7 @@
   "name": "Nature's Spirit",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
