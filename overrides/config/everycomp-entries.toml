@@ -28,10 +28,6 @@
 		[types.wood_type.architects_palette]
 			twisted = true
 
-		[types.wood_type.spawn]
-			rotten = true
-			date = true
-
 		[types.wood_type.darkerdepths]
 			petrified = true
 
@@ -39,6 +35,10 @@
 			azalea = true
 			ancient = true
 			blossom = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
 
 		[types.leaves_type.galosphere]
 			opal = true
@@ -78,9 +78,6 @@
 		[types.leaves_type.architects_palette]
 			twisted = true
 
-		[types.leaves_type.spawn]
-			date = true
-
 		[types.leaves_type.thrivingblocks]
 			old_oak = true
 			old_jungle = true
@@ -93,6 +90,9 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
+
+		[types.leaves_type.spawn]
+			date = true
 
 		[types.cake.natures_spirit]
 			cheese_block = true

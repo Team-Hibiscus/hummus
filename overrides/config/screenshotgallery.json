@@ -1,7 +1,7 @@
 {
   "gridSize": "MEDIUM",
   "fadeAnimations": true,
-  "showMetadata": true,
+  "showMetadata": false,
   "squareButton": false,
   "customScreenshotDir": "",
   "buttonOffsetX": 0,

@@ -1,6 +1,6 @@
 {
-  "name": "Server Modpack",
-  "version": "1.0.0",
+  "name": "Hummus",
+  "version": "b1.0.0",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.253",

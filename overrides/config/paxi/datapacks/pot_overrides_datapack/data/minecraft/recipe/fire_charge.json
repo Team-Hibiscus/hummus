@@ -9,14 +9,9 @@
     {
       "item": "minecraft:blaze_powder"
     },
-    [
-      {
-        "item": "minecraft:coal"
-      },
-      {
-        "item": "minecraft:charcoal"
-      }
-    ]
+    {
+      "tag": "c:coals"
+    }
   ],
   "recipe_book_tab": "mixing",
   "result": {

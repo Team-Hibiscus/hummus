@@ -94,11 +94,11 @@
 		#Lowest general brightness Selas allows in mixed light. 0 allows true black.
 		# Default: 0.01
 		# Range: 0.0 ~ 0.25
-		minimum_luminance_floor = 0.025
+		minimum_luminance_floor = 0.02
 		#Near-black anti-crush floor when both block light and sky light are low (deep caves / sealed spaces). Should stay below open-sky starlight.
 		# Default: 0.004
 		# Range: 0.0 ~ 0.25
-		cave_luminance_floor = 0.006
+		cave_luminance_floor = 0.0065
 		#Extra luminance floor mixed in for open sky at night (starlight / airglow). 
 		#Uses sky light presence so caves stay darker than moonless surface nights. 0 disables the extra floor.
 		# Default: 0.016
@@ -107,11 +107,11 @@
 		#Controls how quickly low light falls into darkness. Higher values make low light darker.
 		# Default: 1.75
 		# Range: 0.25 ~ 4.0
-		darkness_curve = 1.45
+		darkness_curve = 1.6
 		#Controls how much block light resists darkening. Higher values keep torches and lava brighter.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.5
-		block_light_preservation = 1.15
+		block_light_preservation = 1.1
 
 	#Color changes in low light.
 	[natural_darkness.color]

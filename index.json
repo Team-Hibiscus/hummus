@@ -902,7 +902,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "9113ba1f38de8c7c0b20ce01b297db9289e6d08d"
+      "sha1": "39bc68bb85c56bf01af26a13ee8fb890da522d17"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -1046,7 +1046,7 @@
     },
     {
       "path": "overrides/config/hummus-common.toml",
-      "sha1": "06339c981089ae76956a198bac3448f06428ace6"
+      "sha1": "ea09eec091575154f70eadeb4e9effd0f20d8827"
     },
     {
       "path": "overrides/config/iframestweakerneo-common.toml",
@@ -1198,7 +1198,7 @@
     },
     {
       "path": "overrides/config/lmft.json",
-      "sha1": "cc01fc9b9cfe79c57a1e65ac2f9915834fe446fe"
+      "sha1": "be300f5e717b548717586d00b1de553169ae2d93"
     },
     {
       "path": "overrides/config/lodestone-client.toml",
@@ -2233,10 +2233,6 @@
       "sha1": "02ccdbb81f862ec3ac24034dc4bf78d565cca1c3"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/enderscape/recipe/dusk_purpur_block.json",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/farmersdelight/recipe/cooking_pot.json",
       "sha1": "59793fc02a7c20a2d37e1140675325803c8852be"
     },
@@ -2401,16 +2397,12 @@
       "sha1": "fede40fd94711aa7b773015d6440c8db4ea7e75b"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_turkey.json",
-      "sha1": "b4fb0d1eb1e607ce3ae3e936f7cce60b5b77d5ca"
-    },
-    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/cooked_venison.json",
       "sha1": "5ca70364c58c2b6bb9289d7fa75e45555e904b3e"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/dodo.json",
-      "sha1": "df2a099cb1229e055e20c6e1089e716244a767c9"
+      "sha1": "18d98f20e9aa8aa66263738db564780033699da7"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/drumstick.json",
@@ -2423,10 +2415,6 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/mammoth_meat.json",
       "sha1": "82dccabec5648cd516e41ac66da258421e303174"
-    },
-    {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/turkey.json",
-      "sha1": "4f6e8c8a8e902ee2ace4b1366071254dd2fcb7a5"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/cutting/venison.json",
@@ -2465,7 +2453,7 @@
       "sha1": "083b9bbed033565366f68720ef9f3dd3f9dcd98a"
     },
     {
-      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_nether_brick_from_lumistone .json",
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/hummus_external/recipe/light_nether_brick_from_lumistone.json",
       "sha1": "b1c15fe3fd2d9806077d81950503ffb97133e390"
     },
     {
@@ -4326,7 +4314,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/fire_charge.json",
-      "sha1": "48a60ee86a6900ab2a22c393b359b7b58fff6925"
+      "sha1": "f4fb88f7fe3c9e75d741d90f9bcd5d058f65e750"
     },
     {
       "path": "overrides/config/paxi/datapacks/pot_overrides_datapack/data/minecraft/recipe/glistering_melon_slice.json",
@@ -14850,7 +14838,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/slabs.json",
-      "sha1": "e2b4c69cc1706d8a0c8f4e0263d26491afb6332b"
+      "sha1": "9a5e7a2e90e0f67768dcdf7e1e826191afc09b36"
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/small_flowers.json",
@@ -14858,7 +14846,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/stairs.json",
-      "sha1": "6bc1061f6936f8a2cec116339984c81c8c70e607"
+      "sha1": "a591bccb9cfbef75c7713f91a207ea317ed6a8ec"
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/block/walls.json",
@@ -14958,7 +14946,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_doors.json",
-      "sha1": "51b0da150827db7e9b3526845b2e86a06dc7b873"
+      "sha1": "c53b2813279aece014398c94d384e9521b3abaf5"
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_fences.json",
@@ -14978,7 +14966,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/minecraft/tags/item/wooden_trapdoors.json",
-      "sha1": "0e0fdd190eb54fddf5055dda9212aef33548f307"
+      "sha1": "128e5b8195e38db586afa4e0b102c74055bb96c5"
     },
     {
       "path": "overrides/config/paxi/datapacks/tag_fixes/data/mob-ai-tweaks/tags/item/shulker_breeding_items.json",
@@ -18026,11 +18014,11 @@
     },
     {
       "path": "overrides/config/screenshotgallery.json",
-      "sha1": "6dafd43f2d44657aa0f8d8b9348cbad6b7ce0c3c"
+      "sha1": "08922edbc6dca565357c5676ce84468eba89b402"
     },
     {
       "path": "overrides/config/selas-client.toml",
-      "sha1": "78134185704b59fd1df2fc3e42c102125714c81d"
+      "sha1": "1f814f9f85b926eefd43054a758732d545342728"
     },
     {
       "path": "overrides/config/sleep_tight-client.toml",
@@ -18170,7 +18158,7 @@
     },
     {
       "path": "overrides/config/structurify.json",
-      "sha1": "c48a0ff6d618e9408d8a53062e5fdef11ea9e784"
+      "sha1": "d6e8b7da414eae04f6e62f3232e39be0a41aa65c"
     },
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-10_20-45-39.json",
@@ -18187,6 +18175,10 @@
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-15_17-20-32.json",
       "sha1": "8fc3aff27276a1cd2bbd6e167b1e7b4a753355e4"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-17_02-59-26.json",
+      "sha1": "c48a0ff6d618e9408d8a53062e5fdef11ea9e784"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -18297,8 +18289,8 @@
       "sha1": "e29465b25c641d8a4163ba7abf9a478bbb9a9da9"
     },
     {
-      "path": "overrides/mods/hummus-0.8.16.jar",
-      "sha1": "30ff26cbef7d6951e7d906db508c443cd3b635af"
+      "path": "overrides/mods/hummus-b1.0.0.jar",
+      "sha1": "114e24985f286f36a7f468bcee03a75293693670"
     },
     {
       "path": "overrides/mods/natures_spirit-2.3.3-1.21.1.jar",
