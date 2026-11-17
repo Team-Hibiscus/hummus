@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/woodsets/ancient/ancient_chest_wood"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ancient_logs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#quark:ancient_logs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ancient_logs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/woodsets/ancient/ancient_chest_wood"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "variant_chests"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "wood_to_chest_recipes"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "ancient_wood"
+        }
+      ]
+    }
+  ]
+}

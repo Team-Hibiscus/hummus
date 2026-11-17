@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/woodsets/ancient/ancient_trapped_chest"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ancient_chest": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:ancient_chest"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ancient_chest"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/woodsets/ancient/ancient_trapped_chest"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "variant_chests"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "ancient_wood"
+        }
+      ]
+    }
+  ]
+}

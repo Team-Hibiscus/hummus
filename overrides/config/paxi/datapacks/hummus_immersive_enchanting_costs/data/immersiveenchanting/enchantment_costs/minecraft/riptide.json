@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:nautilus_shell",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "bettertridents:trident_fragment",
+          "count": 2
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "bettertridents:trident_fragment",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

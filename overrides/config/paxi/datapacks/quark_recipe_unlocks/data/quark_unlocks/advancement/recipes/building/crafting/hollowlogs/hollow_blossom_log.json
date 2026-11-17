@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/hollowlogs/hollow_blossom_log"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_blossom_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:blossom_log"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blossom_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/hollowlogs/hollow_blossom_log"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "hollow_logs"
+    }
+  ]
+}

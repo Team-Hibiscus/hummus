@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:sniffer_egg",
+          "count": 1
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:sniffer_egg",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

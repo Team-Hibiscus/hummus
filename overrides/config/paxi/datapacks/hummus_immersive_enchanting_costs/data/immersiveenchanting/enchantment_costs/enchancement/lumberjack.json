@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "galosphere:opal",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "hummus:galena_ingot",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/panes/paper_wall_big"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_paper_wall": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:paper_wall"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_paper_wall"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/panes/paper_wall_big"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "paper_decor"
+    }
+  ]
+}

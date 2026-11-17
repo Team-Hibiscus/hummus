@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/slabs/orange_shingles_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_orange_shingles": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:orange_shingles"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_orange_shingles"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/slabs/orange_shingles_slab"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "shingles"
+    }
+  ]
+}

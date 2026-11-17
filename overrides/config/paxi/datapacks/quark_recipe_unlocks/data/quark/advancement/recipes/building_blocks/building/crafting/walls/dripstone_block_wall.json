@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/walls/dripstone_block_wall"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_dripstone_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dripstone_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dripstone_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/walls/dripstone_block_wall"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "dripstone"
+    }
+  ]
+}

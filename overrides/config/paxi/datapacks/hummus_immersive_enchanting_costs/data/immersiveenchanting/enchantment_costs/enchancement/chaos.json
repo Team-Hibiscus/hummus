@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "creaturefeature:blighted_brain",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:dragon_breath",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

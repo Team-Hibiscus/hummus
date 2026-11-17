@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/posts/spruce_post"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_spruce_wood": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:spruce_wood"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_spruce_wood"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/posts/spruce_post"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "wooden_posts"
+    }
+  ]
+}

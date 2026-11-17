@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/vertslabs/black_shingles_vertical_slab_stonecutter2"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_black_terracotta": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:black_terracotta"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_black_terracotta"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/vertslabs/black_shingles_vertical_slab_stonecutter2"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "shingles"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "vertical_slabs"
+        }
+      ]
+    }
+  ]
+}

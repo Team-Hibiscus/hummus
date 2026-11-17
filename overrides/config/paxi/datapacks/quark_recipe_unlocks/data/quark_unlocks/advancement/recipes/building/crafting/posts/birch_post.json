@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/posts/birch_post"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_birch_wood": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:birch_wood"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_birch_wood"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/posts/birch_post"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "wooden_posts"
+    }
+  ]
+}

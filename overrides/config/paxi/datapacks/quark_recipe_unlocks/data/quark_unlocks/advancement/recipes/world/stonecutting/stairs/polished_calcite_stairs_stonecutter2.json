@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/stonecutting/stairs/polished_calcite_stairs_stonecutter2"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_calcite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:calcite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_calcite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/stonecutting/stairs/polished_calcite_stairs_stonecutter2"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "calcite"
+    }
+  ]
+}

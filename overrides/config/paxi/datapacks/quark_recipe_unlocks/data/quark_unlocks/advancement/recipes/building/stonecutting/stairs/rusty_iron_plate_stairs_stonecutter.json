@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/stairs/rusty_iron_plate_stairs_stonecutter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_rusty_iron_plate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:rusty_iron_plate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_rusty_iron_plate"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/stairs/rusty_iron_plate_stairs_stonecutter"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "iron_plates"
+    }
+  ]
+}

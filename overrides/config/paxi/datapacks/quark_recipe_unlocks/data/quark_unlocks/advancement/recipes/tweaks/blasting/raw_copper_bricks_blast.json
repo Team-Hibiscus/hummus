@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tweaks/blasting/raw_copper_bricks_blast"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_raw_copper_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:raw_copper_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_copper_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tweaks/blasting/raw_copper_bricks_blast"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "smelt_ore_blocks"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "raw_metal_bricks"
+        }
+      ]
+    }
+  ]
+}

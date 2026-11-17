@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:torchflower",
+          "count": 8
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "architects_palette:nether_brass_ingot",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

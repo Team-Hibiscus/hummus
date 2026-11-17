@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/woodsets/blossom/stripped_blossom_post"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_stripped_blossom_wood": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:stripped_blossom_wood"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stripped_blossom_wood"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/woodsets/blossom/stripped_blossom_post"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "wooden_posts"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "blossom_trees"
+        }
+      ]
+    }
+  ]
+}

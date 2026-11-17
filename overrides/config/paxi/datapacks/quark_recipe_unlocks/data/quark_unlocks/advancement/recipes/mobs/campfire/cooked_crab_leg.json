@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:mobs/campfire/cooked_crab_leg"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_crab_leg": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:crab_leg"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_crab_leg"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:mobs/campfire/cooked_crab_leg"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/stonevariants/shale_bricks_vertical_slab_rough_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_shale": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:shale"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_shale"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/stonevariants/shale_bricks_vertical_slab_rough_stonecutting"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "stone_bricks"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "shale"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "vertical_slabs"
+        }
+      ]
+    }
+  ]
+}

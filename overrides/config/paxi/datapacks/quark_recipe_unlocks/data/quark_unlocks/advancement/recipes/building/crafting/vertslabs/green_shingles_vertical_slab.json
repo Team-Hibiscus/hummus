@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/vertslabs/green_shingles_vertical_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_green_shingles_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:green_shingles_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_green_shingles_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/vertslabs/green_shingles_vertical_slab"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "vertical_slabs"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "shingles"
+        }
+      ]
+    }
+  ]
+}

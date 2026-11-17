@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tools/smithing/flamerang_smithing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_pickarang": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:pickarang"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_pickarang"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tools/smithing/flamerang_smithing"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "pickarang"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "flamerang"
+        }
+      ]
+    }
+  ]
+}

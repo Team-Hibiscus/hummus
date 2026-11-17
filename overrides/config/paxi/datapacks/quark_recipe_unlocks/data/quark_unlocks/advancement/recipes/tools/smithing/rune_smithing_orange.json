@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tools/smithing/rune_smithing_orange"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_dyes_orange": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:dyes/orange"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dyes_orange"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tools/smithing/rune_smithing_orange"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "color_runes"
+    }
+  ]
+}

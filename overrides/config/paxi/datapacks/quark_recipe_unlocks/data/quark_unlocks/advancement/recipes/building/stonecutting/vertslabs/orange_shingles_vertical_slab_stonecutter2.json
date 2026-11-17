@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/vertslabs/orange_shingles_vertical_slab_stonecutter2"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_orange_terracotta": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:orange_terracotta"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_orange_terracotta"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/vertslabs/orange_shingles_vertical_slab_stonecutter2"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "shingles"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "vertical_slabs"
+        }
+      ]
+    }
+  ]
+}

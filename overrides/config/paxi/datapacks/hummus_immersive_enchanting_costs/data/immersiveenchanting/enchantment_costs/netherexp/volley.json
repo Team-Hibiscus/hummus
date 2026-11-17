@@ -1,0 +1,36 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "netherexp:banshee_rod",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "architects_palette:unobtanium",
+          "count": 4
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "netherexp:spark_of_treachery",
+          "count": 4
+        }
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "netherexp:spark_of_treachery",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

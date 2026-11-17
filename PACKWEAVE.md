@@ -1,6 +1,6 @@
 # Server Modpack
 
-**Minecraft 1.21.1 · NeoForge 21.1.253**, 129 mods (19 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 130 mods (19 dependencies)
 
 ## Contents
 
@@ -45,6 +45,7 @@
 - [Enchantment Disabler](https://modrinth.com/project/enchantment-disabler) `3.4.9+1.21.1`
 - [Enderscape](https://modrinth.com/project/enderscape) `1.0.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.12.1`
+- [Enttick](https://modrinth.com/project/enttick) `0.2.0`
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.55`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`

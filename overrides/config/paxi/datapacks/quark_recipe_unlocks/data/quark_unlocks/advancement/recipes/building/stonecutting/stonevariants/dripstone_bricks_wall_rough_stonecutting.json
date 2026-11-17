@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/stonevariants/dripstone_bricks_wall_rough_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_dripstone_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dripstone_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dripstone_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/stonevariants/dripstone_bricks_wall_rough_stonecutting"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "stone_bricks"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "dripstone"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:barrel"
+  }
+}

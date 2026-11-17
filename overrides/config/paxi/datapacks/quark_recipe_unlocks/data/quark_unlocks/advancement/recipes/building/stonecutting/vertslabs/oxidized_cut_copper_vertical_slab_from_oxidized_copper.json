@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/vertslabs/oxidized_cut_copper_vertical_slab_from_oxidized_copper"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_oxidized_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:oxidized_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_oxidized_copper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/vertslabs/oxidized_cut_copper_vertical_slab_from_oxidized_copper"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "vertical_slabs"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tweaks/crafting/utility/misc/dispenser_no_bow"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_rods_wooden": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:rods/wooden"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_rods_wooden"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tweaks/crafting/utility/misc/dispenser_no_bow"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "dropper_upgrade"
+    }
+  ]
+}

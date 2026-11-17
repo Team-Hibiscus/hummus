@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/glass_item_frame"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_glass_panes_colorless": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:glass_panes/colorless"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_glass_panes_colorless"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/glass_item_frame"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "glass_item_frame"
+    }
+  ]
+}

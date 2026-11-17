@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/red_sandstone_bricks_stonecutter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_red_sandstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:red_sandstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_red_sandstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/red_sandstone_bricks_stonecutter"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "sandstone_bricks"
+    }
+  ]
+}

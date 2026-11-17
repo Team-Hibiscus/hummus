@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tweaks/crafting/utility/coral/brain_to_pink"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_brain_coral": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:brain_coral",
+              "minecraft:brain_coral_fan"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_brain_coral"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tweaks/crafting/utility/coral/brain_to_pink"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "coral_to_dye"
+    }
+  ]
+}

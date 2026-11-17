@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/stonevariants/diorite_pillar"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_polished_diorite_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:polished_diorite_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_diorite_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/stonevariants/diorite_pillar"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "diorite"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "stone_pillar"
+        }
+      ]
+    }
+  ]
+}

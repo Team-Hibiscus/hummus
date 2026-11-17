@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "show_notification": true,
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "X#",
+    "#X"
+  ],
+  "result": {
+    "count": 1,
+    "item": "crafty_hands:glove_right"
+  }
+}

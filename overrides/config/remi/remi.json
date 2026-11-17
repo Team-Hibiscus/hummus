@@ -27,7 +27,8 @@
     "minecraft:walls",
     "fintastic:fishbowl_plants",
     "minecraft:wool_carpets",
-    "farmersdelight:drinks"
+    "farmersdelight:drinks",
+    "c:tools/knife"
   ],
   "stackGroupItemOrder": {
     "c:nuggets": [

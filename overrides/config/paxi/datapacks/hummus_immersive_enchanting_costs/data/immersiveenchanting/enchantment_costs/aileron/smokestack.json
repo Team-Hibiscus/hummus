@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "quark:bottled_cloud",
+          "count": 8
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:phantom_membrane",
+          "count": 8
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "the_beyond:abyssal_shroud",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

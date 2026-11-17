@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tweaks/crafting/utility/misc/repeater"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_dusts_redstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:dusts/redstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dusts_redstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tweaks/crafting/utility/misc/repeater"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "repeater_and_torches"
+    }
+  ]
+}

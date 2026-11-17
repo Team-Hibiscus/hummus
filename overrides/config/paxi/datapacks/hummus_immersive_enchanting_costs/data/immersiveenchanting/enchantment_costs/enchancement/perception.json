@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:golden_carrot",
+          "count": 8
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:echo_shard",
+          "count": 2
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/stonecutting/slabs/myalite_bricks_slab_stonecutter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_myalite_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:myalite_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_myalite_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/stonecutting/slabs/myalite_bricks_slab_stonecutter"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "myalite"
+    }
+  ]
+}

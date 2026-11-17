@@ -1,0 +1,36 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "bettertridents:trident_fragment",
+          "count": 2
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "bettertridents:trident_fragment",
+          "count": 4
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "the_beyond:brittle_metal_sheet",
+          "count": 4
+        }
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "the_beyond:brittle_metal_sheet",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

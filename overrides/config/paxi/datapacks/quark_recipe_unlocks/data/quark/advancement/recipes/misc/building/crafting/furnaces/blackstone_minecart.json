@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/furnaces/blackstone_minecart"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_blackstone_furnace": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:blackstone_furnace"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blackstone_furnace"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/furnaces/blackstone_minecart"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "variant_furnaces"
+    }
+  ]
+}

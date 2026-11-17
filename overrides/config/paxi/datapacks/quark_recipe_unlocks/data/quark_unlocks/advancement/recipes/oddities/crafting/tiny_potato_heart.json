@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:oddities/crafting/tiny_potato_heart"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_diamond_heart": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:diamond_heart"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_diamond_heart"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:oddities/crafting/tiny_potato_heart"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "tiny_potato"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "stonelings"
+        },
+        {
+          "type": "neoforge:not",
+          "value": {
+            "type": "zeta:flag",
+            "flag": "tiny_potato_never_uses_heart"
+          }
+        }
+      ]
+    }
+  ]
+}

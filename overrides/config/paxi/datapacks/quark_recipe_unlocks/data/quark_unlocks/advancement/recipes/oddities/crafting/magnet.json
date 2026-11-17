@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:oddities/crafting/magnet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_cobblestones": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:cobblestones"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cobblestones"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:oddities/crafting/magnet"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "magnets"
+        },
+        {
+          "type": "neoforge:not",
+          "value": {
+            "type": "zeta:flag",
+            "flag": "magnet_pre_end"
+          }
+        }
+      ]
+    }
+  ]
+}

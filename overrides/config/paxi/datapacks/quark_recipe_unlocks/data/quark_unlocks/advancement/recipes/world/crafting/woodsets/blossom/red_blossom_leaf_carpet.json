@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/woodsets/blossom/red_blossom_leaf_carpet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_red_blossom_leaves": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:red_blossom_leaves"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_red_blossom_leaves"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/woodsets/blossom/red_blossom_leaf_carpet"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "blossom_trees"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "leaf_carpet"
+        }
+      ]
+    }
+  ]
+}

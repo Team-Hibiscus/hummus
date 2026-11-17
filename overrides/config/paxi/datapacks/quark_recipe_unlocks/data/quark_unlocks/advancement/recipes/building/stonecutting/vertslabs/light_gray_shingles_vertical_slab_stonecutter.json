@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/vertslabs/light_gray_shingles_vertical_slab_stonecutter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_light_gray_shingles": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:light_gray_shingles"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_light_gray_shingles"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/vertslabs/light_gray_shingles_vertical_slab_stonecutter"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "shingles"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "vertical_slabs"
+        }
+      ]
+    }
+  ]
+}

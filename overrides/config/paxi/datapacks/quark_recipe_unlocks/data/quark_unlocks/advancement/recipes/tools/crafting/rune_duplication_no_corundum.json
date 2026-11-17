@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tools/crafting/rune_duplication_no_corundum"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_amethyst_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:amethyst_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_amethyst_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tools/crafting/rune_duplication_no_corundum"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "color_runes"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "zeta:flag",
+        "flag": "corundum"
+      }
+    }
+  ]
+}

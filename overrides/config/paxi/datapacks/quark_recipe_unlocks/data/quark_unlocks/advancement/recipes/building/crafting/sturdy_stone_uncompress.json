@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/sturdy_stone_uncompress"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_sturdy_stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:sturdy_stone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_sturdy_stone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/sturdy_stone_uncompress"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "neoforge:not",
+          "value": {
+            "type": "neoforge:mod_loaded",
+            "modid": "cyclic"
+          }
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "sturdy_stone"
+        }
+      ]
+    }
+  ]
+}

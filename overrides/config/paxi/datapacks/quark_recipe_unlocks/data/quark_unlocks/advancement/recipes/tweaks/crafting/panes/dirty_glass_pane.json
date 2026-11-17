@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tweaks/crafting/panes/dirty_glass_pane"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_dirty_glass": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:dirty_glass"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dirty_glass"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tweaks/crafting/panes/dirty_glass_pane"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "glass_shard"
+    }
+  ]
+}

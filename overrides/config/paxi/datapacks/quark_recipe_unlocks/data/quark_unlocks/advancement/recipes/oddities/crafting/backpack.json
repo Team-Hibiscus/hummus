@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:oddities/crafting/backpack"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_leathers": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:leathers"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_leathers"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:oddities/crafting/backpack"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "backpack"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "ravager_hide"
+        }
+      ]
+    }
+  ]
+}

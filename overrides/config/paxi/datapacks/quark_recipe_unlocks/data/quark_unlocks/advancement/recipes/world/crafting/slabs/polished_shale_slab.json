@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/slabs/polished_shale_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_polished_shale": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:polished_shale"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_shale"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/slabs/polished_shale_slab"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "shale"
+    }
+  ]
+}

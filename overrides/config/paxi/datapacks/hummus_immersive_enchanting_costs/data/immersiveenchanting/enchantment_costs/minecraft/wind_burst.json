@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:breeze_rod",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:breeze_rod",
+          "count": 8
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "the_beyond:guster",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

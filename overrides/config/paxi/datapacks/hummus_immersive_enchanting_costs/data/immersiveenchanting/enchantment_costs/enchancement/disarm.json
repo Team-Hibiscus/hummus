@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "netherexp:will_o_wisp",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "architects_palette:oracle_jelly",
+          "count": 32
+        }
+      }
+    ]
+  }
+}

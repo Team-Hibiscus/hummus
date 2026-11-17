@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/slabs/jasper_bricks_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_jasper_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:jasper_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_jasper_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/slabs/jasper_bricks_slab"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "jasper"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "more_stone_variants"
+        }
+      ]
+    }
+  ]
+}

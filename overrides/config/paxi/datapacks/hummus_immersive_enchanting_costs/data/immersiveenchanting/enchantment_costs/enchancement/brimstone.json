@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:ghast_tear",
+          "count": 8
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "the_beyond:brittle_metal_sheet",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

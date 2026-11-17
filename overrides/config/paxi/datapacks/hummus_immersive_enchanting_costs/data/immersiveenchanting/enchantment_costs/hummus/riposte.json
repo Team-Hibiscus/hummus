@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "hummus:dawn_gold_ingot",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "hummus:dawn_gold_ingot",
+          "count": 4
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "hummus:galena_ingot",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

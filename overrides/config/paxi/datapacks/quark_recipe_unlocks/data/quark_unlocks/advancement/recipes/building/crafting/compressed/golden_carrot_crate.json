@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/compressed/golden_carrot_crate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_golden_carrot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:golden_carrot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_golden_carrot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/compressed/golden_carrot_crate"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "golden_carrot_crate"
+    }
+  ]
+}

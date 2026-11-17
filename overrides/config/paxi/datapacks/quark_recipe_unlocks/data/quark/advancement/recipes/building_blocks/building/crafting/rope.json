@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/rope"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_string": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:string"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_string"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/rope"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "rope"
+    }
+  ]
+}

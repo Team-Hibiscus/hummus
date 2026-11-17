@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:oddities/crafting/pipe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ingots_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:ingots/copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ingots_copper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:oddities/crafting/pipe"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "pipes"
+    }
+  ]
+}

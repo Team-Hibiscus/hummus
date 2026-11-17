@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/compressed/carrot_crate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_carrot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:carrot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_carrot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/compressed/carrot_crate"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "carrot_crate"
+    }
+  ]
+}

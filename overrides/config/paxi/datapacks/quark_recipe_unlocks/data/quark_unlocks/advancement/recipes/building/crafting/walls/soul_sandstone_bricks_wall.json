@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/walls/soul_sandstone_bricks_wall"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_soul_sandstone_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:soul_sandstone_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_soul_sandstone_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/walls/soul_sandstone_bricks_wall"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "sandstone_bricks"
+    }
+  ]
+}

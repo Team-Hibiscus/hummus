@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/chests/oak_chest_wood"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_oak_logs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:oak_logs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_oak_logs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/chests/oak_chest_wood"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "variant_chests"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "wood_to_chest_recipes"
+        }
+      ]
+    }
+  ]
+}

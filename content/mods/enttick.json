@@ -1,0 +1,23 @@
+{
+  "name": "Enttick",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZfqM08u4",
+      "slug": "enttick",
+      "versionId": "o75sZ0UH",
+      "versionNumber": "0.2.0",
+      "filename": "enttick-0.2.0+1.21-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZfqM08u4/versions/o75sZ0UH/enttick-0.2.0%2B1.21-neoforge.jar",
+      "sha1": "90b3ecb8c9c0db71f2e12f80b81da0f74053c96c",
+      "sha512": "1c1c9cadfa7bf42dc9c2e645c8900af72b35a916a508350da0e83f577f39d5efe98f3e4fa0fa9dc5088407e3c0624aff84bf79879d875494d400923e1f49ea1e",
+      "fileSize": 10737
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

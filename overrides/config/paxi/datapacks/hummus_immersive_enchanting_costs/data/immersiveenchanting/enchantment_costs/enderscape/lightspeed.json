@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "enderscape:nebulite",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "creaturefeature:blitz_rod",
+          "count": 2
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "creaturefeature:blitz_rod",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

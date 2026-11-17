@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tools/smithing/rune_smithing_gray"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_dyes_gray": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:dyes/gray"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dyes_gray"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tools/smithing/rune_smithing_gray"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "color_runes"
+    }
+  ]
+}

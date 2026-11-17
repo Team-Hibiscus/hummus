@@ -1,0 +1,12 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:echo_shard",
+          "count": 1
+        }
+      }
+    ]
+  }
+}

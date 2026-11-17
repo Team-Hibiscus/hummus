@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tweaks/crafting/utility/misc/easy_sticks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_logs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:logs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_logs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tweaks/crafting/utility/misc/easy_sticks"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "easy_sticks"
+    }
+  ]
+}

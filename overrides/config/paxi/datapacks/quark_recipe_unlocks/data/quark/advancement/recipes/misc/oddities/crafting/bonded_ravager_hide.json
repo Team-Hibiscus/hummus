@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:oddities/crafting/bonded_ravager_hide"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ravager_hide": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:ravager_hide"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ravager_hide"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:oddities/crafting/bonded_ravager_hide"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "ravager_hide"
+    }
+  ]
+}

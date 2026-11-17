@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/woodsets/blossom/blossom_wood"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_blossom_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:blossom_log"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blossom_log"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/woodsets/blossom/blossom_wood"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "blossom_trees"
+    }
+  ]
+}

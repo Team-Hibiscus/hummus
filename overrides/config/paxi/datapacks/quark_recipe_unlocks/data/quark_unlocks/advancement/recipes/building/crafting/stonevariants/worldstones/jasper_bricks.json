@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/stonevariants/worldstones/jasper_bricks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_polished_jasper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:polished_jasper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_jasper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/stonevariants/worldstones/jasper_bricks"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "stone_bricks"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "jasper"
+        }
+      ]
+    }
+  ]
+}

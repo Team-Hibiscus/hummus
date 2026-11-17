@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/glass/lime_framed_glass"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_framed_glass": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:framed_glass"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_framed_glass"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/glass/lime_framed_glass"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "framed_glass"
+    }
+  ]
+}

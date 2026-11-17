@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/compressed/glowberry_sackuncompress"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_glowberry_sack": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:glowberry_sack"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_glowberry_sack"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/compressed/glowberry_sackuncompress"
+    ]
+  }
+}

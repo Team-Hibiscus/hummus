@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/vertslabs/deepslate_tile_vertical_slab_from_deepslate_bricks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_deepslate_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:deepslate_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_deepslate_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/vertslabs/deepslate_tile_vertical_slab_from_deepslate_bricks"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "vertical_slabs"
+    }
+  ]
+}

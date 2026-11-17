@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/stairs/polished_dripstone_stairs_stonecutter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_polished_dripstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:polished_dripstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_dripstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/stairs/polished_dripstone_stairs_stonecutter"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "dripstone"
+    }
+  ]
+}

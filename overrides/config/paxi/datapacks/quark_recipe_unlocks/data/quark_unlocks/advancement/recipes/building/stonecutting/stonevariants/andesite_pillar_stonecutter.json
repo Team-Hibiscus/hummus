@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/stonecutting/stonevariants/andesite_pillar_stonecutter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_andesite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:andesite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_andesite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/stonecutting/stonevariants/andesite_pillar_stonecutter"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "stone_pillar"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "andesite"
+        }
+      ]
+    }
+  ]
+}

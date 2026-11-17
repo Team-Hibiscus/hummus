@@ -1,0 +1,28 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:rabbit_foot",
+          "count": 4
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "oreganized:electrum_ingot",
+          "count": 2
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "the_beyond:void_crystal",
+          "count": 8
+        }
+      }
+    ]
+  }
+}

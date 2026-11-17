@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tools/crafting/seed_pouch"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_string": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:string"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_string"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tools/crafting/seed_pouch"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "seed_pouch"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "galosphere:palladium_ingot",
+          "count": 4
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:world/crafting/woodsets/blossom/blossom_chest"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_blossom_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:blossom_planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blossom_planks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:world/crafting/woodsets/blossom/blossom_chest"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:and",
+      "values": [
+        {
+          "type": "zeta:flag",
+          "flag": "variant_chests"
+        },
+        {
+          "type": "zeta:flag",
+          "flag": "blossom_trees"
+        }
+      ]
+    }
+  ]
+}

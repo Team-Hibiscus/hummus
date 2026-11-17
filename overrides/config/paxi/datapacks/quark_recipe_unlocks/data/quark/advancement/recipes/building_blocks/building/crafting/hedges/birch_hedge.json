@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/hedges/birch_hedge"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_birch_leaves": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:birch_leaves"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_birch_leaves"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/hedges/birch_hedge"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "hedges"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:tools/smithing/rune_smithing_blank"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_smithing_template_rune": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:smithing_template_rune"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_smithing_template_rune"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:tools/smithing/rune_smithing_blank"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "color_runes"
+    }
+  ]
+}

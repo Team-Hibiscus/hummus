@@ -3,5 +3,5 @@
   "id": "c:tools/knife",
   "tag": "c:tools/knife",
   "registry": "minecraft:item",
-  "enabled": true
+  "enabled": false
 }

@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/shingles/blue_shingles"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_blue_terracotta": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:blue_terracotta"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blue_terracotta"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/shingles/blue_shingles"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "shingles"
+    }
+  ]
+}

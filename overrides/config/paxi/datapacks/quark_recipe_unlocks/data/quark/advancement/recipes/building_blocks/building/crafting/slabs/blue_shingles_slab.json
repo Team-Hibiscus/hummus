@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:building/crafting/slabs/blue_shingles_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_blue_shingles": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:blue_shingles"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blue_shingles"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:building/crafting/slabs/blue_shingles_slab"
+    ]
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "shingles"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:iron_ingot",
+          "count": 8
+        }
+      }
+    ],
+    "2": [
+      {
+        "item_cost": {
+          "item": "minecraft:iron_block",
+          "count": 4
+        }
+      }
+    ],
+    "3": [
+      {
+        "item_cost": {
+          "item": "minecraft:netherite_ingot",
+          "count": 4
+        }
+      }
+    ],
+    "4": [
+      {
+        "item_cost": {
+          "item": "minecraft:netherite_ingot",
+          "count": 8
+        }
+      }
+    ],
+    "5": [
+      {
+        "item_cost": {
+          "item": "minecraft:heavy_core",
+          "count": 1
+        }
+      }
+    ]
+  }
+}
