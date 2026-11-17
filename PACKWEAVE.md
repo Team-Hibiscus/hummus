@@ -1,4 +1,4 @@
-# Server Modpack
+# Hummus
 
 **Minecraft 1.21.1 · NeoForge 21.1.253**, 130 mods (19 dependencies)
 
