@@ -1,0 +1,23 @@
+{
+  "name": "Biome Tinted Ice",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sGQS9HGc",
+      "slug": "biome-tinted-ice",
+      "versionId": "zCh2BZRy",
+      "versionNumber": "1.21.1_1.0.0",
+      "filename": "biometintedice-1.21.1_1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sGQS9HGc/versions/zCh2BZRy/biometintedice-1.21.1_1.0.0.jar",
+      "sha1": "653a0c6be8345d222a4fabf20ca797a88505ad24",
+      "sha512": "d886894adeb223b0abb20f2cb33bb03dd0495993bca3a379f7b46b0c0b0bb2cf5e5e349bcf9953f8637b0265ddda697cfa81f8187b0676e5a6ccd9e672f32084",
+      "fileSize": 11222
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -33,6 +33,10 @@
       "sha1": "576d21806861d4980e033a0597fe1d0f4f969e0f"
     },
     {
+      "path": "content/mods/bathymetry.json",
+      "sha1": "e3cefeec9211c0e75b2d33c9f8f2842e877a9595"
+    },
+    {
       "path": "content/mods/bears-storage-crates.json",
       "sha1": "4f04ae500d8ee51de51ca4ab6933d54062f948b5"
     },
@@ -47,6 +51,10 @@
     {
       "path": "content/mods/bettersmithingtable.json",
       "sha1": "8fa3c52f33044966194698b28528355ab618f85f"
+    },
+    {
+      "path": "content/mods/biome-tinted-ice.json",
+      "sha1": "82732cce629696c4d464c549c6d8d3ce110913b2"
     },
     {
       "path": "content/mods/blueprint.json",
@@ -221,10 +229,6 @@
       "sha1": "a9d6db9cbe6ebb12d32d4ba291957f70b2b7415b"
     },
     {
-      "path": "content/mods/fusion-connected-textures.json",
-      "sha1": "9b7b41251d9a9bd24045603227b7db85c631e52d"
-    },
-    {
       "path": "content/mods/fzzy-config.json",
       "sha1": "9e9e8c9199d651ae605315a9232af9cff5cf634d"
     },
@@ -383,6 +387,10 @@
     {
       "path": "content/mods/moonlight.json",
       "sha1": "17fb76984ba83a661bda281223172919021ebc6d"
+    },
+    {
+      "path": "content/mods/mossylib.json",
+      "sha1": "214bccfa1091763a1930cbc40c19836a45bf7127"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -586,7 +594,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "2cd3c7d38e13fdfaf2bc484d190ac6c89524f206"
+      "sha1": "1402781b26aad405a529eeec54774c1478150da2"
     },
     {
       "path": "content/mods/yungs-api.json",
@@ -649,6 +657,10 @@
       "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2"
     },
     {
+      "path": "overrides/config/bathymetry.json5",
+      "sha1": "6136675b9bfe0e60d59086adccabca4337160a46"
+    },
+    {
       "path": "overrides/config/bearsstoragecrates-client.toml",
       "sha1": "9098260f492fce77f5e85989d7094e853af99f30"
     },
@@ -667,6 +679,10 @@
     {
       "path": "overrides/config/bettertridents-server.toml",
       "sha1": "440630bad597e32a173b2bc6df9c2c19c81a74e8"
+    },
+    {
+      "path": "overrides/config/biometintedice-client.toml",
+      "sha1": "c2a711c27e1e0c67247201a7b932e36aaae3103d"
     },
     {
       "path": "overrides/config/blueprint-client.toml",
@@ -17782,7 +17798,7 @@
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "24427f8fc6e23b7e6421729627a4b013ef25f52e"
+      "sha1": "30b12279e7be1c1075374a9c9c030b0cdaead992"
     },
     {
       "path": "overrides/config/reliable_advancements.json",

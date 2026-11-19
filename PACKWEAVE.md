@@ -1,6 +1,6 @@
 # Hummus
 
-**Minecraft 1.21.1 · NeoForge 21.1.253**, 130 mods (19 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 132 mods (19 dependencies)
 
 ## Contents
 
@@ -11,10 +11,12 @@
 - [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/project/audaki-cart-engine) `3.1.1`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`
 - [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
+- [Bathymetry](https://modrinth.com/project/bathymetry) `1.0.4+1.21.1+neoforge`
 - [Bear's Storage Crates](https://modrinth.com/project/bears-storage-crates) `1.0.3`
 - [Better F1 Reborn](https://modrinth.com/project/better-f1-reborn) `1.1`
 - [Better Smithing Table](https://modrinth.com/project/bettersmithingtable) `2.2.1+1.21.1`
 - [Better Tridents](https://modrinth.com/project/better-tridents) `v21.1.0-1.21.1-NeoForge`
+- [Biome Tinted Ice](https://modrinth.com/project/biome-tinted-ice) `1.21.1_1.0.0`
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.3.1-1.21.1-neoforge`
 - [Bundle Backport-ish](https://modrinth.com/project/bundle-backportish) `1.1.4+mc1.21.1`
 - [Caelum](https://modrinth.com/project/caelum) `3.0.0.7`
@@ -53,7 +55,6 @@
 - [Fintastic](https://modrinth.com/project/fintastic) `1.21.1-3.3`
 - [Fog](https://modrinth.com/project/fog) `1.11.0+1.21-neoforge`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.1+1.21.1`
-- [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Gallery](https://modrinth.com/project/gallery) `2.0.1`
 - [Galosphere](https://modrinth.com/project/galosphere) `1.21.1-1.5.5`
 - [Galosphere Trimming](https://modrinth.com/project/galosphere-trimming) `1.21.1-1.0-neoforge`
@@ -85,6 +86,7 @@
 - [Mob AI Tweaks](https://modrinth.com/project/mob-ai-tweaks) `1.11.6`
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.1`
+- [MossyLib](https://modrinth.com/project/mossylib) `1.6.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.7+1.21.1-neoforge`

@@ -275,7 +275,7 @@
 	"Easy Transferring" = true
 	"Expanded Item Interactions" = false
 	"Hotbar Changer" = false
-	"Inventory Sorting" = true
+	"Inventory Sorting" = false
 	"Item Sharing" = true
 	"Quick Armor Swapping" = false
 
@@ -303,7 +303,7 @@
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
 		"Enable Shulker Box Interaction" = true
-		"Enable Lava Interaction" = true
+		"Enable Lava Interaction" = false
 		"Allow Opening Shulker Boxes" = true
 		"Allow Rotating Bundles" = true
 		#Set this to true to use left clicks instead of right clicks for all Expanded Item Interactions. Some JEI hints may be incorrect if this is enabled
