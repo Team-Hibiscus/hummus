@@ -482,7 +482,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "6292a9e4397c8360cd336c3b1a16014be12160cb"
+      "sha1": "4b6ac241f28a5f46aead1d7b2ff6d6ad2e7f5b7e"
     },
     {
       "path": "content/mods/relocate.json",
@@ -630,7 +630,7 @@
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "a55c09c88cdd48002672b8663948015d9c088295"
+      "sha1": "5af862f4e270dba0578f169c4bfaf60796748caa"
     },
     {
       "path": "overrides/config/amendments-common.toml",
@@ -3121,6 +3121,14 @@
       "sha1": "f8fb27571607d7d4c5b83bd8028bf702d6c0b4df"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_immersive_enchanting_costs/data/immersiveenchanting/enchantment_costs/hummus/compact.json",
+      "sha1": "f761e3479fac011341a298dd289f1bb43730cd1e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_immersive_enchanting_costs/data/immersiveenchanting/enchantment_costs/hummus/drifter.json",
+      "sha1": "f761e3479fac011341a298dd289f1bb43730cd1e"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_immersive_enchanting_costs/data/immersiveenchanting/enchantment_costs/hummus/duelist.json",
       "sha1": "a5a98be3d98769f524fd1cd300d5b8b9627b3527"
     },
@@ -3131,6 +3139,10 @@
     {
       "path": "overrides/config/paxi/datapacks/hummus_immersive_enchanting_costs/data/immersiveenchanting/enchantment_costs/hummus/momentum.json",
       "sha1": "eeb9f40b1b1eec2f528508f2d847fb3179aac1a9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_immersive_enchanting_costs/data/immersiveenchanting/enchantment_costs/hummus/mountaineer.json",
+      "sha1": "f761e3479fac011341a298dd289f1bb43730cd1e"
     },
     {
       "path": "overrides/config/paxi/datapacks/hummus_immersive_enchanting_costs/data/immersiveenchanting/enchantment_costs/hummus/riposte.json",
@@ -17822,7 +17834,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "6a057f75b330770ae9527b2a4464dab6b420ce20"
+      "sha1": "98d47d948f894ebc1fe6c46f246763873fca7995"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -18305,8 +18317,8 @@
       "sha1": "e29465b25c641d8a4163ba7abf9a478bbb9a9da9"
     },
     {
-      "path": "overrides/mods/hummus-1.0.0-beta.jar",
-      "sha1": "df652194f25f39af67a1f2c7d09076a8f5dfae78"
+      "path": "overrides/mods/hummus-1.0.1-beta.jar",
+      "sha1": "8437dae57fe0572bf857d1fbae05bc17cffc3684"
     },
     {
       "path": "overrides/mods/natures_spirit-2.3.3-1.21.1.jar",

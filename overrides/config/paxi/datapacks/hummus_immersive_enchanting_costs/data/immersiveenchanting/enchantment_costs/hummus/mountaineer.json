@@ -1,0 +1,12 @@
+{
+  "levels": {
+    "1": [
+      {
+        "item_cost": {
+          "item": "minecraft:golden_carrot",
+          "count": 40
+        }
+      }
+    ]
+  }
+}
