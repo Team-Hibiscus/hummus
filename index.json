@@ -254,7 +254,7 @@
     },
     {
       "path": "content/mods/goated.json",
-      "sha1": "d2d6016f91e01f9dcd228103629dfc87ae6c6ee3"
+      "sha1": "a1ac2abe633643c475a3fef9e88561c751a315a1"
     },
     {
       "path": "content/mods/hoofprint.json",
@@ -386,7 +386,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "17fb76984ba83a661bda281223172919021ebc6d"
+      "sha1": "f5c230071dba95307324002651b4e8936b70356c"
     },
     {
       "path": "content/mods/mossylib.json",
@@ -513,10 +513,6 @@
       "sha1": "281bada9529f842532eda2a79d597a0f3a9c6456"
     },
     {
-      "path": "content/mods/sleep-tight.json",
-      "sha1": "512c36c0bfe4623df1e9cd1c178db5ca1118adff"
-    },
-    {
       "path": "content/mods/snow-real-magic.json",
       "sha1": "08b34717b77776596a8f071557f0fc14690b77d8"
     },
@@ -554,7 +550,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "002f97d23da0c8b389a5792e56b93d85fea4e05c"
+      "sha1": "c4202ccd291a956a8e0b35b61cf45616e9a66db5"
     },
     {
       "path": "content/mods/surveyor.json",
