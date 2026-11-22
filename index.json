@@ -6,11 +6,15 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
       "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
+    },
+    {
+      "path": "content/mods/ancestral.json",
+      "sha1": "7f7165288bc0a24df6b2e3bbc19f4eb203cc4cb5"
     },
     {
       "path": "content/mods/architects-palette.json",
@@ -1142,7 +1146,7 @@
     },
     {
       "path": "overrides/config/incontrol/spawn.json",
-      "sha1": "b3cb7a98e1db25fba11b52a49d5c85601f9b6742"
+      "sha1": "19c0ca9c01b974efa2baec5f3dbd23aabc722a62"
     },
     {
       "path": "overrides/config/incontrol/spawner.json",
@@ -1370,7 +1374,7 @@
     },
     {
       "path": "overrides/config/particular-common.toml",
-      "sha1": "2c56e7218e34db1b83d972df5ffe0ce3987af12f"
+      "sha1": "531940a93f43db4300b572b8107b8258e2917ee9"
     },
     {
       "path": "overrides/config/paxi-neoforge-1_21.toml",
@@ -17950,7 +17954,7 @@
     },
     {
       "path": "overrides/config/reliable_remover/removals.json",
-      "sha1": "98d47d948f894ebc1fe6c46f246763873fca7995"
+      "sha1": "ae1d04fa0496cba500641a3844ff57eb740949fd"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -18178,7 +18182,7 @@
     },
     {
       "path": "overrides/config/snowrealmagic-common.yaml",
-      "sha1": "d24b01d1b429fe33b35f13c525e6d6ce1502b92c"
+      "sha1": "b5ad2a2774045f9a0a1cac639275b8023cbab39e"
     },
     {
       "path": "overrides/config/snowundertrees-common.toml",
@@ -18302,7 +18306,7 @@
     },
     {
       "path": "overrides/config/structurify.json",
-      "sha1": "d6e8b7da414eae04f6e62f3232e39be0a41aa65c"
+      "sha1": "89bce1429f0bc8bf23ddd11a419eed7f1a5b5c31"
     },
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-10_20-45-39.json",
@@ -18374,7 +18378,7 @@
     },
     {
       "path": "overrides/config/twod_projectiles.json5",
-      "sha1": "72f219452d51812bb902ce9a3499cbb5a97d6369"
+      "sha1": "a448e0c9f1ff9877f2c4e147fd9ecbfd2cea0a74"
     },
     {
       "path": "overrides/config/twohandedengine-common.toml",

@@ -525,6 +525,10 @@
     {
       "name": "the_beyond:jump_platform_end",
       "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "ancestral:bandit_camp",
+      "is_disabled": true
     }
   ],
   "structure_template_pools": []

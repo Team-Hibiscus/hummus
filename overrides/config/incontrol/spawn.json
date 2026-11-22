@@ -22,7 +22,8 @@
     "naturalist:catfish",
     "naturalist:ant",
     "creaturefeature:sinister",
-    "creaturefeature:saint_solis"
+    "creaturefeature:saint_solis",
+    "ancestral:bandit"
   ],
     "when": "onjoin",
     "result": "deny"

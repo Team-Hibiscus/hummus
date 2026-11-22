@@ -1,6 +1,6 @@
 # Hummus
 
-**Minecraft 1.21.1 · NeoForge 21.1.253**, 135 mods (19 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 136 mods (19 dependencies)
 
 ## Contents
 
@@ -8,6 +8,7 @@
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
+- [Ancestral](https://modrinth.com/project/ancestral) `1.0.0`
 - [Architect's Palette](https://modrinth.com/project/architects-palette) `1.4.0-beta.5N`
 - [Audaki Cart Engine (Faster Minecarts)](https://modrinth.com/project/audaki-cart-engine) `3.1.1`
 - [bad packets](https://modrinth.com/project/badpackets) `neo-0.8.2`

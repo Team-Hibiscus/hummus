@@ -186,7 +186,18 @@
     "thrivingblocks:old_jungle_leaves",
     "thrivingblocks:old_dead_bush",
     "creaturefeature:sinister_spawn_egg",
-    "creaturefeature:saint_solis_spawn_egg"
+    "creaturefeature:saint_solis_spawn_egg",
+    "ancestral:ancient_mask",
+    "ancestral:ancient_sword",
+    "ancestral:soul_staff",
+    "ancestral:mirror_shield",
+    "ancestral:returnal_shield",
+    "ancestral:soul_charge",
+    "ancestral:echo_bell",
+    "ancestral:locator_bell",
+    "ancestral:climbing_pick",
+    "ancestral:preservation_tablet",
+    "ancestral:bandit_spawn_egg"
 	]
 },
 {

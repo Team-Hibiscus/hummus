@@ -38,23 +38,23 @@
 		#Enable the translucent mist that drifts off cascades
 		cascadeMist = true
 		#Enable camera shake for loud nearby sounds such as explosions and Warden roars
-		screenShake = true
+		screenShake = false
 		#Enable snow falling off leaves that have snow on top or while it is snowing
 		leafSnow = true
 		#Enable visible breath from players and mobs in cold places
-		coldBreath = true
+		coldBreath = false
 		#Enable dust kicked up when running or landing on loose ground such as sand, dirt, gravel and snow
-		footstepDust = true
+		footstepDust = false
 		#Enable pollen drifting off flowers during the day
 		pollen = true
 		#Enable spores drifting off moss and mushrooms
-		spores = true
+		spores = false
 		#Enable glowing embers rising from campfires and spitting from lit furnaces
 		embers = true
 		#Enable bushes tumbling across dry sandy biomes
-		tumbleweeds = true
+		tumbleweeds = false
 		#Enable a rainbow in the sky after it stops raining during the day
-		rainbows = true
+		rainbows = false
 		#Show a one-time chat message listing the effects added by an update when you open a world that existed before it
 		updateNotice = true
 

@@ -1,0 +1,23 @@
+{
+  "name": "Ancestral",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jctCgneh",
+      "slug": "ancestral",
+      "versionId": "HqThKFha",
+      "versionNumber": "1.0.0",
+      "filename": "ancestral-1.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jctCgneh/versions/HqThKFha/ancestral-1.0-1.21.1.jar",
+      "sha1": "01352ba0173f4b49e1899e07be48f1b6dbdd626a",
+      "sha512": "b7dde8f55169c4be05458d280db232d16482d7d9707960a3c4129da5ff25b34270e9c68f8ce4b6056552a596190ad2a45b394a3e28c9ff9a42f08918634a9de5",
+      "fileSize": 12964408
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
