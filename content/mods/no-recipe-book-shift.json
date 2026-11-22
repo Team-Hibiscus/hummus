@@ -1,0 +1,23 @@
+{
+  "name": "No Recipe Book Shift (NRBS)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CnII1zAB",
+      "slug": "no-recipe-book-shift",
+      "versionId": "cWyhqeDv",
+      "versionNumber": "1.0.0",
+      "filename": "norecipebookshift-1.0.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CnII1zAB/versions/cWyhqeDv/norecipebookshift-1.0.0%2B1.21.1-neoforge.jar",
+      "sha1": "b2585a4deee4183e730f3efa5ae873b4da17341a",
+      "sha512": "b54547410e24637d4531565be0c1b4de27124836bf3be30f6c41323cf06221a3a6fbb4c85e702b4167e8625a0c35c88645a083168efb36b1e1f870ddd5637dbf",
+      "fileSize": 8270
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

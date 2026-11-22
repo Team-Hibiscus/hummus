@@ -3,7 +3,7 @@
   "OVERWORLD_CLOUDS_RENDERED": true,
   "NETHER_CLOUDS_RENDERED": false,
   "END_CLOUDS_RENDERED": false,
-  "lastModificationTime": 1793065274547,
+  "lastModificationTime": 1794995231097,
   "CLOUD_COLOR": [
     {
       "time": 0,
@@ -173,7 +173,7 @@
           "COLOR_FADE": false,
           "INVERTED_FADE": false,
           "FADE_TYPE": "DYNAMIC_POSITIONAL",
-          "STATIC_FADE_REL_Y": 20.0
+          "STATIC_FADE_REL_Y": 0.0
         },
         "FOG": {
           "FOG_START_DISTANCE": 50.0,

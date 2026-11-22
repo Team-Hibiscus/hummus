@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
+      "sha1": "645908741c952da894758be89de3ddb456671dba"
     },
     {
       "path": "content/mods/amendments.json",
@@ -78,7 +78,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "bd76887fe0b15d7d2376c9ad38f681a1d161ed98"
+      "sha1": "eac3f8b1827d2a0a686644d41bb39df104911a70"
     },
     {
       "path": "content/mods/cloud_tweaks.json",
@@ -86,7 +86,7 @@
     },
     {
       "path": "content/mods/clutter-no-more.json",
-      "sha1": "6837814dcc72f8bb426384b7ab286842f7a7a3c3"
+      "sha1": "21dc0865b41cff3d5b49b4055aad8e91fd4b8c6e"
     },
     {
       "path": "content/mods/combat-nouveau.json",
@@ -234,7 +234,7 @@
     },
     {
       "path": "content/mods/gallery.json",
-      "sha1": "3c2929bcbfc87c510d1381878f50e704c5cfdd4e"
+      "sha1": "9da9e691f1ab13234ce9882c7e533571c940464d"
     },
     {
       "path": "content/mods/galosphere-trimming.json",
@@ -290,7 +290,7 @@
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "5067ec173971a63ebe3668df3300318d39acb667"
+      "sha1": "77edfbacd5750a61d3edce03cd37c44ed739f9f8"
     },
     {
       "path": "content/mods/isleweaver.json",
@@ -298,7 +298,7 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+      "sha1": "4bf7d9b6dcbf845f892bbe037f419801bc7daeb2"
     },
     {
       "path": "content/mods/jadens-nether-expansion-delight.json",
@@ -330,7 +330,7 @@
     },
     {
       "path": "content/mods/lithium.json",
-      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+      "sha1": "90a89d6f22d07d586c2987f15071a3034f5358b7"
     },
     {
       "path": "content/mods/lithostitched.json",
@@ -417,6 +417,14 @@
       "sha1": "f6279a12553c4969114ee3da0e65466846463bac"
     },
     {
+      "path": "content/mods/no-recipe-book-shift.json",
+      "sha1": "42a20ffbe6f7b8a233667fe4ac47d79fe96ab801"
+    },
+    {
+      "path": "content/mods/offgrid.json",
+      "sha1": "c79e5aaac7a29b6635306f43bd3977b59364daeb"
+    },
+    {
       "path": "content/mods/oreganized.json",
       "sha1": "a92f38a308c5c8e405366bba6e7b29593baae3e7"
     },
@@ -462,11 +470,15 @@
     },
     {
       "path": "content/mods/quark.json",
-      "sha1": "80e857c83b4caaca8491f78cb2635bbdc960d486"
+      "sha1": "99f99f8d66b443c7b331723e77fe38d9b19cc9d5"
     },
     {
       "path": "content/mods/recipes-library.json",
       "sha1": "5cad4e4721384e4ed344c8e09bb197707a99d78c"
+    },
+    {
+      "path": "content/mods/recreative.json",
+      "sha1": "9c0fd7d4576571e7a85dc07d11bba0b014405c65"
     },
     {
       "path": "content/mods/reliable-advancements.json",
@@ -482,7 +494,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "4b6ac241f28a5f46aead1d7b2ff6d6ad2e7f5b7e"
+      "sha1": "5940b7dde4f7d7a00458ac988d934ff4596d2cb3"
     },
     {
       "path": "content/mods/relocate.json",
@@ -498,7 +510,7 @@
     },
     {
       "path": "content/mods/scalablelux.json",
-      "sha1": "6bbe45de8f6ca53d775aa4aa60b1059e4339af8c"
+      "sha1": "7224d794c6f6654fede56f642dd4cd4ab5c3ecab"
     },
     {
       "path": "content/mods/scholar.json",
@@ -514,7 +526,7 @@
     },
     {
       "path": "content/mods/snow-real-magic.json",
-      "sha1": "08b34717b77776596a8f071557f0fc14690b77d8"
+      "sha1": "6bc49e75589b2e06cde6e1b23f2d506f5aab828b"
     },
     {
       "path": "content/mods/snow-under-trees.json",
@@ -530,7 +542,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "6a9bc9a760f726a0cf127c641b495f1c2788dfd8"
+      "sha1": "2401b7f76e809b4515c615a052d7495b1b4e6616"
     },
     {
       "path": "content/mods/spawn-mod.json",
@@ -577,6 +589,10 @@
       "sha1": "a73f5ef30939a587415d21de6f1021a5edf4fbbb"
     },
     {
+      "path": "content/mods/twod_projectiles.json",
+      "sha1": "2d90ad06b9d64812a64d853f83c79c95b98cfb07"
+    },
+    {
       "path": "content/mods/twohanded-engine.json",
       "sha1": "dec0e4fcdb2f138ee9e237aa519680fc4ad7fbb8"
     },
@@ -590,7 +606,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "1402781b26aad405a529eeec54774c1478150da2"
+      "sha1": "dde9de8d0e4553f684a8b6aee027eeb1a76493a5"
     },
     {
       "path": "content/mods/yungs-api.json",
@@ -654,7 +670,7 @@
     },
     {
       "path": "overrides/config/bathymetry.json5",
-      "sha1": "6136675b9bfe0e60d59086adccabca4337160a46"
+      "sha1": "41815b0d81f9105e23f3f1e3c4b360831ae59d45"
     },
     {
       "path": "overrides/config/bearsstoragecrates-client.toml",
@@ -714,7 +730,7 @@
     },
     {
       "path": "overrides/config/cloud_configs.json",
-      "sha1": "152ffee36abf7d21467e3c8ee7739c53ed032630"
+      "sha1": "64d4377647886d812031fe00d99cf9180e4abc62"
     },
     {
       "path": "overrides/config/cloud_presets/colors/default.json",
@@ -914,7 +930,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "39bc68bb85c56bf01af26a13ee8fb890da522d17"
+      "sha1": "62fd5acb3fede5c10b85758507d6f30e7602e43f"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -1331,6 +1347,14 @@
     {
       "path": "overrides/config/netherexp-startup.toml",
       "sha1": "833b0a28cb284a6cc991582c6f4e10a7c05829e8"
+    },
+    {
+      "path": "overrides/config/norecipebookshift.json",
+      "sha1": "33b158dddbf3b02312a5cb628a9f2b489544619b"
+    },
+    {
+      "path": "overrides/config/offgrid/common.toml",
+      "sha1": "eea3f20a6ef175449a9ae5b7c6930903d638df3a"
     },
     {
       "path": "overrides/config/oreganized-client.toml",
@@ -15129,8 +15153,44 @@
       "sha1": "a341fa1174ecc94164d9fcc112be96df927e4887"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/models/block/template_anvil.json",
+      "sha1": "6a6a9ef68a20c9f1dd047d568912c5fbc4e25a99"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/anvil.png",
+      "sha1": "5a0d995d214c4b78bf2461007c2b6673a40f05f0"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/anvil_top.png",
+      "sha1": "8077d0e5cbed233dfad43be0d77839923e2fb7f5"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/cauldron_bottom.png",
+      "sha1": "4a56593651813f19984e7b4c2bc89b33f452737b"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/cauldron_inner.png",
+      "sha1": "9a34cb366aa1fa2a71c55210cca29e4283d595ce"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/cauldron_side.png",
+      "sha1": "27258f24d20521212af5d40226a711b8a8fe97e7"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/cauldron_top.png",
+      "sha1": "c01f89e1b480c2c4cb19a7084e3d1c17ce017da4"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/chipped_anvil_top.png",
+      "sha1": "b77f1c7477eb9288595da68104041b3509cd2440"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/coarse_dirt.png",
       "sha1": "e0e4272a7707df55e2a0d11ea70c3ee54e670f29"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/damaged_anvil_top.png",
+      "sha1": "a246c05c225afd05889dbcc0461decf41bc5873d"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/dandelion.png",
@@ -15147,6 +15207,10 @@
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/dirt_path_top.png",
       "sha1": "75f760de76e3acf704d1ca9c9b29094f27bee5c9"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/emerald_block.png",
+      "sha1": "02dd068496164848d23ad034d204943a8420269f"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/Vintage/assets/minecraft/textures/block/farmland.png",
@@ -17629,8 +17693,52 @@
       "sha1": "bfac841bdd1311ae235a5eadd18688d4b91b6bab"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/acacia_planks.png",
+      "sha1": "0dea71afc12bc8d006192891386ae71b2be8379a"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/birch_planks.png",
+      "sha1": "9d10d7c6d6a9df1f5aeb6f7663365777f2ee10b3"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/cherry_planks.png",
+      "sha1": "13e37de4aae406590b54f1463c11d2ce44088514"
+    },
+    {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/clay.png",
       "sha1": "62e04dde1680bb0761bde06442cdcf2632fc41e0"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/crimson_planks.png",
+      "sha1": "bde377d02997dedf3ae394152a529ba3068d752f"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/dark_oak_planks.png",
+      "sha1": "218e9009ac962c71571590dbc6384e1ccb748780"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/jungle_planks.png",
+      "sha1": "f386adac83cc0af2eef09b1658c03cafff2d5438"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/mangrove_planks.png",
+      "sha1": "1ee0f543cd7d18ddfb1cbfd79db4dcd38d45129e"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/oak_leaves.png",
+      "sha1": "40681b2f21f4396a0a803a38914b8d7b80dec7ed"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/oak_planks.png",
+      "sha1": "6b81179018b67d458023d2195c4529103dc7dd2f"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/spruce_planks.png",
+      "sha1": "4d0991bd31a7d183aaba2cedbab8548e97749c87"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/warped_planks.png",
+      "sha1": "e5a2462f0d336ba9dec9f90f8c33c501ce28f455"
     },
     {
       "path": "overrides/config/paxi/resourcepacks/hummus_external_resource_pack/assets/minecraft/textures/block/water_flow.png",
@@ -17807,6 +17915,18 @@
     {
       "path": "overrides/config/quark-common.toml",
       "sha1": "30b12279e7be1c1075374a9c9c030b0cdaead992"
+    },
+    {
+      "path": "overrides/config/recreative/example_tabs.json.disabled",
+      "sha1": "91b00f35d0dc1b4cb00989a1aeac37052c069866"
+    },
+    {
+      "path": "overrides/config/recreative/tabs.json",
+      "sha1": "297051fb1476b22e2adbb91da90123ca450bd44e"
+    },
+    {
+      "path": "overrides/config/recreative_settings.json",
+      "sha1": "8eb514d9af32a7a5f25289a6a571eac205325e77"
     },
     {
       "path": "overrides/config/reliable_advancements.json",
@@ -18070,7 +18190,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "5df5a13fc9377f5cd40f315177ef9e2f1c64d2a9"
+      "sha1": "9f945ee31606ecd87c3800485e66382cf857849b"
     },
     {
       "path": "overrides/config/sodium-shadowy-path-blocks-options.json",
@@ -18251,6 +18371,10 @@
     {
       "path": "overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    {
+      "path": "overrides/config/twod_projectiles.json5",
+      "sha1": "72f219452d51812bb902ce9a3499cbb5a97d6369"
     },
     {
       "path": "overrides/config/twohandedengine-common.toml",

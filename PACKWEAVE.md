@@ -1,9 +1,10 @@
 # Hummus
 
-**Minecraft 1.21.1 · NeoForge 21.1.253**, 131 mods (19 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 135 mods (19 dependencies)
 
 ## Contents
 
+- [2D Projectiles ➵](https://modrinth.com/project/twod_projectiles) `1.1.1`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
@@ -92,6 +93,8 @@
 - [Naturalist](https://modrinth.com/project/naturalist) `2.0.7+1.21.1-neoforge`
 - [Nature's Delight](https://modrinth.com/project/natures-delight) `1.13.2-1.21.1`
 - [no f3](https://modrinth.com/project/no-f3) `4+mod`
+- [No Recipe Book Shift (NRBS)](https://modrinth.com/project/no-recipe-book-shift) `1.0.0`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.6+1.21.1-neoforge`
 - [Oreganized](https://modrinth.com/project/oreganized) `5.3.0`
 - [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
 - [Particular ✨ Reforged](https://modrinth.com/project/particular-reforged) `1.6.1`
@@ -105,10 +108,11 @@
 - [Quark](https://modrinth.com/project/quark) `4.1-487`
 - [Re-Locate](https://modrinth.com/project/relocate) `1.2.0`
 - [Recipes Library](https://modrinth.com/project/recipes-library) `1.21.1-4.0.2`
+- [Recreative](https://modrinth.com/project/recreative) `3.1.0+1.21.1-neoforge`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `4.1.2-1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.7.12-1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.1+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.3+1.21.1-neoforge`
 - [Resettable Trial Vaults & Spawners](https://modrinth.com/project/resettable-trial-vaults-spawners) `1.1.0`
 - [Retro Vibes](https://modrinth.com/project/retro-vibes) `1.0.0`
 - [ScalableLux](https://modrinth.com/project/scalablelux) `0.3.0-alpha.0.8+1.21.1`
@@ -117,7 +121,7 @@
 - [Selas](https://modrinth.com/project/selas) `0.1.3`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.16+1.21.1`
 - [Snow Under Trees](https://modrinth.com/project/snow-under-trees) `v1.5.1`
-- [Snow! Real Magic! ⛄](https://modrinth.com/project/snow-real-magic) `12.2.3+neoforge`
+- [Snow! Real Magic! ⛄](https://modrinth.com/project/snow-real-magic) `12.2.7+neoforge`
 - [Snuffles](https://modrinth.com/project/snuffles) `1.1.2`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.12-neoforge`
 - [Sodium Shadowy Path Blocks (SSPB)](https://modrinth.com/project/sodium-shadowy-path-blocks) `4.1.0-neoforge`

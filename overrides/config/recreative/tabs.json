@@ -1,0 +1,4317 @@
+[
+  {
+    "action": "remove_tab",
+    "tab": [
+      "immersiveenchanting:enchanting",
+      "fintastic:fintastic_variants_tab",
+      "spawn:spawn_eggs",
+      "relocate:relocate_tab",
+      "farmersdelight:farmersdelight",
+      "natures_spirit:ns_item_group",
+      "swordish:swordish_tab",
+      "hoppergadgetry:main",
+      "linkedchests:main",
+      "spawn:item_group",
+      "thrivingblocks:thrivingblocks",
+      "magnumtorch:main"
+    ],
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "tab_order",
+    "tab": [],
+    "remove_items": [],
+    "add_items": [],
+    "order": [
+      "minecraft:hotbar",
+      "naturalist:item_group",
+      "minecraft:op_blocks",
+      "minecraft:building_blocks",
+      "immersiveenchanting:enchanting",
+      "fintastic:fintastic_variants_tab",
+      "spawn:spawn_eggs",
+      "minecraft:food_and_drinks",
+      "relocate:relocate_tab",
+      "minecraft:search",
+      "farmersdelight:farmersdelight",
+      "natures_spirit:ns_item_group",
+      "minecraft:ingredients",
+      "swordish:swordish_tab",
+      "hummus:hummus_core_tab",
+      "netherexp:crimson_forest",
+      "minecraft:functional_blocks",
+      "the_beyond:the_beyond",
+      "minecraft:tools_and_utilities",
+      "hoppergadgetry:main",
+      "netherexp:nether_wastes",
+      "supplementaries:supplementaries",
+      "netherexp:soul_sand_valley",
+      "linkedchests:main",
+      "thrivingblocks:thrivingblocksmisc",
+      "spawn:item_group",
+      "minecraft:colored_blocks",
+      "minecraft:inventory",
+      "minecraft:redstone_blocks",
+      "fintastic:fintastic_creative_tab",
+      "thrivingblocks:thrivingblocks",
+      "minecraft:spawn_eggs",
+      "galosphere:galosphere",
+      "netherexp:warped_forest",
+      "netherexp:basalt_deltas",
+      "minecraft:natural_blocks",
+      "magnumtorch:main",
+      "minecraft:combat",
+      "darkerdepths:darkerdepths",
+      "enderscape:enderscape",
+      "thrivingblocks:thrivingblocksnaturespirit",
+      "architects_palette:architects_palette",
+      "netherexp:mod_compat"
+    ]
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:building_blocks"
+    ],
+    "remove_items": [
+      "quark:oak_hedge",
+      "quark:spruce_hedge",
+      "quark:birch_hedge",
+      "quark:jungle_hedge",
+      "quark:acacia_hedge",
+      "quark:dark_oak_hedge",
+      "quark:mangrove_hedge",
+      "quark:cherry_hedge",
+      "quark:azalea_hedge",
+      "quark:flowering_azalea_hedge",
+      "quark:ancient_hedge"
+    ],
+    "add_items": [
+      {
+        "item": "minecraft:bamboo_mosaic",
+        "after": "enderscape:murublight_button"
+      },
+      {
+        "item": "natures_spirit:wisteria_mosaic",
+        "after": "minecraft:bamboo_mosaic"
+      },
+      {
+        "item": "natures_spirit:sugi_mosaic",
+        "after": "natures_spirit:wisteria_mosaic"
+      },
+      {
+        "item": "natures_spirit:joshua_mosaic",
+        "after": "natures_spirit:sugi_mosaic"
+      },
+      {
+        "item": "natures_spirit:coconut_mosaic",
+        "after": "natures_spirit:joshua_mosaic"
+      },
+      {
+        "item": "natures_spirit:mahogany_mosaic",
+        "after": "natures_spirit:coconut_mosaic"
+      },
+      {
+        "item": "natures_spirit:joshua_log",
+        "after": "natures_spirit:mahogany_mosaic"
+      },
+      {
+        "item": "natures_spirit:stripped_joshua_log",
+        "after": "natures_spirit:joshua_log"
+      },
+      {
+        "item": "spawn:cracked_rotten_planks",
+        "after": "natures_spirit:stripped_joshua_log"
+      },
+      {
+        "item": "natures_spirit:paper_block",
+        "after": "spawn:cracked_rotten_planks"
+      },
+      {
+        "item": "thrivingblocks:creeper_gold_block",
+        "after": "brick_and_mortar:burnt_soul_algal_tiles"
+      },
+      {
+        "item": "thrivingblocks:golden_button",
+        "after": "thrivingblocks:creeper_gold_block"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:food_and_drinks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "spawn:tuna_sandwich",
+        "after": "minecraft:bread"
+      },
+      {
+        "item": "spawn:clam_chowder",
+        "after": "minecraft:rabbit_stew"
+      },
+      {
+        "item": "farmersdelight:cabbage",
+        "after": "jadensnetherexpansiondelight:nether_dog_food"
+      },
+      {
+        "item": "farmersdelight:tomato",
+        "after": "farmersdelight:cabbage"
+      },
+      {
+        "item": "farmersdelight:onion",
+        "after": "farmersdelight:tomato"
+      },
+      {
+        "item": "farmersdelight:fried_egg",
+        "after": "farmersdelight:onion"
+      },
+      {
+        "item": "farmersdelight:milk_bottle",
+        "after": "farmersdelight:fried_egg"
+      },
+      {
+        "item": "farmersdelight:hot_cocoa",
+        "after": "farmersdelight:milk_bottle"
+      },
+      {
+        "item": "farmersdelight:apple_cider",
+        "after": "farmersdelight:hot_cocoa"
+      },
+      {
+        "item": "farmersdelight:melon_juice",
+        "after": "farmersdelight:apple_cider"
+      },
+      {
+        "item": "farmersdelight:tomato_sauce",
+        "after": "farmersdelight:melon_juice"
+      },
+      {
+        "item": "farmersdelight:wheat_dough",
+        "after": "farmersdelight:tomato_sauce"
+      },
+      {
+        "item": "farmersdelight:raw_pasta",
+        "after": "farmersdelight:wheat_dough"
+      },
+      {
+        "item": "farmersdelight:pumpkin_slice",
+        "after": "farmersdelight:raw_pasta"
+      },
+      {
+        "item": "farmersdelight:cabbage_leaf",
+        "after": "farmersdelight:pumpkin_slice"
+      },
+      {
+        "item": "farmersdelight:minced_beef",
+        "after": "farmersdelight:cabbage_leaf"
+      },
+      {
+        "item": "farmersdelight:beef_patty",
+        "after": "farmersdelight:minced_beef"
+      },
+      {
+        "item": "farmersdelight:chicken_cuts",
+        "after": "farmersdelight:beef_patty"
+      },
+      {
+        "item": "farmersdelight:cooked_chicken_cuts",
+        "after": "farmersdelight:chicken_cuts"
+      },
+      {
+        "item": "farmersdelight:bacon",
+        "after": "farmersdelight:cooked_chicken_cuts"
+      },
+      {
+        "item": "farmersdelight:cooked_bacon",
+        "after": "farmersdelight:bacon"
+      },
+      {
+        "item": "farmersdelight:cod_slice",
+        "after": "farmersdelight:cooked_bacon"
+      },
+      {
+        "item": "farmersdelight:cooked_cod_slice",
+        "after": "farmersdelight:cod_slice"
+      },
+      {
+        "item": "farmersdelight:salmon_slice",
+        "after": "farmersdelight:cooked_cod_slice"
+      },
+      {
+        "item": "farmersdelight:cooked_salmon_slice",
+        "after": "farmersdelight:salmon_slice"
+      },
+      {
+        "item": "farmersdelight:mutton_chops",
+        "after": "farmersdelight:cooked_salmon_slice"
+      },
+      {
+        "item": "farmersdelight:cooked_mutton_chops",
+        "after": "farmersdelight:mutton_chops"
+      },
+      {
+        "item": "farmersdelight:ham",
+        "after": "farmersdelight:cooked_mutton_chops"
+      },
+      {
+        "item": "farmersdelight:smoked_ham",
+        "after": "farmersdelight:ham"
+      },
+      {
+        "item": "farmersdelight:pie_crust",
+        "after": "farmersdelight:smoked_ham"
+      },
+      {
+        "item": "farmersdelight:apple_pie",
+        "after": "farmersdelight:pie_crust"
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cheesecake",
+        "after": "farmersdelight:apple_pie"
+      },
+      {
+        "item": "farmersdelight:chocolate_pie",
+        "after": "farmersdelight:sweet_berry_cheesecake"
+      },
+      {
+        "item": "farmersdelight:cake_slice",
+        "after": "farmersdelight:chocolate_pie"
+      },
+      {
+        "item": "farmersdelight:apple_pie_slice",
+        "after": "farmersdelight:cake_slice"
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cheesecake_slice",
+        "after": "farmersdelight:apple_pie_slice"
+      },
+      {
+        "item": "farmersdelight:chocolate_pie_slice",
+        "after": "farmersdelight:sweet_berry_cheesecake_slice"
+      },
+      {
+        "item": "farmersdelight:pumpkin_pie_slice",
+        "after": "farmersdelight:chocolate_pie_slice"
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cookie",
+        "after": "farmersdelight:pumpkin_pie_slice"
+      },
+      {
+        "item": "farmersdelight:honey_cookie",
+        "after": "farmersdelight:sweet_berry_cookie"
+      },
+      {
+        "item": "farmersdelight:melon_popsicle",
+        "after": "farmersdelight:honey_cookie"
+      },
+      {
+        "item": "farmersdelight:glow_berry_custard",
+        "after": "farmersdelight:melon_popsicle"
+      },
+      {
+        "item": "farmersdelight:fruit_salad",
+        "after": "farmersdelight:glow_berry_custard"
+      },
+      {
+        "item": "farmersdelight:mixed_salad",
+        "after": "farmersdelight:fruit_salad"
+      },
+      {
+        "item": "farmersdelight:nether_salad",
+        "after": "farmersdelight:mixed_salad"
+      },
+      {
+        "item": "farmersdelight:barbecue_stick",
+        "after": "farmersdelight:nether_salad"
+      },
+      {
+        "item": "farmersdelight:egg_sandwich",
+        "after": "farmersdelight:barbecue_stick"
+      },
+      {
+        "item": "farmersdelight:chicken_sandwich",
+        "after": "farmersdelight:egg_sandwich"
+      },
+      {
+        "item": "farmersdelight:hamburger",
+        "after": "farmersdelight:chicken_sandwich"
+      },
+      {
+        "item": "farmersdelight:bacon_sandwich",
+        "after": "farmersdelight:hamburger"
+      },
+      {
+        "item": "farmersdelight:mutton_wrap",
+        "after": "farmersdelight:bacon_sandwich"
+      },
+      {
+        "item": "farmersdelight:dumplings",
+        "after": "farmersdelight:mutton_wrap"
+      },
+      {
+        "item": "farmersdelight:stuffed_potato",
+        "after": "farmersdelight:dumplings"
+      },
+      {
+        "item": "farmersdelight:cabbage_rolls",
+        "after": "farmersdelight:stuffed_potato"
+      },
+      {
+        "item": "farmersdelight:salmon_roll",
+        "after": "farmersdelight:cabbage_rolls"
+      },
+      {
+        "item": "farmersdelight:cod_roll",
+        "after": "farmersdelight:salmon_roll"
+      },
+      {
+        "item": "farmersdelight:kelp_roll",
+        "after": "farmersdelight:cod_roll"
+      },
+      {
+        "item": "farmersdelight:kelp_roll_slice",
+        "after": "farmersdelight:kelp_roll"
+      },
+      {
+        "item": "farmersdelight:cooked_rice",
+        "after": "farmersdelight:kelp_roll_slice"
+      },
+      {
+        "item": "farmersdelight:bone_broth",
+        "after": "farmersdelight:cooked_rice"
+      },
+      {
+        "item": "farmersdelight:beef_stew",
+        "after": "farmersdelight:bone_broth"
+      },
+      {
+        "item": "farmersdelight:chicken_soup",
+        "after": "farmersdelight:beef_stew"
+      },
+      {
+        "item": "farmersdelight:vegetable_soup",
+        "after": "farmersdelight:chicken_soup"
+      },
+      {
+        "item": "farmersdelight:fish_stew",
+        "after": "farmersdelight:vegetable_soup"
+      },
+      {
+        "item": "farmersdelight:fried_rice",
+        "after": "farmersdelight:fish_stew"
+      },
+      {
+        "item": "farmersdelight:pumpkin_soup",
+        "after": "farmersdelight:fried_rice"
+      },
+      {
+        "item": "farmersdelight:baked_cod_stew",
+        "after": "farmersdelight:pumpkin_soup"
+      },
+      {
+        "item": "farmersdelight:noodle_soup",
+        "after": "farmersdelight:baked_cod_stew"
+      },
+      {
+        "item": "farmersdelight:onion_soup",
+        "after": "farmersdelight:noodle_soup"
+      },
+      {
+        "item": "farmersdelight:bacon_and_eggs",
+        "after": "farmersdelight:onion_soup"
+      },
+      {
+        "item": "farmersdelight:pasta_with_meatballs",
+        "after": "farmersdelight:bacon_and_eggs"
+      },
+      {
+        "item": "farmersdelight:pasta_with_mutton_chop",
+        "after": "farmersdelight:pasta_with_meatballs"
+      },
+      {
+        "item": "farmersdelight:mushroom_rice",
+        "after": "farmersdelight:pasta_with_mutton_chop"
+      },
+      {
+        "item": "farmersdelight:roasted_mutton_chops",
+        "after": "farmersdelight:mushroom_rice"
+      },
+      {
+        "item": "farmersdelight:vegetable_noodles",
+        "after": "farmersdelight:roasted_mutton_chops"
+      },
+      {
+        "item": "farmersdelight:steak_and_potatoes",
+        "after": "farmersdelight:vegetable_noodles"
+      },
+      {
+        "item": "farmersdelight:ratatouille",
+        "after": "farmersdelight:steak_and_potatoes"
+      },
+      {
+        "item": "farmersdelight:squid_ink_pasta",
+        "after": "farmersdelight:ratatouille"
+      },
+      {
+        "item": "farmersdelight:grilled_salmon",
+        "after": "farmersdelight:squid_ink_pasta"
+      },
+      {
+        "item": "farmersdelight:roast_chicken_block",
+        "after": "farmersdelight:grilled_salmon"
+      },
+      {
+        "item": "farmersdelight:roast_chicken",
+        "after": "farmersdelight:roast_chicken_block"
+      },
+      {
+        "item": "farmersdelight:stuffed_pumpkin_block",
+        "after": "farmersdelight:roast_chicken"
+      },
+      {
+        "item": "farmersdelight:stuffed_pumpkin",
+        "after": "farmersdelight:stuffed_pumpkin_block"
+      },
+      {
+        "item": "farmersdelight:honey_glazed_ham_block",
+        "after": "farmersdelight:stuffed_pumpkin"
+      },
+      {
+        "item": "farmersdelight:honey_glazed_ham",
+        "after": "farmersdelight:honey_glazed_ham_block"
+      },
+      {
+        "item": "farmersdelight:shepherds_pie_block",
+        "after": "farmersdelight:honey_glazed_ham"
+      },
+      {
+        "item": "farmersdelight:shepherds_pie",
+        "after": "farmersdelight:shepherds_pie_block"
+      },
+      {
+        "item": "farmersdelight:gleaming_salad_block",
+        "after": "farmersdelight:shepherds_pie"
+      },
+      {
+        "item": "farmersdelight:gleaming_salad",
+        "after": "farmersdelight:gleaming_salad_block"
+      },
+      {
+        "item": "farmersdelight:rice_roll_medley_block",
+        "after": "farmersdelight:gleaming_salad"
+      },
+      {
+        "item": "farmersdelight:dog_food",
+        "after": "farmersdelight:rice_roll_medley_block"
+      },
+      {
+        "item": "farmersdelight:horse_feed",
+        "after": "farmersdelight:dog_food"
+      },
+      {
+        "item": "natures_delight:shiitake_mushroom_colony",
+        "after": "farmersdelight:horse_feed"
+      },
+      {
+        "item": "natures_delight:manakish",
+        "after": "natures_delight:shiitake_mushroom_colony"
+      },
+      {
+        "item": "natures_delight:manakish_slice",
+        "after": "natures_delight:manakish"
+      },
+      {
+        "item": "natures_delight:alfredo_pasta",
+        "after": "natures_delight:manakish_slice"
+      },
+      {
+        "item": "natures_delight:turnip_tagine",
+        "after": "natures_delight:alfredo_pasta"
+      },
+      {
+        "item": "natures_delight:coconut_sauce",
+        "after": "natures_delight:turnip_tagine"
+      },
+      {
+        "item": "natures_delight:sweet_and_savory_saute",
+        "after": "natures_delight:coconut_sauce"
+      },
+      {
+        "item": "natures_delight:fafaru",
+        "after": "natures_delight:sweet_and_savory_saute"
+      },
+      {
+        "item": "natures_delight:coconut_pancakes",
+        "after": "natures_delight:fafaru"
+      },
+      {
+        "item": "natures_delight:coconut_bread",
+        "after": "natures_delight:coconut_pancakes"
+      },
+      {
+        "item": "natures_delight:cocada",
+        "after": "natures_delight:coconut_bread"
+      },
+      {
+        "item": "farmersdelight:rotten_tomato",
+        "after": "natures_delight:cocada"
+      },
+      {
+        "item": "spawn:tuna_slice",
+        "after": "farmersdelight:rotten_tomato"
+      },
+      {
+        "item": "spawn:cooked_tuna_slice",
+        "after": "spawn:tuna_slice"
+      },
+      {
+        "item": "spawn:tuna_roll",
+        "after": "spawn:cooked_tuna_slice"
+      },
+      {
+        "item": "spawn:steamed_clams",
+        "after": "spawn:tuna_sandwich"
+      },
+      {
+        "item": "spawn:herring_slice",
+        "after": "spawn:clam_chowder"
+      },
+      {
+        "item": "spawn:cooked_herring_slice",
+        "after": "spawn:herring_slice"
+      },
+      {
+        "item": "spawn:herring_roll",
+        "after": "spawn:cooked_herring_slice"
+      },
+      {
+        "item": "spawn:canned_herring",
+        "after": "spawn:herring_roll"
+      },
+      {
+        "item": "spawn:crab_boil_block",
+        "after": "spawn:canned_herring"
+      },
+      {
+        "item": "spawn:crab_boil",
+        "after": "spawn:crab_boil_block"
+      },
+      {
+        "item": "spawn:bluefish_slice",
+        "after": "spawn:crab_boil"
+      },
+      {
+        "item": "spawn:cooked_bluefish_slice",
+        "after": "spawn:bluefish_slice"
+      },
+      {
+        "item": "spawn:bluefish_roll",
+        "after": "spawn:cooked_bluefish_slice"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "relocate:relocate_tab"
+    ],
+    "remove_items": [
+      "relocate:redstone_bulb",
+      "relocate:copper_cogwheel",
+      "relocate:state_changer",
+      "relocate:redstone_ticker",
+      "relocate:blocks_detector",
+      "relocate:silent_blocks_placer",
+      "relocate:blocks_placer",
+      "relocate:redstone_generator",
+      "relocate:notifier",
+      "relocate:silent_blocks_filter",
+      "relocate:blocks_filter",
+      "relocate:silent_blocks_destroyer",
+      "relocate:blocks_destroyer",
+      "relocate:silent_advanced_blocks_mover",
+      "relocate:advanced_blocks_mover",
+      "relocate:silent_universal_blocks_mover",
+      "relocate:universal_blocks_mover",
+      "relocate:silent_blocks_mover",
+      "relocate:blocks_mover"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "farmersdelight:farmersdelight"
+    ],
+    "remove_items": [
+      "natures_delight:cocada",
+      "natures_delight:coconut_bread",
+      "natures_delight:coconut_pancakes",
+      "natures_delight:fafaru",
+      "natures_delight:sweet_and_savory_saute",
+      "natures_delight:coconut_sauce",
+      "natures_delight:turnip_tagine",
+      "natures_delight:alfredo_pasta",
+      "natures_delight:manakish_slice",
+      "natures_delight:manakish",
+      "natures_delight:shiitake_mushroom_colony",
+      "farmersdelight:horse_feed",
+      "farmersdelight:dog_food",
+      "farmersdelight:rice_roll_medley_block",
+      "farmersdelight:gleaming_salad",
+      "farmersdelight:gleaming_salad_block",
+      "farmersdelight:shepherds_pie",
+      "farmersdelight:shepherds_pie_block",
+      "farmersdelight:honey_glazed_ham",
+      "farmersdelight:honey_glazed_ham_block",
+      "farmersdelight:stuffed_pumpkin",
+      "farmersdelight:stuffed_pumpkin_block",
+      "farmersdelight:roast_chicken",
+      "farmersdelight:roast_chicken_block",
+      "farmersdelight:grilled_salmon",
+      "farmersdelight:squid_ink_pasta",
+      "farmersdelight:ratatouille",
+      "farmersdelight:steak_and_potatoes",
+      "farmersdelight:vegetable_noodles",
+      "farmersdelight:roasted_mutton_chops",
+      "farmersdelight:mushroom_rice",
+      "farmersdelight:pasta_with_mutton_chop",
+      "farmersdelight:pasta_with_meatballs",
+      "farmersdelight:bacon_and_eggs",
+      "farmersdelight:onion_soup",
+      "farmersdelight:noodle_soup",
+      "farmersdelight:baked_cod_stew",
+      "farmersdelight:pumpkin_soup",
+      "farmersdelight:fried_rice",
+      "farmersdelight:fish_stew",
+      "farmersdelight:vegetable_soup",
+      "farmersdelight:chicken_soup",
+      "farmersdelight:beef_stew",
+      "farmersdelight:bone_broth",
+      "farmersdelight:cooked_rice",
+      "farmersdelight:kelp_roll_slice",
+      "farmersdelight:kelp_roll",
+      "farmersdelight:cod_roll",
+      "farmersdelight:salmon_roll",
+      "farmersdelight:cabbage_rolls",
+      "farmersdelight:stuffed_potato",
+      "farmersdelight:dumplings",
+      "farmersdelight:mutton_wrap",
+      "farmersdelight:bacon_sandwich",
+      "farmersdelight:hamburger",
+      "farmersdelight:chicken_sandwich",
+      "farmersdelight:egg_sandwich",
+      "farmersdelight:barbecue_stick",
+      "farmersdelight:nether_salad",
+      "farmersdelight:mixed_salad",
+      "farmersdelight:fruit_salad",
+      "farmersdelight:glow_berry_custard",
+      "farmersdelight:melon_popsicle",
+      "farmersdelight:honey_cookie",
+      "farmersdelight:sweet_berry_cookie",
+      "farmersdelight:pumpkin_pie_slice",
+      "farmersdelight:chocolate_pie_slice",
+      "farmersdelight:sweet_berry_cheesecake_slice",
+      "farmersdelight:apple_pie_slice",
+      "farmersdelight:cake_slice",
+      "farmersdelight:chocolate_pie",
+      "farmersdelight:sweet_berry_cheesecake",
+      "farmersdelight:apple_pie",
+      "farmersdelight:pie_crust",
+      "farmersdelight:smoked_ham",
+      "farmersdelight:ham",
+      "farmersdelight:cooked_mutton_chops",
+      "farmersdelight:mutton_chops",
+      "farmersdelight:cooked_salmon_slice",
+      "farmersdelight:salmon_slice",
+      "farmersdelight:cooked_cod_slice",
+      "farmersdelight:cod_slice",
+      "farmersdelight:cooked_bacon",
+      "farmersdelight:bacon",
+      "farmersdelight:cooked_chicken_cuts",
+      "farmersdelight:chicken_cuts",
+      "farmersdelight:beef_patty",
+      "farmersdelight:minced_beef",
+      "farmersdelight:cabbage_leaf",
+      "farmersdelight:pumpkin_slice",
+      "farmersdelight:raw_pasta",
+      "farmersdelight:wheat_dough",
+      "farmersdelight:tomato_sauce",
+      "farmersdelight:melon_juice",
+      "farmersdelight:apple_cider",
+      "farmersdelight:hot_cocoa",
+      "farmersdelight:milk_bottle",
+      "farmersdelight:fried_egg",
+      "farmersdelight:onion",
+      "farmersdelight:tomato",
+      "farmersdelight:cabbage",
+      "farmersdelight:golden_knife",
+      "oreganized:electrum_knife",
+      "farmersdelight:netherite_knife",
+      "farmersdelight:diamond_knife",
+      "farmersdelight:iron_knife",
+      "farmersdelight:flint_knife",
+      "farmersdelight:tomato_seeds",
+      "farmersdelight:cabbage_seeds",
+      "farmersdelight:rice",
+      "farmersdelight:rice_panicle",
+      "farmersdelight:red_mushroom_colony",
+      "farmersdelight:brown_mushroom_colony",
+      "farmersdelight:wild_rice",
+      "farmersdelight:wild_beetroots",
+      "farmersdelight:wild_potatoes",
+      "farmersdelight:wild_carrots",
+      "farmersdelight:wild_tomatoes",
+      "farmersdelight:wild_onions",
+      "farmersdelight:wild_cabbages",
+      "farmersdelight:sandy_shrub",
+      "farmersdelight:tree_bark",
+      "farmersdelight:canvas",
+      "farmersdelight:straw",
+      "farmersdelight:rotten_tomato",
+      "farmersdelight:pink_hanging_canvas_sign",
+      "farmersdelight:pink_canvas_sign",
+      "farmersdelight:magenta_hanging_canvas_sign",
+      "farmersdelight:magenta_canvas_sign",
+      "farmersdelight:purple_hanging_canvas_sign",
+      "farmersdelight:purple_canvas_sign",
+      "farmersdelight:blue_hanging_canvas_sign",
+      "farmersdelight:blue_canvas_sign",
+      "farmersdelight:light_blue_hanging_canvas_sign",
+      "farmersdelight:light_blue_canvas_sign",
+      "farmersdelight:cyan_hanging_canvas_sign",
+      "farmersdelight:cyan_canvas_sign",
+      "farmersdelight:green_hanging_canvas_sign",
+      "farmersdelight:green_canvas_sign",
+      "farmersdelight:lime_hanging_canvas_sign",
+      "farmersdelight:lime_canvas_sign",
+      "farmersdelight:yellow_hanging_canvas_sign",
+      "farmersdelight:yellow_canvas_sign",
+      "farmersdelight:orange_hanging_canvas_sign",
+      "farmersdelight:orange_canvas_sign",
+      "farmersdelight:red_hanging_canvas_sign",
+      "farmersdelight:red_canvas_sign",
+      "farmersdelight:brown_hanging_canvas_sign",
+      "farmersdelight:brown_canvas_sign",
+      "farmersdelight:black_hanging_canvas_sign",
+      "farmersdelight:black_canvas_sign",
+      "farmersdelight:gray_hanging_canvas_sign",
+      "farmersdelight:gray_canvas_sign",
+      "farmersdelight:light_gray_hanging_canvas_sign",
+      "farmersdelight:light_gray_canvas_sign",
+      "farmersdelight:white_hanging_canvas_sign",
+      "farmersdelight:white_canvas_sign",
+      "farmersdelight:hanging_canvas_sign",
+      "farmersdelight:canvas_sign",
+      "natures_delight:saxaul_cabinet",
+      "natures_delight:mahogany_cabinet",
+      "natures_delight:larch_cabinet",
+      "natures_delight:cedar_cabinet",
+      "natures_delight:coconut_cabinet",
+      "natures_delight:palo_verde_cabinet",
+      "natures_delight:ghaf_cabinet",
+      "natures_delight:joshua_cabinet",
+      "natures_delight:olive_cabinet",
+      "natures_delight:cypress_cabinet",
+      "natures_delight:maple_cabinet",
+      "natures_delight:aspen_cabinet",
+      "natures_delight:willow_cabinet",
+      "natures_delight:fir_cabinet",
+      "natures_delight:wisteria_cabinet",
+      "natures_delight:sugi_cabinet",
+      "natures_delight:redwood_cabinet",
+      "farmersdelight:warped_cabinet",
+      "farmersdelight:crimson_cabinet",
+      "farmersdelight:bamboo_cabinet",
+      "farmersdelight:cherry_cabinet",
+      "farmersdelight:mangrove_cabinet",
+      "farmersdelight:dark_oak_cabinet",
+      "farmersdelight:acacia_cabinet",
+      "farmersdelight:jungle_cabinet",
+      "farmersdelight:birch_cabinet",
+      "farmersdelight:spruce_cabinet",
+      "farmersdelight:oak_cabinet",
+      "farmersdelight:straw_bale",
+      "natures_delight:desert_turnip_crate",
+      "farmersdelight:rice_bag",
+      "farmersdelight:rice_bale",
+      "farmersdelight:onion_crate",
+      "farmersdelight:tomato_crate",
+      "farmersdelight:cabbage_crate",
+      "farmersdelight:beetroot_crate",
+      "farmersdelight:potato_crate",
+      "farmersdelight:carrot_crate",
+      "farmersdelight:rich_soil_farmland",
+      "farmersdelight:rich_soil",
+      "farmersdelight:organic_compost",
+      "farmersdelight:canvas_rug",
+      "farmersdelight:half_tatami_mat",
+      "farmersdelight:full_tatami_mat",
+      "farmersdelight:tatami",
+      "farmersdelight:safety_net",
+      "farmersdelight:bamboo_basket",
+      "farmersdelight:wooden_basket",
+      "farmersdelight:cutting_board",
+      "farmersdelight:skillet",
+      "farmersdelight:cooking_pot",
+      "farmersdelight:stove"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:ingredients"
+    ],
+    "remove_items": [
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:wind_burst": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:wardenspine": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:volley": 4
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:vanishing_curse": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:traveler": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enderscape:transdimensional": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:torch": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:thunderstruck": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:swift_sneak": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:surefooted": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:strafe": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:sticky": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "supplementaries:stasis": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "usefulspyglass:spotter": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "aileron:smokestack": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:shulker_miniboss": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:shulker_boss": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:riptide": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:riposte": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:recoil": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enderscape:rebound": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "usefulspyglass:precision": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:perception": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:momentum": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:meteor": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "usefulspyglass:marking": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:lumberjack": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:loyalty": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:longshot": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "twohandedengine:lightweight": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enderscape:lightspeed": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:leech": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:harrier": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:gravity": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:grapple": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:gale": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:frostbite": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:extracting": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:empty": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:duelist": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:disarm": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:density": 5
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:delay": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:dash": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:counterforce": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "aileron:cloudskipper": 3
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:chaos": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:channeling": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:bury": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:buoy": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:brimstone": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:breach": 4
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:bouncy": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:boss_behaviour": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:binding_curse": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:berserk": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:assimilation": 2
+            }
+          }
+        }
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:adrenaline": 2
+            }
+          }
+        }
+      }
+    ],
+    "add_items": [
+      {
+        "item": "supplementaries:ash",
+        "after": "minecraft:clay_ball"
+      },
+      {
+        "item": "brick_and_mortar:tan_brick",
+        "after": "natures_spirit:coconut_shell"
+      },
+      {
+        "item": "brick_and_mortar:orange_brick",
+        "after": "brick_and_mortar:tan_brick"
+      },
+      {
+        "item": "brick_and_mortar:brown_brick",
+        "after": "minecraft:brick"
+      },
+      {
+        "item": "brick_and_mortar:cream_brick",
+        "after": "brick_and_mortar:brown_brick"
+      },
+      {
+        "item": "brick_and_mortar:gray_brick",
+        "after": "brick_and_mortar:cream_brick"
+      },
+      {
+        "item": "brick_and_mortar:blue_brick",
+        "after": "brick_and_mortar:gray_brick"
+      },
+      {
+        "item": "brick_and_mortar:clinker_brick",
+        "after": "brick_and_mortar:blue_brick"
+      },
+      {
+        "item": "brick_and_mortar:raw_nether_brick",
+        "after": "brick_and_mortar:clinker_brick"
+      },
+      {
+        "item": "brick_and_mortar:light_nether_brick",
+        "after": "brick_and_mortar:raw_nether_brick"
+      },
+      {
+        "item": "minecraft:nether_brick",
+        "after": "brick_and_mortar:light_nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:charred_nether_brick",
+        "after": "minecraft:nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:raw_soul_nether_brick",
+        "after": "brick_and_mortar:charred_nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:light_soul_nether_brick",
+        "after": "brick_and_mortar:raw_soul_nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:soul_nether_brick",
+        "after": "brick_and_mortar:light_soul_nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:charred_soul_nether_brick",
+        "after": "brick_and_mortar:soul_nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:white_ash_brick",
+        "after": "brick_and_mortar:charred_soul_nether_brick"
+      },
+      {
+        "item": "brick_and_mortar:gray_ash_brick",
+        "after": "brick_and_mortar:white_ash_brick"
+      },
+      {
+        "item": "supplementaries:ash_brick",
+        "after": "brick_and_mortar:gray_ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:black_ash_brick",
+        "after": "supplementaries:ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:white_soul_ash_brick",
+        "after": "brick_and_mortar:black_ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:gray_soul_ash_brick",
+        "after": "brick_and_mortar:white_soul_ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:soul_ash_brick",
+        "after": "brick_and_mortar:gray_soul_ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:black_soul_ash_brick",
+        "after": "brick_and_mortar:soul_ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:raw_algal_brick",
+        "after": "brick_and_mortar:black_soul_ash_brick"
+      },
+      {
+        "item": "brick_and_mortar:light_algal_brick",
+        "after": "brick_and_mortar:raw_algal_brick"
+      },
+      {
+        "item": "architects_palette:algal_brick",
+        "after": "brick_and_mortar:light_algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:burnt_algal_brick",
+        "after": "architects_palette:algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:raw_soul_algal_brick",
+        "after": "brick_and_mortar:burnt_algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:light_soul_algal_brick",
+        "after": "brick_and_mortar:raw_soul_algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:soul_algal_brick",
+        "after": "brick_and_mortar:light_soul_algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:burnt_soul_algal_brick",
+        "after": "brick_and_mortar:soul_algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:raw_popped_chorus",
+        "after": "brick_and_mortar:burnt_soul_algal_brick"
+      },
+      {
+        "item": "brick_and_mortar:light_popped_chorus",
+        "after": "brick_and_mortar:raw_popped_chorus"
+      },
+      {
+        "item": "minecraft:popped_chorus_fruit",
+        "after": "brick_and_mortar:light_popped_chorus"
+      },
+      {
+        "item": "brick_and_mortar:burnt_popped_chorus",
+        "after": "minecraft:popped_chorus_fruit"
+      },
+      {
+        "item": "brick_and_mortar:raw_soul_popped_chorus",
+        "after": "brick_and_mortar:burnt_popped_chorus"
+      },
+      {
+        "item": "brick_and_mortar:light_soul_popped_chorus",
+        "after": "brick_and_mortar:raw_soul_popped_chorus"
+      },
+      {
+        "item": "brick_and_mortar:soul_popped_chorus",
+        "after": "brick_and_mortar:light_soul_popped_chorus"
+      },
+      {
+        "item": "brick_and_mortar:burnt_soul_popped_chorus",
+        "after": "brick_and_mortar:soul_popped_chorus"
+      },
+      {
+        "item": "quark:clear_shard",
+        "after": "brick_and_mortar:burnt_soul_popped_chorus"
+      },
+      {
+        "item": "quark:white_shard",
+        "after": "quark:clear_shard"
+      },
+      {
+        "item": "quark:light_gray_shard",
+        "after": "quark:white_shard"
+      },
+      {
+        "item": "quark:gray_shard",
+        "after": "quark:light_gray_shard"
+      },
+      {
+        "item": "quark:black_shard",
+        "after": "quark:gray_shard"
+      },
+      {
+        "item": "quark:red_shard",
+        "after": "quark:black_shard"
+      },
+      {
+        "item": "quark:orange_shard",
+        "after": "quark:red_shard"
+      },
+      {
+        "item": "quark:yellow_shard",
+        "after": "quark:orange_shard"
+      },
+      {
+        "item": "quark:lime_shard",
+        "after": "quark:yellow_shard"
+      },
+      {
+        "item": "quark:green_shard",
+        "after": "quark:lime_shard"
+      },
+      {
+        "item": "quark:cyan_shard",
+        "after": "quark:green_shard"
+      },
+      {
+        "item": "quark:light_blue_shard",
+        "after": "quark:cyan_shard"
+      },
+      {
+        "item": "quark:blue_shard",
+        "after": "quark:light_blue_shard"
+      },
+      {
+        "item": "quark:purple_shard",
+        "after": "quark:blue_shard"
+      },
+      {
+        "item": "quark:magenta_shard",
+        "after": "quark:purple_shard"
+      },
+      {
+        "item": "quark:pink_shard",
+        "after": "quark:magenta_shard"
+      },
+      {
+        "item": "quark:brown_shard",
+        "after": "quark:pink_shard"
+      },
+      {
+        "item": "quark:dirty_shard",
+        "after": "quark:brown_shard"
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": "creaturefeature:scroll_pan",
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:adrenaline": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:adrenaline": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:assimilation": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:assimilation": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:berserk": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:berserk": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:binding_curse": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:binding_curse": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:boss_behaviour": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "nova_structures:boss_behaviour": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:bouncy": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:bouncy": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:breach": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:breach": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:brimstone": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:brimstone": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:buoy": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:buoy": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:bury": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:bury": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:channeling": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:channeling": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:chaos": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:chaos": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "aileron:cloudskipper": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "aileron:cloudskipper": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:counterforce": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "netherexp:counterforce": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:dash": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:dash": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:delay": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:delay": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:density": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:density": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:disarm": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:disarm": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:duelist": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "hummus:duelist": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:empty": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:empty": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:extracting": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:extracting": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:frostbite": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:frostbite": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:gale": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:gale": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:grapple": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:grapple": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:gravity": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "nova_structures:gravity": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:harrier": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "hummus:harrier": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:leech": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:leech": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enderscape:lightspeed": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enderscape:lightspeed": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "twohandedengine:lightweight": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "twohandedengine:lightweight": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:longshot": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "netherexp:longshot": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:loyalty": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:loyalty": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:lumberjack": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:lumberjack": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "usefulspyglass:marking": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "usefulspyglass:marking": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:meteor": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:meteor": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:momentum": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "hummus:momentum": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:perception": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:perception": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "usefulspyglass:precision": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "usefulspyglass:precision": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enderscape:rebound": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enderscape:rebound": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:recoil": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "netherexp:recoil": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:riposte": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "hummus:riposte": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:riptide": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:riptide": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:shulker_boss": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "nova_structures:shulker_boss": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:shulker_miniboss": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "nova_structures:shulker_miniboss": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "aileron:smokestack": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "aileron:smokestack": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {}
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {}
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "usefulspyglass:spotter": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "usefulspyglass:spotter": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "supplementaries:stasis": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "supplementaries:stasis": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:sticky": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:sticky": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:strafe": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:strafe": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "hummus:surefooted": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "hummus:surefooted": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:swift_sneak": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:swift_sneak": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:thunderstruck": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:thunderstruck": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:torch": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:torch": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enderscape:transdimensional": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enderscape:transdimensional": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "nova_structures:traveler": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "nova_structures:traveler": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:vanishing_curse": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "minecraft:vanishing_curse": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "netherexp:volley": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "netherexp:volley": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "enchancement:wardenspine": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "immersiveenchanting:ancient_book",
+        "after": {
+          "item": "immersiveenchanting:ancient_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "levels": {
+                "enchancement:wardenspine": 1
+              }
+            }
+          }
+        },
+        "components": {
+          "minecraft:stored_enchantments": {
+            "levels": {
+              "minecraft:wind_burst": 1
+            }
+          }
+        }
+      },
+      {
+        "item": "farmersdelight:straw",
+        "after": "bettertridents:trident_fragment"
+      },
+      {
+        "item": "farmersdelight:canvas",
+        "after": "farmersdelight:straw"
+      },
+      {
+        "item": "farmersdelight:tree_bark",
+        "after": "farmersdelight:canvas"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "swordish:swordish_tab"
+    ],
+    "remove_items": [
+      "swordish:netherite_dualblade",
+      "swordish:netherite_glaive",
+      "swordish:netherite_halberd",
+      "swordish:diamond_dualblade",
+      "swordish:diamond_glaive",
+      "swordish:diamond_halberd",
+      "swordish:iron_dualblade",
+      "swordish:iron_glaive",
+      "swordish:iron_halberd",
+      "swordish:golden_dualblade",
+      "swordish:golden_glaive",
+      "swordish:golden_halberd",
+      "swordish:wooden_dualblade",
+      "swordish:wooden_glaive",
+      "swordish:wooden_halberd"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "hummus:hummus_core_tab"
+    ],
+    "remove_items": [
+      "hummus:turtle_boots",
+      "hummus:turtle_leggings",
+      "hummus:turtle_chestplate",
+      "hummus:copper_arrow",
+      "hummus:silver_halberd",
+      "hummus:silver_glaive",
+      "hummus:silver_dualblade",
+      "hummus:electrum_halberd",
+      "hummus:electrum_glaive",
+      "hummus:electrum_dualblade",
+      "hummus:galena_dualblade",
+      "hummus:galena_glaive",
+      "hummus:galena_halberd",
+      "hummus:galena_boots",
+      "hummus:galena_leggings",
+      "hummus:galena_chestplate",
+      "hummus:galena_helmet",
+      "hummus:galena_knife",
+      "hummus:galena_shovel",
+      "hummus:galena_axe",
+      "hummus:galena_pickaxe",
+      "hummus:galena_sword",
+      "hummus:rose_gold_horse_armor",
+      "hummus:rose_gold_dualblade",
+      "hummus:rose_gold_glaive",
+      "hummus:rose_gold_halberd",
+      "hummus:rose_gold_boots",
+      "hummus:rose_gold_leggings",
+      "hummus:rose_gold_chestplate",
+      "hummus:rose_gold_helmet",
+      "hummus:rose_gold_knife",
+      "hummus:rose_gold_shovel",
+      "hummus:rose_gold_axe",
+      "hummus:rose_gold_pickaxe",
+      "hummus:rose_gold_sword",
+      "hummus:copper_horse_armor",
+      "hummus:copper_dualblade",
+      "hummus:copper_glaive",
+      "hummus:copper_halberd",
+      "hummus:copper_boots",
+      "hummus:copper_leggings",
+      "hummus:copper_chestplate",
+      "hummus:copper_helmet",
+      "hummus:copper_knife",
+      "hummus:copper_shovel",
+      "hummus:copper_axe",
+      "hummus:copper_pickaxe",
+      "hummus:copper_sword"
+    ],
+    "add_items": [
+      {
+        "item": "hummus:copper_nugget",
+        "after": "hummus:charged_spore_blossom"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:functional_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "magnumtorch:diamond_magnum_torch",
+        "after": "galosphere:chandelier"
+      },
+      {
+        "item": "linkedchests:linked_chest",
+        "after": "minecraft:ender_chest"
+      },
+      {
+        "item": "farmersdelight:canvas_sign",
+        "after": "goated:ram_block"
+      },
+      {
+        "item": "farmersdelight:hanging_canvas_sign",
+        "after": "farmersdelight:canvas_sign"
+      },
+      {
+        "item": "farmersdelight:white_canvas_sign",
+        "after": "farmersdelight:hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:white_hanging_canvas_sign",
+        "after": "farmersdelight:white_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_gray_canvas_sign",
+        "after": "farmersdelight:white_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_gray_hanging_canvas_sign",
+        "after": "farmersdelight:light_gray_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:gray_canvas_sign",
+        "after": "farmersdelight:light_gray_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:gray_hanging_canvas_sign",
+        "after": "farmersdelight:gray_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:black_canvas_sign",
+        "after": "farmersdelight:gray_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:black_hanging_canvas_sign",
+        "after": "farmersdelight:black_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:brown_canvas_sign",
+        "after": "farmersdelight:black_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:brown_hanging_canvas_sign",
+        "after": "farmersdelight:brown_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:red_canvas_sign",
+        "after": "farmersdelight:brown_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:red_hanging_canvas_sign",
+        "after": "farmersdelight:red_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:orange_canvas_sign",
+        "after": "farmersdelight:red_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:orange_hanging_canvas_sign",
+        "after": "farmersdelight:orange_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:yellow_canvas_sign",
+        "after": "farmersdelight:orange_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:yellow_hanging_canvas_sign",
+        "after": "farmersdelight:yellow_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:lime_canvas_sign",
+        "after": "farmersdelight:yellow_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:lime_hanging_canvas_sign",
+        "after": "farmersdelight:lime_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:green_canvas_sign",
+        "after": "farmersdelight:lime_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:green_hanging_canvas_sign",
+        "after": "farmersdelight:green_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:cyan_canvas_sign",
+        "after": "farmersdelight:green_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:cyan_hanging_canvas_sign",
+        "after": "farmersdelight:cyan_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_blue_canvas_sign",
+        "after": "farmersdelight:cyan_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_blue_hanging_canvas_sign",
+        "after": "farmersdelight:light_blue_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:blue_canvas_sign",
+        "after": "farmersdelight:light_blue_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:blue_hanging_canvas_sign",
+        "after": "farmersdelight:blue_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:purple_canvas_sign",
+        "after": "farmersdelight:blue_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:purple_hanging_canvas_sign",
+        "after": "farmersdelight:purple_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:magenta_canvas_sign",
+        "after": "farmersdelight:purple_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:magenta_hanging_canvas_sign",
+        "after": "farmersdelight:magenta_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:pink_canvas_sign",
+        "after": "farmersdelight:magenta_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:pink_hanging_canvas_sign",
+        "after": "farmersdelight:pink_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:oak_cabinet",
+        "after": "farmersdelight:pink_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:spruce_cabinet",
+        "after": "farmersdelight:oak_cabinet"
+      },
+      {
+        "item": "farmersdelight:birch_cabinet",
+        "after": "farmersdelight:spruce_cabinet"
+      },
+      {
+        "item": "farmersdelight:jungle_cabinet",
+        "after": "farmersdelight:birch_cabinet"
+      },
+      {
+        "item": "farmersdelight:acacia_cabinet",
+        "after": "farmersdelight:jungle_cabinet"
+      },
+      {
+        "item": "farmersdelight:dark_oak_cabinet",
+        "after": "farmersdelight:acacia_cabinet"
+      },
+      {
+        "item": "farmersdelight:mangrove_cabinet",
+        "after": "farmersdelight:dark_oak_cabinet"
+      },
+      {
+        "item": "farmersdelight:cherry_cabinet",
+        "after": "farmersdelight:mangrove_cabinet"
+      },
+      {
+        "item": "farmersdelight:bamboo_cabinet",
+        "after": "farmersdelight:cherry_cabinet"
+      },
+      {
+        "item": "farmersdelight:crimson_cabinet",
+        "after": "farmersdelight:bamboo_cabinet"
+      },
+      {
+        "item": "farmersdelight:warped_cabinet",
+        "after": "farmersdelight:crimson_cabinet"
+      },
+      {
+        "item": "natures_delight:redwood_cabinet",
+        "after": "farmersdelight:warped_cabinet"
+      },
+      {
+        "item": "natures_delight:sugi_cabinet",
+        "after": "natures_delight:redwood_cabinet"
+      },
+      {
+        "item": "natures_delight:wisteria_cabinet",
+        "after": "natures_delight:sugi_cabinet"
+      },
+      {
+        "item": "natures_delight:fir_cabinet",
+        "after": "natures_delight:wisteria_cabinet"
+      },
+      {
+        "item": "natures_delight:willow_cabinet",
+        "after": "natures_delight:fir_cabinet"
+      },
+      {
+        "item": "natures_delight:aspen_cabinet",
+        "after": "natures_delight:willow_cabinet"
+      },
+      {
+        "item": "natures_delight:maple_cabinet",
+        "after": "natures_delight:aspen_cabinet"
+      },
+      {
+        "item": "natures_delight:cypress_cabinet",
+        "after": "natures_delight:maple_cabinet"
+      },
+      {
+        "item": "natures_delight:olive_cabinet",
+        "after": "natures_delight:cypress_cabinet"
+      },
+      {
+        "item": "natures_delight:joshua_cabinet",
+        "after": "natures_delight:olive_cabinet"
+      },
+      {
+        "item": "natures_delight:ghaf_cabinet",
+        "after": "natures_delight:joshua_cabinet"
+      },
+      {
+        "item": "natures_delight:palo_verde_cabinet",
+        "after": "natures_delight:ghaf_cabinet"
+      },
+      {
+        "item": "natures_delight:coconut_cabinet",
+        "after": "natures_delight:palo_verde_cabinet"
+      },
+      {
+        "item": "natures_delight:cedar_cabinet",
+        "after": "natures_delight:coconut_cabinet"
+      },
+      {
+        "item": "natures_delight:larch_cabinet",
+        "after": "natures_delight:cedar_cabinet"
+      },
+      {
+        "item": "natures_delight:mahogany_cabinet",
+        "after": "natures_delight:larch_cabinet"
+      },
+      {
+        "item": "natures_delight:saxaul_cabinet",
+        "after": "natures_delight:mahogany_cabinet"
+      },
+      {
+        "item": "farmersdelight:stove",
+        "after": "natures_delight:saxaul_cabinet"
+      },
+      {
+        "item": "farmersdelight:cooking_pot",
+        "after": "farmersdelight:stove"
+      },
+      {
+        "item": "farmersdelight:skillet",
+        "after": "farmersdelight:cooking_pot"
+      },
+      {
+        "item": "farmersdelight:cutting_board",
+        "after": "farmersdelight:skillet"
+      },
+      {
+        "item": "farmersdelight:wooden_basket",
+        "after": "farmersdelight:cutting_board"
+      },
+      {
+        "item": "farmersdelight:bamboo_basket",
+        "after": "farmersdelight:wooden_basket"
+      },
+      {
+        "item": "farmersdelight:safety_net",
+        "after": "farmersdelight:bamboo_basket"
+      },
+      {
+        "item": "farmersdelight:tatami",
+        "after": "farmersdelight:safety_net"
+      },
+      {
+        "item": "farmersdelight:full_tatami_mat",
+        "after": "farmersdelight:tatami"
+      },
+      {
+        "item": "farmersdelight:half_tatami_mat",
+        "after": "farmersdelight:full_tatami_mat"
+      },
+      {
+        "item": "farmersdelight:canvas_rug",
+        "after": "farmersdelight:half_tatami_mat"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:tools_and_utilities"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:flint_knife",
+        "after": "minecraft:wooden_axe"
+      },
+      {
+        "item": "hummus:copper_shovel",
+        "after": "farmersdelight:flint_knife"
+      },
+      {
+        "item": "hummus:copper_pickaxe",
+        "after": "hummus:copper_shovel"
+      },
+      {
+        "item": "hummus:copper_axe",
+        "after": "hummus:copper_pickaxe"
+      },
+      {
+        "item": "hummus:copper_knife",
+        "after": "hummus:copper_axe"
+      },
+      {
+        "item": "farmersdelight:iron_knife",
+        "after": "minecraft:iron_axe"
+      },
+      {
+        "item": "farmersdelight:golden_knife",
+        "after": "minecraft:golden_axe"
+      },
+      {
+        "item": "hummus:rose_gold_shovel",
+        "after": "farmersdelight:golden_knife"
+      },
+      {
+        "item": "hummus:rose_gold_pickaxe",
+        "after": "hummus:rose_gold_shovel"
+      },
+      {
+        "item": "hummus:rose_gold_axe",
+        "after": "hummus:rose_gold_pickaxe"
+      },
+      {
+        "item": "hummus:rose_gold_knife",
+        "after": "hummus:rose_gold_axe"
+      },
+      {
+        "item": "hummus:silver_knife",
+        "after": "oreganized:silver_axe"
+      },
+      {
+        "item": "farmersdelight:diamond_knife",
+        "after": "minecraft:diamond_axe"
+      },
+      {
+        "item": "oreganized:electrum_knife",
+        "after": "oreganized:electrum_axe"
+      },
+      {
+        "item": "farmersdelight:netherite_knife",
+        "after": "minecraft:netherite_axe"
+      },
+      {
+        "item": "hummus:galena_shovel",
+        "after": "farmersdelight:netherite_knife"
+      },
+      {
+        "item": "hummus:galena_pickaxe",
+        "after": "hummus:galena_shovel"
+      },
+      {
+        "item": "hummus:galena_axe",
+        "after": "hummus:galena_pickaxe"
+      },
+      {
+        "item": "hummus:galena_knife",
+        "after": "hummus:galena_axe"
+      },
+      {
+        "item": "minecraft:iron_hoe",
+        "after": "minecraft:shears"
+      },
+      {
+        "item": "linkedchests:linked_pouch",
+        "after": "bundle-backportish:pink_bundle"
+      },
+      {
+        "item": "quark:ancient_boat",
+        "after": "natures_spirit:saxaul_chest_boat"
+      },
+      {
+        "item": "quark:ancient_chest_boat",
+        "after": "quark:ancient_boat"
+      },
+      {
+        "item": "suppsquared:heavy_key",
+        "after": "enderscape:music_disc_bliss",
+        "components": {
+          "suppsquared:heavy_key_uuid": [
+            1750389944,
+            354176866,
+            -1797969379,
+            923118296
+          ]
+        }
+      },
+      {
+        "item": "sleep_tight:night_bag",
+        "after": {
+          "item": "suppsquared:heavy_key",
+          "components": {
+            "suppsquared:heavy_key_uuid": [
+              -1690596956,
+              1766147309,
+              -1583125867,
+              -219134270
+            ]
+          }
+        }
+      },
+      {
+        "item": "portablehole:portable_hole",
+        "after": "quark:music_disc_endermosh"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "hoppergadgetry:main"
+    ],
+    "remove_items": [
+      "hoppergadgetry:grated_hopper_minecart",
+      "hoppergadgetry:grated_hopper"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "linkedchests:main"
+    ],
+    "remove_items": [
+      "linkedchests:linked_pouch",
+      "linkedchests:linked_chest"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "thrivingblocks:thrivingblocksmisc"
+    ],
+    "remove_items": [
+      "thrivingblocks:creeper_gold_block",
+      "thrivingblocks:golden_button"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:redstone_blocks"
+    ],
+    "remove_items": [
+      "relocate:redstone_bulb",
+      "relocate:redstone_generator",
+      "relocate:notifier",
+      "relocate:state_changer",
+      "relocate:redstone_ticker",
+      "relocate:silent_blocks_filter",
+      "relocate:blocks_filter",
+      "relocate:blocks_detector",
+      "relocate:silent_blocks_placer",
+      "relocate:blocks_placer",
+      "relocate:silent_blocks_destroyer",
+      "relocate:blocks_destroyer",
+      "relocate:silent_advanced_blocks_mover",
+      "relocate:advanced_blocks_mover",
+      "relocate:silent_universal_blocks_mover",
+      "relocate:universal_blocks_mover",
+      "relocate:silent_blocks_mover",
+      "relocate:blocks_mover"
+    ],
+    "add_items": [
+      {
+        "item": "quark:chute",
+        "after": "minecraft:hopper"
+      },
+      {
+        "item": "hoppergadgetry:grated_hopper",
+        "after": "quark:chute"
+      },
+      {
+        "item": "hoppergadgetry:grated_hopper_minecart",
+        "after": "minecraft:hopper_minecart"
+      },
+      {
+        "item": "relocate:blocks_placer",
+        "after": "minecraft:redstone_ore"
+      },
+      {
+        "item": "relocate:silent_blocks_placer",
+        "after": "relocate:blocks_placer"
+      },
+      {
+        "item": "relocate:blocks_detector",
+        "after": "relocate:silent_blocks_placer"
+      },
+      {
+        "item": "relocate:redstone_ticker",
+        "after": "relocate:blocks_detector"
+      },
+      {
+        "item": "relocate:state_changer",
+        "after": "relocate:redstone_ticker"
+      },
+      {
+        "item": "relocate:copper_cogwheel",
+        "after": "relocate:state_changer"
+      },
+      {
+        "item": "relocate:redstone_bulb",
+        "after": "relocate:copper_cogwheel"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "thrivingblocks:thrivingblocks"
+    ],
+    "remove_items": [
+      "thrivingblocks:old_growth_grass",
+      "thrivingblocks:old_growth_fern",
+      "thrivingblocks:old_spruce_leaves",
+      "thrivingblocks:old_oak_leaves",
+      "thrivingblocks:lightly_weathered_ancient_cobblestone",
+      "thrivingblocks:ancient_cobblestone",
+      "thrivingblocks:grassy_old_cobblestone",
+      "thrivingblocks:old_mossy_cobblestone",
+      "thrivingblocks:old_cobblestone",
+      "thrivingblocks:cracked_old_stonebricks",
+      "thrivingblocks:old_glowstone_block",
+      "thrivingblocks:grassy_bedrock",
+      "thrivingblocks:bedrock_diamond_ore",
+      "thrivingblocks:directional_bricks",
+      "thrivingblocks:magma_blackstone",
+      "thrivingblocks:crushed_basalt",
+      "thrivingblocks:crushed_deepslate",
+      "thrivingblocks:cracked_mossy_stone_bricks_block",
+      "thrivingblocks:dynamic_cracked_mossy_stone_bricks_block",
+      "thrivingblocks:dynamic_mossy_stone_bricks_block",
+      "thrivingblocks:dynamic_mossy_cobblestone_block",
+      "thrivingblocks:grass_carpet",
+      "thrivingblocks:grassy_dynamic_moss_block",
+      "thrivingblocks:dynamic_moss_block",
+      "thrivingblocks:dynamic_moss_grass_block",
+      "thrivingblocks:dynamic_flat_moss_carpet",
+      "thrivingblocks:flat_moss_carpet",
+      "thrivingblocks:stone_path_block",
+      "thrivingblocks:moss_grass_block",
+      "thrivingblocks:grassy_mud",
+      "thrivingblocks:grassy_packed_mud",
+      "thrivingblocks:grassy_coarse_dirt",
+      "thrivingblocks:grassy_red_sandstone",
+      "thrivingblocks:grassy_red_sand",
+      "thrivingblocks:grassy_sandstone",
+      "thrivingblocks:grassy_sand",
+      "thrivingblocks:grassy_soul_soil",
+      "thrivingblocks:grassy_soul_sand",
+      "thrivingblocks:grassy_clay",
+      "thrivingblocks:grassy_deepslate",
+      "thrivingblocks:grassy_diorite",
+      "thrivingblocks:grassy_andesite",
+      "thrivingblocks:grassy_granite",
+      "thrivingblocks:grassy_cobblestone",
+      "thrivingblocks:grassy_mossy_cobblestone",
+      "thrivingblocks:grassy_stone",
+      "thrivingblocks:grassy_moss",
+      "thrivingblocks:bush_fern",
+      "thrivingblocks:neat_short_small_dripleaf",
+      "thrivingblocks:bamboo_vines",
+      "thrivingblocks:dynamic_moss_vines",
+      "thrivingblocks:moss_vines",
+      "thrivingblocks:muddy_dead_bush",
+      "thrivingblocks:flowering_azalea_bush_block",
+      "thrivingblocks:azalea_bush_block",
+      "thrivingblocks:flowering_azalea_droop",
+      "thrivingblocks:azalea_droop",
+      "thrivingblocks:mangrove_root_clump",
+      "thrivingblocks:muddy_dripleaf_vine",
+      "thrivingblocks:dead_dripleaf_vine",
+      "thrivingblocks:small_dripleaf_vine",
+      "thrivingblocks:dripleaf_vine",
+      "thrivingblocks:dripleaf_pad",
+      "thrivingblocks:cobbled_red_sandstone",
+      "thrivingblocks:cobbled_sandstone",
+      "thrivingblocks:full_warped_nylium_block",
+      "thrivingblocks:full_crimson_nylium_block",
+      "thrivingblocks:full_podzol_block",
+      "thrivingblocks:full_grass_block"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:natural_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "thrivingblocks:full_grass_block",
+        "after": "quark:myalite_crystal"
+      },
+      {
+        "item": "thrivingblocks:full_podzol_block",
+        "after": "thrivingblocks:full_grass_block"
+      },
+      {
+        "item": "thrivingblocks:full_crimson_nylium_block",
+        "after": "thrivingblocks:full_podzol_block"
+      },
+      {
+        "item": "thrivingblocks:full_warped_nylium_block",
+        "after": "thrivingblocks:full_crimson_nylium_block"
+      },
+      {
+        "item": "thrivingblocks:cobbled_sandstone",
+        "after": "thrivingblocks:full_warped_nylium_block"
+      },
+      {
+        "item": "thrivingblocks:cobbled_red_sandstone",
+        "after": "thrivingblocks:cobbled_sandstone"
+      },
+      {
+        "item": "thrivingblocks:dripleaf_pad",
+        "after": "thrivingblocks:cobbled_red_sandstone"
+      },
+      {
+        "item": "thrivingblocks:dripleaf_vine",
+        "after": "thrivingblocks:dripleaf_pad"
+      },
+      {
+        "item": "thrivingblocks:small_dripleaf_vine",
+        "after": "thrivingblocks:dripleaf_vine"
+      },
+      {
+        "item": "thrivingblocks:dead_dripleaf_vine",
+        "after": "thrivingblocks:small_dripleaf_vine"
+      },
+      {
+        "item": "thrivingblocks:muddy_dripleaf_vine",
+        "after": "thrivingblocks:dead_dripleaf_vine"
+      },
+      {
+        "item": "thrivingblocks:mangrove_root_clump",
+        "after": "thrivingblocks:muddy_dripleaf_vine"
+      },
+      {
+        "item": "thrivingblocks:azalea_droop",
+        "after": "thrivingblocks:mangrove_root_clump"
+      },
+      {
+        "item": "thrivingblocks:flowering_azalea_droop",
+        "after": "thrivingblocks:azalea_droop"
+      },
+      {
+        "item": "thrivingblocks:azalea_bush_block",
+        "after": "thrivingblocks:flowering_azalea_droop"
+      },
+      {
+        "item": "thrivingblocks:flowering_azalea_bush_block",
+        "after": "thrivingblocks:azalea_bush_block"
+      },
+      {
+        "item": "thrivingblocks:muddy_dead_bush",
+        "after": "thrivingblocks:flowering_azalea_bush_block"
+      },
+      {
+        "item": "thrivingblocks:moss_vines",
+        "after": "thrivingblocks:muddy_dead_bush"
+      },
+      {
+        "item": "thrivingblocks:dynamic_moss_vines",
+        "after": "thrivingblocks:moss_vines"
+      },
+      {
+        "item": "thrivingblocks:bamboo_vines",
+        "after": "thrivingblocks:dynamic_moss_vines"
+      },
+      {
+        "item": "thrivingblocks:neat_short_small_dripleaf",
+        "after": "thrivingblocks:bamboo_vines"
+      },
+      {
+        "item": "thrivingblocks:bush_fern",
+        "after": "thrivingblocks:neat_short_small_dripleaf"
+      },
+      {
+        "item": "thrivingblocks:grassy_moss",
+        "after": "thrivingblocks:bush_fern"
+      },
+      {
+        "item": "thrivingblocks:grassy_stone",
+        "after": "thrivingblocks:grassy_moss"
+      },
+      {
+        "item": "thrivingblocks:grassy_mossy_cobblestone",
+        "after": "thrivingblocks:grassy_stone"
+      },
+      {
+        "item": "thrivingblocks:grassy_cobblestone",
+        "after": "thrivingblocks:grassy_mossy_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:grassy_granite",
+        "after": "thrivingblocks:grassy_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:grassy_andesite",
+        "after": "thrivingblocks:grassy_granite"
+      },
+      {
+        "item": "thrivingblocks:grassy_diorite",
+        "after": "thrivingblocks:grassy_andesite"
+      },
+      {
+        "item": "thrivingblocks:grassy_deepslate",
+        "after": "thrivingblocks:grassy_diorite"
+      },
+      {
+        "item": "thrivingblocks:grassy_clay",
+        "after": "thrivingblocks:grassy_deepslate"
+      },
+      {
+        "item": "thrivingblocks:grassy_soul_sand",
+        "after": "thrivingblocks:grassy_clay"
+      },
+      {
+        "item": "thrivingblocks:grassy_soul_soil",
+        "after": "thrivingblocks:grassy_soul_sand"
+      },
+      {
+        "item": "thrivingblocks:grassy_sand",
+        "after": "thrivingblocks:grassy_soul_soil"
+      },
+      {
+        "item": "thrivingblocks:grassy_sandstone",
+        "after": "thrivingblocks:grassy_sand"
+      },
+      {
+        "item": "thrivingblocks:grassy_red_sand",
+        "after": "thrivingblocks:grassy_sandstone"
+      },
+      {
+        "item": "thrivingblocks:grassy_red_sandstone",
+        "after": "thrivingblocks:grassy_red_sand"
+      },
+      {
+        "item": "thrivingblocks:grassy_coarse_dirt",
+        "after": "thrivingblocks:grassy_red_sandstone"
+      },
+      {
+        "item": "thrivingblocks:grassy_packed_mud",
+        "after": "thrivingblocks:grassy_coarse_dirt"
+      },
+      {
+        "item": "thrivingblocks:grassy_mud",
+        "after": "thrivingblocks:grassy_packed_mud"
+      },
+      {
+        "item": "thrivingblocks:moss_grass_block",
+        "after": "thrivingblocks:grassy_mud"
+      },
+      {
+        "item": "thrivingblocks:stone_path_block",
+        "after": "thrivingblocks:moss_grass_block"
+      },
+      {
+        "item": "thrivingblocks:flat_moss_carpet",
+        "after": "thrivingblocks:stone_path_block"
+      },
+      {
+        "item": "thrivingblocks:dynamic_flat_moss_carpet",
+        "after": "thrivingblocks:flat_moss_carpet"
+      },
+      {
+        "item": "thrivingblocks:dynamic_moss_grass_block",
+        "after": "thrivingblocks:dynamic_flat_moss_carpet"
+      },
+      {
+        "item": "thrivingblocks:dynamic_moss_block",
+        "after": "thrivingblocks:dynamic_moss_grass_block"
+      },
+      {
+        "item": "thrivingblocks:grassy_dynamic_moss_block",
+        "after": "thrivingblocks:dynamic_moss_block"
+      },
+      {
+        "item": "thrivingblocks:grass_carpet",
+        "after": "thrivingblocks:grassy_dynamic_moss_block"
+      },
+      {
+        "item": "thrivingblocks:dynamic_mossy_cobblestone_block",
+        "after": "thrivingblocks:grass_carpet"
+      },
+      {
+        "item": "thrivingblocks:dynamic_mossy_stone_bricks_block",
+        "after": "thrivingblocks:dynamic_mossy_cobblestone_block"
+      },
+      {
+        "item": "thrivingblocks:dynamic_cracked_mossy_stone_bricks_block",
+        "after": "thrivingblocks:dynamic_mossy_stone_bricks_block"
+      },
+      {
+        "item": "thrivingblocks:cracked_mossy_stone_bricks_block",
+        "after": "thrivingblocks:dynamic_cracked_mossy_stone_bricks_block"
+      },
+      {
+        "item": "thrivingblocks:crushed_deepslate",
+        "after": "thrivingblocks:cracked_mossy_stone_bricks_block"
+      },
+      {
+        "item": "thrivingblocks:crushed_basalt",
+        "after": "thrivingblocks:crushed_deepslate"
+      },
+      {
+        "item": "thrivingblocks:magma_blackstone",
+        "after": "thrivingblocks:crushed_basalt"
+      },
+      {
+        "item": "thrivingblocks:directional_bricks",
+        "after": "thrivingblocks:magma_blackstone"
+      },
+      {
+        "item": "thrivingblocks:bedrock_diamond_ore",
+        "after": "thrivingblocks:directional_bricks"
+      },
+      {
+        "item": "thrivingblocks:grassy_bedrock",
+        "after": "thrivingblocks:bedrock_diamond_ore"
+      },
+      {
+        "item": "thrivingblocks:old_glowstone_block",
+        "after": "thrivingblocks:grassy_bedrock"
+      },
+      {
+        "item": "thrivingblocks:cracked_old_stonebricks",
+        "after": "thrivingblocks:old_glowstone_block"
+      },
+      {
+        "item": "thrivingblocks:old_cobblestone",
+        "after": "thrivingblocks:cracked_old_stonebricks"
+      },
+      {
+        "item": "thrivingblocks:old_mossy_cobblestone",
+        "after": "thrivingblocks:old_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:grassy_old_cobblestone",
+        "after": "thrivingblocks:old_mossy_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:ancient_cobblestone",
+        "after": "thrivingblocks:grassy_old_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:lightly_weathered_ancient_cobblestone",
+        "after": "thrivingblocks:ancient_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:old_oak_leaves",
+        "after": "thrivingblocks:lightly_weathered_ancient_cobblestone"
+      },
+      {
+        "item": "thrivingblocks:old_spruce_leaves",
+        "after": "thrivingblocks:old_oak_leaves"
+      },
+      {
+        "item": "thrivingblocks:old_growth_fern",
+        "after": "thrivingblocks:old_spruce_leaves"
+      },
+      {
+        "item": "thrivingblocks:old_growth_grass",
+        "after": "thrivingblocks:old_growth_fern"
+      },
+      {
+        "item": "thrivingblocks:cobbled_pink_sandstone",
+        "after": "thrivingblocks:old_growth_grass"
+      },
+      {
+        "item": "thrivingblocks:cobbled_chert",
+        "after": "thrivingblocks:cobbled_pink_sandstone"
+      },
+      {
+        "item": "thrivingblocks:grassy_sandy_soil_block",
+        "after": "thrivingblocks:cobbled_chert"
+      },
+      {
+        "item": "thrivingblocks:grassy_pink_sand",
+        "after": "thrivingblocks:grassy_sandy_soil_block"
+      },
+      {
+        "item": "thrivingblocks:grassy_pink_sandstone",
+        "after": "thrivingblocks:grassy_pink_sand"
+      },
+      {
+        "item": "thrivingblocks:grassy_chert",
+        "after": "thrivingblocks:grassy_pink_sandstone"
+      },
+      {
+        "item": "thrivingblocks:red_mossy_travertine_bricks_block",
+        "after": "thrivingblocks:grassy_chert"
+      },
+      {
+        "item": "thrivingblocks:red_mossy_cobbled_travertine_block",
+        "after": "thrivingblocks:red_mossy_travertine_bricks_block"
+      },
+      {
+        "item": "thrivingblocks:flat_red_moss_carpet",
+        "after": "thrivingblocks:red_mossy_cobbled_travertine_block"
+      },
+      {
+        "item": "thrivingblocks:red_moss_grass_block",
+        "after": "thrivingblocks:flat_red_moss_carpet"
+      },
+      {
+        "item": "thrivingblocks:red_moss_vines",
+        "after": "thrivingblocks:red_moss_grass_block"
+      },
+      {
+        "item": "thrivingblocks:red_mossy_cobblestone_block",
+        "after": "thrivingblocks:red_moss_vines"
+      },
+      {
+        "item": "thrivingblocks:red_mossy_stone_bricks_block",
+        "after": "thrivingblocks:red_mossy_cobblestone_block"
+      },
+      {
+        "item": "farmersdelight:sandy_shrub",
+        "after": "thrivingblocks:red_mossy_stone_bricks_block"
+      },
+      {
+        "item": "farmersdelight:wild_cabbages",
+        "after": "farmersdelight:sandy_shrub"
+      },
+      {
+        "item": "farmersdelight:wild_onions",
+        "after": "farmersdelight:wild_cabbages"
+      },
+      {
+        "item": "farmersdelight:wild_tomatoes",
+        "after": "farmersdelight:wild_onions"
+      },
+      {
+        "item": "farmersdelight:wild_carrots",
+        "after": "farmersdelight:wild_tomatoes"
+      },
+      {
+        "item": "farmersdelight:wild_potatoes",
+        "after": "farmersdelight:wild_carrots"
+      },
+      {
+        "item": "farmersdelight:wild_beetroots",
+        "after": "farmersdelight:wild_potatoes"
+      },
+      {
+        "item": "farmersdelight:wild_rice",
+        "after": "farmersdelight:wild_beetroots"
+      },
+      {
+        "item": "farmersdelight:brown_mushroom_colony",
+        "after": "farmersdelight:wild_rice"
+      },
+      {
+        "item": "farmersdelight:red_mushroom_colony",
+        "after": "farmersdelight:brown_mushroom_colony"
+      },
+      {
+        "item": "farmersdelight:rice_panicle",
+        "after": "farmersdelight:red_mushroom_colony"
+      },
+      {
+        "item": "farmersdelight:rice",
+        "after": "farmersdelight:rice_panicle"
+      },
+      {
+        "item": "farmersdelight:cabbage_seeds",
+        "after": "farmersdelight:rice"
+      },
+      {
+        "item": "farmersdelight:tomato_seeds",
+        "after": "farmersdelight:cabbage_seeds"
+      },
+      {
+        "item": "farmersdelight:carrot_crate",
+        "after": "farmersdelight:tomato_seeds"
+      },
+      {
+        "item": "farmersdelight:potato_crate",
+        "after": "farmersdelight:carrot_crate"
+      },
+      {
+        "item": "farmersdelight:beetroot_crate",
+        "after": "farmersdelight:potato_crate"
+      },
+      {
+        "item": "farmersdelight:cabbage_crate",
+        "after": "farmersdelight:beetroot_crate"
+      },
+      {
+        "item": "farmersdelight:tomato_crate",
+        "after": "farmersdelight:cabbage_crate"
+      },
+      {
+        "item": "farmersdelight:onion_crate",
+        "after": "farmersdelight:tomato_crate"
+      },
+      {
+        "item": "farmersdelight:rice_bale",
+        "after": "farmersdelight:onion_crate"
+      },
+      {
+        "item": "farmersdelight:rice_bag",
+        "after": "farmersdelight:rice_bale"
+      },
+      {
+        "item": "natures_delight:desert_turnip_crate",
+        "after": "farmersdelight:rice_bag"
+      },
+      {
+        "item": "farmersdelight:straw_bale",
+        "after": "natures_delight:desert_turnip_crate"
+      },
+      {
+        "item": "farmersdelight:organic_compost",
+        "after": "farmersdelight:straw_bale"
+      },
+      {
+        "item": "farmersdelight:rich_soil",
+        "after": "farmersdelight:organic_compost"
+      },
+      {
+        "item": "farmersdelight:rich_soil_farmland",
+        "after": "farmersdelight:rich_soil"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "magnumtorch:main"
+    ],
+    "remove_items": [
+      "magnumtorch:diamond_magnum_torch"
+    ],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:combat"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "minecraft:wooden_axe",
+        "after": "minecraft:wooden_sword"
+      },
+      {
+        "item": "swordish:wooden_halberd",
+        "after": "minecraft:wooden_axe"
+      },
+      {
+        "item": "swordish:wooden_glaive",
+        "after": "swordish:wooden_halberd"
+      },
+      {
+        "item": "swordish:wooden_dualblade",
+        "after": "swordish:wooden_glaive"
+      },
+      {
+        "item": "hummus:copper_sword",
+        "after": "swordish:wooden_dualblade"
+      },
+      {
+        "item": "hummus:copper_axe",
+        "after": "hummus:copper_sword"
+      },
+      {
+        "item": "hummus:copper_halberd",
+        "after": "hummus:copper_axe"
+      },
+      {
+        "item": "hummus:copper_glaive",
+        "after": "hummus:copper_halberd"
+      },
+      {
+        "item": "hummus:copper_dualblade",
+        "after": "hummus:copper_glaive"
+      },
+      {
+        "item": "minecraft:iron_axe",
+        "after": "minecraft:iron_sword"
+      },
+      {
+        "item": "swordish:iron_halberd",
+        "after": "minecraft:iron_axe"
+      },
+      {
+        "item": "swordish:iron_glaive",
+        "after": "swordish:iron_halberd"
+      },
+      {
+        "item": "swordish:iron_dualblade",
+        "after": "swordish:iron_glaive"
+      },
+      {
+        "item": "minecraft:golden_axe",
+        "after": "minecraft:golden_sword"
+      },
+      {
+        "item": "swordish:golden_halberd",
+        "after": "minecraft:golden_axe"
+      },
+      {
+        "item": "swordish:golden_glaive",
+        "after": "swordish:golden_halberd"
+      },
+      {
+        "item": "swordish:golden_dualblade",
+        "after": "swordish:golden_glaive"
+      },
+      {
+        "item": "hummus:rose_gold_sword",
+        "after": "swordish:golden_dualblade"
+      },
+      {
+        "item": "hummus:rose_gold_axe",
+        "after": "hummus:rose_gold_sword"
+      },
+      {
+        "item": "hummus:rose_gold_halberd",
+        "after": "hummus:rose_gold_axe"
+      },
+      {
+        "item": "hummus:rose_gold_glaive",
+        "after": "hummus:rose_gold_halberd"
+      },
+      {
+        "item": "hummus:rose_gold_dualblade",
+        "after": "hummus:rose_gold_glaive"
+      },
+      {
+        "item": "oreganized:silver_axe",
+        "after": "oreganized:silver_sword"
+      },
+      {
+        "item": "hummus:silver_glaive",
+        "after": "oreganized:silver_axe"
+      },
+      {
+        "item": "hummus:silver_halberd",
+        "after": "hummus:silver_glaive"
+      },
+      {
+        "item": "hummus:silver_dualblade",
+        "after": "hummus:silver_halberd"
+      },
+      {
+        "item": "minecraft:diamond_axe",
+        "after": "minecraft:diamond_sword"
+      },
+      {
+        "item": "swordish:diamond_halberd",
+        "after": "minecraft:diamond_axe"
+      },
+      {
+        "item": "swordish:diamond_glaive",
+        "after": "swordish:diamond_halberd"
+      },
+      {
+        "item": "swordish:diamond_dualblade",
+        "after": "swordish:diamond_glaive"
+      },
+      {
+        "item": "oreganized:electrum_axe",
+        "after": "oreganized:electrum_sword"
+      },
+      {
+        "item": "hummus:electrum_halberd",
+        "after": "oreganized:electrum_axe"
+      },
+      {
+        "item": "hummus:electrum_glaive",
+        "after": "hummus:electrum_halberd"
+      },
+      {
+        "item": "hummus:electrum_dualblade",
+        "after": "hummus:electrum_glaive"
+      },
+      {
+        "item": "swordish:netherite_halberd",
+        "after": "minecraft:netherite_axe"
+      },
+      {
+        "item": "swordish:netherite_glaive",
+        "after": "swordish:netherite_halberd"
+      },
+      {
+        "item": "swordish:netherite_dualblade",
+        "after": "swordish:netherite_glaive"
+      },
+      {
+        "item": "hummus:galena_sword",
+        "after": "swordish:netherite_dualblade"
+      },
+      {
+        "item": "hummus:galena_axe",
+        "after": "hummus:galena_sword"
+      },
+      {
+        "item": "hummus:galena_halberd",
+        "after": "hummus:galena_axe"
+      },
+      {
+        "item": "hummus:galena_glaive",
+        "after": "hummus:galena_halberd"
+      },
+      {
+        "item": "hummus:galena_dualblade",
+        "after": "hummus:galena_glaive"
+      },
+      {
+        "item": "hummus:copper_helmet",
+        "after": "minecraft:leather_boots"
+      },
+      {
+        "item": "hummus:copper_chestplate",
+        "after": "hummus:copper_helmet"
+      },
+      {
+        "item": "hummus:copper_leggings",
+        "after": "hummus:copper_chestplate"
+      },
+      {
+        "item": "hummus:copper_boots",
+        "after": "hummus:copper_leggings"
+      },
+      {
+        "item": "hummus:rose_gold_helmet",
+        "after": "minecraft:golden_boots"
+      },
+      {
+        "item": "hummus:rose_gold_chestplate",
+        "after": "hummus:rose_gold_helmet"
+      },
+      {
+        "item": "hummus:rose_gold_leggings",
+        "after": "hummus:rose_gold_chestplate"
+      },
+      {
+        "item": "hummus:rose_gold_boots",
+        "after": "hummus:rose_gold_leggings"
+      },
+      {
+        "item": "hummus:galena_helmet",
+        "after": "minecraft:netherite_boots"
+      },
+      {
+        "item": "hummus:galena_chestplate",
+        "after": "hummus:galena_helmet"
+      },
+      {
+        "item": "hummus:galena_leggings",
+        "after": "hummus:galena_chestplate"
+      },
+      {
+        "item": "hummus:galena_boots",
+        "after": "hummus:galena_leggings"
+      },
+      {
+        "item": "hummus:turtle_chestplate",
+        "after": "minecraft:turtle_helmet"
+      },
+      {
+        "item": "hummus:turtle_leggings",
+        "after": "hummus:turtle_chestplate"
+      },
+      {
+        "item": "hummus:turtle_boots",
+        "after": "hummus:turtle_leggings"
+      },
+      {
+        "item": "hummus:copper_horse_armor",
+        "after": "minecraft:leather_horse_armor"
+      },
+      {
+        "item": "hummus:rose_gold_horse_armor",
+        "after": "minecraft:golden_horse_armor"
+      },
+      {
+        "item": "hummus:copper_arrow",
+        "after": "minecraft:arrow"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "thrivingblocks:thrivingblocksnaturespirit"
+    ],
+    "remove_items": [
+      "thrivingblocks:red_mossy_stone_bricks_block",
+      "thrivingblocks:red_mossy_cobblestone_block",
+      "thrivingblocks:red_moss_vines",
+      "thrivingblocks:red_moss_grass_block",
+      "thrivingblocks:flat_red_moss_carpet",
+      "thrivingblocks:red_mossy_cobbled_travertine_block",
+      "thrivingblocks:red_mossy_travertine_bricks_block",
+      "thrivingblocks:grassy_chert",
+      "thrivingblocks:grassy_pink_sandstone",
+      "thrivingblocks:grassy_pink_sand",
+      "thrivingblocks:grassy_sandy_soil_block",
+      "thrivingblocks:cobbled_chert",
+      "thrivingblocks:cobbled_pink_sandstone"
+    ],
+    "add_items": [],
+    "order": []
+  }
+]
