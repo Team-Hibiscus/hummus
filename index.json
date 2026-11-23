@@ -2281,6 +2281,10 @@
       "sha1": "0a0d008617546540cc2d2b4109cbf7653bc39883"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/farmersdelight/recipe/salvaging/bricks.json",
+      "sha1": "6af98280cb00e25b4199570b04c63d097380425f"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/fintastic/worldgen/configured_feature/duckweed_key.json",
       "sha1": "6aa94c0af6b875ee5be929ccd9940360fcbbca8a"
     },
