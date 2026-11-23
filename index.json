@@ -2733,6 +2733,42 @@
       "sha1": "bb4cf7ac1610df49700b8293f11332b7557bfbe4"
     },
     {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/cave_spider.json",
+      "sha1": "713666f57a8771383b966c63791b4aae3a4017be"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/creeper.json",
+      "sha1": "650010c59f527b83feefec055c36068242ec7dd1"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/ghast.json",
+      "sha1": "d869e2d100daa01944c85cfc20a95ba747edf244"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/husk.json",
+      "sha1": "48974b4d44892460c191865cadf0a04d3584ef54"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/phantom.json",
+      "sha1": "f05ebbbe6f95127cb1a6d378e71da48ae7a3fb2e"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/spider.json",
+      "sha1": "6772471bef2146c151f8b0cc44bbb60a58d300bc"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/stray.json",
+      "sha1": "2d480cd4a29b41643d316bd9fc36cf087d853a82"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/wither_skeleton.json",
+      "sha1": "ec3005f8c50a3fbfe5d2abac9335ff5683fe74a8"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/loot_table/entities/zombie.json",
+      "sha1": "74f21f2714ebe4be4681468b3bea067956b07c2d"
+    },
+    {
       "path": "overrides/config/paxi/datapacks/hummus_external_datapack/data/minecraft/recipe/bamboo_mosaic.json",
       "sha1": "8ebdb98d10be5ab3569fa26c3cf1affb8e0f6cc5"
     },
