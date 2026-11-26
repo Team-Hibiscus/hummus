@@ -621,6 +621,10 @@
       "sha1": "5ffd17f08b8e3756cb88582aafcc8f00baa09eec"
     },
     {
+      "path": "content/resourcepacks/supernova-ost.json",
+      "sha1": "ad54443bb5bb0ae3aa27a6bb247061777eac585c"
+    },
+    {
       "path": "overrides/.qmenu_opened.marker",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     },

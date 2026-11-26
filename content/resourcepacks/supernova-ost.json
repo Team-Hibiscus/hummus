@@ -1,0 +1,23 @@
+{
+  "name": "Supernova (Original Music Pack)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "X3wa51vK",
+      "slug": "supernova-ost",
+      "versionId": "nMGQXl9K",
+      "versionNumber": "1.7.2+",
+      "filename": "supernova-pack.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/X3wa51vK/versions/nMGQXl9K/supernova-pack.zip",
+      "sha1": "3105ec565d58173a9f4e6ecb56b4753499079f2a",
+      "sha512": "1f5f001a79386c6b52b2e6330e3a86196fbaf9e2e9aa9951e1e2f8f69c001c2a907837b67df32c66df873bf0666dda8e1e6814e5a0d405ff8e4288aae18970a7",
+      "fileSize": 35597238
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

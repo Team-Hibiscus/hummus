@@ -1,6 +1,6 @@
 # Hummus
 
-**Minecraft 1.21.1 · NeoForge 21.1.253**, 136 mods (19 dependencies)
+**Minecraft 1.21.1 · NeoForge 21.1.253**, 136 mods (19 dependencies), 1 resource pack
 
 ## Contents
 
@@ -129,6 +129,7 @@
 - [Spawn](https://modrinth.com/project/spawn-mod) `4.0.8`
 - [Spyglass Improvements](https://modrinth.com/project/spyglass-improvements) `1.5.7+mc1.21+neoforge`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
+- [Supernova (Original Music Pack)](https://modrinth.com/project/supernova-ost) `1.7.2+`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
 - [Supplementaries Squared](https://modrinth.com/project/supplementaries-squared) `1.21-1.2.18`
 - [Swordish](https://modrinth.com/project/swordish_weapons) `1.0.7`
