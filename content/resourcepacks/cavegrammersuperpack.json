@@ -1,0 +1,23 @@
+{
+  "name": "Comprogrammer (Programmer Art Mod Compat Compliation)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UpXgha2v",
+      "slug": "cavegrammersuperpack",
+      "versionId": "HGadclOj",
+      "versionNumber": "C1.5.1",
+      "filename": "Comprogrammer.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/UpXgha2v/versions/HGadclOj/Comprogrammer.zip",
+      "sha1": "aa622c13b23d5c653a4e6c91e26fe127ef4e495c",
+      "sha512": "f41bc488a67c807be1c0dd03148f47de897f0209e6dee0d7f2f9aff7bf687cb777d94759e16ca1973822e1394fa270ff62b01d72daa334fc89e7050890f89e5c",
+      "fileSize": 33128049
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

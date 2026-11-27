@@ -1,0 +1,23 @@
+{
+  "name": "ReNether",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WtQNMBIP",
+      "slug": "renether",
+      "versionId": "AzbGldzG",
+      "versionNumber": "2.2",
+      "filename": "renether-2.2-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WtQNMBIP/versions/AzbGldzG/renether-2.2-neoforge-1.21.1.jar",
+      "sha1": "f1ee4dd0a5e6ea7faa733ad2410fecdbe3190b15",
+      "sha512": "f9f47c3b6f380820655c13da9d7d91582db7f4f1d1e8d74c7f6e38c8239d1a473b359308c4bc089510d63893795ccff797df0097fefe21a21d6e4ad852117df7",
+      "fileSize": 1988982
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

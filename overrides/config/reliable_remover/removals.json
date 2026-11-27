@@ -197,7 +197,18 @@
     "ancestral:locator_bell",
     "ancestral:climbing_pick",
     "ancestral:preservation_tablet",
-    "ancestral:bandit_spawn_egg"
+    "ancestral:bandit_spawn_egg",
+    "minecraft:happy_ghast_spawn_egg",
+    "minecraft:dried_ghast",
+    "minecraft:leaf_litter",
+    "minecraft:bush",
+    "minecraft:stone_spear",
+    "minecraft:straw_bed",
+    "renether:basalt_bricks",
+    "renether:basalt_brick_slab",
+    "renether:basalt_brick_stairs",
+    "renether:basalt_brick_wall",
+    "supplementaries:copper_lantern"
 	]
 },
 {
@@ -208,23 +219,12 @@
         "/.*nub_.*/",
 	"/.*_board_slab/",
 	"/.*_board_stairs/",
-	"/.*_board_vertical_slab/",
 	"/.*_board_wall/",
 	"/.*_boards/",
 	"/.*_railing/",
 	"/.*tuff_.*/",
 	"/.*_tuff/",
 	"/.*_tuff_.*/"]
-},
-{
-  "action": "remove",
-  "mod": ["everycomp"],
-  "patterns": ["/.*_board_slab/", 
-	"/.*_board_stairs/", 
-	"/.*_board_vertical_slab/",
- 	"/.*_board_wall/", 
-	"/.*_boards/", 
-	"/.*_railing/"]
 },
 {
   "action": "remove",
@@ -236,12 +236,39 @@
 },
 {
   "action": "remove",
-  "patterns": ["/.*vertical_slab/"]
+  "patterns": [
+    "/.*vertical_slab/",
+    "/.*_board_slab/", 
+    "/.*_board_stairs/", 
+    "/.*_board_vertical_slab/",
+    "/.*_board_wall/", 
+    "/.*_boards/", 
+    "/.*_railing/"
+]
 },
 {
   "action": "remove",
   "patterns": [
-    "^(?!minecraft:iron_hoe$).*_hoe$"
+    "^(?!minecraft:iron_hoe$).*_hoe$",
+    "^(?!farmersdelight:iron_knife$).*_knife$",
+    "/.*_harness.*/",
+    "/.*_shelf.*/",
+    "/.*copper_golem.*/",
+    "/(?!(ancestral:petrified_grass|ancestral:petrified_flower)$)ancestral:.*petrified.*/",
+    "fintastic:.*aquarium_glass.*/",
+    "/.*poplar.*/",
+    "/.*cushion.*/",
+    "/everycomp:.*_chest.*/",
+    "/everycomp:.*_post.*/",
+    "/everycomp:.*_ladder.*/",
+    "/everycomp:.*vertical_.*_planks.*/",
+    "/everycomp:.*_bookshelf.*/",
+    "/.*way_sign.*/",
+    "/quark:.*_chest.*/",
+    "/quark:.*_post.*/",
+    "/quark:.*_ladder.*/",
+    "/quark:vertical_.*planks.*/",
+    "/quark:.*_bookshelf.*/"
   ]
 },
 {

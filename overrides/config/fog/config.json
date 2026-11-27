@@ -1,6 +1,15 @@
 {
 	"enableMod": true,
 	"disabledBiomes": [
+		"luminous_nether:ash_forest",
+		"luminous_nether:fungal_plains",
+		"renether:tar_pits",
+		"renether:luminescent_cavern",
+		"renether:warped_grove",
+		"renther:crimson_jungle",
+		"renether:ashen_garden",
+		"renether:ashen_forest",
+		"renether:ashen_fields",
 		"enderscape:magnia_fields",
 		"the_beyond:chestral_hollows",
 		"the_beyond:lustrous_echoes",

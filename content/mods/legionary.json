@@ -1,0 +1,23 @@
+{
+  "name": "Legionary",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GR9gtj6y",
+      "slug": "legionary",
+      "versionId": "clHwP2dD",
+      "versionNumber": "1.2.2",
+      "filename": "legionary-1.21.1-1.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GR9gtj6y/versions/clHwP2dD/legionary-1.21.1-1.2.2.jar",
+      "sha1": "356b3c58f9dea72e3fed07dc15c21ec55c400f92",
+      "sha512": "0aab2ce82ca515b1384228c8345d8fccdafce89c3ad5034570e8b3ea21a264b12e9d441202c2a75e03806210880be372483dae761dedcf2010ffc980d6a0b4dc",
+      "fileSize": 2766401
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -2,6 +2,7 @@
   {
     "action": "remove_tab",
     "tab": [
+      "naturalist:item_group",
       "immersiveenchanting:enchanting",
       "fintastic:fintastic_variants_tab",
       "spawn:spawn_eggs",
@@ -9,11 +10,13 @@
       "farmersdelight:farmersdelight",
       "natures_spirit:ns_item_group",
       "swordish:swordish_tab",
+      "vanillabackport:vanilla_backport",
       "hoppergadgetry:main",
       "linkedchests:main",
       "spawn:item_group",
       "thrivingblocks:thrivingblocks",
-      "magnumtorch:main"
+      "magnumtorch:main",
+      "architects_palette:architects_palette"
     ],
     "remove_items": [],
     "add_items": [],
@@ -40,14 +43,11 @@
       "minecraft:ingredients",
       "swordish:swordish_tab",
       "hummus:hummus_core_tab",
-      "netherexp:crimson_forest",
       "minecraft:functional_blocks",
       "the_beyond:the_beyond",
       "minecraft:tools_and_utilities",
       "hoppergadgetry:main",
-      "netherexp:nether_wastes",
       "supplementaries:supplementaries",
-      "netherexp:soul_sand_valley",
       "linkedchests:main",
       "thrivingblocks:thrivingblocksmisc",
       "spawn:item_group",
@@ -58,8 +58,6 @@
       "thrivingblocks:thrivingblocks",
       "minecraft:spawn_eggs",
       "galosphere:galosphere",
-      "netherexp:warped_forest",
-      "netherexp:basalt_deltas",
       "minecraft:natural_blocks",
       "magnumtorch:main",
       "minecraft:combat",
@@ -67,8 +65,654 @@
       "enderscape:enderscape",
       "thrivingblocks:thrivingblocksnaturespirit",
       "architects_palette:architects_palette",
-      "netherexp:mod_compat"
+      "ancestral:ancestral_tab",
+      "vanillabackport:vanilla_backport",
+      "luminous_nether:luminousnether"
     ]
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "naturalist:item_group"
+    ],
+    "remove_items": [
+      "naturalist:turkey_spawn_egg",
+      "naturalist:great_white_shark_spawn_egg",
+      "naturalist:jungle_scorpion_spawn_egg",
+      "naturalist:desert_scorpion_spawn_egg",
+      "naturalist:ostrich_spawn_egg",
+      "naturalist:komodo_dragon_spawn_egg",
+      "naturalist:tiger_spawn_egg",
+      "naturalist:black_bear_spawn_egg",
+      "naturalist:rat_spawn_egg",
+      "naturalist:mole_spawn_egg",
+      "naturalist:whale_spawn_egg",
+      "naturalist:zebra_spawn_egg",
+      "naturalist:vulture_spawn_egg",
+      "naturalist:tortoise_spawn_egg",
+      "naturalist:starfish_spawn_egg",
+      "naturalist:snake_spawn_egg",
+      "naturalist:rhino_spawn_egg",
+      "naturalist:lizard_spawn_egg",
+      "naturalist:lion_spawn_egg",
+      "naturalist:hippo_spawn_egg",
+      "naturalist:giraffe_spawn_egg",
+      "naturalist:jellyfish_spawn_egg",
+      "naturalist:giant_isopod_spawn_egg",
+      "naturalist:firefly_spawn_egg",
+      "naturalist:mammoth_spawn_egg",
+      "naturalist:elephant_spawn_egg",
+      "naturalist:hedgehog_spawn_egg",
+      "naturalist:capybara_spawn_egg",
+      "naturalist:duck_spawn_egg",
+      "naturalist:dragonfly_spawn_egg",
+      "naturalist:deer_spawn_egg",
+      "naturalist:caterpillar_spawn_egg",
+      "naturalist:butterfly_spawn_egg",
+      "naturalist:boar_spawn_egg",
+      "naturalist:bird_spawn_egg",
+      "naturalist:bear_spawn_egg",
+      "naturalist:bass_spawn_egg",
+      "naturalist:piranha_spawn_egg",
+      "naturalist:blobfish_spawn_egg",
+      "naturalist:ray_spawn_egg",
+      "naturalist:alligator_spawn_egg",
+      "naturalist:piranha",
+      "naturalist:blobfish",
+      "naturalist:bass",
+      "naturalist:cooked_lizard_tail",
+      "naturalist:lizard_tail",
+      "naturalist:cooked_mammoth_meat",
+      "naturalist:mammoth_meat",
+      "naturalist:cooked_drumstick",
+      "naturalist:drumstick",
+      "naturalist:cooked_venison",
+      "naturalist:venison",
+      "naturalist:cooked_duck",
+      "naturalist:duck",
+      "naturalist:morsel",
+      "naturalist:cooked_bushmeat",
+      "naturalist:bushmeat",
+      "naturalist:smooth_shellstone",
+      "naturalist:cut_shellstone",
+      "naturalist:shellstone_bricks",
+      "naturalist:shellstone",
+      "naturalist:crimson_froglass_pane",
+      "naturalist:verdant_froglass_pane",
+      "naturalist:azure_froglass_pane",
+      "naturalist:crimson_froglass",
+      "naturalist:verdant_froglass",
+      "naturalist:azure_froglass",
+      "naturalist:purple_starfish",
+      "naturalist:blue_starfish",
+      "naturalist:orange_starfish",
+      "naturalist:red_starfish",
+      "naturalist:piranha_bucket",
+      "naturalist:blobfish_bucket",
+      {
+        "item": "naturalist:ray_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:stingray"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:stingray"
+          }
+        }
+      },
+      {
+        "item": "naturalist:ray_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:mobula_ray"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:mobula_ray"
+          }
+        }
+      },
+      {
+        "item": "naturalist:ray_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:eagle_ray"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:eagle_ray"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:green"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:green"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:pink"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:pink"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:orange"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:orange"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:white"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:white"
+          }
+        }
+      },
+      {
+        "item": "naturalist:giant_isopod_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:giant_isopod_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:brown"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:brown"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:purple"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:purple"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:orange"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:orange"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:red"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:red"
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 15
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 15
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 14
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 14
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 13
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 13
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 12
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 12
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 11
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 11
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 10
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 10
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 9
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 9
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 8
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 8
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 7
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 7
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 6
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 6
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 5
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 5
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 4
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 4
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 3
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 3
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 2
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 2
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 1
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 1
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 0
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 0
+          }
+        }
+      },
+      "naturalist:endermite",
+      "naturalist:silverfish",
+      "naturalist:bee",
+      "naturalist:firefly",
+      {
+        "item": "naturalist:dragonfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:red"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:red"
+          }
+        }
+      },
+      {
+        "item": "naturalist:dragonfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:green"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:green"
+          }
+        }
+      },
+      {
+        "item": "naturalist:dragonfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:hedgehog",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:white"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:white"
+          }
+        }
+      },
+      {
+        "item": "naturalist:hedgehog",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:dark"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:dark"
+          }
+        }
+      },
+      {
+        "item": "naturalist:hedgehog",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:brown"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:brown"
+          }
+        }
+      },
+      "naturalist:scorpion",
+      {
+        "item": "naturalist:rat",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:white"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:white"
+          }
+        }
+      },
+      {
+        "item": "naturalist:rat",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:brown"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:brown"
+          }
+        }
+      },
+      {
+        "item": "naturalist:rat",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:black"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:black"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:red_admiral"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:red_admiral"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:purple_emperor"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:purple_emperor"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:jade_green_swallowtail"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:jade_green_swallowtail"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue_morpho"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue_morpho"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:swallowtail"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:swallowtail"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:clouded_yellow"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:clouded_yellow"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:monarch"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:monarch"
+          }
+        }
+      },
+      "naturalist:caterpillar",
+      "naturalist:chrysalis",
+      "naturalist:music_disc_death_by_hogs",
+      "naturalist:music_disc_wild_ones",
+      "naturalist:whistle",
+      "naturalist:knapsack",
+      "naturalist:capture_net",
+      "naturalist:duck_bucket",
+      {
+        "item": "naturalist:bass_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:bass_large"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:bass_large"
+          }
+        }
+      },
+      {
+        "item": "naturalist:bass_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:bass_medium"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:bass_medium"
+          }
+        }
+      },
+      {
+        "item": "naturalist:bass_bucket",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:bass"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:bass"
+          }
+        }
+      },
+      "naturalist:scorpion_poison_gland",
+      "naturalist:plush_bear",
+      "naturalist:glow_goop",
+      "naturalist:antler",
+      "naturalist:ostrich_egg",
+      "naturalist:tortoise_egg",
+      "naturalist:duck_egg",
+      "naturalist:alligator_egg",
+      "naturalist:hide"
+    ],
+    "add_items": [],
+    "order": []
   },
   {
     "action": "modify_tab",
@@ -136,6 +780,50 @@
       {
         "item": "thrivingblocks:golden_button",
         "after": "thrivingblocks:creeper_gold_block"
+      },
+      {
+        "item": "netherexp:grooved_black_ice",
+        "after": "thrivingblocks:golden_button"
+      },
+      {
+        "item": "naturalist:azure_froglass",
+        "after": "netherexp:grooved_black_ice"
+      },
+      {
+        "item": "naturalist:verdant_froglass",
+        "after": "naturalist:azure_froglass"
+      },
+      {
+        "item": "naturalist:crimson_froglass",
+        "after": "naturalist:verdant_froglass"
+      },
+      {
+        "item": "naturalist:azure_froglass_pane",
+        "after": "naturalist:crimson_froglass"
+      },
+      {
+        "item": "naturalist:verdant_froglass_pane",
+        "after": "naturalist:azure_froglass_pane"
+      },
+      {
+        "item": "naturalist:crimson_froglass_pane",
+        "after": "naturalist:verdant_froglass_pane"
+      },
+      {
+        "item": "naturalist:shellstone",
+        "after": "naturalist:crimson_froglass_pane"
+      },
+      {
+        "item": "naturalist:shellstone_bricks",
+        "after": "naturalist:shellstone"
+      },
+      {
+        "item": "naturalist:cut_shellstone",
+        "after": "naturalist:shellstone_bricks"
+      },
+      {
+        "item": "naturalist:smooth_shellstone",
+        "after": "naturalist:cut_shellstone"
       }
     ],
     "order": []
@@ -152,8 +840,48 @@
         "after": "minecraft:bread"
       },
       {
+        "item": "spawn:steamed_clams",
+        "after": "spawn:tuna_sandwich"
+      },
+      {
         "item": "spawn:clam_chowder",
         "after": "minecraft:rabbit_stew"
+      },
+      {
+        "item": "spawn:herring_slice",
+        "after": "spawn:clam_chowder"
+      },
+      {
+        "item": "spawn:cooked_herring_slice",
+        "after": "spawn:herring_slice"
+      },
+      {
+        "item": "spawn:herring_roll",
+        "after": "spawn:cooked_herring_slice"
+      },
+      {
+        "item": "spawn:canned_herring",
+        "after": "spawn:herring_roll"
+      },
+      {
+        "item": "spawn:crab_boil_block",
+        "after": "spawn:canned_herring"
+      },
+      {
+        "item": "spawn:crab_boil",
+        "after": "spawn:crab_boil_block"
+      },
+      {
+        "item": "spawn:bluefish_slice",
+        "after": "spawn:crab_boil"
+      },
+      {
+        "item": "spawn:cooked_bluefish_slice",
+        "after": "spawn:bluefish_slice"
+      },
+      {
+        "item": "spawn:bluefish_roll",
+        "after": "spawn:cooked_bluefish_slice"
       },
       {
         "item": "farmersdelight:cabbage",
@@ -576,44 +1304,68 @@
         "after": "spawn:cooked_tuna_slice"
       },
       {
-        "item": "spawn:steamed_clams",
-        "after": "spawn:tuna_sandwich"
+        "item": "naturalist:bushmeat",
+        "after": "spawn:tuna_roll"
       },
       {
-        "item": "spawn:herring_slice",
-        "after": "spawn:clam_chowder"
+        "item": "naturalist:cooked_bushmeat",
+        "after": "naturalist:bushmeat"
       },
       {
-        "item": "spawn:cooked_herring_slice",
-        "after": "spawn:herring_slice"
+        "item": "naturalist:morsel",
+        "after": "naturalist:cooked_bushmeat"
       },
       {
-        "item": "spawn:herring_roll",
-        "after": "spawn:cooked_herring_slice"
+        "item": "naturalist:duck",
+        "after": "naturalist:morsel"
       },
       {
-        "item": "spawn:canned_herring",
-        "after": "spawn:herring_roll"
+        "item": "naturalist:cooked_duck",
+        "after": "naturalist:duck"
       },
       {
-        "item": "spawn:crab_boil_block",
-        "after": "spawn:canned_herring"
+        "item": "naturalist:venison",
+        "after": "naturalist:cooked_duck"
       },
       {
-        "item": "spawn:crab_boil",
-        "after": "spawn:crab_boil_block"
+        "item": "naturalist:cooked_venison",
+        "after": "naturalist:venison"
       },
       {
-        "item": "spawn:bluefish_slice",
-        "after": "spawn:crab_boil"
+        "item": "naturalist:drumstick",
+        "after": "naturalist:cooked_venison"
       },
       {
-        "item": "spawn:cooked_bluefish_slice",
-        "after": "spawn:bluefish_slice"
+        "item": "naturalist:cooked_drumstick",
+        "after": "naturalist:drumstick"
       },
       {
-        "item": "spawn:bluefish_roll",
-        "after": "spawn:cooked_bluefish_slice"
+        "item": "naturalist:mammoth_meat",
+        "after": "naturalist:cooked_drumstick"
+      },
+      {
+        "item": "naturalist:cooked_mammoth_meat",
+        "after": "naturalist:mammoth_meat"
+      },
+      {
+        "item": "naturalist:lizard_tail",
+        "after": "naturalist:cooked_mammoth_meat"
+      },
+      {
+        "item": "naturalist:cooked_lizard_tail",
+        "after": "naturalist:lizard_tail"
+      },
+      {
+        "item": "naturalist:bass",
+        "after": "naturalist:cooked_lizard_tail"
+      },
+      {
+        "item": "naturalist:blobfish",
+        "after": "naturalist:bass"
+      },
+      {
+        "item": "naturalist:piranha",
+        "after": "naturalist:blobfish"
       }
     ],
     "order": []
@@ -2866,6 +3618,42 @@
       {
         "item": "farmersdelight:tree_bark",
         "after": "farmersdelight:canvas"
+      },
+      {
+        "item": "naturalist:hide",
+        "after": "farmersdelight:tree_bark"
+      },
+      {
+        "item": "naturalist:alligator_egg",
+        "after": "naturalist:hide"
+      },
+      {
+        "item": "naturalist:duck_egg",
+        "after": "naturalist:alligator_egg"
+      },
+      {
+        "item": "naturalist:tortoise_egg",
+        "after": "naturalist:duck_egg"
+      },
+      {
+        "item": "naturalist:ostrich_egg",
+        "after": "naturalist:tortoise_egg"
+      },
+      {
+        "item": "naturalist:antler",
+        "after": "naturalist:ostrich_egg"
+      },
+      {
+        "item": "naturalist:glow_goop",
+        "after": "naturalist:antler"
+      },
+      {
+        "item": "naturalist:plush_bear",
+        "after": "naturalist:glow_goop"
+      },
+      {
+        "item": "naturalist:scorpion_poison_gland",
+        "after": "naturalist:plush_bear"
       }
     ],
     "order": []
@@ -3356,10 +4144,6 @@
         "after": "minecraft:shears"
       },
       {
-        "item": "linkedchests:linked_pouch",
-        "after": "bundle-backportish:pink_bundle"
-      },
-      {
         "item": "quark:ancient_boat",
         "after": "natures_spirit:saxaul_chest_boat"
       },
@@ -3380,22 +4164,1166 @@
         }
       },
       {
-        "item": "sleep_tight:night_bag",
-        "after": {
-          "item": "suppsquared:heavy_key",
-          "components": {
-            "suppsquared:heavy_key_uuid": [
-              -1690596956,
-              1766147309,
-              -1583125867,
-              -219134270
-            ]
+        "item": "portablehole:portable_hole",
+        "after": "quark:music_disc_endermosh"
+      },
+      {
+        "item": "linkedchests:linked_pouch",
+        "after": "portablehole:portable_hole"
+      },
+      {
+        "item": "naturalist:bass_bucket",
+        "after": "linkedchests:linked_pouch",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:bass"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:bass"
           }
         }
       },
       {
-        "item": "portablehole:portable_hole",
-        "after": "quark:music_disc_endermosh"
+        "item": "naturalist:bass_bucket",
+        "after": {
+          "item": "naturalist:bass_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:bass"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:bass"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:bass_medium"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:bass_medium"
+          }
+        }
+      },
+      {
+        "item": "naturalist:bass_bucket",
+        "after": {
+          "item": "naturalist:bass_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:bass_medium"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:bass_medium"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:bass_large"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:bass_large"
+          }
+        }
+      },
+      {
+        "item": "naturalist:duck_bucket",
+        "after": {
+          "item": "naturalist:bass_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:bass_large"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:bass_large"
+            }
+          }
+        }
+      },
+      {
+        "item": "naturalist:capture_net",
+        "after": "naturalist:duck_bucket"
+      },
+      {
+        "item": "naturalist:knapsack",
+        "after": "naturalist:capture_net"
+      },
+      {
+        "item": "naturalist:whistle",
+        "after": "naturalist:knapsack"
+      },
+      {
+        "item": "naturalist:music_disc_wild_ones",
+        "after": "naturalist:whistle"
+      },
+      {
+        "item": "naturalist:music_disc_death_by_hogs",
+        "after": "naturalist:music_disc_wild_ones"
+      },
+      {
+        "item": "naturalist:chrysalis",
+        "after": "naturalist:music_disc_death_by_hogs"
+      },
+      {
+        "item": "naturalist:caterpillar",
+        "after": "naturalist:chrysalis"
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": "naturalist:caterpillar",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:monarch"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:monarch"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:monarch"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:monarch"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:clouded_yellow"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:clouded_yellow"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:clouded_yellow"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:clouded_yellow"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:swallowtail"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:swallowtail"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:swallowtail"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:swallowtail"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue_morpho"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue_morpho"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:blue_morpho"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:blue_morpho"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:jade_green_swallowtail"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:jade_green_swallowtail"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:jade_green_swallowtail"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:jade_green_swallowtail"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:purple_emperor"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:purple_emperor"
+          }
+        }
+      },
+      {
+        "item": "naturalist:butterfly",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:purple_emperor"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:purple_emperor"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:red_admiral"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:red_admiral"
+          }
+        }
+      },
+      {
+        "item": "naturalist:rat",
+        "after": {
+          "item": "naturalist:butterfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:red_admiral"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:red_admiral"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:black"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:black"
+          }
+        }
+      },
+      {
+        "item": "naturalist:rat",
+        "after": {
+          "item": "naturalist:rat",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:black"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:black"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:brown"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:brown"
+          }
+        }
+      },
+      {
+        "item": "naturalist:rat",
+        "after": {
+          "item": "naturalist:rat",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:brown"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:brown"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:white"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:white"
+          }
+        }
+      },
+      {
+        "item": "naturalist:scorpion",
+        "after": {
+          "item": "naturalist:rat",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:white"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:white"
+            }
+          }
+        }
+      },
+      {
+        "item": "naturalist:hedgehog",
+        "after": "naturalist:scorpion",
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:brown"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:brown"
+          }
+        }
+      },
+      {
+        "item": "naturalist:hedgehog",
+        "after": {
+          "item": "naturalist:hedgehog",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:brown"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:brown"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:dark"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:dark"
+          }
+        }
+      },
+      {
+        "item": "naturalist:hedgehog",
+        "after": {
+          "item": "naturalist:hedgehog",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:dark"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:dark"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:white"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:white"
+          }
+        }
+      },
+      {
+        "item": "naturalist:dragonfly",
+        "after": {
+          "item": "naturalist:hedgehog",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:white"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:white"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:dragonfly",
+        "after": {
+          "item": "naturalist:dragonfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:blue"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:blue"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:green"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:green"
+          }
+        }
+      },
+      {
+        "item": "naturalist:dragonfly",
+        "after": {
+          "item": "naturalist:dragonfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:green"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:green"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:red"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:red"
+          }
+        }
+      },
+      {
+        "item": "naturalist:firefly",
+        "after": {
+          "item": "naturalist:dragonfly",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:red"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:red"
+            }
+          }
+        }
+      },
+      {
+        "item": "naturalist:bee",
+        "after": "naturalist:firefly"
+      },
+      {
+        "item": "naturalist:silverfish",
+        "after": "naturalist:bee"
+      },
+      {
+        "item": "naturalist:endermite",
+        "after": "naturalist:silverfish"
+      },
+      {
+        "item": "naturalist:snail",
+        "after": "naturalist:endermite",
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 0
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 0
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 0
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 0
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 1
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 1
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 1
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 1
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 2
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 2
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 2
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 2
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 3
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 3
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 3
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 3
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 4
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 4
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 4
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 4
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 5
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 5
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 5
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 5
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 6
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 6
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 6
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 6
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 7
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 7
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 7
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 7
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 8
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 8
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 8
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 8
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 9
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 9
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 9
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 9
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 10
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 10
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 10
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 10
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 11
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 11
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 11
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 11
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 12
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 12
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 12
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 12
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 13
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 13
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 13
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 13
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 14
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 14
+          }
+        }
+      },
+      {
+        "item": "naturalist:snail",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 14
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 14
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Color": 15
+          },
+          "minecraft:bucket_entity_data": {
+            "Color": 15
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "after": {
+          "item": "naturalist:snail",
+          "components": {
+            "minecraft:custom_data": {
+              "Color": 15
+            },
+            "minecraft:bucket_entity_data": {
+              "Color": 15
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:red"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:red"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "after": {
+          "item": "naturalist:starfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:red"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:red"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:orange"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:orange"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "after": {
+          "item": "naturalist:starfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:orange"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:orange"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:starfish_bucket",
+        "after": {
+          "item": "naturalist:starfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:blue"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:blue"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:purple"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:purple"
+          }
+        }
+      },
+      {
+        "item": "naturalist:giant_isopod_bucket",
+        "after": {
+          "item": "naturalist:starfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:purple"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:purple"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:brown"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:brown"
+          }
+        }
+      },
+      {
+        "item": "naturalist:giant_isopod_bucket",
+        "after": {
+          "item": "naturalist:giant_isopod_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:brown"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:brown"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "after": {
+          "item": "naturalist:giant_isopod_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:blue"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:blue"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:white"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:white"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "after": {
+          "item": "naturalist:jellyfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:white"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:white"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:orange"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:orange"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "after": {
+          "item": "naturalist:jellyfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:orange"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:orange"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:pink"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:pink"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "after": {
+          "item": "naturalist:jellyfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:pink"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:pink"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:blue"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:blue"
+          }
+        }
+      },
+      {
+        "item": "naturalist:jellyfish_bucket",
+        "after": {
+          "item": "naturalist:jellyfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:blue"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:blue"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:green"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:green"
+          }
+        }
+      },
+      {
+        "item": "naturalist:ray_bucket",
+        "after": {
+          "item": "naturalist:jellyfish_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:green"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:green"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:eagle_ray"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:eagle_ray"
+          }
+        }
+      },
+      {
+        "item": "naturalist:ray_bucket",
+        "after": {
+          "item": "naturalist:ray_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:eagle_ray"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:eagle_ray"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:mobula_ray"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:mobula_ray"
+          }
+        }
+      },
+      {
+        "item": "naturalist:ray_bucket",
+        "after": {
+          "item": "naturalist:ray_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:mobula_ray"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:mobula_ray"
+            }
+          }
+        },
+        "components": {
+          "minecraft:custom_data": {
+            "Variant": "naturalist:stingray"
+          },
+          "minecraft:bucket_entity_data": {
+            "Variant": "naturalist:stingray"
+          }
+        }
+      },
+      {
+        "item": "naturalist:blobfish_bucket",
+        "after": {
+          "item": "naturalist:ray_bucket",
+          "components": {
+            "minecraft:custom_data": {
+              "Variant": "naturalist:stingray"
+            },
+            "minecraft:bucket_entity_data": {
+              "Variant": "naturalist:stingray"
+            }
+          }
+        }
+      },
+      {
+        "item": "naturalist:piranha_bucket",
+        "after": "naturalist:blobfish_bucket"
+      },
+      {
+        "item": "naturalist:red_starfish",
+        "after": "naturalist:piranha_bucket"
+      },
+      {
+        "item": "naturalist:orange_starfish",
+        "after": "naturalist:red_starfish"
+      },
+      {
+        "item": "naturalist:blue_starfish",
+        "after": "naturalist:orange_starfish"
+      },
+      {
+        "item": "naturalist:purple_starfish",
+        "after": "naturalist:blue_starfish"
       }
     ],
     "order": []
@@ -3582,6 +5510,180 @@
       "thrivingblocks:full_grass_block"
     ],
     "add_items": [],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:spawn_eggs"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "naturalist:alligator_spawn_egg",
+        "after": "goated:geep_spawn_egg"
+      },
+      {
+        "item": "naturalist:ray_spawn_egg",
+        "after": "naturalist:alligator_spawn_egg"
+      },
+      {
+        "item": "naturalist:blobfish_spawn_egg",
+        "after": "naturalist:ray_spawn_egg"
+      },
+      {
+        "item": "naturalist:piranha_spawn_egg",
+        "after": "naturalist:blobfish_spawn_egg"
+      },
+      {
+        "item": "naturalist:bass_spawn_egg",
+        "after": "naturalist:piranha_spawn_egg"
+      },
+      {
+        "item": "naturalist:bear_spawn_egg",
+        "after": "naturalist:bass_spawn_egg"
+      },
+      {
+        "item": "naturalist:bird_spawn_egg",
+        "after": "naturalist:bear_spawn_egg"
+      },
+      {
+        "item": "naturalist:boar_spawn_egg",
+        "after": "naturalist:bird_spawn_egg"
+      },
+      {
+        "item": "naturalist:butterfly_spawn_egg",
+        "after": "naturalist:boar_spawn_egg"
+      },
+      {
+        "item": "naturalist:caterpillar_spawn_egg",
+        "after": "naturalist:butterfly_spawn_egg"
+      },
+      {
+        "item": "naturalist:deer_spawn_egg",
+        "after": "naturalist:caterpillar_spawn_egg"
+      },
+      {
+        "item": "naturalist:dragonfly_spawn_egg",
+        "after": "naturalist:deer_spawn_egg"
+      },
+      {
+        "item": "naturalist:duck_spawn_egg",
+        "after": "naturalist:dragonfly_spawn_egg"
+      },
+      {
+        "item": "naturalist:capybara_spawn_egg",
+        "after": "naturalist:duck_spawn_egg"
+      },
+      {
+        "item": "naturalist:hedgehog_spawn_egg",
+        "after": "naturalist:capybara_spawn_egg"
+      },
+      {
+        "item": "naturalist:elephant_spawn_egg",
+        "after": "naturalist:hedgehog_spawn_egg"
+      },
+      {
+        "item": "naturalist:mammoth_spawn_egg",
+        "after": "naturalist:elephant_spawn_egg"
+      },
+      {
+        "item": "naturalist:firefly_spawn_egg",
+        "after": "naturalist:mammoth_spawn_egg"
+      },
+      {
+        "item": "naturalist:giant_isopod_spawn_egg",
+        "after": "naturalist:firefly_spawn_egg"
+      },
+      {
+        "item": "naturalist:jellyfish_spawn_egg",
+        "after": "naturalist:giant_isopod_spawn_egg"
+      },
+      {
+        "item": "naturalist:giraffe_spawn_egg",
+        "after": "naturalist:jellyfish_spawn_egg"
+      },
+      {
+        "item": "naturalist:hippo_spawn_egg",
+        "after": "naturalist:giraffe_spawn_egg"
+      },
+      {
+        "item": "naturalist:lion_spawn_egg",
+        "after": "naturalist:hippo_spawn_egg"
+      },
+      {
+        "item": "naturalist:lizard_spawn_egg",
+        "after": "naturalist:lion_spawn_egg"
+      },
+      {
+        "item": "naturalist:rhino_spawn_egg",
+        "after": "naturalist:lizard_spawn_egg"
+      },
+      {
+        "item": "naturalist:snake_spawn_egg",
+        "after": "naturalist:rhino_spawn_egg"
+      },
+      {
+        "item": "naturalist:starfish_spawn_egg",
+        "after": "naturalist:snake_spawn_egg"
+      },
+      {
+        "item": "naturalist:tortoise_spawn_egg",
+        "after": "naturalist:starfish_spawn_egg"
+      },
+      {
+        "item": "naturalist:vulture_spawn_egg",
+        "after": "naturalist:tortoise_spawn_egg"
+      },
+      {
+        "item": "naturalist:zebra_spawn_egg",
+        "after": "naturalist:vulture_spawn_egg"
+      },
+      {
+        "item": "naturalist:whale_spawn_egg",
+        "after": "naturalist:zebra_spawn_egg"
+      },
+      {
+        "item": "naturalist:mole_spawn_egg",
+        "after": "naturalist:whale_spawn_egg"
+      },
+      {
+        "item": "naturalist:rat_spawn_egg",
+        "after": "naturalist:mole_spawn_egg"
+      },
+      {
+        "item": "naturalist:black_bear_spawn_egg",
+        "after": "naturalist:rat_spawn_egg"
+      },
+      {
+        "item": "naturalist:tiger_spawn_egg",
+        "after": "naturalist:black_bear_spawn_egg"
+      },
+      {
+        "item": "naturalist:komodo_dragon_spawn_egg",
+        "after": "naturalist:tiger_spawn_egg"
+      },
+      {
+        "item": "naturalist:ostrich_spawn_egg",
+        "after": "naturalist:komodo_dragon_spawn_egg"
+      },
+      {
+        "item": "naturalist:desert_scorpion_spawn_egg",
+        "after": "naturalist:ostrich_spawn_egg"
+      },
+      {
+        "item": "naturalist:jungle_scorpion_spawn_egg",
+        "after": "naturalist:desert_scorpion_spawn_egg"
+      },
+      {
+        "item": "naturalist:great_white_shark_spawn_egg",
+        "after": "naturalist:jungle_scorpion_spawn_egg"
+      },
+      {
+        "item": "naturalist:turkey_spawn_egg",
+        "after": "naturalist:great_white_shark_spawn_egg"
+      }
+    ],
     "order": []
   },
   {
@@ -4065,8 +6167,12 @@
         "after": "swordish:wooden_glaive"
       },
       {
-        "item": "hummus:copper_sword",
+        "item": "minecraft:wooden_spear",
         "after": "swordish:wooden_dualblade"
+      },
+      {
+        "item": "hummus:copper_sword",
+        "after": "minecraft:wooden_spear"
       },
       {
         "item": "hummus:copper_axe",
@@ -4085,6 +6191,10 @@
         "after": "hummus:copper_glaive"
       },
       {
+        "item": "minecraft:copper_spear",
+        "after": "hummus:copper_dualblade"
+      },
+      {
         "item": "minecraft:iron_axe",
         "after": "minecraft:iron_sword"
       },
@@ -4099,6 +6209,10 @@
       {
         "item": "swordish:iron_dualblade",
         "after": "swordish:iron_glaive"
+      },
+      {
+        "item": "minecraft:iron_spear",
+        "after": "swordish:iron_dualblade"
       },
       {
         "item": "minecraft:golden_axe",
@@ -4117,8 +6231,12 @@
         "after": "swordish:golden_glaive"
       },
       {
-        "item": "hummus:rose_gold_sword",
+        "item": "minecraft:golden_spear",
         "after": "swordish:golden_dualblade"
+      },
+      {
+        "item": "hummus:rose_gold_sword",
+        "after": "minecraft:golden_spear"
       },
       {
         "item": "hummus:rose_gold_axe",
@@ -4169,6 +6287,10 @@
         "after": "swordish:diamond_glaive"
       },
       {
+        "item": "minecraft:diamond_spear",
+        "after": "swordish:diamond_dualblade"
+      },
+      {
         "item": "oreganized:electrum_axe",
         "after": "oreganized:electrum_sword"
       },
@@ -4185,20 +6307,28 @@
         "after": "hummus:electrum_glaive"
       },
       {
+        "item": "minecraft:netherite_axe",
+        "after": "minecraft:netherite_sword"
+      },
+      {
         "item": "swordish:netherite_halberd",
         "after": "minecraft:netherite_axe"
       },
       {
-        "item": "swordish:netherite_glaive",
+        "item": "swordish:netherite_dualblade",
         "after": "swordish:netherite_halberd"
       },
       {
-        "item": "swordish:netherite_dualblade",
+        "item": "swordish:netherite_glaive",
+        "after": "swordish:netherite_dualblade"
+      },
+      {
+        "item": "minecraft:netherite_spear",
         "after": "swordish:netherite_glaive"
       },
       {
         "item": "hummus:galena_sword",
-        "after": "swordish:netherite_dualblade"
+        "after": "minecraft:netherite_spear"
       },
       {
         "item": "hummus:galena_axe",
@@ -4283,6 +6413,10 @@
       {
         "item": "hummus:rose_gold_horse_armor",
         "after": "minecraft:golden_horse_armor"
+      },
+      {
+        "item": "minecraft:copper_nautilus_armor",
+        "after": "minecraft:wolf_armor"
       },
       {
         "item": "hummus:copper_arrow",

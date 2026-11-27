@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "jn3yCCDl",
       "slug": "bathymetry",
-      "versionId": "Yo2fTC7v",
-      "versionNumber": "1.0.4+1.21.1+neoforge",
-      "filename": "bathymetry-1.0.4+1.21.1+neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/jn3yCCDl/versions/Yo2fTC7v/bathymetry-1.0.4%2B1.21.1%2Bneoforge.jar",
-      "sha1": "322cac69a62d6ab092d0f3f82acf1397c6a13f78",
-      "sha512": "30a7a6e899e6be99c92dadead1e1092ff5e18a8a619d460e458e1f29f9aad632965f3a8b103b702cff4a0b1d3e3f383acad442c3dff260e2ef50ca600fe6588f",
-      "fileSize": 41886
+      "versionId": "MVaUr2ix",
+      "versionNumber": "1.0.5+1.21.1+neoforge",
+      "filename": "bathymetry-1.0.5+1.21.1+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jn3yCCDl/versions/MVaUr2ix/bathymetry-1.0.5%2B1.21.1%2Bneoforge.jar",
+      "sha1": "40df4e15fd326f4260af7d04de88f4b1b75c2c1f",
+      "sha512": "717dd0e5c00bce452bf47597f4b4982afed1b46ad83a75506c38963f966155b43cdd8560430320b374ebd68c8955876da129d577a222ab45c53077e2408ea814",
+      "fileSize": 43550
     }
   },
   "dependents": [],

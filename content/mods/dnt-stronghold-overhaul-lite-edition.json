@@ -1,0 +1,23 @@
+{
+  "name": "[RETIRED] Dungeons and Taverns Stronghold Overhaul LITE edition",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LbGT0kSV",
+      "slug": "dnt-stronghold-overhaul-lite-edition",
+      "versionId": "4QqZYrii",
+      "versionNumber": "v1+mod",
+      "filename": "dnt-stronghold-overhaul-lite-edition-v1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LbGT0kSV/versions/4QqZYrii/dnt-stronghold-overhaul-lite-edition-v1.jar",
+      "sha1": "7df65f12741f240e20cf5e628c3fa5e99acc5608",
+      "sha512": "ac0d96c2a6806f77734d3c29ed3c4fb7757d366bea7ed67b1fb44014b33f73a1f88e3115a60c23dba8f50ae9c8f163440af8b64785977d36e9ba887858a2476c",
+      "fileSize": 3387498
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Monolithic Modernity",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PZCQu4mz",
+      "slug": "monolithic-modernity",
+      "versionId": "WtdEIczO",
+      "versionNumber": "1.0.2+mod",
+      "filename": "monolithic-modernity-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PZCQu4mz/versions/WtdEIczO/monolithic-modernity-1.0.2.jar",
+      "sha1": "ece3022697b99bd90381672d93f753f773b38b44",
+      "sha512": "2359534325edb2d81ef964096d3a0fcb54aaee8718156863be86be56273cac570ebd22c68b14c7335482877c871ed0aff700e8a245ec6b5c5d69082688d26611",
+      "fileSize": 6068
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

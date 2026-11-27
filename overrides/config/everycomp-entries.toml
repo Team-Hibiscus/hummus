@@ -22,9 +22,6 @@
 			mahogany = true
 			saxaul = true
 
-		[types.wood_type.netherexp]
-			claret = true
-
 		[types.wood_type.architects_palette]
 			twisted = true
 
@@ -39,6 +36,19 @@
 		[types.wood_type.spawn]
 			rotten = true
 			date = true
+
+		[types.wood_type.ancestral]
+			petrified = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+			poplar = true
+
+		[types.wood_type.renether]
+			enamel = true
+
+		[types.wood_type.netherexp]
+			claret = true
 
 		[types.leaves_type.galosphere]
 			opal = true
@@ -94,6 +104,71 @@
 		[types.leaves_type.spawn]
 			date = true
 
+		[types.leaves_type.minecraft]
+			pale_oak = true
+			red_poplar = true
+			orange_poplar = true
+			yellow_poplar = true
+
+		[types.cake.natures_spirit]
+			cheese_block = true
+
+		[types.lantern.architects_palette]
+			nether_brass_lantern = true
+
+		[types.lantern.darkerdepths]
+			glowshroom_lantern = true
+
+		[types.lantern.enderscape]
+			bulb_lantern = true
+
+		[types.lantern.natures_spirit]
+			paper_lantern = true
+			white_paper_lantern = true
+			light_gray_paper_lantern = true
+			gray_paper_lantern = true
+			black_paper_lantern = true
+			brown_paper_lantern = true
+			red_paper_lantern = true
+			orange_paper_lantern = true
+			yellow_paper_lantern = true
+			lime_paper_lantern = true
+			green_paper_lantern = true
+			blue_paper_lantern = true
+			light_blue_paper_lantern = true
+			cyan_paper_lantern = true
+			purple_paper_lantern = true
+			magenta_paper_lantern = true
+			pink_paper_lantern = true
+			maroon_paper_lantern = true
+			rose_paper_lantern = true
+			coral_paper_lantern = true
+			ginger_paper_lantern = true
+			tan_paper_lantern = true
+			beige_paper_lantern = true
+			amber_paper_lantern = true
+			olive_paper_lantern = true
+			forest_paper_lantern = true
+			verdant_paper_lantern = true
+			teal_paper_lantern = true
+			mint_paper_lantern = true
+			aqua_paper_lantern = true
+			slate_paper_lantern = true
+			navy_paper_lantern = true
+			indigo_paper_lantern = true
+
+		[types.lantern.suppsquared]
+			copper_lantern = true
+			brass_lantern = true
+			crimson_lantern = true
+
+		[types.lantern.legionary]
+			golden_lantern = true
+			golden_soul_lantern = true
+
+		[types.lantern.netherexp]
+			treacherous_lantern = true
+
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
@@ -114,6 +189,9 @@
 			ladder = true
 			hollow_log = true
 			vertical_slab = true
+
+		[entries.wood_type.vanillabackport]
+			shelf = true
 
 		[entries.leaves_type.quark]
 			hedge = true

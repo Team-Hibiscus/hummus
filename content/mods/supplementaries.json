@@ -21,7 +21,8 @@
     "dCCkNFwE"
   ],
   "optionalDependents": [
-    "L7dBwZPX"
+    "L7dBwZPX",
+    "naUMeOvG"
   ],
   "clientSide": "required",
   "serverSide": "required"

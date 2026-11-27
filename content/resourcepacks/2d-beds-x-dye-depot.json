@@ -1,0 +1,23 @@
+{
+  "name": "2D Beds x Dye Depot",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SGVw1cOU",
+      "slug": "2d-beds-x-dye-depot",
+      "versionId": "IIFnjdff",
+      "versionNumber": "1.0",
+      "filename": "2D Beds x Dye Depot 1.0 (1.20.1 - 1.21.1).zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/SGVw1cOU/versions/IIFnjdff/2D%20Beds%20x%20Dye%20Depot%201.0%20%281.20.1%20-%201.21.1%29.zip",
+      "sha1": "23cee5e9c0606b5e70f6cd5a5381fb49049f97dd",
+      "sha512": "09242dd5180da1da67b858aaac60be5af40c02e70b14fefeb57e204027d786c235302f7250b074ba25e1cb40e4ee88e26b3c48d53abcadf7488b6a828abfa649",
+      "fileSize": 65769
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

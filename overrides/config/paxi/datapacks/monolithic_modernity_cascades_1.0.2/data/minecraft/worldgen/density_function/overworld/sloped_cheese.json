@@ -1,0 +1,124 @@
+{
+  "type": "minecraft:clamp",
+  "min": -1000000,
+  "max": 1.5,
+  "input": {
+    "type": "minecraft:add",
+    "argument1": {
+      "type": "minecraft:mul",
+      "argument1": 4.0,
+      "argument2": {
+        "type": "minecraft:quarter_negative",
+        "argument": {
+          "type": "minecraft:mul",
+          "argument1": {
+            "type": "minecraft:add",
+            "argument1": {
+              "type": "minecraft:add",
+              "argument1": "minecraft:overworld/depth",
+              "argument2": {
+                "type": "minecraft:mul",
+                "argument1": {
+                  "type": "minecraft:cache_2d",
+                  "argument": {
+                    "type": "minecraft:mul",
+                    "argument1": {
+                      "type": "minecraft:clamp",
+                      "min": 0.0,
+                      "max": 1.0,
+                      "input": {
+                        "type": "minecraft:mul",
+                        "argument1": 55.0,
+                        "argument2": {
+                          "type": "minecraft:add",
+                          "argument1": 0.04,
+                          "argument2": {
+                            "type": "minecraft:mul",
+                            "argument1": -1.0,
+                            "argument2": {
+                              "type": "minecraft:abs",
+                              "argument": {
+                                "type": "minecraft:add",
+                                "argument1": "minecraft:overworld/continents",
+                                "argument2": -0.525
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "argument2": {
+                      "type": "minecraft:mul",
+                      "argument1": {
+                        "type": "minecraft:clamp",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "input": {
+                          "type": "minecraft:mul",
+                          "argument1": 2.1,
+                          "argument2": {
+                            "type": "minecraft:add",
+                            "argument1": "minecraft:overworld/ridges_folded",
+                            "argument2": 1.0
+                          }
+                        }
+                      },
+                      "argument2": {
+                        "type": "minecraft:clamp",
+                        "min": 0.0,
+                        "max": 1.0,
+                        "input": {
+                          "type": "minecraft:mul",
+                          "argument1": 4.5,
+                          "argument2": {
+                            "type": "minecraft:add",
+                            "argument1": {
+                              "type": "minecraft:noise",
+                              "noise": "minecraft:jagged",
+                              "xz_scale": 200.0,
+                              "y_scale": 0.0
+                            },
+                            "argument2": -0.15
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "argument2": {
+                  "type": "minecraft:add",
+                  "argument1": 1.0,
+                  "argument2": {
+                    "type": "minecraft:y_clamped_gradient",
+                    "from_y": 215,
+                    "to_y": 240,
+                    "from_value": 0.0,
+                    "to_value": -1.2
+                  }
+                }
+              }
+            },
+            "argument2": {
+              "type": "minecraft:mul",
+              "argument1": "minecraft:overworld/jaggedness",
+              "argument2": {
+                "type": "minecraft:half_negative",
+                "argument": {
+                  "type": "minecraft:cache_2d",
+                  "argument": {
+                    "type": "minecraft:noise",
+                    "noise": "minecraft:jagged",
+                    "xz_scale": 1500.0,
+                    "y_scale": 0.0
+                  }
+                }
+              }
+            }
+          },
+          "argument2": "hybrid_beta:overworld/factor"
+        }
+      }
+    },
+    "argument2": "minecraft:overworld/base_3d_noise"
+  }
+}

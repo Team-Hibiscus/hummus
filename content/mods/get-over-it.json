@@ -1,0 +1,23 @@
+{
+  "name": "Get Over It",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UtdxsEDj",
+      "slug": "get-over-it",
+      "versionId": "6HXqSREX",
+      "versionNumber": "1.0.2",
+      "filename": "getoverit-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UtdxsEDj/versions/6HXqSREX/getoverit-1.0.2.jar",
+      "sha1": "ced08fbcd31a77323a115cf3f749d65f8500c881",
+      "sha512": "e973a2864d136cdc76cd3f0bc7f8f12d57a66e351223e3596b3bac271b8842693e00f1d8771f24086c36d0b4bec02018a39818bcc060808beb2a7e354c020886",
+      "fileSize": 120165
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -18,6 +18,9 @@
     }
   },
   "dependents": [],
+  "optionalDependents": [
+    "naUMeOvG"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

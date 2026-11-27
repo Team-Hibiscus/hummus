@@ -1,0 +1,23 @@
+{
+  "name": "Modded Vintage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "F9RkzQMF",
+      "slug": "modded-vintage",
+      "versionId": "wwKqne3N",
+      "versionNumber": "0.2.1",
+      "filename": "ModdedVintage.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/F9RkzQMF/versions/wwKqne3N/ModdedVintage.zip",
+      "sha1": "1057628b3075b960774d4abbd8b27757c429b533",
+      "sha512": "93ae41e90df369e8f6baa106c87fda8ebae4f67a7793d830efa14122b10232aaf78d0f65041a0af8054b8d255ca691a5f9775f1424442e9b823987ee6188300c",
+      "fileSize": 647913
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

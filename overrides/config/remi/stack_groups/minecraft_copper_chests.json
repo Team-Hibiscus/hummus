@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "minecraft:copper_chests",
+  "tag": "minecraft:copper_chests",
+  "registry": "minecraft:item",
+  "enabled": true
+}

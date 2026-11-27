@@ -1,0 +1,7 @@
+{
+  "swapper": {
+    "ancestral:petrified_log": "darkerdepths:petrified_log",
+    "ancestral:iridescent_petrified_log": "darkerdepths:petrified_log",
+    "minecraft:furnace": "minecraft:stone_bricks"
+  }
+}

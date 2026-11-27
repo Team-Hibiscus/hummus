@@ -1,0 +1,23 @@
+{
+  "name": "Masky Better Clocks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "v5zQEi0c",
+      "slug": "masky-better-clocks",
+      "versionId": "ajCZEyDv",
+      "versionNumber": "1.0",
+      "filename": "Masky Better Clock.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/v5zQEi0c/versions/ajCZEyDv/Masky%20Better%20Clock.zip",
+      "sha1": "059e01cf0138901a167b7a295fb8c5ee5d6da5ce",
+      "sha512": "13e532c508f515a6d7d2ffb30451b55dd951f6e5d2c12e8a9047520a76e9be255692794f9248e9911424e1fd39432a7e98ebb66d79222931c3db589e340ad65f",
+      "fileSize": 45431
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

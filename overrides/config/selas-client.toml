@@ -52,19 +52,19 @@
 		#Selas starts fading from day brightness into night brightness.
 		# Default: 11800
 		# Range: 0 ~ 23999
-		dusk_transition_start_tick = 11500
+		dusk_transition_start_tick = 11700
 		#Full Selas night begins.
 		# Default: 14000
 		# Range: 0 ~ 23999
-		full_night_start_tick = 14000
+		full_night_start_tick = 14100
 		#Full Selas night starts fading into dawn.
 		# Default: 21600
 		# Range: 0 ~ 23999
-		full_night_end_tick = 21600
+		full_night_end_tick = 22500
 		#Dawn fade ends after midnight wraps back to day tick 0.
 		# Default: 400
 		# Range: 0 ~ 23999
-		dawn_transition_end_tick = 700
+		dawn_transition_end_tick = 500
 
 	#Moon and weather values.
 	[natural_darkness.natural_light]

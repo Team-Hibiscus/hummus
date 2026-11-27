@@ -24,5 +24,6 @@
   "showJeiToast": true,
   "showJeiChatMessages": true,
   "reloadAfterRemoval": false,
-  "blacklistedItems": []
+  "blacklistedItems": [
+  ]
 }

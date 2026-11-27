@@ -1,0 +1,23 @@
+{
+  "name": "Cloud Layers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QcR2Ww1K",
+      "slug": "cloud-layers",
+      "versionId": "BlQIY6t1",
+      "versionNumber": "2.1",
+      "filename": "cloud_layers-neoforge-1.21-2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QcR2Ww1K/versions/BlQIY6t1/cloud_layers-neoforge-1.21-2.1.jar",
+      "sha1": "84ae4929a1aa3539c73df1de4b4a6d6150a2ac73",
+      "sha512": "fc2e34cedf840eaeb6d51307572e9bd73baeacb07771b08709a79f3a4bb8f08a12d0efc9c2f680239dc3496f631d92eea47a4f7665459b7d81a48c561840bd57",
+      "fileSize": 99830
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

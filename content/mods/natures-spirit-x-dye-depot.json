@@ -1,0 +1,17 @@
+{
+  "name": "Nature's Spirit x Dye Depot",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1823123",
+      "slug": "",
+      "versionId": "9747757"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

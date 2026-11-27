@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "minecraft:minecraft_block_lanterns",
+  "tag": "minecraft:lanterns",
+  "registry": "minecraft:block",
+  "enabled": true
+}

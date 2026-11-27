@@ -1,0 +1,23 @@
+{
+  "name": "Slime Minibiome",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ttdzhXgG",
+      "slug": "slime-minibiome",
+      "versionId": "pzIZEMvW",
+      "versionNumber": "1.21.1-1.1.0",
+      "filename": "slimebiome-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ttdzhXgG/versions/pzIZEMvW/slimebiome-1.1.0.jar",
+      "sha1": "a4f13d490c86306c55ec4de30f700618aefd088f",
+      "sha512": "cae8a78654322e50566806300d56520b9a6383da797036653a4492fdfe5c738754012338954c59efdc6efc9582e948343c05f8654cba535beebc03f7f90d06c9",
+      "fileSize": 45417
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

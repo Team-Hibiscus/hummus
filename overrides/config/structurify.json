@@ -1,12 +1,84 @@
 {
   "config_version": "2.0.43",
-  "config_datetime": "2026-11-17_02-59-26",
+  "config_datetime": "2026-11-26_14-15-16",
   "general": {
     "enable_global_spacing_and_separation_modifier": true,
     "global_spacing_and_separation_modifier": 1.4
   },
   "structure_namespaces": [],
   "structures": [
+    {
+      "name": "minecraft:abandoned_camp_bamboo_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_birch_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_cherry_grove",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_dappled_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_flower_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_meadow",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_old_growth_birch_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_old_growth_pine_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_old_growth_spruce_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_pale_garden",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_snowy_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_sparse_jungle",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_swamp",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_windswept_forest",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:abandoned_camp_wooded_badlands",
+      "is_disabled": true
+    },
     {
       "name": "minecraft:desert_pyramid",
       "is_disabled": true
@@ -45,6 +117,10 @@
     },
     {
       "name": "minecraft:village_taiga",
+      "is_disabled": true
+    },
+    {
+      "name": "ancestral:bandit_camp",
       "is_disabled": true
     },
     {
@@ -355,6 +431,34 @@
   ],
   "structure_sets": [
     {
+      "name": "ancestral:bandit_camp",
+      "is_disabled": true
+    },
+    {
+      "name": "ancestral:relic_ruin",
+      "spacing": 40,
+      "separation": 15,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "ancestral:slumbering_sanctuary",
+      "spacing": 54,
+      "separation": 18,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "ancestral:underground_chamber",
+      "spacing": 25,
+      "separation": 12,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
+      "name": "ancestral:valley_ruin",
+      "spacing": 54,
+      "separation": 12,
+      "override_global_spacing_and_separation_modifier": true
+    },
+    {
       "name": "darkerdepths:catacombs_set",
       "is_disabled": true
     },
@@ -525,10 +629,6 @@
     {
       "name": "the_beyond:jump_platform_end",
       "override_global_spacing_and_separation_modifier": true
-    },
-    {
-      "name": "ancestral:bandit_camp",
-      "is_disabled": true
     }
   ],
   "structure_template_pools": []

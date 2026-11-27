@@ -35,6 +35,17 @@
         "is_blockitem": true
       }
     },
+    "/(?<ns>[^:]+):(?<stem>.+?)_leaves/": {
+      "shapes": [
+        "everycomp:q/${ns}/${stem}_leaf_carpet",
+        "everycomp:q/${ns}/${stem}_hedge",
+        "quark:${stem}_leaf_carpet",
+        "quark:${stem}_hedge"
+      ],
+      "conditions": {
+        "is_blockitem": true
+      }
+    },
     "/(?<ns>[^:]+):(?<stem>.+?)_wool/": {
       "shapes": [
         "${ns}:${stem}_carpet"

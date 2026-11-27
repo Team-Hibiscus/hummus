@@ -3,10 +3,10 @@
   "OVERWORLD_CLOUDS_RENDERED": true,
   "NETHER_CLOUDS_RENDERED": false,
   "END_CLOUDS_RENDERED": false,
-  "lastModificationTime": 1794995231097,
+  "lastModificationTime": 1795569597183,
   "CLOUD_COLOR": [
     {
-      "time": 0,
+      "time": 200,
       "color": 16767144
     },
     {
@@ -22,15 +22,15 @@
       "color": 16054008
     },
     {
-      "time": 12000,
+      "time": 11600,
       "color": 16752222
     },
     {
-      "time": 13000,
+      "time": 12000,
       "color": 16757626
     },
     {
-      "time": 14000,
+      "time": 14100,
       "color": 8029864
     },
     {
@@ -38,7 +38,7 @@
       "color": 2764613
     },
     {
-      "time": 22000,
+      "time": 21300,
       "color": 4871802
     },
     {
@@ -89,6 +89,7 @@
     "thunderStrength": 0.4
   },
   "CLOUD_GRID_SIZE": 64,
+  "CLOUD_DISTANCE_CHUNKS": 48,
   "LAYERS": {
     "layers": [
       {
