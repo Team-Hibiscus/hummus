@@ -1,0 +1,20 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:oak_log": "natures_spirit:cypress_log",
+        "minecraft:oak_planks": "natures_spirit:cypress_planks",
+        "minecraft:oak_stairs": "natures_spirit:cypress_stairs",
+        "minecraft:oak_slab": "natures_spirit:cypress_slab",
+        "minecraft:oak_fence": "natures_spirit:cypress_fence",
+        "minecraft:oak_door": "natures_spirit:cypress_door",
+        "minecraft:oak_trapdoor": "natures_spirit:cypress_trapdoor",
+        "minecraft:spruce_planks": "natures_spirit:olive_planks",
+        "minecraft:spruce_stairs": "natures_spirit:olive_stairs",
+        "minecraft:spruce_slab": "natures_spirit:olive_slab",
+        "minecraft:spruce_fence": "natures_spirit:olive_fence"
+      }
+    }
+  ]
+}

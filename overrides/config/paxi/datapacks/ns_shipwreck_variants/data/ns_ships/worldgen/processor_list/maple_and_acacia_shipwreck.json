@@ -1,0 +1,20 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:oak_log": "natures_spirit:maple_log",
+        "minecraft:oak_planks": "natures_spirit:maple_planks",
+        "minecraft:oak_stairs": "natures_spirit:maple_stairs",
+        "minecraft:oak_slab": "natures_spirit:maple_slab",
+        "minecraft:oak_fence": "natures_spirit:maple_fence",
+        "minecraft:oak_door": "natures_spirit:maple_door",
+        "minecraft:oak_trapdoor": "natures_spirit:maple_trapdoor",
+        "minecraft:spruce_planks": "minecraft:acacia_planks",
+        "minecraft:spruce_stairs": "minecraft:acacia_stairs",
+        "minecraft:spruce_slab": "minecraft:acacia_slab",
+        "minecraft:spruce_fence": "minecraft:acacia_fence"
+      }
+    }
+  ]
+}

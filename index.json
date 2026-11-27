@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "8f22c3fcf25918baf0bbfa445ca838679e39a4b7"
     },
     {
       "path": "content/mods/amendments.json",
@@ -795,10 +795,6 @@
     {
       "path": "overrides/config/bettertridents-server.toml",
       "sha1": "440630bad597e32a173b2bc6df9c2c19c81a74e8"
-    },
-    {
-      "path": "overrides/config/bigwater-client.toml",
-      "sha1": "2814c98eb0f943ec6bee79bfafa23a6ab9837021"
     },
     {
       "path": "overrides/config/biometintedice-client.toml",
@@ -1894,7 +1890,7 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/data/nova_structures/worldgen/structure/trident_trial_monument.json",
-      "sha1": "7681edb3a9e425d99671d63958d51ee7591acae5"
+      "sha1": "ce7697d4735aad676b429b8876eef9fe9251d405"
     },
     {
       "path": "overrides/config/paxi/datapacks/cascades/pack.mcmeta",
@@ -3790,7 +3786,47 @@
     },
     {
       "path": "overrides/config/paxi/datapacks/monolithic_modernity_cascades_1.0.2/pack.mcmeta",
-      "sha1": "9f3dce53b597cf6c9d9468c310c3864357212294"
+      "sha1": "21e7bcdc618efb13e38e92a52168f77daf4d4fd9"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/lithostitched/tags/worldgen/processor_list/shipwreck_palettes.json",
+      "sha1": "0906c223f27a311f2ab18b43b805ffa9b5883def"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/cedar_and_coconut_shipwreck.json",
+      "sha1": "5fa71c6a873beb6965ce36e2a10a5ad256a4dba6"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/cypress_and_olive_shipwreck.json",
+      "sha1": "fbd544f0e9f8705894f78ef9faee2481691ee54c"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/ghaf_and_jungle_shipwreck.json",
+      "sha1": "c6ebcc042f6f17d3872fa14b4a5f3bf1e9d4331f"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/joshua_and_saxaul_shipwreck.json",
+      "sha1": "fc2bc2fd34252dbf66b04b896ef7e8b1455c39bd"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/mahogany_and_mangrove_shipwreck.json",
+      "sha1": "eab98356a662d541183d69629df9f5cf18523573"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/maple_and_acacia_shipwreck.json",
+      "sha1": "477c7a7566e3388b12e7e027f59efe82e3256300"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/sugi_and_redwood_shipwreck.json",
+      "sha1": "1ae6ab19b1b32840d29f13c4208f0805331dd85d"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/data/ns_ships/worldgen/processor_list/willow_and_dark_oak_shipwreck.json",
+      "sha1": "50a3d96e9d2085a27f5867dbc38921c52caff113"
+    },
+    {
+      "path": "overrides/config/paxi/datapacks/ns_shipwreck_variants/pack.mcmeta",
+      "sha1": "1af91a5ccb6cd444cf02ecc1042c9f0c797824c1"
     },
     {
       "path": "overrides/config/paxi/datapacks/pathfinder_recipes_module/data/pather_recipes/recipe/badlands_quill.json",

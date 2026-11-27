@@ -1,0 +1,20 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:oak_log": "natures_spirit:mahogany_log",
+        "minecraft:oak_planks": "natures_spirit:mahogany_planks",
+        "minecraft:oak_stairs": "natures_spirit:mahogany_stairs",
+        "minecraft:oak_slab": "natures_spirit:mahogany_slab",
+        "minecraft:oak_fence": "natures_spirit:mahogany_fence",
+        "minecraft:oak_door": "natures_spirit:mahogany_door",
+        "minecraft:oak_trapdoor": "natures_spirit:mahogany_trapdoor",
+        "minecraft:spruce_planks": "minecraft:mangrove_planks",
+        "minecraft:spruce_stairs": "minecraft:mangrove_stairs",
+        "minecraft:spruce_slab": "minecraft:mangrove_slab",
+        "minecraft:spruce_fence": "minecraft:mangrove_fence"
+      }
+    }
+  ]
+}

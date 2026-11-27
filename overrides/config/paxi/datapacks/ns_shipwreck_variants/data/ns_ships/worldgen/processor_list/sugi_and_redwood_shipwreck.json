@@ -1,0 +1,20 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:oak_log": "natures_spirit:sugi_log",
+        "minecraft:oak_planks": "natures_spirit:sugi_planks",
+        "minecraft:oak_stairs": "natures_spirit:sugi_stairs",
+        "minecraft:oak_slab": "natures_spirit:sugi_slab",
+        "minecraft:oak_fence": "natures_spirit:sugi_fence",
+        "minecraft:oak_door": "natures_spirit:sugi_door",
+        "minecraft:oak_trapdoor": "natures_spirit:sugi_trapdoor",
+        "minecraft:spruce_planks": "natures_spirit:redwood_planks",
+        "minecraft:spruce_stairs": "natures_spirit:redwood_stairs",
+        "minecraft:spruce_slab": "natures_spirit:redwood_slab",
+        "minecraft:spruce_fence": "natures_spirit:redwood_fence"
+      }
+    }
+  ]
+}
